@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[523,655][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="true" long-clickable="false" password="false" selected="false" bounds="[544,676][1059,1773]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,676][1059,802]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,707][1017,770]">
+          <node index="0" text="xx pF&#9;&#9;0" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,707][1017,770]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,805][1059,931]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,836][1017,899]">
+          <node index="0" text="xx0 pF&#9;&#9;1" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,836][1017,899]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,934][1059,1060]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,965][1017,1028]">
+          <node index="0" text="x.x nF&#9;&#9;2" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,965][1017,1028]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1063][1059,1189]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1094][1017,1157]">
+          <node index="0" text="xx nF&#9;&#9;3" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1094][1017,1157]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1192][1059,1318]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1223][1017,1286]">
+          <node index="0" text="xx0 nF&#9;&#9;4" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1223][1017,1286]" />
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1321][1059,1447]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1352][1017,1415]">
+          <node index="0" text="x.x µF&#9;&#9;5" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1352][1017,1415]" />
+        </node>
+      </node>
+      <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1450][1059,1576]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1481][1017,1544]">
+          <node index="0" text="xx µF&#9;&#9;6" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1481][1017,1544]" />
+        </node>
+      </node>
+      <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1579][1059,1705]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1610][1017,1673]">
+          <node index="0" text="xx0 µ&#9;&#9;7" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1610][1017,1673]" />
+        </node>
+      </node>
+      <node index="8" text="" resource-id="" class="android.widget.LinearLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1708][1059,1794]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1739][1017,1794]">
+          <node index="0" text="x.x mF&#9;&#9;8" resource-id="android:id/title" class="android.widget.TextView" package="com.ktprograms.ohmsnow" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1739][1017,1794]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

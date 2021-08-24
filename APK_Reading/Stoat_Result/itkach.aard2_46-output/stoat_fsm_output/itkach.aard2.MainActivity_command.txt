@@ -1,0 +1,15 @@
+    576@click(resource-id='android:id/up'):android.widget.ImageView@""
+    577@click(resource-id='android:id/home'):android.widget.ImageView@""
+    578@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   Filter"
+    579@click(content-desc='More options'):android.widget.ImageButton@""
+    580@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    581@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    582@click(className='android.widget.ImageView',instance='5'):android.widget.ImageView@""
+    583@click(className='android.widget.ImageView',instance='6'):android.widget.ImageView@""
+    584@click(className='android.widget.ImageView',instance='7'):android.widget.ImageView@""
+    2773@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"No history"
+    2774@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"No history"
+    18@menu
+    19@back
+    589@scroll(direction='down')
+    590@scroll(direction='up')

@@ -1,0 +1,22 @@
+    1142@click(content-desc='Close navigation drawer'):android.widget.ImageButton@""
+    4453@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Walking Modes"
+    4454@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"You can define your own walking modes like 'Running' or 'Walking' in the preferences. Each walking mode has its own step length."
+    3975@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Training Sessions"
+    4553@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"The training sessions can be used to track your training performance. Each session tracks e.g. the training duration, the walked steps and distance."
+    3993@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Distance Measurement"
+    3994@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"The distance measurement feature allows you to measure the distance between the button press 'Start' and 'Stop'. The data will not be stored after app restarts. To persist the data you can use the training sessions."
+    904@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Correct steps manually"
+    905@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Privacy Info"
+    3602@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"The storage and gps permissions used by Privacy Friendly Pedometer can be managed by the user in Android versions of 6+."
+    922@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Permission: Receive Boot Completed"
+    923@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Permission: Wake Lock"
+    3687@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"is used to keep the CPU awake to count the steps in background."
+    6400@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Pedometer"
+    6401@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Training"
+    6402@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Distance Measurement"
+    6403@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Settings"
+    6404@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Help"
+    6405@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"About"
+    911@back
+    943@scroll(direction='down')
+    944@scroll(direction='up')

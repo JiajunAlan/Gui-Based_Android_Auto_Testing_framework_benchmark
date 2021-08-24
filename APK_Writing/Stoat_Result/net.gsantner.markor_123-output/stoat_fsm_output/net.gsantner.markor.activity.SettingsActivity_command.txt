@@ -1,0 +1,21 @@
+    3898@click(content-desc='Back'):android.widget.ImageButton@""
+    4043@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    4072@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Add completion date"
+    4073@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Add completion date for todos when marking them as done"
+    4074@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4075@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    4076@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Tasks with today's date"
+    4077@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Insert the current date when starting a new task"
+    4078@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4079@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    4080@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Append contexts and projects"
+    4081@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Append contexts and projects at the end of a task when using the appropriate text action"
+    4082@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4083@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    4084@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Action order"
+    4085@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    4086@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Additional contexts and projects"
+    4087@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Enter space-separated @contexts and +projects. These will always be visible at todo.txt insert dialogs."
+    3919@back
+    3920@scroll(direction='down')
+    3921@scroll(direction='up')

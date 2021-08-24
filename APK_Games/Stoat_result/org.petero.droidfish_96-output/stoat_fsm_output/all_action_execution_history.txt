@@ -1,0 +1,499 @@
+    6@click(resource-id='org.petero.droidfish:id/custom2Button'):android.widget.ImageButton@""
+    17@menu
+    60@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Set Color Theme"
+    17@menu
+    53@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    17@menu
+    56@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit Board"
+    83@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit Board"
+    3@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ 2:00"
+    18@back
+    256@keyevent_back
+    257@reset
+    238@click(resource-id='org.petero.droidfish:id/modeButton'):android.widget.ImageButton@""
+    17@menu
+    278@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Play White"
+    234@click(resource-id='org.petero.droidfish:id/custom2Button'):android.widget.ImageButton@""
+    241@clickLong(resource-id='org.petero.droidfish:id/undoButton'):android.widget.ImageButton@""
+    240@click(resource-id='org.petero.droidfish:id/undoButton'):android.widget.ImageButton@""
+    236@click(resource-id='org.petero.droidfish:id/custom1Button'):android.widget.ImageButton@""
+    233@clickLong(resource-id='org.petero.droidfish:id/custom3Button'):android.widget.ImageButton@""
+    17@menu
+    382@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Load game from PGN file"
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    312@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Stockfish 14"
+    243@clickLong(resource-id='org.petero.droidfish:id/redoButton'):android.widget.ImageButton@""
+    242@click(resource-id='org.petero.droidfish:id/redoButton'):android.widget.ImageButton@""
+    232@click(resource-id='org.petero.droidfish:id/custom3Button'):android.widget.ImageButton@""
+    237@clickLong(resource-id='org.petero.droidfish:id/custom1Button'):android.widget.ImageButton@""
+    230@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Stockfish"
+    235@clickLong(resource-id='org.petero.droidfish:id/custom2Button'):android.widget.ImageButton@""
+    548@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Engine Options"
+    562@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    310@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Player"
+    250@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Manage Chess Engines"
+    547@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Select Engine"
+    617@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"CuckooChess"
+    239@clickLong(resource-id='org.petero.droidfish:id/modeButton'):android.widget.ImageButton@""
+    276@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Analysis Mode"
+    621@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"CuckooChess"
+    310@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Player"
+    688@click(className='android.widget.Button',instance='0'):android.widget.Button@"White"
+    244@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    231@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ 2:00"
+    440@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Resign game"
+    229@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"■ 2:00"
+    677@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"New Game"
+    690@click(className='android.widget.Button',instance='2'):android.widget.Button@"Black"
+    621@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"CuckooChess"
+    248@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"File"
+    844@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Load position from file"
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    17@menu
+    18@back
+    813@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"B00: King's pawn openingBook:e5:34 c5:21 e6:13 c6:10 d5:8 Nf6:8 d6:5"
+    1081@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ -0:41"
+    442@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Claim/Offer/Accept Draw"
+    229@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"■ 2:00"
+    246@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Set Engine Strength"
+    1182@edit(resource-id='org.petero.droidfish:id/strength_edittext'):android.widget.EditText@"1500"
+    1183@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    621@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"CuckooChess"
+    253@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"About / Help"
+    18@back
+    1156@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ -0:46"
+    441@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Force Computer Move"
+    1281@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ -0:58"
+    1299@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"□ -1:00"
+    1333@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"B00: King's pawn opening"
+    229@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"■ 2:00"
+    247@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit Board"
+    1381@click(resource-id='org.petero.droidfish:id/white_pieces'):android.widget.TextView@""
+    1386@back
+    239@clickLong(resource-id='org.petero.droidfish:id/modeButton'):android.widget.ImageButton@""
+    277@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Edit/re-play Game"
+    1427@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"CuckooChess 1.13a9"
+    681@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Select Opening Book"
+    1471@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"<ECO Book>"
+    1429@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Player"
+    1427@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"CuckooChess 1.13a9"
+    238@click(resource-id='org.petero.droidfish:id/modeButton'):android.widget.ImageButton@""
+    280@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Two Players"
+    1537@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"■ 1:57"
+    682@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Manage Chess Engines"
+    613@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Configure Network Engine"
+    1585@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"<New Engine>"
+    1590@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    1585@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"<New Engine>"
+    1588@edit(resource-id='org.petero.droidfish:id/create_network_engine'):android.widget.EditText@""
+    1589@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    1585@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"<New Engine>"
+    1601@edit(resource-id='org.petero.droidfish:id/create_network_engine'):android.widget.EditText@"test"
+    1590@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    1619@edit(resource-id='org.petero.droidfish:id/network_engine_host'):android.widget.EditText@""
+    1622@click(className='android.widget.Button',instance='1'):android.widget.Button@"Delete"
+    689@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    18@back
+    612@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Set options"
+    565@back
+    1651@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"■ 1:30"
+    679@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Edit Board"
+    1383@click(resource-id='org.petero.droidfish:id/black_pieces'):android.widget.TextView@""
+    1394@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Initial Position"
+    1385@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    1736@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    621@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"CuckooChess"
+    245@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"New Game"
+    690@click(className='android.widget.Button',instance='2'):android.widget.Button@"Black"
+    1804@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    234@click(resource-id='org.petero.droidfish:id/custom2Button'):android.widget.ImageButton@""
+    1840@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[11] 0.00 Nf6 Nf3 e6 Nc3 Bb4 Bd2 Nc6 a3 Bd6 Nb5 Be7d:12 1:Nf6 t:4.03 n:116k nps:28877A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    1429@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Player"
+    1876@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.12 Nf6 Nf3 e6 e3 a6 c4 Be7 Nc3 Nc6 a3 h6 Bd3d:12 2:e6 t:6.38 n:181k nps:28371A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    1897@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.12 Nf6 Nf3 e6 e3 a6 c4 Be7 Nc3 Nc6 a3 h6 Bd3d:12 3:c5 t:7.05 n:198k nps:28126A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    1918@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.12 Nf6 Nf3 e6 e3 a6 c4 Be7 Nc3 Nc6 a3 h6 Bd3d:12 3:c5 t:8.06 n:226k nps:28076A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    1427@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"CuckooChess 1.13a9"
+    1960@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.12 Nf6 Nf3 e6 e3 a6 c4 Be7 Nc3 Nc6 a3 h6 Bd3d:12 3:c5 t:10.11 n:275k nps:27204A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    241@clickLong(resource-id='org.petero.droidfish:id/undoButton'):android.widget.ImageButton@""
+    1983@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Auto Backward"
+    2001@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.15 Nf6 Nf3 e6 e3 d5 Nc3 Bb4 Bd2 O-O a3 Bxc3 Bxc3d:13 3:e6 t:18.17 n:503k nps:27714A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    2019@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.15 Nf6 Nf3 e6 e3 d5 Nc3 Bb4 Bd2 O-O a3 Bxc3 Bxc3d:13 3:e6 t:19.17 n:532k nps:27754A40: Queen's pawnBook:Nc6:9 e5:9 b6:9 b5:9 e6:9 g6:9 d6:9 c5:9 Nf6:9 f5:9 d5:9"
+    240@click(resource-id='org.petero.droidfish:id/undoButton'):android.widget.ImageButton@""
+    2055@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[11] 0.14 Nf3 Nc6 d4 e6 e3 Nf6 Bb5 Bd6 Nc3 a6 Bxc6 bxc6d:12 1:Nf3 t:2.01 n:83573 nps:41640Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2073@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6d:13 1:Nf3 t:5.03 n:181k nps:36121Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2091@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6d:13 2:d4 t:6.23 n:213k nps:34270Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2109@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6d:14 1:Nf3 t:10.07 n:317k nps:31508Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2127@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6d:14 1:Nf3 t:12.09 n:372k nps:30777Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2145@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6d:14 1:Nf3 t:13.09 n:401k nps:30642Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    2169@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6 Nxc6 d4 Bxc3 bxc3d:14 1:Nf3 t:17.14 n:511k nps:29826Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    2193@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6 Nxc6 d4 Bxc3 bxc3d:14 1:Nf3 t:20.18 n:591k nps:29329Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2211@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf3 Nc6 Nc3 e6 e4 Bb4 Bb5 Nge7 O-O a6 Bxc6 Nxc6 d4 Bxc3 bxc3d:14 1:Nf3 t:21.19 n:617k nps:29168Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    2235@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.23 Nf3 Nc6 d4 Nf6 d5 Nb4 c4 e6 a3 Na6 Nc3 Bc5d:14 5:e4 t:25.22 n:728k nps:28891Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2253@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.23 Nf3 Nc6 d4 Nf6 d5 Nb4 c4 e6 a3 Na6 Nc3 Bc5d:15 1:Nf3 t:27.23 n:794k nps:29186Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    2281@scroll(direction='up')
+    2280@scroll(direction='down')
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    2323@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    2349@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3d:15 4:d4 t:40.27 n:1603k nps:39822Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    2375@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3d:16 1:Nf3 t:46.30 n:2155k nps:46553Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2395@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3d:16 1:Nf3 t:47.30 n:2243k nps:47429Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2415@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3d:16 1:Nf3 t:49.31 n:2443k nps:49560Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    2441@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.14 Nf3 Nc6 d4 Nf6 Nc3 e6 e4 Bb4 Bd3 Bxc3+ bxc3d:16 1:Nf3 t:53.32 n:2810k nps:52719Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    2467@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:16 2:e4 t:56.33 n:3086k nps:54798Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    2493@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-OBook:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    2519@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    2545@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:69.38 n:4200k nps:60551Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    2571@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:72.41 n:4271k nps:58993Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2591@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:73.42 n:4297k nps:58536Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    2617@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:77.46 n:4407k nps:56900Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    2643@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:80.50 n:4485k nps:55716Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2663@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:81.50 n:4506k nps:55297Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    2689@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:85.53 n:4615k nps:53959Book:b4:5 g3:5 g4:5 h3:5 Nh3:5 Nc3:5 a3:5 a4:5 c3:5 d3:5 e3:5 f3:5 h4:5 Na3:5 b3:5 f4:5 Nf3:5 c4:5 d4:5 e4:5"
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    2281@scroll(direction='up')
+    621@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"CuckooChess"
+    249@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Select Opening Book"
+    1470@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"<Internal Book>"
+    2789@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    2815@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:99.64 n:5066k nps:50850Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2835@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:100.6 n:5126k nps:50936Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2855@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:102.6 n:5278k nps:51422Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2875@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:104.7 n:5456k nps:52139Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    2901@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3d:17 1:Nf3 t:107.7 n:5714k nps:53080Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    2927@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:110.7 n:5986k nps:54094Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2947@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:111.7 n:6067k nps:54331Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2967@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:113.7 n:6265k nps:55115Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2987@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:114.7 n:6360k nps:55462Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    3013@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:118.7 n:6724k nps:56655Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    3039@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:121.7 n:6990k nps:57445Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3059@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.15 Nf3 Nc6 d4 Nf6 Nc3 e6 e3 Bb4 Bd2 Bxc3 Bxc3 Ne4 Bb5 Nxc3 bxc3 O-O Bxc6 dxc6 O-Od:17 1:Nf3 t:122.7 n:7077k nps:57679Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3079@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+ Nbxd7 O-O Bb4 Qd3 Bxc3 Qxc3 O-O Bd2 a6d:17 2:e4 t:125.7 n:7372k nps:58647Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3099@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+ Nbxd7 O-O Bb4 Qd3 Bxc3 Qxc3 O-O Bd2 a6d:17 2:e4 t:126.7 n:7467k nps:58936Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    3125@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:130.7 n:7856k nps:60102Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3145@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:131.7 n:7960k nps:60440Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3165@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:133.7 n:8175k nps:61139Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    3185@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:134.7 n:8268k nps:61374Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    3211@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    3237@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:141.7 n:8890k nps:62723Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    3263@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+d:17 2:e4 t:145.8 n:9034k nps:61970Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    3211@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.16 Nf3 Nf6 Nc3 d5 e3 e6 d4 Be7 Bb5+ Bd7 Bxd7+Book:e4:44 d4:24 c4:16 f4:6 Nf3:6 g3:4"
+    1429@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Player"
+    442@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Claim/Offer/Accept Draw"
+    241@clickLong(resource-id='org.petero.droidfish:id/undoButton'):android.widget.ImageButton@""
+    1981@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Goto Start of Game"
+    232@click(resource-id='org.petero.droidfish:id/custom3Button'):android.widget.ImageButton@""
+    236@click(resource-id='org.petero.droidfish:id/custom1Button'):android.widget.ImageButton@""
+    237@clickLong(resource-id='org.petero.droidfish:id/custom1Button'):android.widget.ImageButton@""
+    3422@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Toggle Headers"
+    237@clickLong(resource-id='org.petero.droidfish:id/custom1Button'):android.widget.ImageButton@""
+    3424@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Toggle Arrows"
+    242@click(resource-id='org.petero.droidfish:id/redoButton'):android.widget.ImageButton@""
+    3491@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[10] 0.18 Nc6 Nc3 e6 e4 Bb4 Bd3 Nge7 O-O Bd6 Re1A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    3517@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[12] 0.16 Nf6 Nc3 Nc6 e4 d6 d4 Bg4 d5 Ne5 Be2 Nxf3+ Bxf3 Bd7A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    3543@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.19 Nf6 Nc3 Nc6 e3 e6 d4 Bb4 Bd2 O-O a3 Be7 Bd3 a6A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2280@scroll(direction='down')
+    3583@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] <=0.18 d5 e3 e6A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    3609@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.13 d5 e3 e6 c4 Nf6 Nc3 Be7 g4 h6 Nd4 dxc4 Bxc4d:14 1:d5 t:22.13 n:1055k nps:47689A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    3635@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] <=0.16 Nf6 Nc3 Nc6 e3 e6 d4 Bb4 Bd2 O-O a3 Be7 Bd3d:14 2:Nf6 t:25.49 n:1357k nps:53260A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    18@back
+    3661@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.08 Nf6 Nc3 Nc6 e3 e6 a3 a6 b4 Bd6 Bd3 Ne5 Nxe5d:15 1:Nf6 t:29.15 n:1702k nps:58400A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    3687@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.08 Nf6 Nc3 Nc6 e3 e6 a3 a6 b4 Bd6 Bd3 Ne5 Nxe5d:15 1:Nf6 t:32.15 n:1965k nps:61145A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    3713@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.08 Nf6 Nc3 Nc6 e3 e6 a3 a6 b4 Bd6 Bd3 Ne5 Nxe5d:15 1:Nf6 t:35.16 n:2212k nps:62928A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    18@back
+    3739@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4d:15 2:d5 t:38.16 n:2479k nps:64964A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    3765@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4d:15 2:d5 t:41.16 n:2747k nps:66754A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    3791@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4d:15 3:e6 t:44.16 n:3028k nps:68578A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3811@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4d:16 1:Nf6 t:48.17 n:3409k nps:70780A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3831@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4d:16 1:Nf6 t:50.18 n:3593k nps:71624A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    3857@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[15] 0.13 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Bd6 c4 dxc4A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    3883@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:16 2:d5 t:57.20 n:4238k nps:74100A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3903@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:16 2:d5 t:58.20 n:4317k nps:74187A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3923@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:16 3:e6 t:61.21 n:4631k nps:75662A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3943@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:67.23 n:5220k nps:77650A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3963@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:68.23 n:5315k nps:77914A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    3983@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:70.23 n:5505k nps:78389A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4003@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:72.24 n:5704k nps:78971A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4023@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:73.24 n:5800k nps:79197A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4043@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:75.24 n:5997k nps:79706A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4063@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:77.25 n:6176k nps:79946A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    17@menu
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    4095@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:81.26 n:6545k nps:80551A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4115@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:83.27 n:6729k nps:80817A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    17@menu
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    4147@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[16] 0.10 Nf6 d4 e6 e3 d5 Nbd2 Nc6 Bd3 a6 c3d:17 1:Nf6 t:87.29 n:7103k nps:81375A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4167@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:90.33 n:7213k nps:79854A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4187@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:91.35 n:7239k nps:79255A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4207@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:93.36 n:7297k nps:78163A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4227@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:95.41 n:7353k nps:77073A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4247@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:96.42 n:7378k nps:76532A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4267@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:98.42 n:7436k nps:75560A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4287@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:99.42 n:7462k nps:75059A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4307@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:101.4 n:7521k nps:74158A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4327@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:102.4 n:7549k nps:73705A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4347@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:104.4 n:7607k nps:72834A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4367@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:106.5 n:7668k nps:72025A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4387@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 2:e6 t:107.5 n:7697k nps:71623A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    17@menu
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    4419@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 3:d5 t:112.5 n:7872k nps:69947A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4439@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 3:d5 t:113.6 n:7914k nps:69697A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    4459@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 3:d5 t:115.6 n:8030k nps:69489A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    17@menu
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    4491@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6d:17 4:d6 t:120.6 n:8439k nps:69993A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    17@menu
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    4523@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[17] 0.10 Nf6 d4 e6 e3 d5 Bd3 Nc6 O-O Be7 Nc3 O-O Bd2 Bd7 Qe2 Nb4 e4 Bd6A04: Reti openingBook:Nf6:35 d5:30 Nc6:17 c5:17"
+    235@clickLong(resource-id='org.petero.droidfish:id/custom2Button'):android.widget.ImageButton@""
+    548@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Engine Options"
+    1645@click(resource-id='org.petero.droidfish:id/eo_value'):android.widget.CheckBox@"OwnBook"
+    1648@click(className='android.widget.Button',instance='1'):android.widget.Button@"Reset"
+    1646@edit(resource-id='org.petero.droidfish:id/eo_value'):android.widget.EditText@"0"
+    1649@click(className='android.widget.Button',instance='2'):android.widget.Button@"OK"
+    233@clickLong(resource-id='org.petero.droidfish:id/custom3Button'):android.widget.ImageButton@""
+    382@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Load game from PGN file"
+    4599@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@".autosave.pgn"
+    4607@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"2. CuckooChess 1.13a9 - Player 2021.08.17 *"
+    4631@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[11] 0.62 Nf3 Nc6 d4 e6 d5 exd5 exd5 Nce7 Nc3 Nf6 Bb5 a6"
+    17@menu
+    2331@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show statistics"
+    4663@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[13] 0.59 Nf3 Nf6 Nc3 d5 e5 Ne4 Bb5+ Nd7 Be2 c6 O-O e6 d4 Nxc3 bxc3d:14 1:Nf3 t:9.01 n:884k nps:98122"
+    17@menu
+    2174@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Truncate variations"
+    4695@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.61 Nf3 Nf6 e5 Nd5 d4 e6 Bd3 Nc6 O-O Ncb4 Bb5 Be7d:15 1:Nf3 t:15.05 n:1317k nps:87510"
+    17@menu
+    2148@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Add Analysis"
+    4727@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.61 Nf3 Nf6 e5 Nd5 d4 e6 Bd3 Nc6 O-O Ncb4 Bb5 Be7d:15 1:Nf3 t:20.11 n:1446k nps:71953"
+    17@menu
+    2149@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Copy to Clipboard"
+    4759@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.61 Nf3 Nf6 e5 Nd5 d4 e6 Bd3 Nc6 O-O Ncb4 Bb5 Be7d:15 1:Nf3 t:25.16 n:1582k nps:62896"
+    17@menu
+    2150@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show whole variations"
+    4791@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.61 Nf3 Nf6 e5 Nd5 d4 e6 Bd3 Nc6 O-O Ncb4 Bb5 Be7 Nc3 Nxc3 bxc3d:15 1:Nf3 t:29.19 n:1699k nps:58212"
+    17@menu
+    2151@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Hide statistics"
+    4823@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[14] 0.61 Nf3 Nf6 e5 Nd5 d4 e6 Bd3 Nc6 O-O Ncb4 Bb5 Be7 Nc3 Nxc3 bxc3"
+    243@clickLong(resource-id='org.petero.droidfish:id/redoButton'):android.widget.ImageButton@""
+    4863@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[10] 0.74 Nf6 Nc3 Nc6 Bb5 Na5 O-O a6 Bd3 e6 e5"
+    4883@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[11] <=0.92 e5 Nc3 Bd6 Bc4 Nc6 O-O Nge7 d4 exd4"
+    4903@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"[11] <=0.91 d6 d4 Nd7 Bd3 Ngf6 O-O"
+    1427@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"CuckooChess 1.13a9"
+    252@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Settings"
+    4967@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4976@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4970@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Hints"
+    4980@click(className='android.widget.TextView',instance='19'):android.widget.TextView@"Show ECO codes"
+    4981@back
+    4968@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Hash Table"
+    5068@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    4975@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"Positive analysis scores are good for white"
+    4969@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Hash table size in megabytes"
+    5105@click(className='android.widget.CheckedTextView',instance='8'):android.widget.CheckedTextView@"4096 MB"
+    4979@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4983@scroll(direction='up')
+    4972@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Display computer algorithm information during search"
+    4959@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Number of moves between time controls"
+    5068@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    4971@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Show Computer Thinking"
+    4960@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Time"
+    5349@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"1 minute"
+    4958@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Moves"
+    5287@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"10 moves"
+    4964@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Engine Settings"
+    4978@click(className='android.widget.TextView',instance='18'):android.widget.TextView@"Display opening book move hints for human player"
+    4957@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Time Control"
+    4973@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    4977@click(className='android.widget.TextView',instance='17'):android.widget.TextView@"Show Book Hints"
+    4962@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Increment"
+    5571@click(className='android.widget.CheckedTextView',instance='8'):android.widget.CheckedTextView@"15s"
+    4974@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"White-based scores"
+    4963@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Extra thinking time for each completed move"
+    5565@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"2s"
+    4965@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Pondering"
+    4961@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Maximum thinking time between time controls"
+    5358@click(className='android.widget.CheckedTextView',instance='9'):android.widget.CheckedTextView@"90 minutes"
+    4982@scroll(direction='down')
+    5740@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Enable this if you think scrolling moves in the wrong direction"
+    5753@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Other"
+    5757@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Opening Book Settings"
+    5827@click(resource-id='org.petero.droidfish:id/seekbar_bar'):android.widget.SeekBar@""
+    5824@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    5823@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Ignore moves marked as not for tournament play"
+    5828@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Book Filename"
+    5875@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    5840@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"49.9%"
+    5892@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    5822@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Tournament mode"
+    5825@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Book Randomization"
+    5819@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Prefer main lines"
+    5829@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Polyglot, ABK or CTG book file in DroidFish directory on SD Card"
+    5873@edit(resource-id='android:id/edit'):android.widget.EditText@"internal:"
+    5874@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    5817@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Book Length"
+    5289@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"30 moves"
+    5821@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    5818@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Maximum book line length"
+    5975@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"15 moves"
+    5820@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Prefer book moves marked as main moves"
+    5817@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Book Length"
+    5979@click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Unlimited"
+    5818@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Maximum book line length"
+    5978@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"50 moves"
+    5840@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"49.9%"

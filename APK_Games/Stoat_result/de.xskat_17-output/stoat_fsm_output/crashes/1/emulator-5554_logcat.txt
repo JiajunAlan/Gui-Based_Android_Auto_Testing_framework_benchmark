@@ -1,0 +1,67 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 7520): FATAL EXCEPTION: main
+E/AndroidRuntime( 7520): Process: de.xskat, PID: 7520
+E/AndroidRuntime( 7520): java.lang.IllegalStateException: Could not execute method of the activity
+E/AndroidRuntime( 7520): 	at android.view.View$1.onClick(View.java:3823)
+E/AndroidRuntime( 7520): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 7520): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 7520): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 7520): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 7520): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 7520): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 7520): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 7520): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 7520): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 7520): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 7520): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 7520): Caused by: java.lang.reflect.InvocationTargetException
+E/AndroidRuntime( 7520): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 7520): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 7520): 	at android.view.View$1.onClick(View.java:3818)
+E/AndroidRuntime( 7520): 	... 11 more
+E/AndroidRuntime( 7520): Caused by: java.lang.ArrayIndexOutOfBoundsException: length=3; index=-1
+E/AndroidRuntime( 7520): 	at de.xskat.XSkat.prot_fun(XSkat.java:7743)
+E/AndroidRuntime( 7520): 	at de.xskat.XSkat.di_proto(XSkat.java:7802)
+E/AndroidRuntime( 7520): 	at de.xskat.XSkat.clickedResultProto(XSkat.java:1076)
+E/AndroidRuntime( 7520): 	at de.xskat.XSkat.clickedOptionsListe(XSkat.java:755)
+E/AndroidRuntime( 7520): 	... 14 more
+***********
+package name: de.xskat
+app code version: 1.7.fdroid
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 540453 Realtime: 540453
+
+** MEMINFO in pid 7520 [de.xskat] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3950     3892        0        0     8372     8238      133
+  Dalvik Heap    17024    16864        0        0    19480    19278      202
+ Dalvik Other     1266     1080        0        0                           
+        Stack       84       84        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1238      520       32        0                           
+    .apk mmap      125        0       24        0                           
+    .ttf mmap        5        0        0        0                           
+    .dex mmap      617       20      176        0                           
+   Other mmap        8        4        0        0                           
+      Unknown       56       56        0        0                           
+        TOTAL    24377    22520      236        0    27852    27516      335
+ 
+ Objects
+               Views:      650         ViewRootImpl:       12
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        9        Proxy Binders:       74
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

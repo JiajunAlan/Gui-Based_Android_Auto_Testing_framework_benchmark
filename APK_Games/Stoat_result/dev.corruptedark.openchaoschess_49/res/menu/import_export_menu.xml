@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/import_file" android:visible="true" android:title="@string/import_file" app:showAsAction="withText" />
+    <item android:id="@id/export_file" android:visible="true" android:title="@string/export_file" app:showAsAction="withText" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,758][1053,1102]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,758][1053,1102]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,758][1053,1102]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,758][1032,1102]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,758][1032,952]">
+            <node index="0" text="" resource-id="android:id/titleDividerTop" class="android.view.View" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,779][1011,784]" />
+            <node index="1" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,784][969,952]">
+              <node index="0" text="Delete 24 notes?" resource-id="android:id/alertTitle" class="android.widget.TextView" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,829][969,907]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,952][1032,1102]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,955][1011,1081]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,955][538,1081]" />
+              <node index="1" text="Delete" resource-id="android:id/button1" class="android.widget.Button" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[541,955][1011,1081]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

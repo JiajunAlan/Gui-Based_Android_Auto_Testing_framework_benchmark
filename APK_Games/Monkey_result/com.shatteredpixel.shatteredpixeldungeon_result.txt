@@ -1,0 +1,258 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626390388936 count=1000
+:AllowPackage: com.shatteredpixel.shatteredpixeldungeon
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(782.0,42.0)
+:Sending Touch (ACTION_UP): 0:(779.3842,70.97682)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(46.0,47.0)
+:Sending Touch (ACTION_UP): 0:(46.243946,45.472916)
+:Sending Touch (ACTION_DOWN): 0:(115.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(101.44584,1638.841)
+:Sending Touch (ACTION_DOWN): 0:(468.0,601.0)
+:Sending Touch (ACTION_UP): 0:(465.44724,602.01935)
+:Sending Touch (ACTION_DOWN): 0:(606.0,217.0)
+:Sending Touch (ACTION_UP): 0:(521.31335,282.5848)
+:Sending Touch (ACTION_DOWN): 0:(22.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(21.966236,1596.6678)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+:Sending Touch (ACTION_DOWN): 0:(419.0,514.0)
+:Sending Touch (ACTION_UP): 0:(421.15152,502.5717)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,246.0)
+:Sending Touch (ACTION_UP): 0:(223.57378,253.32188)
+:Sending Touch (ACTION_DOWN): 0:(516.0,751.0)
+:Sending Touch (ACTION_UP): 0:(514.0579,752.2705)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2021-08-04 01:08:29.290  system_uptime:9121530]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(300.0,1560.0)
+:Sending Touch (ACTION_UP): 0:(265.37665,1581.9556)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(510.0,828.0)
+:Sending Touch (ACTION_UP): 0:(579.6384,876.15045)
+:Sending Touch (ACTION_DOWN): 0:(93.0,695.0)
+:Sending Touch (ACTION_UP): 0:(86.50209,694.6336)
+:Sending Touch (ACTION_DOWN): 0:(751.0,668.0)
+:Sending Touch (ACTION_UP): 0:(763.2813,670.7079)
+:Sending Touch (ACTION_DOWN): 0:(881.0,144.0)
+:Sending Touch (ACTION_UP): 0:(958.1617,213.32181)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(699.0,354.0)
+:Sending Touch (ACTION_UP): 0:(677.89905,375.71613)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2021-08-04 01:08:38.435  system_uptime:9130659]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(882.0,264.0)
+:Sending Touch (ACTION_UP): 0:(816.4659,279.02826)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(1041.0535,1458.3306)
+:Sending Touch (ACTION_DOWN): 0:(853.0,293.0)
+:Sending Touch (ACTION_UP): 0:(845.08765,288.5361)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(426.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(425.76886,1462.2307)
+:Sending Touch (ACTION_DOWN): 0:(271.0,921.0)
+:Sending Touch (ACTION_UP): 0:(267.39932,922.4764)
+:Sending Touch (ACTION_DOWN): 0:(307.0,1269.0)
+:Sending Touch (ACTION_UP): 0:(411.0706,1285.7813)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1488.0)
+:Sending Touch (ACTION_UP): 0:(199.16663,1494.191)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(649.0,390.0)
+:Sending Touch (ACTION_UP): 0:(560.3709,480.39825)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(282.0,497.0)
+    //[calendar_time:2021-08-04 01:08:46.544  system_uptime:9138768]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(365.0463,539.17474)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,50.0)
+:Sending Touch (ACTION_UP): 0:(432.09683,171.68425)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1632.0)
+:Sending Touch (ACTION_UP): 0:(679.7613,1623.9803)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(826.0,220.0)
+:Sending Touch (ACTION_UP): 0:(838.29047,220.05255)
+:Sending Touch (ACTION_DOWN): 0:(589.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(595.2414,1023.0824)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2021-08-04 01:09:01.242  system_uptime:9153466]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(553.0,973.0)
+:Sending Touch (ACTION_UP): 0:(557.21265,974.9929)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,743.0)
+:Sending Touch (ACTION_UP): 0:(1005.5247,747.56396)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(1002.66595,1074.679)
+:Sending Touch (ACTION_DOWN): 0:(6.0,620.0)
+:Sending Touch (ACTION_UP): 0:(0.0,584.4881)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(0.0,969.0)
+:Sending Touch (ACTION_UP): 0:(0.0,910.50525)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1052.5306)
+:Sending Touch (ACTION_DOWN): 0:(631.0,779.0)
+:Sending Touch (ACTION_UP): 0:(643.41,786.6705)
+    //[calendar_time:2021-08-04 01:09:14.431  system_uptime:9166655]
+    // Sending event #500
+    //[calendar_time:2021-08-04 01:09:14.932  system_uptime:9167156]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,733.0)
+:Sending Touch (ACTION_UP): 0:(424.3172,734.5917)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(914.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(923.971,1180.8666)
+:Sending Touch (ACTION_DOWN): 0:(161.0,852.0)
+:Sending Touch (ACTION_UP): 0:(97.82788,947.5355)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(1001.8815,1253.65)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(219.95425,1269.5836)
+:Sending Touch (ACTION_DOWN): 0:(668.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(674.5783,1562.3798)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(730.0,13.0)
+:Sending Touch (ACTION_UP): 0:(723.03625,24.289438)
+:Sending Touch (ACTION_DOWN): 0:(857.0,510.0)
+:Sending Touch (ACTION_UP): 0:(851.5685,523.43463)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(834.71063,1120.7074)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(365.84464,1608.3141)
+:Sending Touch (ACTION_DOWN): 0:(72.0,506.0)
+:Sending Touch (ACTION_UP): 0:(82.90033,487.27982)
+:Sending Touch (ACTION_DOWN): 0:(588.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(574.1901,1263.7217)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(801.0,864.0)
+:Sending Touch (ACTION_UP): 0:(801.9499,858.2839)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-04 01:09:28.728  system_uptime:9180952]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(561.0,533.0)
+:Sending Touch (ACTION_UP): 0:(560.9389,536.63184)
+:Sending Touch (ACTION_DOWN): 0:(219.0,894.0)
+:Sending Touch (ACTION_UP): 0:(220.91246,900.58215)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(870.1414,1314.7001)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(361.0,849.0)
+:Sending Touch (ACTION_UP): 0:(291.79492,824.4137)
+:Sending Touch (ACTION_DOWN): 0:(720.0,803.0)
+:Sending Touch (ACTION_UP): 0:(728.8917,813.82166)
+:Sending Touch (ACTION_DOWN): 0:(93.0,897.0)
+:Sending Touch (ACTION_UP): 0:(90.08728,904.2226)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+:Sending Touch (ACTION_DOWN): 0:(251.0,477.0)
+:Sending Touch (ACTION_UP): 0:(271.09375,478.33157)
+:Sending Touch (ACTION_DOWN): 0:(278.0,149.0)
+:Sending Touch (ACTION_UP): 0:(286.33054,165.36261)
+:Sending Touch (ACTION_DOWN): 0:(680.0,858.0)
+:Sending Touch (ACTION_UP): 0:(663.86005,882.1798)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2021-08-04 01:09:37.897  system_uptime:9190121]
+    // Sending event #700
+    //[calendar_time:2021-08-04 01:09:38.399  system_uptime:9190623]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(44.0,836.0)
+:Sending Touch (ACTION_UP): 0:(31.26939,839.37994)
+:Sending Touch (ACTION_DOWN): 0:(435.0,493.0)
+:Sending Touch (ACTION_UP): 0:(442.3798,482.99124)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(958.0,122.0)
+:Sending Touch (ACTION_UP): 0:(917.68494,84.340096)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(713.3916,1781.3625)
+:Sending Touch (ACTION_DOWN): 0:(336.0,800.0)
+:Sending Touch (ACTION_UP): 0:(339.1935,779.94055)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(533.4553,1775.352)
+:Sending Touch (ACTION_DOWN): 0:(844.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(849.45374,1260.8406)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2021-08-04 01:09:51.529  system_uptime:9203753]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(668.0749,1323.0447)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(906.14044,1771.7992)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(643.0,55.0)
+:Sending Touch (ACTION_UP): 0:(650.885,12.153241)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+:Sending Touch (ACTION_DOWN): 0:(205.0,87.0)
+:Sending Touch (ACTION_UP): 0:(220.37366,104.81589)
+:Sending Touch (ACTION_DOWN): 0:(713.0,953.0)
+:Sending Touch (ACTION_UP): 0:(711.01514,952.6024)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+:Sending Touch (ACTION_DOWN): 0:(773.0,1789.0)
+    //[calendar_time:2021-08-04 01:10:01.730  system_uptime:9213954]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(758.5337,1700.8333)
+:Sending Touch (ACTION_DOWN): 0:(650.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(627.6441,1618.0337)
+:Sending Touch (ACTION_DOWN): 0:(335.0,426.0)
+:Sending Touch (ACTION_UP): 0:(313.35513,439.213)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(615.62915,1339.7058)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(312.33875,1371.0576)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(830.0,136.0)
+:Sending Touch (ACTION_UP): 0:(793.14514,157.60312)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=115878ms (0ms mobile, 0ms wifi, 115878ms not connected)
+// Monkey finished

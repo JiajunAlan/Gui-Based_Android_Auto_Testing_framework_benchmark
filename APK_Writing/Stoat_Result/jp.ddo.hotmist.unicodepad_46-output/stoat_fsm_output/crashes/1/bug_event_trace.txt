@@ -1,0 +1,95 @@
+scroll(direction='down')@
+menu@
+click(className='android.widget.CheckedTextView',instance='0')@Default
+click(className='android.widget.Button',instance='4')@U+0000
+back@
+click(className='android.widget.Button',instance='3')@Share
+keyevent_back@
+clickLong(content-desc='Setting')@
+edit(resource-id='jp.ddo.hotmist.unicodepad:id/text')@
+click(className='android.widget.TextView',instance='8')@U+0000 Basic Latin
+click(className='android.widget.TextView',instance='3')@U+0180 Latin Extended-B
+click(className='android.widget.TextView',instance='3')@Default
+click(className='android.widget.CheckedTextView',instance='1')@Select…
+keyevent_back@
+click(content-desc='Setting')@
+click(className='android.widget.TextView',instance='14')@Padding of grid
+back@
+click(className='android.widget.TextView',instance='7')@Appearance
+click(className='android.widget.TextView',instance='17')@8
+click(className='android.widget.CheckedTextView',instance='5')@32
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='9')@Dark
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='0')@General
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@Use EmojiCompat to show emojis
+click(className='android.widget.CheckedTextView',instance='2')@For all emoji glyphs
+click(className='android.widget.TextView',instance='8')@Theme
+click(className='android.widget.CheckedTextView',instance='1')@Light
+click(className='android.widget.TextView',instance='17')@32
+click(className='android.widget.CheckedTextView',instance='2')@4
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='16')@Columns in grid
+click(className='android.widget.CheckedTextView',instance='1')@2
+click(className='android.widget.TextView',instance='5')@Download Noto fonts…
+keyevent_back@
+click(className='android.widget.TextView',instance='13')@24.0
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='15')@4
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='4')@For all emoji glyphs
+click(className='android.widget.CheckedTextView',instance='1')@Only for missing glyphs
+click(className='android.widget.TextView',instance='10')@Opt-out ads
+scroll(direction='down')@
+keyevent_back@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='6')@Only in landscape
+click(className='android.widget.CheckedTextView',instance='0')@Never
+click(className='android.widget.TextView',instance='0')@Show font metrics in large view
+click(className='android.widget.TextView',instance='4')@Show clear button
+click(className='android.widget.TextView',instance='10')@UnicodePad 2.9.1
+keyevent_back@
+click(className='android.widget.Button',instance='1')@Detail
+click(className='android.widget.TextView',instance='6')@Emoji
+click(className='android.widget.Button',instance='2')@Copy
+clickLong(className='android.widget.TextView',instance='3')@Default
+click(className='android.widget.CheckedTextView',instance='0')@Default
+click(resource-id='jp.ddo.hotmist.unicodepad:id/clear')@
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='0')@Default
+click(resource-id='jp.ddo.hotmist.unicodepad:id/delete')@
+click(text='Modifier')@Modifier
+click(className='android.widget.TextView',instance='6')@Find
+click(className='android.widget.Button',instance='0')@Paste
+click(className='android.widget.ImageButton',instance='0')@
+edit(className='android.widget.EditText',instance='1')@Enter a character name
+scroll(direction='down')@
+menu@
+click(className='android.widget.CheckedTextView',instance='0')@Default
+click(className='android.widget.TextView',instance='4')@Emoji
+click(className='android.widget.TextView',instance='4')@List
+scroll(direction='up')@
+back@
+click(className='android.widget.Button',instance='4')@U+0180
+click(className='android.widget.Button',instance='16')@Search
+click(className='android.widget.TextView',instance='4')@Recent
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='1')@Select…
+keyevent_back@
+click(className='android.widget.TextView',instance='5')@List
+click(className='android.widget.TextView',instance='8')@U+0180 Latin Extended-B
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='2')@U+11400 Newa
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='0')@U+0000 Basic Latin
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='1')@U+0080 Latin-1 Supplement
+click(className='android.widget.TextView',instance='7')@Mark
+scroll(direction='down')@

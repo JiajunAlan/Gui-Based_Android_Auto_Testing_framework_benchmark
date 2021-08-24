@@ -1,0 +1,10 @@
+click(resource-id='de.xskat:id/cardStichLeft')@
+click(resource-id='de.xskat:id/playVMHLeft')@
+click(resource-id='de.xskat:id/card7')@
+click(resource-id='de.xskat:id/card9')@
+click(resource-id='android:id/home')@
+click(resource-id='de.xskat:id/card8')@
+click(resource-id='de.xskat:id/card5')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Optionen
+click(className='android.widget.Button',instance='12')@Protokoll

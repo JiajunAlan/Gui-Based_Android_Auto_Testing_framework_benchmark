@@ -1,0 +1,256 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(17446): FATAL EXCEPTION: main
+E/AndroidRuntime(17446): Process: nds.fyll.puzzle_grid, PID: 17446
+E/AndroidRuntime(17446): java.lang.RuntimeException: Unable to start activity ComponentInfo{nds.fyll.puzzle_grid/nds.fyll.puzzle_grid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17446): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17446): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17446): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17446): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17446): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17446): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17446): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17446): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17446): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17446): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17446): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17446): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17446): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17446): 	at io.flutter.embedding.engine.f.c.a()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.android.e.k()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.android.e.a()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.android.d.onCreate()
+E/AndroidRuntime(17446): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17446): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17446): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17446): 	... 11 more
+E/AndroidRuntime(17446): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17446): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17446): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17446): 	... 20 more
+E/AndroidRuntime(17446): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17446): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17446): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17446): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17446): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17446): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17446): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17446): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17446): 	at java.lang.Thread.run(Thread.java:841)
+E/WindowManager( 1566): Starting window AppWindowToken{9da80c10 token=Token{9d3ef2d8 ActivityRecord{9d3ef178 u0 nds.fyll.puzzle_grid/.MainActivity t89}}} timed out
+E/AndroidRuntime(17491): FATAL EXCEPTION: main
+E/AndroidRuntime(17491): Process: nds.fyll.puzzle_grid, PID: 17491
+E/AndroidRuntime(17491): java.lang.RuntimeException: Unable to start activity ComponentInfo{nds.fyll.puzzle_grid/nds.fyll.puzzle_grid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17491): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17491): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17491): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17491): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17491): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17491): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17491): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17491): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17491): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17491): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17491): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17491): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17491): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17491): 	at io.flutter.embedding.engine.f.c.a()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.android.e.k()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.android.e.a()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.android.d.onCreate()
+E/AndroidRuntime(17491): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17491): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17491): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17491): 	... 11 more
+E/AndroidRuntime(17491): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17491): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17491): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17491): 	... 20 more
+E/AndroidRuntime(17491): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17491): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17491): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17491): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17491): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17491): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17491): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17491): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17491): 	at java.lang.Thread.run(Thread.java:841)
+E/AndroidRuntime(17534): FATAL EXCEPTION: main
+E/AndroidRuntime(17534): Process: nds.fyll.puzzle_grid, PID: 17534
+E/AndroidRuntime(17534): java.lang.RuntimeException: Unable to start activity ComponentInfo{nds.fyll.puzzle_grid/nds.fyll.puzzle_grid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17534): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17534): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17534): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17534): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17534): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17534): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17534): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17534): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17534): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17534): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17534): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17534): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17534): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17534): 	at io.flutter.embedding.engine.f.c.a()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.android.e.k()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.android.e.a()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.android.d.onCreate()
+E/AndroidRuntime(17534): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17534): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17534): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17534): 	... 11 more
+E/AndroidRuntime(17534): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17534): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17534): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17534): 	... 20 more
+E/AndroidRuntime(17534): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17534): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17534): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17534): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17534): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17534): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17534): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17534): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17534): 	at java.lang.Thread.run(Thread.java:841)
+E/AndroidRuntime(17590): FATAL EXCEPTION: main
+E/AndroidRuntime(17590): Process: nds.fyll.puzzle_grid, PID: 17590
+E/AndroidRuntime(17590): java.lang.RuntimeException: Unable to start activity ComponentInfo{nds.fyll.puzzle_grid/nds.fyll.puzzle_grid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17590): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17590): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17590): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17590): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17590): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17590): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17590): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17590): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17590): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17590): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17590): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17590): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17590): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17590): 	at io.flutter.embedding.engine.f.c.a()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.android.e.k()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.android.e.a()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.android.d.onCreate()
+E/AndroidRuntime(17590): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17590): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17590): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17590): 	... 11 more
+E/AndroidRuntime(17590): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17590): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17590): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17590): 	... 20 more
+E/AndroidRuntime(17590): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17590): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17590): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17590): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17590): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17590): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17590): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17590): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17590): 	at java.lang.Thread.run(Thread.java:841)
+E/AndroidRuntime(17636): FATAL EXCEPTION: main
+E/AndroidRuntime(17636): Process: nds.fyll.puzzle_grid, PID: 17636
+E/AndroidRuntime(17636): java.lang.RuntimeException: Unable to start activity ComponentInfo{nds.fyll.puzzle_grid/nds.fyll.puzzle_grid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17636): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17636): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17636): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17636): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17636): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17636): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17636): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17636): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17636): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17636): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17636): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17636): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17636): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17636): 	at io.flutter.embedding.engine.f.c.a()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.android.e.k()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.android.e.a()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.android.d.onCreate()
+E/AndroidRuntime(17636): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17636): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17636): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17636): 	... 11 more
+E/AndroidRuntime(17636): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17636): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17636): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17636): 	... 20 more
+E/AndroidRuntime(17636): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nds.fyll.puzzle_grid-1.apk"],nativeLibraryDirectories=[/data/app-lib/nds.fyll.puzzle_grid-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17636): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17636): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17636): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17636): 	at io.flutter.embedding.engine.f.c$a.call()
+E/AndroidRuntime(17636): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17636): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17636): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17636): 	at java.lang.Thread.run(Thread.java:841)
+E/ActivityThread(23224): Performing pause of activity that is not resumed: {org.billthefarmer.diary/org.billthefarmer.diary.Diary}
+E/ActivityThread(23224): java.lang.RuntimeException: Performing pause of activity that is not resumed: {org.billthefarmer.diary/org.billthefarmer.diary.Diary}
+E/ActivityThread(23224): 	at android.app.ActivityThread.performPauseActivity(ActivityThread.java:3029)
+E/ActivityThread(23224): 	at android.app.ActivityThread.performPauseActivity(ActivityThread.java:3017)
+E/ActivityThread(23224): 	at android.app.ActivityThread.handlePauseActivity(ActivityThread.java:2995)
+E/ActivityThread(23224): 	at android.app.ActivityThread.access$1000(ActivityThread.java:135)
+E/ActivityThread(23224): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1207)
+E/ActivityThread(23224): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/ActivityThread(23224): 	at android.os.Looper.loop(Looper.java:136)
+E/ActivityThread(23224): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/ActivityThread(23224): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/ActivityThread(23224): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/ActivityThread(23224): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/ActivityThread(23224): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/ActivityThread(23224): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(27184): FATAL EXCEPTION: main
+E/AndroidRuntime(27184): Process: org.billthefarmer.editor, PID: 27184
+E/AndroidRuntime(27184): java.lang.RuntimeException: Unable to start activity ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}: java.lang.NullPointerException
+E/AndroidRuntime(27184): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(27184): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(27184): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(27184): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(27184): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(27184): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(27184): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(27184): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(27184): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(27184): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(27184): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(27184): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(27184): Caused by: java.lang.NullPointerException
+E/AndroidRuntime(27184): 	at org.billthefarmer.editor.Editor.onCreate(Editor.java:495)
+E/AndroidRuntime(27184): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(27184): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(27184): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(27184): 	... 11 more
+E/WindowManager( 1566): Starting window AppWindowToken{9d8a73d0 token=Token{9d480d68 ActivityRecord{9d480c08 u0 org.billthefarmer.editor/.Editor t102}}} timed out
+E/AndroidRuntime(27233): FATAL EXCEPTION: main
+E/AndroidRuntime(27233): Process: org.billthefarmer.editor, PID: 27233
+E/AndroidRuntime(27233): java.lang.RuntimeException: Unable to start activity ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}: java.lang.NullPointerException
+E/AndroidRuntime(27233): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(27233): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(27233): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(27233): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(27233): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(27233): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(27233): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(27233): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(27233): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(27233): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(27233): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(27233): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(27233): Caused by: java.lang.NullPointerException
+E/AndroidRuntime(27233): 	at org.billthefarmer.editor.Editor.onCreate(Editor.java:495)
+E/AndroidRuntime(27233): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(27233): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(27233): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(27233): 	... 11 more

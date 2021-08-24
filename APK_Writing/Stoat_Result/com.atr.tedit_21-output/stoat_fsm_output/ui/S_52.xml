@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.android.browser:id/vertical_layout" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="1" text="" resource-id="com.android.browser:id/fixed_titlebar_container" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,228]">
+            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,228]">
+              <node index="0" text="" resource-id="com.android.browser:id/titlebar" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,228]">
+                <node index="0" text="" resource-id="com.android.browser:id/taburlbar" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,203]">
+                  <node index="0" text="" resource-id="com.android.browser:id/title_bg" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,66][1059,203]">
+                    <node index="0" text="" resource-id="com.android.browser:id/magnify" class="android.widget.ImageView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[25,92][141,176]" />
+                    <node index="1" text="12tps://www.inventati.org/1337gallery" resource-id="com.android.browser:id/url" class="android.widget.EditText" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[141,66][940,203]" />
+                    <node index="2" text="" resource-id="com.android.browser:id/clear" class="android.widget.ImageView" package="com.android.browser" content-desc="Clear input" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[940,66][1056,203]" />
+                  </node>
+                </node>
+                <node index="1" text="" resource-id="com.android.browser:id/progress" class="android.widget.ImageView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,175][1080,228]" />
+              </node>
+            </node>
+          </node>
+          <node index="2" text="" resource-id="com.android.browser:id/main_content" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,203][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,203][1080,1794]">
+              <node index="0" text="" resource-id="com.android.browser:id/webview_wrapper" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,203][1080,1794]">
+                <node index="0" text="" resource-id="" class="android.view.View" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="true" long-clickable="false" password="false" selected="false" bounds="[0,203][1037,1730]" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

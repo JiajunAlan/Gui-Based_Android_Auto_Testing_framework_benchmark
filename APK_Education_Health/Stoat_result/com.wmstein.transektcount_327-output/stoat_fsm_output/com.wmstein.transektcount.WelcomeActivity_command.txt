@@ -1,0 +1,18 @@
+    42@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    43@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    44@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    45@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Reset Data"
+    46@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    47@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Import Basic DB"
+    48@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    49@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Export Basic DB"
+    50@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    51@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Import DB"
+    52@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    53@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Export current DB"
+    54@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    55@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Export Data -> CSV File"
+    2@menu
+    3@back
+    1199@scroll(direction='down')
+    1200@scroll(direction='up')

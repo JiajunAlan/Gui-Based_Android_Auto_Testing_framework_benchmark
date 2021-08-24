@@ -1,0 +1,17 @@
+digraph graphtest {
+  S_1 -> S_1  [ label="@2"] ;
+  S_1 -> S_1  [ label="@3"] ;
+  S_1 -> S_4  [ label="@1"] ;
+  S_1 -> S_1  [ label="@64"] ;
+  S_1 -> S_1  [ label="@6"] ;
+  S_1 -> S_1  [ label="@72"] ;
+  S_1 -> S_1  [ label="@76"] ;
+  S_1 -> EMPTY_APP_STATE  [ style=dotted,label="@4"] ;
+  S_4 -> EMPTY_APP_STATE  [ style=dotted,label="@4"] ;
+  S_4 -> S_4  [ label="@13"] ;
+  S_4 -> S_10  [ label="@14"] ;
+  S_10 -> S_10  [ label="@31"] ;
+  S_10 -> S_10  [ label="@33"] ;
+  S_10 -> S_10  [ label="@32"] ;
+  S_10 -> S_1  [ label="@34"] ;
+}

@@ -1,0 +1,26 @@
+digraph graphtest {
+  S_1 -> S_2  [ label="@2"] ;
+  S_1 -> S_1  [ label="@5"] ;
+  S_1 -> S_2  [ label="@4"] ;
+  S_1 -> S_1  [ label="@1"] ;
+  S_1 -> EMPTY_APP_STATE  [ style=dotted,label="@6"] ;
+  S_1 -> S_1  [ label="@3"] ;
+  S_1 -> S_1  [ label="@45"] ;
+  S_1 -> S_1  [ label="@51"] ;
+  S_1 -> S_1  [ label="@29"] ;
+  S_1 -> S_1  [ label="@117"] ;
+  S_1 -> S_1  [ label="@123"] ;
+  S_1 -> S_1  [ label="@129"] ;
+  S_1 -> S_1  [ label="@147"] ;
+  S_1 -> S_1  [ label="@157"] ;
+  S_1 -> S_1  [ label="@163"] ;
+  S_1 -> S_1  [ label="@169"] ;
+  S_1 -> S_1  [ label="@409"] ;
+  S_1 -> S_1  [ label="@427"] ;
+  S_1 -> S_1  [ label="@691"] ;
+  S_1 -> S_1  [ label="@1057"] ;
+  S_2 -> S_1  [ label="@7"] ;
+  S_2 -> S_1  [ label="@21"] ;
+  S_2 -> S_1  [ label="@22"] ;
+  S_2 -> S_1  [ label="@8"] ;
+}

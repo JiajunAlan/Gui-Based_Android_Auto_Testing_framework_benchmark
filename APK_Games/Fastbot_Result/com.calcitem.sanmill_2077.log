@@ -1,0 +1,18 @@
+[1629391258488] *** Inject event ***
+[1629391258490] :Sending Touch (ACTION_DOWN): 0:(405.0,950.5)
+[1629391258491] :Sending Touch (ACTION_UP): 0:(405.0,950.5)
+[1629391258495] Sleep for 0 ms
+[1629391258495] Sleep for 500 ms
+[1629391258998] Events injected : 1669
+[1629391258998] // Monkey is over!
+[1629391258998] :Sending rotation degree : 0, persist : false
+[1629391259023] Total app activities:
+[1629391259023]    1 io.flutter.plugins.urllauncher.WebViewActivity
+[1629391259023]    2 com.calcitem.sanmill.MainActivity
+[1629391259023] Explored app activities:
+[1629391259024]    1 com.calcitem.sanmill.MainActivity
+[1629391259024] Acitity of Coverage: 50.0%
+[1629391259024] Activity of Times:
+[1629391259024] com.calcitem.sanmill.MainActivity    185
+:Dropped : keys=0 pointers=8 trackballs=0 flips=0 rotations=0
+[1629391259033] // Monkey finished

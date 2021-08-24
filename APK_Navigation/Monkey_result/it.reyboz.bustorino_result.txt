@@ -1,0 +1,272 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626397424760 count=1000
+:AllowPackage: it.reyboz.bustorino
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(668.0,1058.0)
+:Sending Touch (ACTION_UP): 0:(665.6658,1067.8702)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(753.0,864.0)
+:Sending Touch (ACTION_UP): 0:(747.79834,867.9546)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    // activityResuming(com.google.android.gms)
+    // Rejecting resume of package com.google.android.gms
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    // activityResuming(com.google.android.gms)
+    // Rejecting resume of package com.google.android.gms
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(113.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(153.67354,1021.08936)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,576.0)
+:Sending Touch (ACTION_UP): 0:(296.86157,528.50146)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(919.0,642.0)
+:Sending Touch (ACTION_UP): 0:(922.6403,629.27814)
+:Sending Touch (ACTION_DOWN): 0:(708.0,287.0)
+:Sending Touch (ACTION_UP): 0:(695.22864,290.834)
+    //[calendar_time:2021-08-04 03:01:59.024  system_uptime:15931266]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(841.0,457.0)
+:Sending Touch (ACTION_UP): 0:(841.0662,440.2423)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+    // activityResuming(it.reyboz.bustorino)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(974.0,728.0)
+:Sending Touch (ACTION_UP): 0:(1001.0397,774.4786)
+:Sending Touch (ACTION_DOWN): 0:(407.0,619.0)
+:Sending Touch (ACTION_UP): 0:(420.9051,615.3987)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(337.0,787.0)
+:Sending Touch (ACTION_UP): 0:(323.64606,761.57025)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+    // activityResuming(it.reyboz.bustorino)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2021-08-04 03:02:10.800  system_uptime:15943024]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(646.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(645.26575,1365.9637)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(745.34717,1609.334)
+:Sending Touch (ACTION_DOWN): 0:(694.0,190.0)
+:Sending Touch (ACTION_UP): 0:(677.95593,193.40869)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(666.0,858.0)
+:Sending Touch (ACTION_UP): 0:(686.21387,861.36926)
+    // activityResuming(it.reyboz.bustorino)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(176.0,1752.0)
+:Sending Touch (ACTION_UP): 0:(174.01137,1749.2792)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(520.0062,1297.2662)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(16.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(21.463089,1542.333)
+    //[calendar_time:2021-08-04 03:02:25.943  system_uptime:15958166]
+    // Sending event #300
+    //[calendar_time:2021-08-04 03:02:26.444  system_uptime:15958668]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(526.0,828.0)
+:Sending Touch (ACTION_UP): 0:(539.4522,830.51733)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(269.41107,1741.0541)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1731.0)
+:Sending Touch (ACTION_UP): 0:(898.1313,1762.8691)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(472.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(469.7259,1646.3635)
+:Sending Touch (ACTION_DOWN): 0:(83.0,1673.0)
+:Sending Touch (ACTION_UP): 0:(87.30542,1679.7867)
+:Sending Touch (ACTION_DOWN): 0:(601.0,1650.0)
+:Sending Touch (ACTION_UP): 0:(593.18713,1653.5457)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+    //[calendar_time:2021-08-04 03:02:41.932  system_uptime:15974156]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,738.0)
+:Sending Touch (ACTION_UP): 0:(417.5237,739.4984)
+    // activityResuming(it.reyboz.bustorino)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(381.0,377.0)
+:Sending Touch (ACTION_UP): 0:(389.24747,376.98026)
+:Sending Touch (ACTION_DOWN): 0:(249.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(268.5944,1084.3885)
+:Sending Touch (ACTION_DOWN): 0:(635.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(648.35254,1660.3197)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(645.92706,1514.2198)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1047.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(1061.3191,1750.9581)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(451.54208,1347.936)
+:Sending Touch (ACTION_DOWN): 0:(76.0,124.0)
+:Sending Touch (ACTION_UP): 0:(111.57357,104.82007)
+:Sending Touch (ACTION_DOWN): 0:(272.0,960.0)
+    //[calendar_time:2021-08-04 03:02:54.456  system_uptime:15986680]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(291.94702,925.2507)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,965.0)
+:Sending Touch (ACTION_UP): 0:(718.4943,970.91296)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(373.94574,1286.5276)
+:Sending Touch (ACTION_DOWN): 0:(862.0,671.0)
+:Sending Touch (ACTION_UP): 0:(864.7418,630.35504)
+:Sending Touch (ACTION_DOWN): 0:(763.0,195.0)
+:Sending Touch (ACTION_UP): 0:(753.9573,210.37083)
+:Sending Touch (ACTION_DOWN): 0:(949.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(918.9429,1508.5378)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(893.19995,1060.1514)
+:Sending Touch (ACTION_DOWN): 0:(658.0,882.0)
+:Sending Touch (ACTION_UP): 0:(613.8404,853.9075)
+    //[calendar_time:2021-08-04 03:03:07.620  system_uptime:15999843]
+    // Sending event #600
+    //[calendar_time:2021-08-04 03:03:08.122  system_uptime:16000346]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(450.0,947.0)
+:Sending Touch (ACTION_UP): 0:(440.51666,956.5483)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(424.0,956.0)
+:Sending Touch (ACTION_UP): 0:(423.91696,964.2603)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(671.0,543.0)
+:Sending Touch (ACTION_UP): 0:(650.8158,542.51917)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2021-08-04 03:03:16.861  system_uptime:16009084]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,986.0)
+:Sending Touch (ACTION_UP): 0:(672.4132,977.85223)
+:Sending Touch (ACTION_DOWN): 0:(840.0,693.0)
+:Sending Touch (ACTION_UP): 0:(856.92694,682.1278)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(943.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(959.76654,1634.0336)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1006.0)
+:Sending Touch (ACTION_UP): 0:(55.46733,1013.67957)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(663.041,1485.014)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(75.89179,1167.4125)
+:Sending Touch (ACTION_DOWN): 0:(149.0,728.0)
+:Sending Touch (ACTION_UP): 0:(149.19434,728.0385)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(827.6645,1246.3945)
+    //[calendar_time:2021-08-04 03:03:30.541  system_uptime:16022765]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(32.0,511.0)
+:Sending Touch (ACTION_UP): 0:(35.482338,509.063)
+:Sending Touch (ACTION_DOWN): 0:(922.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(922.1815,1365.4084)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    // activityResuming(com.google.android.gms)
+    // Rejecting resume of package com.google.android.gms
+:Sending Touch (ACTION_DOWN): 0:(886.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(884.88654,1178.6864)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(2.0,1727.0)
+:Sending Touch (ACTION_UP): 0:(69.35834,1717.7926)
+:Sending Touch (ACTION_DOWN): 0:(507.0,789.0)
+:Sending Touch (ACTION_UP): 0:(492.42682,795.2651)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(232.89542,1330.5938)
+:Sending Touch (ACTION_DOWN): 0:(593.0,786.0)
+:Sending Touch (ACTION_UP): 0:(585.8316,784.7073)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(1058.3335,1416.7515)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(769.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(756.7036,1508.5859)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2021-08-04 03:03:44.812  system_uptime:16037036]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(160.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(159.67966,1780.1624)
+:Sending Touch (ACTION_DOWN): 0:(344.0,1041.0)
+:Sending Touch (ACTION_UP): 0:(341.37256,1039.9297)
+:Sending Touch (ACTION_DOWN): 0:(930.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(923.7013,1474.4583)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(642.0,49.0)
+:Sending Touch (ACTION_UP): 0:(551.94763,0.0)
+:Sending Touch (ACTION_DOWN): 0:(222.0,345.0)
+:Sending Touch (ACTION_UP): 0:(223.74332,347.87903)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+:Sending Flip keyboardOpen=false
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(328.0,674.0)
+:Sending Touch (ACTION_UP): 0:(332.91495,668.10547)
+:Sending Touch (ACTION_DOWN): 0:(363.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(369.37372,1761.354)
+    // activityResuming(it.reyboz.bustorino)
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Touch (ACTION_DOWN): 0:(914.0,986.0)
+:Sending Touch (ACTION_UP): 0:(873.683,975.8708)
+:Sending Touch (ACTION_DOWN): 0:(607.0,824.0)
+:Sending Touch (ACTION_UP): 0:(631.78815,766.5774)
+:Sending Touch (ACTION_DOWN): 0:(94.0,80.0)
+:Sending Touch (ACTION_UP): 0:(87.089005,95.1773)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=it.reyboz.bustorino/.ActivityPrincipal;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=it.reyboz.bustorino/.ActivityPrincipal } in package it.reyboz.bustorino
+    // Allowing start of Intent { cmp=it.reyboz.bustorino/org.acra.dialog.CrashReportDialog } in package it.reyboz.bustorino
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=131872ms (0ms mobile, 0ms wifi, 131872ms not connected)
+// Monkey finished

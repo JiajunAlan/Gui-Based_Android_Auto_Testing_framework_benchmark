@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[710,539][1059,707]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[731,560][1038,686]">
+      <node index="0" text="---" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[731,560][1038,686]" />
+    </node>
+  </node>
+</hierarchy>

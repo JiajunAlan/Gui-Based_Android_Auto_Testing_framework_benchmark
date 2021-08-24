@@ -1,0 +1,1104 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626392409685 count=1000
+:AllowPackage: fr.odrevet.kingdomino_score_count
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20707)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20723)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20741)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(433.0,1125.0)
+:Sending Touch (ACTION_UP): 0:(433.87186,1137.5654)
+:Sending Touch (ACTION_DOWN): 0:(533.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(551.1875,1059.8374)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(223.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(239.89807,1341.1456)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(83.94025,1329.9691)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(222.0,116.0)
+:Sending Touch (ACTION_UP): 0:(217.0163,118.51311)
+    //[calendar_time:2021-08-04 01:37:49.484  system_uptime:10881726]
+    // Sending event #100
+    //[calendar_time:2021-08-04 01:37:50.004  system_uptime:10882228]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(995.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(986.6721,1513.5864)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(554.0,617.0)
+:Sending Touch (ACTION_UP): 0:(556.88464,617.24524)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1595.0)
+:Sending Touch (ACTION_UP): 0:(1010.5917,1580.1526)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(748.9199,1275.8596)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20800)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20815)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20833)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(381.0,713.0)
+:Sending Touch (ACTION_UP): 0:(381.4036,714.42426)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(231.23878,1786.0469)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(428.0,55.0)
+:Sending Touch (ACTION_UP): 0:(408.95926,73.053734)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(1064.667,1158.57)
+:Sending Touch (ACTION_DOWN): 0:(764.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(758.20984,1088.8359)
+:Sending Touch (ACTION_DOWN): 0:(422.0,435.0)
+:Sending Touch (ACTION_UP): 0:(426.397,440.57785)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(378.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(388.4836,1130.5072)
+    //[calendar_time:2021-08-04 01:38:05.786  system_uptime:10898009]
+    // Sending event #200
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(315.0,566.0)
+:Sending Touch (ACTION_UP): 0:(348.5469,595.5537)
+:Sending Touch (ACTION_DOWN): 0:(801.0,490.0)
+:Sending Touch (ACTION_UP): 0:(803.7292,490.08176)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(665.0,337.0)
+:Sending Touch (ACTION_UP): 0:(665.4612,336.05597)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(238.25685,1532.8083)
+:Sending Touch (ACTION_DOWN): 0:(844.0,545.0)
+:Sending Touch (ACTION_UP): 0:(842.1811,545.05005)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,948.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,917.6095)
+:Sending Touch (ACTION_DOWN): 0:(119.0,191.0)
+:Sending Touch (ACTION_UP): 0:(105.728615,184.06972)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(534.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(528.1722,1747.5018)
+:Sending Touch (ACTION_DOWN): 0:(584.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(566.07526,1721.0216)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(540.8521,1230.9813)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20928)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20943)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 20961)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+    //[calendar_time:2021-08-04 01:38:17.492  system_uptime:10909715]
+    // Sending event #300
+    //[calendar_time:2021-08-04 01:38:17.994  system_uptime:10910218]
+    // Sending event #300
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(874.69794,1495.442)
+:Sending Touch (ACTION_DOWN): 0:(376.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(389.8615,1691.5773)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(699.0,166.0)
+:Sending Touch (ACTION_UP): 0:(703.24994,166.13933)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(5.0,889.0)
+:Sending Touch (ACTION_UP): 0:(16.647198,890.0847)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,104.0)
+:Sending Touch (ACTION_UP): 0:(320.06158,75.31204)
+:Sending Touch (ACTION_DOWN): 0:(504.0,639.0)
+:Sending Touch (ACTION_UP): 0:(431.85986,557.94525)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21009)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21024)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21042)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(1035.8558,1325.0255)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2021-08-04 01:38:27.168  system_uptime:10919392]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21074)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21089)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21105)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(573.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(580.13965,1276.2817)
+:Sending Touch (ACTION_DOWN): 0:(38.0,391.0)
+:Sending Touch (ACTION_UP): 0:(5.3511944,392.44168)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1035.0,268.0)
+:Sending Touch (ACTION_UP): 0:(1060.0026,287.5668)
+:Sending Touch (ACTION_DOWN): 0:(463.0,425.0)
+:Sending Touch (ACTION_UP): 0:(462.7649,432.93582)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(296.0,311.0)
+:Sending Touch (ACTION_UP): 0:(370.5025,457.08917)
+:Sending Touch (ACTION_DOWN): 0:(765.0,1683.0)
+:Sending Touch (ACTION_UP): 0:(762.4265,1693.953)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(813.0,478.0)
+:Sending Touch (ACTION_UP): 0:(805.261,455.19577)
+:Sending Touch (ACTION_DOWN): 0:(422.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(420.23636,1210.7114)
+:Sending Touch (ACTION_DOWN): 0:(317.0,803.0)
+:Sending Touch (ACTION_UP): 0:(307.68915,803.7639)
+    //[calendar_time:2021-08-04 01:38:37.559  system_uptime:10929783]
+    // Sending event #500
+    //[calendar_time:2021-08-04 01:38:38.062  system_uptime:10930285]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(453.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(452.16687,1082.3394)
+:Sending Touch (ACTION_DOWN): 0:(288.0,992.0)
+:Sending Touch (ACTION_UP): 0:(284.76584,992.1003)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(239.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(264.81857,1610.4722)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(299.24722,1772.9563)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(76.64641,1354.8643)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1407.0)
+:Sending Touch (ACTION_UP): 0:(635.656,1419.7742)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,827.0)
+:Sending Touch (ACTION_UP): 0:(900.94617,840.5068)
+:Sending Touch (ACTION_DOWN): 0:(787.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(789.46405,1369.4167)
+:Sending Touch (ACTION_DOWN): 0:(382.0,914.0)
+:Sending Touch (ACTION_UP): 0:(345.56555,891.7979)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2021-08-04 01:38:49.238  system_uptime:10941461]
+    // Sending event #600
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(23.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(140.2971,1385.2705)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(840.0,939.0)
+:Sending Touch (ACTION_UP): 0:(823.92145,940.81134)
+:Sending Touch (ACTION_DOWN): 0:(91.0,580.0)
+:Sending Touch (ACTION_UP): 0:(84.39064,600.7679)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,105.0)
+:Sending Touch (ACTION_UP): 0:(304.27597,96.6763)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(154.0,536.0)
+:Sending Touch (ACTION_UP): 0:(153.27345,535.2891)
+:Sending Touch (ACTION_DOWN): 0:(665.0,788.0)
+:Sending Touch (ACTION_UP): 0:(737.07587,704.2893)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2021-08-04 01:39:00.976  system_uptime:10953199]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(235.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(244.38445,1277.4309)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(414.12094,1696.7037)
+:Sending Touch (ACTION_DOWN): 0:(911.0,567.0)
+:Sending Touch (ACTION_UP): 0:(912.5589,567.0338)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1694.0)
+:Sending Touch (ACTION_UP): 0:(952.61096,1662.381)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(730.3617,1590.8729)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(952.0,646.0)
+    //[calendar_time:2021-08-04 01:39:12.189  system_uptime:10964412]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(996.83453,651.16)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(552.0,409.0)
+:Sending Touch (ACTION_UP): 0:(492.67526,374.07324)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(1077.4877,1054.1802)
+:Sending Touch (ACTION_DOWN): 0:(759.0,459.0)
+:Sending Touch (ACTION_UP): 0:(752.47363,465.1151)
+:Sending Touch (ACTION_DOWN): 0:(787.0,674.0)
+:Sending Touch (ACTION_UP): 0:(797.69525,664.5202)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(729.0,851.0)
+:Sending Touch (ACTION_UP): 0:(773.8137,885.5423)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2021-08-04 01:39:25.382  system_uptime:10977605]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(176.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(182.18033,1089.596)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(694.0,398.0)
+:Sending Touch (ACTION_UP): 0:(738.8302,363.86008)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(967.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(934.09827,1294.3367)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.odrevet.kingdomino_score_count/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.odrevet.kingdomino_score_count/.MainActivity } in package fr.odrevet.kingdomino_score_count
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21277)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21292)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: fr.odrevet.kingdomino_score_count (pid 21310)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{fr.odrevet.kingdomino_score_count/fr.odrevet.kingdomino_score_count.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/fr.odrevet.kingdomino_score_count-1.apk"],nativeLibraryDirectories=[/data/app-lib/fr.odrevet.kingdomino_score_count-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(206.0,536.0)
+:Sending Touch (ACTION_UP): 0:(205.67021,538.89185)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(517.0,1147.0)
+:Sending Touch (ACTION_UP): 0:(503.12323,1167.1014)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(820.0,136.0)
+:Sending Touch (ACTION_UP): 0:(890.7048,120.04845)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(826.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(838.0316,1354.7164)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(153.0,11.0)
+:Sending Touch (ACTION_UP): 0:(206.6994,39.392906)
+:Sending Touch (ACTION_DOWN): 0:(376.0,1253.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=122478ms (0ms mobile, 0ms wifi, 122478ms not connected)
+// Monkey finished

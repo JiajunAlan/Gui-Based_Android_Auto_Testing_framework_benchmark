@@ -1,0 +1,20 @@
+[1629393209713] Events injected : 881
+[1629393209713] // Monkey is over!
+[1629393209713] :Sending rotation degree : 0, persist : false
+[1629393209742] Total app activities:
+[1629393209743]    1 com.picross.nonocross.GameActivity
+[1629393209743]    2 com.picross.nonocross.LevelSelectActivity
+[1629393209743]    3 com.picross.nonocross.MainActivity
+[1629393209743]    4 com.picross.nonocross.SettingsActivity
+[1629393209743] Explored app activities:
+[1629393209743]    1 com.picross.nonocross.GameActivity
+[1629393209743]    2 com.picross.nonocross.LevelSelectActivity
+[1629393209743]    3 com.picross.nonocross.MainActivity
+[1629393209743]    4 com.picross.nonocross.SettingsActivity
+[1629393209743] Acitity of Coverage: 100.0%
+[1629393209743] Activity of Times:
+[1629393209743] com.picross.nonocross.GameActivity     41
+[1629393209743] com.picross.nonocross.LevelSelectActivity     17
+[1629393209743] com.picross.nonocross.SettingsActivity     33
+[1629393209743] com.picross.nonocross.MainActivity     92
+:Dropped : keys=0 pointers=0 trackballs=0 flips=0 rotations=0

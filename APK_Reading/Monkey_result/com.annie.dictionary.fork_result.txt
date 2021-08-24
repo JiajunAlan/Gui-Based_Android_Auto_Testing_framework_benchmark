@@ -1,0 +1,331 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626399442080 count=1000
+:AllowPackage: com.annie.dictionary.fork
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(640.0,114.0)
+:Sending Touch (ACTION_UP): 0:(561.5791,25.791153)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://madman-team.blogspot.com/2015/05/qdict-guide.html cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(240.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(298.15588,1145.5022)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(596.4281,1355.0865)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Touch (ACTION_DOWN): 0:(569.0,6.0)
+:Sending Touch (ACTION_UP): 0:(563.9541,17.81419)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2021-08-04 03:39:22.796  system_uptime:18175042]
+    // Sending event #100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(665.0,12.0)
+:Sending Touch (ACTION_UP): 0:(617.1595,50.44307)
+:Sending Touch (ACTION_DOWN): 0:(659.0,634.0)
+:Sending Touch (ACTION_UP): 0:(667.23474,634.5059)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://madman-team.blogspot.com/2015/05/qdict-guide.html cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(159.0,239.0)
+:Sending Touch (ACTION_UP): 0:(158.80997,219.9087)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(151.0,729.0)
+:Sending Touch (ACTION_UP): 0:(163.57813,727.1569)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Touch (ACTION_DOWN): 0:(246.0,276.0)
+:Sending Touch (ACTION_UP): 0:(238.85742,296.24435)
+:Sending Touch (ACTION_DOWN): 0:(780.0,600.0)
+:Sending Touch (ACTION_UP): 0:(774.3448,603.528)
+:Sending Touch (ACTION_DOWN): 0:(560.0,841.0)
+:Sending Touch (ACTION_UP): 0:(561.92065,828.48236)
+:Sending Touch (ACTION_DOWN): 0:(741.0,946.0)
+:Sending Touch (ACTION_UP): 0:(792.1039,1024.6428)
+    //[calendar_time:2021-08-04 03:39:37.176  system_uptime:18189400]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(101.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(81.05611,1045.5908)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(925.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(934.9903,1475.38)
+:Sending Touch (ACTION_DOWN): 0:(879.0,852.0)
+:Sending Touch (ACTION_UP): 0:(848.49475,868.00464)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(631.465,1417.1256)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(767.0,1428.0)
+:Sending Touch (ACTION_UP): 0:(768.1033,1429.9713)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(722.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(722.599,1720.3663)
+:Sending Touch (ACTION_DOWN): 0:(343.0,1182.0)
+    //[calendar_time:2021-08-04 03:39:44.870  system_uptime:18197093]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(344.2199,1120.2592)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(885.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(884.3006,1695.362)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(624.0,494.0)
+:Sending Touch (ACTION_UP): 0:(673.843,546.1282)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+// CRASH: com.annie.dictionary.fork (pid 6945)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: onClick [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method onClick(View) in the activity class androidx.appcompat.widget.s0 for onClick handler on view class com.mmt.widget.QButton with id 'action_share'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View.onKeyUp(View.java:8241)
+// 	at android.widget.TextView.onKeyUp(TextView.java:5628)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2664)
+// 	at android.view.View.dispatchKeyEvent(View.java:7665)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at com.android.internal.policy.impl.PhoneWindow$DecorView.superDispatchKeyEvent(PhoneWindow.java:2035)
+// 	at com.android.internal.policy.impl.PhoneWindow.superDispatchKeyEvent(PhoneWindow.java:1505)
+// 	at b.g.l.d.a()
+// 	at b.g.l.d.a()
+// 	at androidx.core.app.e.dispatchKeyEvent()
+// 	at androidx.appcompat.app.e.dispatchKeyEvent()
+// 	at b.a.n.i.dispatchKeyEvent()
+// 	at androidx.appcompat.app.h$k.dispatchKeyEvent()
+// 	at b.a.n.i.dispatchKeyEvent()
+// 	at com.android.internal.policy.impl.PhoneWindow$DecorView.dispatchKeyEvent(PhoneWindow.java:1962)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:3852)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3826)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3558)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:3718)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2010)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1704)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1695)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:1987)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:138)
+// 	at android.os.Looper.loop(Looper.java:123)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: onClick [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 55 more
+// 
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(114.0,569.0)
+:Sending Touch (ACTION_UP): 0:(86.58603,631.9407)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(417.84402,1779.1775)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(425.0,690.0)
+:Sending Touch (ACTION_UP): 0:(422.504,687.0532)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.development_settings/android.app.AliasActivity } in package com.android.development_settings
+:Sending Touch (ACTION_DOWN): 0:(133.0,629.0)
+:Sending Touch (ACTION_UP): 0:(120.85125,612.6506)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.customlocale2/.CustomLocaleActivity } in package com.android.customlocale2
+:Sending Touch (ACTION_DOWN): 0:(549.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(532.71515,1448.368)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2021-08-04 03:39:55.040  system_uptime:18207264]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,806.0)
+:Sending Touch (ACTION_UP): 0:(385.26093,802.0856)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Touch (ACTION_DOWN): 0:(749.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(772.3087,1147.2924)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(734.1167,1164.0963)
+:Sending Touch (ACTION_DOWN): 0:(575.0,158.0)
+:Sending Touch (ACTION_UP): 0:(586.0695,157.51637)
+:Sending Touch (ACTION_DOWN): 0:(755.0,804.0)
+:Sending Touch (ACTION_UP): 0:(750.7677,814.8247)
+:Sending Touch (ACTION_DOWN): 0:(386.0,166.0)
+:Sending Touch (ACTION_UP): 0:(399.90366,164.42972)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(95.424324,1115.0138)
+:Sending Touch (ACTION_DOWN): 0:(918.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(948.9063,1506.0723)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2021-08-04 03:40:07.860  system_uptime:18220084]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(10.0,534.0)
+:Sending Touch (ACTION_UP): 0:(9.638089,524.9184)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1738.0)
+:Sending Touch (ACTION_UP): 0:(445.96143,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(397.24033,1040.3163)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(972.99457,1030.9978)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(680.58386,1124.8981)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(738.2112,1017.51666)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(584.30164,1155.2565)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2021-08-04 03:40:18.051  system_uptime:18230275]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(1002.47797,1690.997)
+:Sending Touch (ACTION_DOWN): 0:(943.0,1403.0)
+:Sending Touch (ACTION_UP): 0:(845.25476,1451.5825)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(120.0,104.0)
+:Sending Touch (ACTION_UP): 0:(113.86398,117.59406)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(740.0,727.0)
+:Sending Touch (ACTION_UP): 0:(706.0953,794.7596)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2021-08-04 03:40:30.281  system_uptime:18242504]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,444.0)
+:Sending Touch (ACTION_UP): 0:(1073.5629,435.37143)
+:Sending Touch (ACTION_DOWN): 0:(937.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(933.7887,1771.4326)
+:Sending Touch (ACTION_DOWN): 0:(685.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(684.12427,1010.77484)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.annie.dictionary.fork/com.annie.dictionary.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.annie.dictionary.fork/com.annie.dictionary.MainActivity } in package com.annie.dictionary.fork
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(1004.3794,1283.688)
+:Sending Touch (ACTION_DOWN): 0:(291.0,969.0)
+:Sending Touch (ACTION_UP): 0:(288.44116,973.2915)
+:Sending Touch (ACTION_DOWN): 0:(648.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(631.6305,1267.8162)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(609.04846,1416.3037)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,860.0)
+:Sending Touch (ACTION_UP): 0:(1046.9707,863.22864)
+:Sending Touch (ACTION_DOWN): 0:(556.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(568.32025,1550.1935)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,734.0)
+:Sending Touch (ACTION_UP): 0:(899.52155,700.9548)
+:Sending Touch (ACTION_DOWN): 0:(998.0,704.0)
+:Sending Touch (ACTION_UP): 0:(1006.8972,734.26263)
+:Sending Touch (ACTION_DOWN): 0:(463.0,1631.0)
+    //[calendar_time:2021-08-04 03:40:45.465  system_uptime:18257689]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(449.48914,1629.0651)
+:Sending Touch (ACTION_DOWN): 0:(921.0,138.0)
+:Sending Touch (ACTION_UP): 0:(909.1624,158.33156)
+:Sending Touch (ACTION_DOWN): 0:(876.0,334.0)
+:Sending Touch (ACTION_UP): 0:(848.5082,234.46242)
+:Sending Touch (ACTION_DOWN): 0:(456.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(445.40582,1511.0885)
+:Sending Touch (ACTION_DOWN): 0:(842.0,368.0)
+:Sending Touch (ACTION_UP): 0:(840.81573,375.84497)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(650.0,117.0)
+:Sending Touch (ACTION_UP): 0:(523.76276,143.31854)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(309.0,72.0)
+:Sending Touch (ACTION_UP): 0:(302.8594,83.06859)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(277.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(275.87097,1328.4502)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1512.0)
+    //[calendar_time:2021-08-04 03:40:53.632  system_uptime:18265856]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(1080.0,1511.2213)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(1025.321,1127.0394)
+:Sending Touch (ACTION_DOWN): 0:(200.0,601.0)
+:Sending Touch (ACTION_UP): 0:(205.22629,604.32135)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(430.0662,1144.1003)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(552.0,844.0)
+:Sending Touch (ACTION_UP): 0:(546.58954,838.46344)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(1006.0145,1233.8363)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(194.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(173.11667,1672.9647)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(289.0,334.0)
+:Sending Touch (ACTION_UP): 0:(280.87033,302.03915)
+:Sending Touch (ACTION_DOWN): 0:(57.0,213.0)
+:Sending Touch (ACTION_UP): 0:(57.073753,214.19325)
+:Sending Touch (ACTION_DOWN): 0:(454.0,367.0)
+:Sending Touch (ACTION_UP): 0:(453.53235,363.46704)
+:Sending Touch (ACTION_DOWN): 0:(385.0,55.0)
+:Sending Touch (ACTION_UP): 0:(385.05807,48.65949)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=113454ms (0ms mobile, 0ms wifi, 113454ms not connected)
+// Monkey finished

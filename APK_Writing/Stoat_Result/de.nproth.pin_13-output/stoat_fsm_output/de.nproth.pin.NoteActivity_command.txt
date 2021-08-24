@@ -1,0 +1,8 @@
+    1@click(resource-id='de.nproth.pin:id/note_pin_background'):android.widget.ImageButton@""
+    2@edit(resource-id='de.nproth.pin:id/note_input_field'):android.widget.EditText@"Your note"
+    93@click(className='android.widget.Button',instance='0'):android.widget.Button@"6:00"
+    94@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"6:00"
+    5@click(resource-id='de.nproth.pin:id/note_save_button'):android.widget.ImageButton@""
+    6@clickLong(resource-id='de.nproth.pin:id/note_save_button'):android.widget.ImageButton@""
+    7@menu
+    8@back

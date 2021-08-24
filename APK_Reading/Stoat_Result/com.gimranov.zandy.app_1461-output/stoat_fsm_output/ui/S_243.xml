@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,962][495,1531]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,973][484,1510]">
+      <node index="0" text="test" resource-id="" class="android.widget.TextView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,973][484,1078]" />
+      <node index="1" text="testy" resource-id="" class="android.widget.TextView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,1081][484,1186]" />
+      <node index="2" text="tests" resource-id="" class="android.widget.TextView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,1189][484,1294]" />
+      <node index="3" text="Add to dictionary" resource-id="" class="android.widget.TextView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,1297][484,1402]" />
+      <node index="4" text="Delete" resource-id="" class="android.widget.TextView" package="com.gimranov.zandy.app" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[38,1405][484,1510]" />
+    </node>
+  </node>
+</hierarchy>

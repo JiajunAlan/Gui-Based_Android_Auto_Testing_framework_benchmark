@@ -1,0 +1,4 @@
+    6@click(resource-id='com.alaskalinuxuser.justnotes:id/action_save'):android.widget.TextView@""
+    7@clickLong(resource-id='com.alaskalinuxuser.justnotes:id/action_save'):android.widget.TextView@""
+    811@edit(resource-id='com.alaskalinuxuser.justnotes:id/multiTextView'):android.widget.EditText@"test"
+    9@back

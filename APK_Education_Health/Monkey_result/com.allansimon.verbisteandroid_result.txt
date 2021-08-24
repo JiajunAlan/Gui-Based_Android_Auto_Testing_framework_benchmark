@@ -1,0 +1,281 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626369297117 count=1000
+:AllowPackage: com.allansimon.verbisteandroid
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(880.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(870.0285,1010.0911)
+    // Allowing start of Intent { cmp=com.allansimon.verbisteandroid/.DisplayConjugationActivity } in package com.allansimon.verbisteandroid
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,867.0)
+:Sending Touch (ACTION_UP): 0:(1051.0074,861.5434)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.allansimon.verbisteandroid)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(678.7083,1097.6075)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(478.08438,1554.5795)
+:Sending Touch (ACTION_DOWN): 0:(807.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(806.3912,1639.0157)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1020.0)
+    //[calendar_time:2021-08-03 19:13:43.782  system_uptime:3238605]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(656.9438,1087.6133)
+:Sending Touch (ACTION_DOWN): 0:(857.0,794.0)
+:Sending Touch (ACTION_UP): 0:(862.93286,801.8863)
+:Sending Touch (ACTION_DOWN): 0:(567.0,974.0)
+:Sending Touch (ACTION_UP): 0:(559.81433,977.57794)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(13.0,211.0)
+:Sending Touch (ACTION_UP): 0:(46.764038,117.61074)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(703.28674,1299.8915)
+:Sending Touch (ACTION_DOWN): 0:(580.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(586.1874,1359.2169)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(32.0,40.0)
+:Sending Touch (ACTION_UP): 0:(17.460375,26.69352)
+:Sending Touch (ACTION_DOWN): 0:(404.0,897.0)
+    //[calendar_time:2021-08-03 19:13:58.076  system_uptime:3252876]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(409.82986,911.2306)
+:Sending Touch (ACTION_DOWN): 0:(173.0,600.0)
+:Sending Touch (ACTION_UP): 0:(68.10135,648.4357)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(284.62778,1103.5543)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(735.0,664.0)
+:Sending Touch (ACTION_UP): 0:(735.8783,662.6607)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(785.0,421.0)
+:Sending Touch (ACTION_UP): 0:(784.8019,411.88547)
+    // Allowing start of Intent { cmp=com.allansimon.verbisteandroid/.DeconjugationActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(519.0,54.0)
+:Sending Touch (ACTION_UP): 0:(518.8576,53.779564)
+:Sending Touch (ACTION_DOWN): 0:(273.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(260.94968,1571.3335)
+:Sending Touch (ACTION_DOWN): 0:(24.0,338.0)
+:Sending Touch (ACTION_UP): 0:(9.365812,230.60716)
+:Sending Touch (ACTION_DOWN): 0:(989.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(1044.36,1394.7484)
+:Sending Touch (ACTION_DOWN): 0:(379.0,725.0)
+:Sending Touch (ACTION_UP): 0:(399.43622,709.85474)
+:Sending Touch (ACTION_DOWN): 0:(771.0,940.0)
+    //[calendar_time:2021-08-03 19:14:15.847  system_uptime:3270648]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(760.98047,960.9453)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(815.66406,1246.8906)
+:Sending Touch (ACTION_DOWN): 0:(778.0,889.0)
+:Sending Touch (ACTION_UP): 0:(752.23785,877.915)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(73.30715,1720.295)
+:Sending Touch (ACTION_DOWN): 0:(884.0,408.0)
+:Sending Touch (ACTION_UP): 0:(924.1399,417.49493)
+:Sending Touch (ACTION_DOWN): 0:(164.0,772.0)
+:Sending Touch (ACTION_UP): 0:(170.77249,743.10376)
+:Sending Touch (ACTION_DOWN): 0:(431.0,34.0)
+:Sending Touch (ACTION_UP): 0:(459.3888,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+    // activityResuming(com.allansimon.verbisteandroid)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(873.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(825.1938,1143.7361)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(85.06982,1635.7102)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(1042.5002,1239.1896)
+:Sending Touch (ACTION_DOWN): 0:(910.0,821.0)
+:Sending Touch (ACTION_UP): 0:(893.103,819.39764)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2021-08-03 19:14:26.009  system_uptime:3280809]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(541.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(545.4627,1188.588)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(411.0,228.0)
+:Sending Touch (ACTION_UP): 0:(418.22083,249.56479)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(614.0,875.0)
+:Sending Touch (ACTION_UP): 0:(611.0867,882.6025)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1627.0)
+    //[calendar_time:2021-08-03 19:14:37.318  system_uptime:3292118]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(800.41235,1619.5942)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(224.0,887.0)
+:Sending Touch (ACTION_UP): 0:(220.67485,884.4705)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,789.0)
+:Sending Touch (ACTION_UP): 0:(1055.3795,801.6471)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(811.0,381.0)
+:Sending Touch (ACTION_UP): 0:(794.23566,381.54056)
+    // Allowing start of Intent { cmp=com.allansimon.verbisteandroid/.DeconjugationActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(665.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(665.5138,1335.2677)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2021-08-03 19:14:48.535  system_uptime:3303335]
+    // Sending event #600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.allansimon.verbisteandroid)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(300.0,981.0)
+:Sending Touch (ACTION_UP): 0:(285.6637,971.44293)
+:Sending Touch (ACTION_DOWN): 0:(765.0,68.0)
+:Sending Touch (ACTION_UP): 0:(764.3773,59.5331)
+:Sending Touch (ACTION_DOWN): 0:(244.0,126.0)
+:Sending Touch (ACTION_UP): 0:(243.2264,137.25786)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(174.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(108.919655,1148.6917)
+:Sending Touch (ACTION_DOWN): 0:(676.0,487.0)
+:Sending Touch (ACTION_UP): 0:(682.9159,486.90833)
+    // Allowing start of Intent { cmp=com.allansimon.verbisteandroid/.DeconjugationActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(622.0,768.0)
+:Sending Touch (ACTION_UP): 0:(622.2895,767.2399)
+:Sending Touch (ACTION_DOWN): 0:(489.0,640.0)
+:Sending Touch (ACTION_UP): 0:(504.12222,610.6643)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(1020.15283,1221.3123)
+    // activityResuming(com.allansimon.verbisteandroid)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(885.0,536.0)
+:Sending Touch (ACTION_UP): 0:(923.55945,580.6928)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(638.0219,1530.3881)
+:Sending Touch (ACTION_DOWN): 0:(55.0,853.0)
+    //[calendar_time:2021-08-03 19:15:03.762  system_uptime:3318562]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(132.97403,897.4239)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,716.0)
+:Sending Touch (ACTION_UP): 0:(987.713,659.07007)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1444.2959)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(793.0,430.0)
+:Sending Touch (ACTION_UP): 0:(793.2178,443.33478)
+    // Allowing start of Intent { cmp=com.allansimon.verbisteandroid/.DeconjugationActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(810.0,162.0)
+:Sending Touch (ACTION_UP): 0:(802.8992,159.1443)
+:Sending Touch (ACTION_DOWN): 0:(335.0,546.0)
+:Sending Touch (ACTION_UP): 0:(332.14825,535.2338)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1459.0)
+:Sending Touch (ACTION_UP): 0:(89.76671,1409.916)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(331.8027,1065.7156)
+:Sending Touch (ACTION_DOWN): 0:(50.0,341.0)
+:Sending Touch (ACTION_UP): 0:(119.39783,342.76617)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2021-08-03 19:15:15.438  system_uptime:3330238]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1362.0)
+:Sending Touch (ACTION_UP): 0:(200.47488,1368.286)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.allansimon.verbisteandroid/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.allansimon.verbisteandroid/.MainActivity } in package com.allansimon.verbisteandroid
+:Sending Touch (ACTION_DOWN): 0:(109.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(51.27972,1459.4552)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(670.7391,1623.363)
+:Sending Touch (ACTION_DOWN): 0:(933.0,18.0)
+:Sending Touch (ACTION_UP): 0:(939.7907,18.04379)
+    // activityResuming(com.allansimon.verbisteandroid)
+:Sending Touch (ACTION_DOWN): 0:(761.0,784.0)
+:Sending Touch (ACTION_UP): 0:(759.4451,784.63806)
+:Sending Touch (ACTION_DOWN): 0:(163.0,611.0)
+:Sending Touch (ACTION_UP): 0:(89.09432,656.6563)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(152.0,316.0)
+:Sending Touch (ACTION_UP): 0:(172.14442,314.4555)
+:Sending Touch (ACTION_DOWN): 0:(422.0,280.0)
+:Sending Touch (ACTION_UP): 0:(408.83145,291.78476)
+:Sending Touch (ACTION_DOWN): 0:(352.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(437.8731,1548.5637)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(417.0,913.0)
+:Sending Touch (ACTION_UP): 0:(417.60413,918.5202)
+    //[calendar_time:2021-08-03 19:15:26.111  system_uptime:3340912]
+    // Sending event #900
+    //[calendar_time:2021-08-03 19:15:26.613  system_uptime:3341414]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(926.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(913.9801,1527.9742)
+:Sending Touch (ACTION_DOWN): 0:(724.0,565.0)
+:Sending Touch (ACTION_UP): 0:(664.1501,557.5394)
+:Sending Touch (ACTION_DOWN): 0:(194.0,77.0)
+:Sending Touch (ACTION_UP): 0:(211.88431,62.272316)
+:Sending Touch (ACTION_DOWN): 0:(623.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(619.40906,1331.6047)
+:Sending Touch (ACTION_DOWN): 0:(585.0,232.0)
+:Sending Touch (ACTION_UP): 0:(583.39453,228.34758)
+:Sending Touch (ACTION_DOWN): 0:(165.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(176.77135,1193.161)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1047.0,962.0)
+:Sending Touch (ACTION_UP): 0:(1050.5355,976.8969)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,21.0)
+:Sending Touch (ACTION_UP): 0:(490.3319,25.120216)
+:Sending Touch (ACTION_DOWN): 0:(46.0,1427.0)
+:Sending Touch (ACTION_UP): 0:(47.048775,1433.1003)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(748.148,1376.8452)
+:Sending Touch (ACTION_DOWN): 0:(364.0,354.0)
+:Sending Touch (ACTION_UP): 0:(363.62527,350.40598)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=125295ms (0ms mobile, 0ms wifi, 125295ms not connected)
+// Monkey finished

@@ -1,0 +1,5 @@
+    416@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    417@click(content-desc='More options'):android.widget.ImageView@""
+    418@clickLong(content-desc='More options'):android.widget.ImageView@""
+    419@click(className='android.widget.Button',instance='0'):android.widget.Button@"Start distance measurement"
+    420@back

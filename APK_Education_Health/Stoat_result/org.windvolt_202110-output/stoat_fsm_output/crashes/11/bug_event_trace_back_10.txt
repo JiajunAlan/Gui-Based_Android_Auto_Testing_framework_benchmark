@@ -1,0 +1,10 @@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@persönlich
+click(resource-id='org.windvolt:id/record_add')@
+click(resource-id='org.windvolt:id/symbol_chooser')@
+edit(resource-id='org.windvolt:id/symbol_edit')@1
+click(className='android.widget.Button',instance='1')@abbrechen
+click(resource-id='org.windvolt:id/record_share')@
+click(resource-id='org.windvolt:id/record_remove')@
+edit(resource-id='org.windvolt:id/position_input')@
+click(className='android.widget.Button',instance='1')@entfernen

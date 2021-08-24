@@ -1,0 +1,81 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(17800): FATAL EXCEPTION: main
+E/AndroidRuntime(17800): Process: nl.viter.glider, PID: 17800
+E/AndroidRuntime(17800): java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17800): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(17800): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(17800): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(17800): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(17800): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17800): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17800): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17800): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17800): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17800): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17800): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17800): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(17800): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.g.c.d()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.android.f.B()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.android.f.k()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.android.e.onCreate()
+E/AndroidRuntime(17800): 	at nl.viter.glider.MainActivity.onCreate()
+E/AndroidRuntime(17800): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(17800): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(17800): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(17800): 	... 11 more
+E/AndroidRuntime(17800): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17800): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(17800): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(17800): 	... 21 more
+E/AndroidRuntime(17800): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(17800): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(17800): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.g.c$a.a()
+E/AndroidRuntime(17800): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(17800): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(17800): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(17800): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(17800): 	at java.lang.Thread.run(Thread.java:841)
+***********
+package name: nl.viter.glider
+app code version: 1.8.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 3023924 Realtime: 3023924
+
+** MEMINFO in pid 17800 [nl.viter.glider] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap      698      644        0        0     2856     1844       11
+  Dalvik Heap      929      660        0        0     3540     3346      194
+ Dalvik Other      704      496        0        0                           
+        Stack       57       56        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap      330       84        0        0                           
+    .apk mmap       21        0        0        0                           
+    .dex mmap      526       28      316        0                           
+   Other mmap        2        0        0        0                           
+      Unknown       44       44        0        0                           
+        TOTAL     3315     2012      320        0     6396     5190      205
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        5           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        3        Proxy Binders:       10
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

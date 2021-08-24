@@ -1,0 +1,33 @@
+[1629379555145] Events injected : 1093
+[1629379555145] // Monkey is over!
+[1629379555145] :Sending rotation degree : 0, persist : false
+[1629379555180] Total app activities:
+[1629379555182]    1 org.hwyl.sexytopo.control.activity.ExtendedElevationActivity
+[1629379555182]    2 org.hwyl.sexytopo.control.activity.GuideActivity
+[1629379555182]    3 org.hwyl.sexytopo.control.activity.SystemLogActivity
+[1629379555182]    4 org.hwyl.sexytopo.control.activity.CalibrationActivity
+[1629379555182]    5 org.hwyl.sexytopo.control.activity.PlanActivity
+[1629379555182]    6 org.hwyl.sexytopo.control.activity.TableActivity
+[1629379555182]    7 org.hwyl.sexytopo.control.activity.SettingsActivity
+[1629379555182]    8 org.hwyl.sexytopo.control.activity.TripActivity
+[1629379555182]    9 org.hwyl.sexytopo.control.activity.StatsActivity
+[1629379555182]   10 org.hwyl.sexytopo.control.activity.StartUpActivity
+[1629379555183]   11 org.hwyl.sexytopo.control.activity.DeviceActivity
+[1629379555183] Explored app activities:
+[1629379555183]    1 org.hwyl.sexytopo.control.activity.DeviceActivity
+[1629379555183]    2 org.hwyl.sexytopo.control.activity.ExtendedElevationActivity
+[1629379555183]    3 org.hwyl.sexytopo.control.activity.PlanActivity
+[1629379555183]    4 org.hwyl.sexytopo.control.activity.SettingsActivity
+[1629379555183]    5 org.hwyl.sexytopo.control.activity.StartUpActivity
+[1629379555183]    6 org.hwyl.sexytopo.control.activity.TableActivity
+[1629379555183] Acitity of Coverage: 54.545456%
+[1629379555183] Activity of Times:
+[1629379555183] org.hwyl.sexytopo.control.activity.ExtendedElevationActivity     49
+[1629379555184] org.hwyl.sexytopo.control.activity.SettingsActivity      9
+[1629379555184] org.hwyl.sexytopo.control.activity.StartUpActivity      6
+[1629379555184] org.hwyl.sexytopo.control.activity.DeviceActivity     28
+[1629379555184] org.hwyl.sexytopo.control.activity.TableActivity     75
+[1629379555184] org.hwyl.sexytopo.control.activity.PlanActivity     55
+:Dropped : keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+[1629379555196] // App appears 2 crash, 0 anr, monkey using seed : 1630260272627
+[1629379555196] // Monkey finished

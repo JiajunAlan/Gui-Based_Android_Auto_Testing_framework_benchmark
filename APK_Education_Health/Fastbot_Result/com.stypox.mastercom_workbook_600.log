@@ -1,0 +1,29 @@
+[1629374300450] Events injected : 1859
+[1629374300451] // Monkey is over!
+[1629374300451] :Sending rotation degree : 0, persist : false
+[1629374300489] Total app activities:
+[1629374300489]    1 com.stypox.mastercom_workbook.settings.SettingsActivity
+[1629374300489]    2 com.stypox.mastercom_workbook.view.MarksActivity
+[1629374300489]    3 com.stypox.mastercom_workbook.view.StatisticsActivity
+[1629374300489]    4 com.stypox.mastercom_workbook.MainActivity
+[1629374300489]    5 com.stypox.mastercom_workbook.view.EventsActivity
+[1629374300489]    6 com.stypox.mastercom_workbook.view.TimetableActivity
+[1629374300489]    7 com.stypox.mastercom_workbook.login.LoginActivity
+[1629374300489]    8 com.stypox.mastercom_workbook.view.DocumentsActivity
+[1629374300489]    9 com.stypox.mastercom_workbook.view.TopicsActivity
+[1629374300490]   10 com.stypox.mastercom_workbook.view.SubjectActivity
+[1629374300490] Explored app activities:
+[1629374300490]    1 com.stypox.mastercom_workbook.MainActivity
+[1629374300490]    2 com.stypox.mastercom_workbook.login.LoginActivity
+[1629374300490]    3 com.stypox.mastercom_workbook.settings.SettingsActivity
+[1629374300490]    4 com.stypox.mastercom_workbook.view.DocumentsActivity
+[1629374300490]    5 com.stypox.mastercom_workbook.view.EventsActivity
+[1629374300490] Acitity of Coverage: 50.0%
+[1629374300490] Activity of Times:
+[1629374300490] com.stypox.mastercom_workbook.settings.SettingsActivity     27
+[1629374300490] com.stypox.mastercom_workbook.view.DocumentsActivity      8
+[1629374300490] com.stypox.mastercom_workbook.MainActivity    203
+[1629374300490] com.stypox.mastercom_workbook.login.LoginActivity     68
+[1629374300490] com.stypox.mastercom_workbook.view.EventsActivity      2
+:Dropped : keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+[1629374300512] // Monkey finished

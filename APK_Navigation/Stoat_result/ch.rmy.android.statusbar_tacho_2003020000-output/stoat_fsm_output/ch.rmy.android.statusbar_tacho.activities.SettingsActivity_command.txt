@@ -1,0 +1,10 @@
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    2@menu
+    3@back
+    12@scroll(direction='down')
+    13@scroll(direction='up')

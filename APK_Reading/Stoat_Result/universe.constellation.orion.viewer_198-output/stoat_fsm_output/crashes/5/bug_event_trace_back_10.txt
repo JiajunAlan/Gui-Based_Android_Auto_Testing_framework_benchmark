@@ -1,0 +1,10 @@
+click(className='android.widget.TextView',instance='4')@files
+scroll(direction='up')@
+scroll(direction='down')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.TextView',instance='4')@files
+click(className='android.widget.ImageView',instance='1')@
+clickLong(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+click(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+keyevent_back@
+click(className='android.widget.TextView',instance='16')@Hacking_Secrets_Revealed.pdf

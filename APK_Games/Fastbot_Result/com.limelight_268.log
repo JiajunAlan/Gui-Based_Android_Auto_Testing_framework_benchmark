@@ -1,0 +1,23 @@
+[1629392967922] Sleep for 500 ms
+[1629392968424] Events injected : 1393
+[1629392968424] // Monkey is over!
+[1629392968424] :Sending rotation degree : 0, persist : false
+[1629392968461] Total app activities:
+[1629392968461]    1 com.limelight.PcView
+[1629392968461]    2 com.limelight.preferences.AddComputerManually
+[1629392968462]    3 com.limelight.preferences.StreamSettings
+[1629392968462]    4 com.limelight.HelpActivity
+[1629392968462]    5 com.limelight.Game
+[1629392968462]    6 com.limelight.AppView
+[1629392968462]    7 com.limelight.ShortcutTrampoline
+[1629392968462] Explored app activities:
+[1629392968462]    1 com.limelight.PcView
+[1629392968462]    2 com.limelight.preferences.AddComputerManually
+[1629392968462]    3 com.limelight.preferences.StreamSettings
+[1629392968462] Acitity of Coverage: 42.857143%
+[1629392968462] Activity of Times:
+[1629392968462] com.limelight.PcView     23
+[1629392968462] com.limelight.preferences.AddComputerManually    105
+[1629392968462] com.limelight.preferences.StreamSettings     46
+:Dropped : keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+[1629392968475] // Monkey finished

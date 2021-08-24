@@ -1,0 +1,137 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(16898): FATAL EXCEPTION: main
+E/AndroidRuntime(16898): Process: nl.viter.glider, PID: 16898
+E/AndroidRuntime(16898): java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(16898): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(16898): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(16898): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(16898): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(16898): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(16898): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(16898): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(16898): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(16898): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(16898): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(16898): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(16898): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(16898): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.g.c.d()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.android.f.B()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.android.f.k()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.android.e.onCreate()
+E/AndroidRuntime(16898): 	at nl.viter.glider.MainActivity.onCreate()
+E/AndroidRuntime(16898): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(16898): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(16898): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(16898): 	... 11 more
+E/AndroidRuntime(16898): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(16898): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(16898): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(16898): 	... 21 more
+E/AndroidRuntime(16898): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/nl.viter.glider-1.apk"],nativeLibraryDirectories=[/data/app-lib/nl.viter.glider-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(16898): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(16898): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.g.c$a.a()
+E/AndroidRuntime(16898): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(16898): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(16898): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(16898): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(16898): 	at java.lang.Thread.run(Thread.java:841)
+E/WindowManager( 1571): Starting window AppWindowToken{9d60c9b8 token=Token{9d42cd40 ActivityRecord{9d4544c8 u0 nl.viter.glider/.MainActivity t46}}} timed out
+E/ActivityManager( 1571): ANR in com.android.systemui
+E/ActivityManager( 1571): PID: 1657
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1571): Load: 0.02 / 0.15 / 0.2
+E/ActivityManager( 1571): CPU usage from 5203ms to 0ms ago:
+E/ActivityManager( 1571):   0.3% 1145/surfaceflinger: 0% user + 0.3% kernel
+E/ActivityManager( 1571):   0.1% 1571/system_server: 0% user + 0.1% kernel
+E/ActivityManager( 1571):   0.1% 16149/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1571): 0.1% TOTAL: 0% user + 0.1% kernel
+E/ActivityManager( 1571): CPU usage from 982ms to 1485ms later:
+E/ActivityManager( 1571):   4% 1571/system_server: 4% user + 0% kernel / faults: 1 minor
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): ANR in com.android.launcher
+E/ActivityManager( 1571): PID: 1930
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1571): Load: 0.01 / 0.14 / 0.19
+E/ActivityManager( 1571): CPU usage from 10010ms to 0ms ago:
+E/ActivityManager( 1571):   0% 1571/system_server: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 16149/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): CPU usage from 1262ms to 1765ms later:
+E/ActivityManager( 1571):   1.8% 3/ksoftirqd/0: 0% user + 1.8% kernel
+E/ActivityManager( 1571): 1% TOTAL: 0% user + 1% kernel
+E/ActivityManager( 1571): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1571): PID: 1778
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1571): Load: 0.01 / 0.13 / 0.19
+E/ActivityManager( 1571): CPU usage from 14879ms to 0ms ago:
+E/ActivityManager( 1571):   0.2% 1571/system_server: 0.2% user + 0% kernel / faults: 8 minor
+E/ActivityManager( 1571):   0.1% 1145/surfaceflinger: 0% user + 0.1% kernel
+E/ActivityManager( 1571):   0.1% 16149/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1571):   0% 13403/kworker/1:0: 0% user + 0% kernel
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): CPU usage from 1511ms to 2015ms later:
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): ANR in com.android.phone
+E/ActivityManager( 1571): PID: 1795
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=com.android.internal.telephony.data-stall flg=0x14 (has extras) }
+E/ActivityManager( 1571): Load: 0.0 / 0.09 / 0.17
+E/ActivityManager( 1571): CPU usage from 39995ms to 0ms ago:
+E/ActivityManager( 1571):   0.1% 16149/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 1571/system_server: 0% user + 0% kernel / faults: 3 minor
+E/ActivityManager( 1571):   0% 1138/healthd: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 1155/adbd: 0% user + 0% kernel / faults: 47 minor
+E/ActivityManager( 1571):   0% 12253/itkach.aard2: 0% user + 0% kernel / faults: 9 minor
+E/ActivityManager( 1571):   0% 15388/kworker/0:0: 0% user + 0% kernel
+E/ActivityManager( 1571):  +0% 16935/<pre-initialized>: 0% user + 0% kernel
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel + 0% softirq
+E/ActivityManager( 1571): CPU usage from 1284ms to 1790ms later:
+E/ActivityManager( 1571):   1.9% 15388/kworker/0:0: 0% user + 1.9% kernel
+E/ActivityManager( 1571): 0.9% TOTAL: 0% user + 0.9% kernel
+E/ActivityThread( 2078): Failed to find provider info for media
+E/ActivityThread( 2078): Failed to find provider info for media
+E/ActivityThread( 2078): Failed to find provider info for media
+E/ActivityThread( 2078): Failed to find provider info for media
+***********
+package name: nl.viter.glider
+app code version: 1.8.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 2961895 Realtime: 2961895
+
+** MEMINFO in pid 16898 [nl.viter.glider] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap      700      648        0        0     2856     1843       12
+  Dalvik Heap      820      668        0        0     3536     3343      193
+ Dalvik Other      732      552        0        0                           
+        Stack       61       60        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap      330       84        0        0                           
+    .apk mmap       21        0        0        0                           
+    .dex mmap      526       28      316        0                           
+   Other mmap        2        0        0        0                           
+      Unknown       44       44        0        0                           
+        TOTAL     3240     2084      320        0     6392     5186      205
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        5           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        3        Proxy Binders:       10
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

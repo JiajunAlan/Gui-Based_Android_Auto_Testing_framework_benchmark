@@ -1,0 +1,999 @@
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    5@menu
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    5@menu
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    5@menu
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    5@menu
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    5@menu
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    5@menu
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    5@menu
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    5@menu
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    5@menu
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    5@menu
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    5@menu
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    5@menu
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    5@menu
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    5@menu
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    5@menu
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    5@menu
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    5@menu
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    5@menu
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    5@menu
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    5@menu
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    5@menu
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    5@menu
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    5@menu
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    5@menu
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    5@menu
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    5@menu
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    5@menu
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6@back
+    35@keyevent_back
+    36@reset
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    5@menu
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    427@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12stt"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    5@menu
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    147@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12stt"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    6@back
+    35@keyevent_back
+    36@reset
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    169@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    8@back
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    5@menu
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    157@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+    163@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"1test"
+    409@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    6@back
+    35@keyevent_back
+    36@reset
+    5@menu
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    117@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12"
+    123@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"1test"
+    1057@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+    129@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    6@back
+    35@keyevent_back
+    36@reset
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    21@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    2@click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+    7@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    5@menu
+    1@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    3@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    51@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='1'):android.widget.Button@"Deconjugate"
+    22@back
+    691@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"
+    45@edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"test"
+    29@edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"test"

@@ -1,0 +1,10 @@
+click(className='android.widget.Button',instance='0')@Mirabelle
+scroll(direction='up')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+scroll(direction='up')@
+scroll(direction='down')@
+click(content-desc='More options')@
+back@
+click(className='android.widget.Button',instance='0')@test radar notifications on the map
+click(className='android.widget.Button',instance='0')@OK

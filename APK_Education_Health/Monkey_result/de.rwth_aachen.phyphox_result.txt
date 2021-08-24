@@ -1,0 +1,247 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626379992360 count=1000
+:AllowPackage: de.rwth_aachen.phyphox
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(392.0,227.0)
+:Sending Touch (ACTION_UP): 0:(390.6615,226.89626)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(35.0,30.0)
+:Sending Touch (ACTION_UP): 0:(101.56412,78.94002)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(501.0,319.0)
+:Sending Touch (ACTION_UP): 0:(497.11853,321.35974)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=de.rwth_aachen.phyphox/.Experiment } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(886.0,688.0)
+:Sending Touch (ACTION_UP): 0:(899.136,674.43243)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(353.0242,1245.263)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(23.660738,1223.3269)
+:Sending Touch (ACTION_DOWN): 0:(259.0,361.0)
+:Sending Touch (ACTION_UP): 0:(160.05115,370.73724)
+    // activityResuming(de.rwth_aachen.phyphox)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2021-08-03 22:12:44.019  system_uptime:13978829]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,783.0)
+:Sending Touch (ACTION_UP): 0:(428.56616,800.17914)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,778.0)
+:Sending Touch (ACTION_UP): 0:(609.4475,853.4322)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(41.0,61.0)
+:Sending Touch (ACTION_UP): 0:(37.525864,62.214626)
+:Sending Touch (ACTION_DOWN): 0:(309.0,300.0)
+:Sending Touch (ACTION_UP): 0:(310.03036,302.32916)
+:Sending Touch (ACTION_DOWN): 0:(530.0,259.0)
+:Sending Touch (ACTION_UP): 0:(530.3869,271.04825)
+    //[calendar_time:2021-08-03 22:12:54.232  system_uptime:13989033]
+    // Sending event #200
+    //[calendar_time:2021-08-03 22:12:54.734  system_uptime:13989534]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(1058.3883,1564.5806)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(332.10275,1667.7491)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=de.rwth_aachen.phyphox/.Experiment } in package de.rwth_aachen.phyphox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(195.0,577.0)
+:Sending Touch (ACTION_UP): 0:(294.63397,647.40063)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(759.87476,1456.0436)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(853.0,106.0)
+:Sending Touch (ACTION_UP): 0:(855.4945,116.17788)
+:Sending Touch (ACTION_DOWN): 0:(366.0,636.0)
+:Sending Touch (ACTION_UP): 0:(380.82043,636.42395)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1346.0)
+    //[calendar_time:2021-08-03 22:13:04.150  system_uptime:13998950]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(436.05988,1378.4772)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://phyphox.org/wiki/index.php?title=Experiment:_Frequency_History cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(980.14655,1189.5842)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(448.0,757.0)
+:Sending Touch (ACTION_UP): 0:(439.6624,759.1478)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(998.8569,1286.9696)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1606.0)
+:Sending Touch (ACTION_UP): 0:(280.82718,1638.7876)
+:Sending Touch (ACTION_DOWN): 0:(803.0,588.0)
+:Sending Touch (ACTION_UP): 0:(835.00793,594.0993)
+:Sending Touch (ACTION_DOWN): 0:(62.0,1656.0)
+    //[calendar_time:2021-08-03 22:13:17.035  system_uptime:14011835]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(83.01627,1661.2201)
+:Sending Touch (ACTION_DOWN): 0:(481.0,1282.0)
+:Sending Touch (ACTION_UP): 0:(526.6307,1273.4401)
+:Sending Touch (ACTION_DOWN): 0:(521.0,521.0)
+:Sending Touch (ACTION_UP): 0:(510.93207,522.8259)
+:Sending Touch (ACTION_DOWN): 0:(746.0,981.0)
+:Sending Touch (ACTION_UP): 0:(777.86194,920.305)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(551.35626,1188.1093)
+:Sending Touch (ACTION_DOWN): 0:(198.0,486.0)
+:Sending Touch (ACTION_UP): 0:(193.07541,491.16687)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    // activityResuming(de.rwth_aachen.phyphox)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(71.0,678.0)
+:Sending Touch (ACTION_UP): 0:(71.28491,680.08765)
+:Sending Touch (ACTION_DOWN): 0:(826.0,236.0)
+:Sending Touch (ACTION_UP): 0:(835.12274,235.74869)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    //[calendar_time:2021-08-03 22:13:30.396  system_uptime:14025196]
+    // Sending event #500
+    //[calendar_time:2021-08-03 22:13:30.898  system_uptime:14025698]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(699.0,1121.0)
+:Sending Touch (ACTION_UP): 0:(736.7843,1079.6571)
+    // Allowing start of Intent { act=com.google.zxing.client.android.SCAN cmp=de.rwth_aachen.phyphox/com.journeyapps.barcodescanner.CaptureActivity } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(819.75793,1754.1869)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(727.8932,1481.5763)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2021-08-03 22:13:40.254  system_uptime:14035054]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1032.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(1033.1713,1329.816)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(277.29944,1135.6697)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(484.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(495.86914,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(623.0,473.0)
+:Sending Touch (ACTION_UP): 0:(606.3203,490.98877)
+:Sending Touch (ACTION_DOWN): 0:(866.0,742.0)
+:Sending Touch (ACTION_UP): 0:(927.05164,634.5842)
+:Sending Touch (ACTION_DOWN): 0:(802.0,793.0)
+:Sending Touch (ACTION_UP): 0:(798.22784,792.5593)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(553.0,453.0)
+:Sending Touch (ACTION_UP): 0:(517.15466,464.07672)
+:Sending Touch (ACTION_DOWN): 0:(362.0,1017.0)
+:Sending Touch (ACTION_UP): 0:(360.4481,1022.4486)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2021-08-03 22:13:48.886  system_uptime:14043686]
+    // Sending event #700
+    //[calendar_time:2021-08-03 22:13:49.398  system_uptime:14044199]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(659.0,1509.0)
+:Sending Touch (ACTION_UP): 0:(657.6709,1508.4379)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(327.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(312.39297,1065.1678)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(326.14856,1780.6248)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=de.rwth_aachen.phyphox/.Experiment } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2021-08-03 22:14:04.212  system_uptime:14059012]
+    // Sending event #800
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.rwth_aachen.phyphox/.ExperimentList;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(193.0,294.0)
+:Sending Touch (ACTION_UP): 0:(183.11252,331.1191)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(825.0,574.0)
+:Sending Touch (ACTION_UP): 0:(826.0136,565.3049)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(de.rwth_aachen.phyphox)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(117.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(112.666504,1624.05)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://phyphox.org/contribute cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(126.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(131.7723,1649.1837)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2021-08-03 22:14:10.041  system_uptime:14064841]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(422.0,394.0)
+:Sending Touch (ACTION_UP): 0:(424.29388,394.77206)
+:Sending Touch (ACTION_DOWN): 0:(201.0,840.0)
+:Sending Touch (ACTION_UP): 0:(194.83443,839.0453)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(678.0,586.0)
+:Sending Touch (ACTION_UP): 0:(798.42194,620.4428)
+:Sending Touch (ACTION_DOWN): 0:(813.0,207.0)
+:Sending Touch (ACTION_UP): 0:(795.49774,200.62604)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(312.0,926.0)
+:Sending Touch (ACTION_UP): 0:(311.03397,924.9782)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=de.rwth_aachen.phyphox/.Experiment } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(63.0,90.0)
+:Sending Touch (ACTION_UP): 0:(57.804523,85.55301)
+    // activityResuming(de.rwth_aachen.phyphox)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Touch (ACTION_DOWN): 0:(479.0,450.0)
+:Sending Touch (ACTION_UP): 0:(452.39658,465.37402)
+    // Allowing start of Intent { act=android.intent.action.VIEW cmp=de.rwth_aachen.phyphox/.Experiment } in package de.rwth_aachen.phyphox
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // activityResuming(de.rwth_aachen.phyphox)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.rwth_aachen.phyphox/.ExperimentList } in package de.rwth_aachen.phyphox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=8 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114452ms (0ms mobile, 0ms wifi, 114452ms not connected)
+// Monkey finished

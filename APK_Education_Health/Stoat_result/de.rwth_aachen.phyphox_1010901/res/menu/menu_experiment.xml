@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/timer" android:orderInCategory="1" android:title="0s" app:showAsAction="always" />
+    <item android:icon="@drawable/timed_play" android:id="@id/action_timed_play" android:orderInCategory="2" android:title="@string/timed_start" app:showAsAction="always" />
+    <item android:icon="@drawable/timed_pause" android:id="@id/action_timed_pause" android:orderInCategory="3" android:title="@string/timed_stop" app:showAsAction="always" />
+    <item android:icon="@drawable/play" android:id="@id/action_play" android:orderInCategory="4" android:title="@string/start" app:showAsAction="always" />
+    <item android:icon="@drawable/pause" android:id="@id/action_pause" android:orderInCategory="5" android:title="@string/stop" app:showAsAction="always" />
+    <item android:icon="@drawable/delete" android:id="@id/action_clear" android:orderInCategory="20" android:title="@string/clear_data" app:showAsAction="always" />
+    <item android:icon="@drawable/info" android:id="@id/action_description" android:orderInCategory="30" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:id="@id/action_link1" android:orderInCategory="31" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:id="@id/action_link2" android:orderInCategory="32" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:id="@id/action_link3" android:orderInCategory="33" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:id="@id/action_link4" android:orderInCategory="34" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:id="@id/action_link5" android:orderInCategory="35" android:title="@string/show_description" app:showAsAction="never" />
+    <item android:icon="@drawable/download" android:id="@id/action_export" android:orderInCategory="50" android:title="@string/export" app:showAsAction="never" />
+    <item android:icon="@drawable/share" android:id="@id/action_share" android:orderInCategory="60" android:title="@string/share" app:showAsAction="never" />
+    <item android:icon="@drawable/timer" android:id="@id/action_timedRun" android:orderInCategory="70" android:title="@string/timedRun" android:checkable="true" app:showAsAction="never" />
+    <item android:id="@id/action_remoteServer" android:orderInCategory="100" android:title="@string/remoteServer" android:checkable="true" app:showAsAction="never" />
+    <item android:id="@id/action_calibrated_magnetometer" android:orderInCategory="150" android:title="@string/calibrated_magnetometer" android:checkable="true" app:showAsAction="never" />
+    <item android:id="@id/action_force_gnss" android:orderInCategory="160" android:title="@string/force_gnss" android:checkable="true" app:showAsAction="never" />
+    <item android:icon="@drawable/save_locally" android:id="@id/action_saveLocally" android:orderInCategory="300" android:title="@string/save_locally" app:showAsAction="never" />
+    <item android:id="@id/action_saveState" android:orderInCategory="400" android:title="@string/save_state" app:showAsAction="never" />
+</menu>

@@ -1,0 +1,160 @@
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"GNU GPLv3 or any later version"
+scroll(direction='up')
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+back
+**
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+**
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+**
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+**
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+menu
+back
+**
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Import"
+**
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Link"
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+menu
+back
+**
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"A comic book file will be copied into the app's inner folder"
+**
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+**
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Third-party libraries"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Homepage"
+scroll(direction='down')
+menu
+**
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+back
+**
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+back
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"A comic book will be added without copying. But if you delete the application with which it was opened, then the comic book will become inaccessible for reading."
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"A comic book will be added without copying. But if you delete the application with which it was opened, then the comic book will become inaccessible for reading."
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Import"
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+menu
+back
+**
+menu
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+**
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Import"
+**
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+menu
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+**
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Source code"
+**
+back
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+**
+clickLong(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+back
+**
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Library"
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"A comic book will be added without copying. But if you delete the application with which it was opened, then the comic book will become inaccessible for reading."
+**
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+back
+**
+menu
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+click(resource-id='app.seeneva.reader:id/add'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Link"
+**
+click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+menu
+clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+click(resource-id='app.seeneva.reader:id/search_close_btn'):android.widget.ImageView@""
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+edit(resource-id='app.seeneva.reader:id/search_src_text'):android.widget.EditText@"   Title"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"About"
+**

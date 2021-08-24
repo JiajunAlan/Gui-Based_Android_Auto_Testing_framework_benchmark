@@ -1,0 +1,294 @@
+back@
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='0')@Sync
+click(resource-id='android:id/home')@
+click(className='android.widget.Button',instance='0')@View Collections
+back@
+click(className='android.widget.TextView',instance='0')@Zandy
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+click(className='android.widget.TextView',instance='6')@API Key
+back@
+click(resource-id='android:id/home')@
+click(className='android.widget.Button',instance='2')@Clear local database
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='8')@WebDAV
+scroll(direction='up')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='11')@Base URL
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='14')@Username for WebDAV server. This is separate from your Zotero username.
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='1')@Basic
+click(className='android.widget.Button',instance='0')@Test Zotero and WebDAV connections
+click(className='android.widget.TextView',instance='10')@Check to have Zandy look for attachments on a WebDAV host
+click(className='android.widget.TextView',instance='3')@Check to have Zandy attempt to keep all collections synced
+click(className='android.widget.Button',instance='1')@Pending Requests
+click(className='android.widget.TextView',instance='0')@Pending Requests
+click(resource-id='android:id/home')@
+back@
+click(className='android.widget.TextView',instance='9')@Enable WebDAV
+click(className='android.widget.TextView',instance='7')@This is the API key to access your account at Zotero.org
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='13')@Username
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1test
+edit(resource-id='android:id/edit')@12est
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.Button',instance='1')@OK
+scroll(direction='down')@
+edit(resource-id='android:id/edit')@test
+back@
+click(className='android.widget.TextView',instance='14')@Check to skip SSL certificate checking, for servers using self-signed SSL certificates.
+click(className='android.widget.TextView',instance='11')@Password
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='4')@WebDAV
+click(className='android.widget.TextView',instance='10')@Username for WebDAV server. This is separate from your Zotero username.
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Base URL
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='5')@Enable WebDAV
+click(className='android.widget.TextView',instance='13')@Override SSL
+click(className='android.widget.Button',instance='2')@Clear local database
+click(className='android.widget.Button',instance='1')@Delete
+click(className='android.widget.Button',instance='1')@View Items
+click(resource-id='com.gimranov.zandy.app:id/do_sort')@
+back@
+click(resource-id='android:id/home')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Sync
+clickLong(resource-id='com.gimranov.zandy.app:id/do_sort')@
+clickLong(resource-id='com.gimranov.zandy.app:id/do_search')@
+click(className='android.widget.TextView',instance='0')@All items
+click(resource-id='com.gimranov.zandy.app:id/do_search')@
+edit(resource-id='android:id/search_src_text')@ Search items
+click(className='android.widget.ImageView',instance='1')@
+click(resource-id='com.gimranov.zandy.app:id/do_sort')@
+click(className='android.widget.TextView',instance='3')@Title, then year
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.TextView',instance='4')@User ID
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='2')@Aggressive Syncing
+click(className='android.widget.TextView',instance='5')@This is the numeric user ID for your account at Zotero.org
+click(className='android.widget.Button',instance='0')@Cancel
+scroll(direction='down')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='9')@Username
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@12stt
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='12')@Password for WebDAV server. This is separate from your Zotero password.
+back@
+click(className='android.widget.Button',instance='0')@Test Zotero and WebDAV connections
+click(className='android.widget.TextView',instance='1')@This is the numeric user ID for your account at Zotero.org
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='2')@API Key
+back@
+click(className='android.widget.Button',instance='1')@Pending Requests
+back@
+click(className='android.widget.TextView',instance='6')@Check to have Zandy look for attachments on a WebDAV host
+click(className='android.widget.TextView',instance='3')@This is the API key to access your account at Zotero.org
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.Button',instance='2')@Clear local database
+click(className='android.widget.Button',instance='1')@Delete
+click(resource-id='com.gimranov.zandy.app:id/do_search')@
+click(resource-id='android:id/search_app_icon')@
+back@
+click(className='android.widget.Button',instance='2')@Log in
+click(className='android.widget.Button',instance='0')@View Collections
+click(resource-id='com.gimranov.zandy.app:id/do_new')@
+click(resource-id='android:id/home')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+click(className='android.widget.Button',instance='2')@Clear local database
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='9')@Enable WebDAV
+click(className='android.widget.TextView',instance='6')@API Key
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='1')@Pending Requests
+click(className='android.widget.TextView',instance='0')@Pending Requests
+click(resource-id='android:id/home')@
+click(className='android.widget.TextView',instance='0')@Pending Requests
+click(resource-id='android:id/home')@
+back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='5')@This is the numeric user ID for your account at Zotero.org
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1
+back@
+click(className='android.widget.TextView',instance='10')@Check to have Zandy look for attachments on a WebDAV host
+click(className='android.widget.TextView',instance='13')@Username
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@12stt
+edit(resource-id='android:id/edit')@12stt
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@12stt
+back@
+click(className='android.widget.TextView',instance='2')@Aggressive Syncing
+click(resource-id='android:id/home')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='7')@This is the API key to access your account at Zotero.org
+edit(resource-id='android:id/edit')@test
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@Check to have Zandy attempt to keep all collections synced
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='8')@WebDAV
+click(className='android.widget.TextView',instance='14')@Username for WebDAV server. This is separate from your Zotero username.
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.TextView',instance='1')@testy
+edit(resource-id='android:id/edit')@testy
+edit(resource-id='android:id/edit')@testy
+edit(resource-id='android:id/edit')@12sty
+edit(resource-id='android:id/edit')@12sty
+edit(resource-id='android:id/edit')@testy
+edit(resource-id='android:id/edit')@12sty
+edit(resource-id='android:id/edit')@12sty
+edit(resource-id='android:id/edit')@testy
+back@
+click(className='android.widget.Button',instance='0')@Test Zotero and WebDAV connections
+click(className='android.widget.TextView',instance='4')@User ID
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@12
+click(className='android.widget.Button',instance='1')@OK
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='1')@Basic
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='11')@Base URL
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='1')@Pending Requests
+click(className='android.widget.TextView',instance='0')@Pending Requests
+back@
+click(className='android.widget.TextView',instance='5')@This is the numeric user ID for your account at Zotero.org
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='2')@Aggressive Syncing
+click(className='android.widget.TextView',instance='6')@API Key
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='7')@This is the API key to access your account at Zotero.org
+back@
+click(className='android.widget.TextView',instance='4')@User ID
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='1')@Basic
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='0')@Settings
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='14')@Check to skip SSL certificate checking, for servers using self-signed SSL certificates.
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='1')@This is the numeric user ID for your account at Zotero.org
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.Button',instance='0')@Test Zotero and WebDAV connections
+click(className='android.widget.TextView',instance='4')@WebDAV
+click(className='android.widget.TextView',instance='9')@Username
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.TextView',instance='3')@Add to dictionary
+keyevent_back@
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@12stt
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@testt
+edit(resource-id='android:id/edit')@12stt
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='5')@Enable WebDAV
+click(className='android.widget.Button',instance='1')@Pending Requests
+click(resource-id='android:id/home')@
+back@
+click(className='android.widget.TextView',instance='13')@Override SSL
+click(className='android.widget.TextView',instance='3')@This is the API key to access your account at Zotero.org
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='10')@Username for WebDAV server. This is separate from your Zotero username.
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.TextView',instance='0')@test
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='2')@API Key
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='12')@Password for WebDAV server. This is separate from your Zotero password.
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Base URL
+back@
+click(className='android.widget.TextView',instance='6')@Check to have Zandy look for attachments on a WebDAV host
+click(className='android.widget.TextView',instance='11')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@This is the API key to access your account at Zotero.org
+edit(resource-id='android:id/edit')@test
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='2')@API Key
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='10')@Username for WebDAV server. This is separate from your Zotero username.
+back@
+click(className='android.widget.TextView',instance='7')@Base URL
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='0')@Test Zotero and WebDAV connections
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='11')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/home')@
+click(className='android.widget.Button',instance='1')@Pending Requests
+click(className='android.widget.TextView',instance='0')@Pending Requests
+click(resource-id='android:id/home')@
+click(className='android.widget.TextView',instance='0')@Pending Requests
+click(resource-id='android:id/home')@
+back@
+click(className='android.widget.TextView',instance='14')@Check to skip SSL certificate checking, for servers using self-signed SSL certificates.
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='1')@This is the numeric user ID for your account at Zotero.org
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='2')@Clear local database
+click(className='android.widget.Button',instance='1')@Delete
+clickLong(resource-id='com.gimranov.zandy.app:id/do_new')@
+click(className='android.widget.TextView',instance='0')@Collections
+click(content-desc='More options')@

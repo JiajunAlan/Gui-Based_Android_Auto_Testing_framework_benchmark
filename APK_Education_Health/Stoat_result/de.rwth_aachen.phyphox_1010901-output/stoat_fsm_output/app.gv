@@ -1,0 +1,19 @@
+digraph graphtest {
+  S_1 -> S_2  [ label="@12"] ;
+  S_2 -> S_3  [ label="@55"] ;
+  S_3 -> S_4  [ label="@46"] ;
+  S_4 -> S_4  [ label="@71"] ;
+  S_4 -> S_4  [ label="@109"] ;
+  S_4 -> S_4  [ label="@76"] ;
+  S_4 -> S_4  [ label="@48"] ;
+  S_4 -> S_9  [ label="@49"] ;
+  S_4 -> S_4  [ label="@100"] ;
+  S_4 -> S_12  [ label="@47"] ;
+  S_4 -> S_12  [ label="@45"] ;
+  S_4 -> S_4  [ label="@58"] ;
+  S_4 -> S_4  [ label="@87"] ;
+  S_4 -> S_4  [ label="@72"] ;
+  S_4 -> S_4  [ label="@80"] ;
+  S_9 -> S_4  [ label="@57"] ;
+  S_12 -> S_4  [ label="@284"] ;
+}

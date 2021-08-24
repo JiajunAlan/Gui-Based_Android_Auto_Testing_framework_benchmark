@@ -1,0 +1,268 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626386076471 count=1000
+:AllowPackage: org.malinux.lectureFrancais.actLecture
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(181.0,0.0)
+:Sending Touch (ACTION_UP): 0:(188.63094,2.9097183)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(739.0,324.0)
+:Sending Touch (ACTION_UP): 0:(705.61035,329.85126)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(947.6604,1280.0682)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,997.0)
+:Sending Touch (ACTION_UP): 0:(1042.2671,991.1194)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(167.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(146.20412,1006.2883)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(723.0,310.0)
+:Sending Touch (ACTION_UP): 0:(708.7749,314.01648)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2021-08-04 00:01:12.128  system_uptime:5084368]
+    // Sending event #100
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(662.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(647.11633,1098.4297)
+:Sending Touch (ACTION_DOWN): 0:(31.0,467.0)
+:Sending Touch (ACTION_UP): 0:(24.56284,469.36908)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(228.1541,1744.0286)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(825.0,264.0)
+:Sending Touch (ACTION_UP): 0:(807.2183,261.50467)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,1487.0)
+:Sending Touch (ACTION_UP): 0:(1027.1263,1486.6727)
+:Sending Touch (ACTION_DOWN): 0:(890.0,1282.0)
+:Sending Touch (ACTION_UP): 0:(862.39276,1299.9476)
+:Sending Touch (ACTION_DOWN): 0:(384.0,887.0)
+:Sending Touch (ACTION_UP): 0:(385.15158,890.88617)
+:Sending Touch (ACTION_DOWN): 0:(486.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(498.85208,1224.8195)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(489.47745,1766.2136)
+:Sending Touch (ACTION_DOWN): 0:(129.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(104.62607,1750.6077)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(918.0,403.0)
+:Sending Touch (ACTION_UP): 0:(909.00745,409.71268)
+:Sending Touch (ACTION_DOWN): 0:(996.0,356.0)
+:Sending Touch (ACTION_UP): 0:(949.451,373.75598)
+    //[calendar_time:2021-08-04 00:01:32.073  system_uptime:5104296]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(842.0,641.0)
+:Sending Touch (ACTION_UP): 0:(846.89355,649.1987)
+:Sending Touch (ACTION_DOWN): 0:(279.0,22.0)
+:Sending Touch (ACTION_UP): 0:(290.04065,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(398.0,882.0)
+:Sending Touch (ACTION_UP): 0:(398.36737,881.9682)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(839.0,507.0)
+:Sending Touch (ACTION_UP): 0:(820.3948,468.95132)
+:Sending Touch (ACTION_DOWN): 0:(475.0,815.0)
+:Sending Touch (ACTION_UP): 0:(482.81183,812.67377)
+:Sending Touch (ACTION_DOWN): 0:(732.0,271.0)
+:Sending Touch (ACTION_UP): 0:(765.8427,304.97574)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(779.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(790.08356,1219.3771)
+    //[calendar_time:2021-08-04 00:01:43.754  system_uptime:5115978]
+    // Sending event #300
+    //[calendar_time:2021-08-04 00:01:44.257  system_uptime:5116481]
+    // Sending event #300
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(178.0,228.0)
+:Sending Touch (ACTION_UP): 0:(181.81223,228.03171)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(908.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(913.20526,1085.9838)
+:Sending Touch (ACTION_DOWN): 0:(756.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(745.51483,1228.6997)
+:Sending Touch (ACTION_DOWN): 0:(709.0,453.0)
+:Sending Touch (ACTION_UP): 0:(709.00073,467.82114)
+:Sending Touch (ACTION_DOWN): 0:(917.0,628.0)
+:Sending Touch (ACTION_UP): 0:(906.5047,614.42206)
+:Sending Touch (ACTION_DOWN): 0:(69.0,98.0)
+:Sending Touch (ACTION_UP): 0:(72.846886,96.019394)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(261.40842,1709.825)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(996.0,918.0)
+:Sending Touch (ACTION_UP): 0:(989.89087,926.0289)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 00:01:57.955  system_uptime:5130178]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,525.0)
+:Sending Touch (ACTION_UP): 0:(291.07468,525.707)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,1752.0)
+:Sending Touch (ACTION_UP): 0:(1001.0469,1755.2573)
+:Sending Touch (ACTION_DOWN): 0:(451.0,503.0)
+:Sending Touch (ACTION_UP): 0:(448.12762,501.75665)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(14.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1694.518)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(574.0,497.0)
+:Sending Touch (ACTION_UP): 0:(575.8965,508.62238)
+:Sending Touch (ACTION_DOWN): 0:(548.0,568.0)
+:Sending Touch (ACTION_UP): 0:(550.24207,570.0113)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,238.0)
+:Sending Touch (ACTION_UP): 0:(616.5262,244.15192)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    //[calendar_time:2021-08-04 00:02:12.237  system_uptime:5144461]
+    // Sending event #500
+    //[calendar_time:2021-08-04 00:02:12.739  system_uptime:5144962]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(705.0,115.0)
+:Sending Touch (ACTION_UP): 0:(691.77716,149.1234)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1618.0)
+:Sending Touch (ACTION_UP): 0:(996.6727,1618.1475)
+:Sending Touch (ACTION_DOWN): 0:(621.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(644.1764,1321.7804)
+:Sending Touch (ACTION_DOWN): 0:(813.0,321.0)
+:Sending Touch (ACTION_UP): 0:(772.67847,269.40802)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(253.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(253.39183,1540.1975)
+:Sending Touch (ACTION_DOWN): 0:(71.0,514.0)
+:Sending Touch (ACTION_UP): 0:(70.22731,498.54944)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,385.0)
+:Sending Touch (ACTION_UP): 0:(228.91,371.81213)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(89.73121,1426.789)
+    //[calendar_time:2021-08-04 00:02:22.418  system_uptime:5154642]
+    // Sending event #600
+    //[calendar_time:2021-08-04 00:02:22.920  system_uptime:5155144]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Touch (ACTION_DOWN): 0:(691.0,1417.0)
+:Sending Touch (ACTION_UP): 0:(651.4157,1462.7479)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1593.0)
+:Sending Touch (ACTION_UP): 0:(772.7117,1587.6143)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(68.67429,1746.4755)
+:Sending Touch (ACTION_DOWN): 0:(326.0,806.0)
+:Sending Touch (ACTION_UP): 0:(310.2793,796.08575)
+:Sending Touch (ACTION_DOWN): 0:(216.0,740.0)
+:Sending Touch (ACTION_UP): 0:(184.07649,740.3926)
+:Sending Touch (ACTION_DOWN): 0:(945.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(873.0339,1361.015)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(298.0,279.0)
+:Sending Touch (ACTION_UP): 0:(297.31003,279.80316)
+:Sending Touch (ACTION_DOWN): 0:(599.0,852.0)
+:Sending Touch (ACTION_UP): 0:(517.6121,867.82306)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(880.0,776.0)
+:Sending Touch (ACTION_UP): 0:(867.32416,821.40106)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+    //[calendar_time:2021-08-04 00:02:42.349  system_uptime:5174572]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(352.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(354.69662,1486.4711)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(234.36104,1042.6552)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1561.0)
+    //[calendar_time:2021-08-04 00:02:47.987  system_uptime:5180211]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(27.299088,1469.0961)
+:Sending Touch (ACTION_DOWN): 0:(598.0,132.0)
+:Sending Touch (ACTION_UP): 0:(580.2444,124.98806)
+:Sending Touch (ACTION_DOWN): 0:(41.0,25.0)
+:Sending Touch (ACTION_UP): 0:(37.01264,19.159622)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(141.38838,1660.2921)
+:Sending Touch (ACTION_DOWN): 0:(506.0,810.0)
+:Sending Touch (ACTION_UP): 0:(515.50446,834.66016)
+:Sending Touch (ACTION_DOWN): 0:(930.0,1672.0)
+:Sending Touch (ACTION_UP): 0:(1013.0558,1565.9012)
+:Sending Touch (ACTION_DOWN): 0:(88.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(90.64609,1309.3337)
+:Sending Touch (ACTION_DOWN): 0:(309.0,179.0)
+:Sending Touch (ACTION_UP): 0:(323.79593,145.96635)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(70.0,1016.0)
+:Sending Touch (ACTION_UP): 0:(54.769524,1032.251)
+:Sending Touch (ACTION_DOWN): 0:(997.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(1002.5533,1559.2614)
+    //[calendar_time:2021-08-04 00:03:05.730  system_uptime:5197954]
+    // Sending event #900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.malinux.lectureFrancais.actLecture/.test;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.malinux.lectureFrancais.actLecture/.test } in package org.malinux.lectureFrancais.actLecture
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,324.0)
+:Sending Touch (ACTION_UP): 0:(577.8418,328.83047)
+:Sending Touch (ACTION_DOWN): 0:(497.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(423.31393,1518.5748)
+:Sending Touch (ACTION_DOWN): 0:(192.0,14.0)
+:Sending Touch (ACTION_UP): 0:(215.29689,2.8501496)
+:Sending Touch (ACTION_DOWN): 0:(258.0,320.0)
+:Sending Touch (ACTION_UP): 0:(276.34503,324.50757)
+:Sending Touch (ACTION_DOWN): 0:(18.0,304.0)
+:Sending Touch (ACTION_UP): 0:(0.0,341.97736)
+:Sending Touch (ACTION_DOWN): 0:(519.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(518.9386,1496.9015)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1392.0)
+:Sending Touch (ACTION_UP): 0:(422.5831,1400.24)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(282.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(287.0802,1660.9237)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,319.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=138067ms (0ms mobile, 0ms wifi, 138067ms not connected)
+// Monkey finished

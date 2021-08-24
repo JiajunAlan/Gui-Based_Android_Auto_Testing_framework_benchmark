@@ -1,0 +1,10 @@
+edit(resource-id='org.windvolt:id/position_input')@12stt
+edit(resource-id='org.windvolt:id/position_input')@testt
+back@
+click(content-desc='102')@
+edit(resource-id='org.windvolt:id/content_edit')@12
+edit(resource-id='org.windvolt:id/content_edit')@1
+edit(resource-id='org.windvolt:id/content_edit')@
+click(className='android.widget.Button',instance='1')@okay
+click(resource-id='org.windvolt:id/device_remove')@
+click(className='android.widget.Button',instance='1')@entfernen

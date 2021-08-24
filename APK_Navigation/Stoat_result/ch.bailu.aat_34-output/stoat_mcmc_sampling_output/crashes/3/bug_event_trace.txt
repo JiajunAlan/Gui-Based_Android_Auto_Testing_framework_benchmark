@@ -1,0 +1,5 @@
+click(className='android.widget.TextView',instance='20')@/storage/sdcard/aat_data/overlay
+click(className='android.widget.ImageView',instance='1')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.ImageView',instance='1')@
+scroll(direction='down')@

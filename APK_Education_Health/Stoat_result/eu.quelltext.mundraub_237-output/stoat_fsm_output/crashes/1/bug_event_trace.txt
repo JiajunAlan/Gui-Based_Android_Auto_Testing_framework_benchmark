@@ -1,0 +1,113 @@
+click(className='android.widget.Button',instance='1')@yes
+back@
+keyevent_back@
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Community Codex
+click(className='android.widget.Button',instance='1')@Sounds reasonable, I understand!
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='7')@About
+click(className='android.widget.Button',instance='1')@View the source code of version v1.236 at commit 9f2eb33.
+keyevent_back@
+clickLong(content-desc='More options')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='5')@Changelog
+clickLong(content-desc='More options')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='5')@Changelog
+scroll(direction='up')@
+scroll(direction='down')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Map
+scroll(direction='down')@
+scroll(direction='up')@
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.TextView',instance='6')@© OpenStreetMap contributors
+edit(resource-id='eu.quelltext.mundraub:id/text_description')@
+back@
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.Button',instance='2')@GPS
+click(resource-id='eu.quelltext.mundraub:id/image_plant')@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Map
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Map
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.Button',instance='1')@+
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@My Plants
+click(className='android.widget.TextView',instance='3')@Unknown Plant
+click(className='android.widget.Button',instance='1')@Edit
+click(className='android.widget.Button',instance='0')@Choose a type of plant!
+scroll(direction='down')@
+click(className='android.widget.Button',instance='1')@OK
+edit(resource-id='eu.quelltext.mundraub:id/number_of_plants')@0
+click(className='android.widget.Button',instance='3')@Map
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.Button',instance='0')@Ramsons
+click(className='android.widget.Button',instance='5')@OK
+click(className='android.widget.Button',instance='4')@OK
+back@
+back@
+edit(resource-id='eu.quelltext.mundraub:id/number_of_plants')@1
+click(className='android.widget.Button',instance='6')@Delete
+click(className='android.widget.Button',instance='0')@no
+click(className='android.widget.Button',instance='5')@OK
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Find Places
+clickLong(content-desc='More options')@
+back@
+edit(resource-id='eu.quelltext.mundraub:id/search_address_text')@
+click(className='android.widget.TextView',instance='2')@Data © OpenStreetMap contributors, ODbL 1.0.
+keyevent_back@
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.Button',instance='5')@Delete
+click(className='android.widget.Button',instance='1')@yes
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.Button',instance='0')@Choose a type of plant!
+click(className='android.widget.Button',instance='6')@OK
+click(className='android.widget.Button',instance='4')@OK
+scroll(direction='down')@
+click(resource-id='eu.quelltext.mundraub:id/fab')@
+click(className='android.widget.Button',instance='3')@Map
+scroll(direction='up')@
+click(content-desc='More options')@
+back@
+scroll(direction='down')@
+click(className='android.widget.Button',instance='1')@Cancel
+click(className='android.widget.Button',instance='0')@Choose a type of plant!
+click(className='android.widget.Button',instance='2')@OK
+click(className='android.widget.Button',instance='0')@Pear
+click(className='android.widget.Button',instance='10')@OK
+click(className='android.widget.Button',instance='0')@Bilberry
+click(className='android.widget.Button',instance='9')@OK
+click(className='android.widget.Button',instance='0')@Blackberry
+click(className='android.widget.Button',instance='7')@OK
+click(className='android.widget.Button',instance='0')@Quince
+click(className='android.widget.Button',instance='11')@OK
+click(className='android.widget.Button',instance='0')@Raspberry
+back@
+click(className='android.widget.Button',instance='0')@Raspberry
+click(className='android.widget.Button',instance='8')@OK
+click(className='android.widget.Button',instance='0')@Other Fruit Tree
+click(className='android.widget.Button',instance='3')@OK
+click(className='android.widget.Button',instance='0')@Cherry
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.Button',instance='0')@Apple
+click(className='android.widget.Button',instance='12')@OK
+click(className='android.widget.Button',instance='0')@Elder
+click(className='android.widget.Button',instance='4')@OK
+click(className='android.widget.Button',instance='0')@Mirabelle
+scroll(direction='up')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+scroll(direction='up')@
+scroll(direction='down')@
+click(content-desc='More options')@
+back@
+click(className='android.widget.Button',instance='0')@test radar notifications on the map
+click(className='android.widget.Button',instance='0')@OK

@@ -1,0 +1,188 @@
+click(content-desc='More options')@
+menu@
+clickLong(content-desc='More options')@
+back@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='6')@About
+click(className='android.widget.Button',instance='0')@OK
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Route to given POI
+back@
+menu@
+click(className='android.widget.TextView',instance='5')@Settings
+back@
+click(className='android.widget.TextView',instance='8')@The email address you signed up with at hikar.org
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='7')@Email address
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='3')@Distance units
+click(className='android.widget.Button',instance='0')@Cancel
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='4')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='5')@Email address
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Password
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='0')@Sparsely-populated countryside around 18x18km data
+click(className='android.widget.CheckedTextView',instance='2')@Urban around 4.5x4.5km data
+click(className='android.widget.CheckedTextView',instance='3')@Large urban around 2.25x2.25 km data
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='1')@Countryside and small town around 9x9km data
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='5')@Data download zoom level
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='1')@Language
+click(className='android.widget.CheckedTextView',instance='1')@English
+click(className='android.widget.CheckedTextView',instance='3')@Large urban around 2.25x2.25 km data
+click(className='android.widget.TextView',instance='1')@Language
+click(className='android.widget.CheckedTextView',instance='0')@The local language
+click(className='android.widget.TextView',instance='5')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='2')@Urban around 4.5x4.5km data
+click(className='android.widget.CheckedTextView',instance='1')@Countryside and small town around 9x9km data
+click(className='android.widget.TextView',instance='8')@The email address you signed up with at hikar.org
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='3')@Distance units
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='7')@Email address
+edit(resource-id='android:id/edit')@test
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.CheckedTextView',instance='0')@The local language
+click(className='android.widget.TextView',instance='4')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+click(className='android.widget.TextView',instance='3')@Distance units
+click(className='android.widget.Button',instance='0')@Cancel
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='8')@The email address you signed up with at hikar.org
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.CheckedTextView',instance='1')@English
+click(className='android.widget.TextView',instance='4')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='7')@Email address
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='5')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='0')@Sparsely-populated countryside around 18x18km data
+click(className='android.widget.TextView',instance='1')@Language
+click(className='android.widget.CheckedTextView',instance='0')@The local language
+click(className='android.widget.CheckedTextView',instance='3')@Large urban around 2.25x2.25 km data
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='5')@Email address
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+edit(resource-id='android:id/edit')@
+back@
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='5')@Email address
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.CheckedTextView',instance='1')@Countryside and small town around 9x9km data
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='2')@Urban around 4.5x4.5km data
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='0')@Sparsely-populated countryside around 18x18km data
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+edit(resource-id='android:id/edit')@test
+back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='4')@Distance units for signposts
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Email address
+edit(resource-id='android:id/edit')@test
+back@
+click(className='android.widget.TextView',instance='3')@Distance units
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.CheckedTextView',instance='1')@English
+click(className='android.widget.TextView',instance='1')@Language
+click(className='android.widget.CheckedTextView',instance='1')@English
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='1')@Countryside and small town around 9x9km data
+click(className='android.widget.CheckedTextView',instance='3')@Large urban around 2.25x2.25 km data
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+edit(resource-id='android:id/edit')@
+back@
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='5')@Email address
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+edit(resource-id='android:id/edit')@test
+back@
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.CheckedTextView',instance='0')@Kilometres
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='5')@Email address
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.CheckedTextView',instance='2')@Urban around 4.5x4.5km data
+click(className='android.widget.TextView',instance='5')@Email address
+back@
+click(className='android.widget.CheckedTextView',instance='0')@Sparsely-populated countryside around 18x18km data
+click(className='android.widget.TextView',instance='6')@The email address you signed up with at hikar.org
+click(className='android.widget.Button',instance='1')@OK
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@Data download zoom level
+click(className='android.widget.CheckedTextView',instance='0')@Sparsely-populated countryside around 18x18km data
+click(className='android.widget.TextView',instance='2')@Distance units for signposts
+click(className='android.widget.CheckedTextView',instance='1')@Miles
+click(className='android.widget.TextView',instance='1')@Distance units
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Password
+edit(resource-id='android:id/edit')@
+back@
+click(className='android.widget.TextView',instance='8')@The email address you signed up with at hikar.org
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+back@
+click(className='android.widget.TextView',instance='5')@Data download zoom level

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[474,419][1024,839]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,440][1003,818]">
+      <node index="0" text="Auto" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.jovial.jrpn" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,440][1003,566]" />
+      <node index="1" text="Landscape" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.jovial.jrpn" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,566][1003,692]" />
+      <node index="2" text="Portrait" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="com.jovial.jrpn" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,692][1003,818]" />
+    </node>
+  </node>
+</hierarchy>

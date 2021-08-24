@@ -1,0 +1,22 @@
+    119@click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+    120@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Website"
+    121@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"https://seeneva.app"
+    122@click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+    123@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Source code"
+    124@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"View app repository"
+    125@click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+    126@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"License"
+    127@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"GNU GPLv3 or any later version"
+    128@click(resource-id='app.seeneva.reader:id/iconView'):android.widget.ImageView@""
+    129@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Third-party libraries"
+    130@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Let's thank their authors!"
+    131@click(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+    132@clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+    133@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Library"
+    134@clickLong(className='android.widget.TextView',instance='12'):android.widget.TextView@"Library"
+    135@clickLong(resource-id='app.seeneva.reader:id/icon'):android.widget.ImageView@""
+    136@clickLong(className='android.widget.TextView',instance='13'):android.widget.TextView@"About"
+    11@menu
+    12@back
+    139@scroll(direction='down')
+    140@scroll(direction='up')

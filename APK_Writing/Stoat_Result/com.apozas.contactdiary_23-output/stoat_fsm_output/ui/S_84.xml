@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[427,182][1080,1253]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,203][1059,1232]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,203][1059,329]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,234][1017,297]">
+          <node index="0" text="Refresh" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,234][1017,297]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,332][1059,458]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,363][1017,426]">
+          <node index="0" text="Forward" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,363][1017,426]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,461][1059,587]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,492][1017,555]">
+          <node index="0" text="Bookmarks" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,492][1017,555]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,590][1059,716]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,621][1017,684]">
+          <node index="0" text="Save to bookmarks" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,621][1017,684]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,719][1059,845]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,750][1017,813]">
+          <node index="0" text="Share page" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,750][1017,813]" />
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,848][1059,974]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,879][1017,942]">
+          <node index="0" text="Find on page" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,879][1017,942]" />
+        </node>
+      </node>
+      <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,977][1059,1103]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,1008][933,1071]">
+          <node index="0" text="Request desktop site" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,1008][933,1071]" />
+        </node>
+        <node index="1" text="" resource-id="android:id/checkbox" class="android.widget.CheckBox" package="com.android.browser" content-desc="" checkable="true" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[933,998][1017,1082]" />
+      </node>
+      <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[448,1106][1059,1232]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,1137][1017,1200]">
+          <node index="0" text="Settings" resource-id="android:id/title" class="android.widget.TextView" package="com.android.browser" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[490,1137][1017,1200]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

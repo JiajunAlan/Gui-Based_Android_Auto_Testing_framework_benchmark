@@ -1,0 +1,1119 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626399186361 count=1000
+:AllowPackage: com.ero.kinoko
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ero.kinoko/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7334)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7349)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7367)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(336.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(402.42264,1186.1008)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,520.0)
+:Sending Touch (ACTION_UP): 0:(1043.6316,508.60855)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ero.kinoko/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7387)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7402)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7433)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(103.0,97.0)
+:Sending Touch (ACTION_UP): 0:(102.41279,96.32545)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(242.39757,1201.71)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(659.0,687.0)
+:Sending Touch (ACTION_UP): 0:(654.1595,694.2726)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.providers.downloads.ui/.DownloadList } in package com.android.providers.downloads.ui
+:Sending Touch (ACTION_DOWN): 0:(968.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(933.16974,1237.1257)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(101.0,320.0)
+:Sending Touch (ACTION_UP): 0:(111.16817,335.64102)
+:Sending Touch (ACTION_DOWN): 0:(40.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(41.370453,1077.4902)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1009.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(1011.30255,1565.1007)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 03:44:03.346  system_uptime:18455588]
+    // Sending event #100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(870.0,262.0)
+:Sending Touch (ACTION_UP): 0:(974.7419,280.84024)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(767.0,936.0)
+:Sending Touch (ACTION_UP): 0:(770.7698,883.55334)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(21.855803,1624.9766)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,359.0)
+:Sending Touch (ACTION_UP): 0:(1067.0582,278.01544)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(138.57658,1225.8165)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(259.0,304.0)
+:Sending Touch (ACTION_UP): 0:(257.0547,322.92847)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ero.kinoko/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7549)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7564)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7583)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ero.kinoko/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7600)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7615)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7631)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(813.0,307.0)
+:Sending Touch (ACTION_UP): 0:(804.9704,301.08365)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2021-08-04 03:44:15.607  system_uptime:18467830]
+    // Sending event #200
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(248.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(254.08784,1566.6873)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(500.51947,1763.5198)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(829.0,191.0)
+:Sending Touch (ACTION_UP): 0:(828.71783,183.918)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(719.96234,1700.4545)
+:Sending Touch (ACTION_DOWN): 0:(695.0,773.0)
+:Sending Touch (ACTION_UP): 0:(700.40186,779.6743)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7661)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7676)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7692)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(122.0,688.0)
+:Sending Touch (ACTION_UP): 0:(133.82234,684.76306)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.customlocale2/.CustomLocaleActivity } in package com.android.customlocale2
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(783.0,827.0)
+:Sending Touch (ACTION_UP): 0:(860.0121,888.6662)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,27.0)
+:Sending Touch (ACTION_UP): 0:(638.22504,41.094883)
+:Sending Touch (ACTION_DOWN): 0:(772.0,189.0)
+:Sending Touch (ACTION_UP): 0:(767.79376,207.67215)
+:Sending Touch (ACTION_DOWN): 0:(864.0,274.0)
+    //[calendar_time:2021-08-04 03:44:25.822  system_uptime:18478046]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(727.68445,343.79593)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(641.0,690.0)
+:Sending Touch (ACTION_UP): 0:(622.531,690.36926)
+:Sending Touch (ACTION_DOWN): 0:(538.0,866.0)
+:Sending Touch (ACTION_UP): 0:(532.3287,864.76825)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ero.kinoko/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ero.kinoko/.MainActivity } in package com.ero.kinoko
+// CRASH: com.ero.kinoko (pid 7730)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7745)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.ero.kinoko (pid 7763)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at com.ero.kinoko.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 21 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.ero.kinoko-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.ero.kinoko-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(72.0,488.0)
+:Sending Touch (ACTION_UP): 0:(77.72774,490.43594)
+:Sending Touch (ACTION_DOWN): 0:(59.0,975.0)
+:Sending Touch (ACTION_UP): 0:(58.411175,976.0103)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(157.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(194.53899,1450.8066)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(67.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(75.56341,1098.8103)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(1058.9647,1527.3878)
+:Sending Touch (ACTION_DOWN): 0:(339.0,1579.0)
+    //[calendar_time:2021-08-04 03:44:40.041  system_uptime:18492264]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(402.01193,1542.1387)
+:Sending Touch (ACTION_DOWN): 0:(79.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(71.652824,1001.6378)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(369.0,92.0)
+:Sending Touch (ACTION_UP): 0:(368.5105,86.447296)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(525.05475,1375.6068)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1333.0)
+:Sending Touch (ACTION_UP): 0:(307.82257,1331.9545)
+:Sending Touch (ACTION_DOWN): 0:(719.0,320.0)
+:Sending Touch (ACTION_UP): 0:(705.4063,334.32196)
+:Sending Touch (ACTION_DOWN): 0:(649.0,624.0)
+:Sending Touch (ACTION_UP): 0:(643.09875,619.4461)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(706.0,914.0)
+:Sending Touch (ACTION_UP): 0:(610.2067,949.9679)
+:Sending Touch (ACTION_DOWN): 0:(783.0,1097.0)
+    //[calendar_time:2021-08-04 03:44:48.686  system_uptime:18500910]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(747.75964,1080.581)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1623.0)
+:Sending Touch (ACTION_UP): 0:(607.7709,1670.2997)
+:Sending Touch (ACTION_DOWN): 0:(173.0,348.0)
+:Sending Touch (ACTION_UP): 0:(171.13791,363.6487)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,776.0)
+:Sending Touch (ACTION_UP): 0:(1056.6761,758.811)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,352.0)
+:Sending Touch (ACTION_UP): 0:(1021.0767,351.6994)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(687.0,472.0)
+:Sending Touch (ACTION_UP): 0:(675.2487,481.68158)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(812.0,388.0)
+:Sending Touch (ACTION_UP): 0:(825.3965,387.55438)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2021-08-04 03:44:56.817  system_uptime:18509041]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(699.21375,1351.47)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1048.0,776.0)
+:Sending Touch (ACTION_UP): 0:(1033.117,844.035)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1020.0,882.0)
+:Sending Touch (ACTION_UP): 0:(1033.0165,881.8781)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(130.30302,1601.6642)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(561.0,22.0)
+:Sending Touch (ACTION_UP): 0:(567.8704,7.9125605)
+:Sending Touch (ACTION_DOWN): 0:(39.0,1237.0)
+    //[calendar_time:2021-08-04 03:45:06.008  system_uptime:18518232]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(8.660146,1316.4775)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(1030.5492,1318.3374)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1139.3712)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(412.0,886.0)
+:Sending Touch (ACTION_UP): 0:(392.35596,891.46387)
+:Sending Touch (ACTION_DOWN): 0:(174.0,160.0)
+:Sending Touch (ACTION_UP): 0:(205.00903,250.61446)
+:Sending Touch (ACTION_DOWN): 0:(740.0,102.0)
+:Sending Touch (ACTION_UP): 0:(760.3012,145.99709)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(986.0,920.0)
+:Sending Touch (ACTION_UP): 0:(970.52783,927.1698)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(426.59702,1151.0438)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(18.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(7.6790733,1383.0164)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2021-08-04 03:45:16.216  system_uptime:18528440]
+    // Sending event #800
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+    //[calendar_time:2021-08-04 03:45:16.716  system_uptime:18528940]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(242.09795,1453.544)
+:Sending Touch (ACTION_DOWN): 0:(815.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(822.8093,1139.8258)
+:Sending Touch (ACTION_DOWN): 0:(527.0,597.0)
+:Sending Touch (ACTION_UP): 0:(457.67227,609.2791)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(78.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(81.74111,1085.6742)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(481.0,679.0)
+:Sending Touch (ACTION_UP): 0:(516.931,705.9096)
+:Sending Touch (ACTION_DOWN): 0:(169.0,796.0)
+:Sending Touch (ACTION_UP): 0:(178.12863,838.243)
+    //[calendar_time:2021-08-04 03:45:26.442  system_uptime:18538666]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(394.0,252.0)
+:Sending Touch (ACTION_UP): 0:(388.5858,251.8924)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(338.0,646.0)
+:Sending Touch (ACTION_UP): 0:(333.67725,647.23865)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(321.0,810.0)
+:Sending Touch (ACTION_UP): 0:(342.1403,856.314)
+:Sending Touch (ACTION_DOWN): 0:(167.0,1719.0)
+:Sending Touch (ACTION_UP): 0:(161.86278,1653.8279)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(514.0,832.0)
+:Sending Touch (ACTION_UP): 0:(515.9975,829.3519)
+:Sending Touch (ACTION_DOWN): 0:(793.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(796.0842,1414.643)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(158.0,1120.0)
+:Sending Touch (ACTION_UP): 0:(91.17491,1119.429)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(363.0,947.0)
+:Sending Touch (ACTION_UP): 0:(403.20242,991.8321)
+:Sending Touch (ACTION_DOWN): 0:(199.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(197.37929,1309.0682)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=111613ms (0ms mobile, 0ms wifi, 111613ms not connected)
+// Monkey finished

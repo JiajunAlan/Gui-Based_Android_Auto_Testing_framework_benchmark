@@ -1,0 +1,18 @@
+[1629392363575] Sleep for 0 ms
+[1629392363576] Sleep for 2000 ms
+[1629392365579] Sleep for 0 ms
+[1629392365580] :schema :
+[1629392365581] Sleep for 0 ms
+[1629392365582] Sleep for 2000 ms
+[1629392367585] Events injected : 1191
+[1629392367585] // Monkey is over!
+[1629392367585] :Sending rotation degree : 0, persist : false
+[1629392367609] Total app activities:
+[1629392367609]    1 com.emmanuelmess.itsdicey.MainActivity
+[1629392367609] Explored app activities:
+[1629392367609]    1 com.emmanuelmess.itsdicey.MainActivity
+[1629392367609] Acitity of Coverage: 100.0%
+[1629392367609] Activity of Times:
+[1629392367610] com.emmanuelmess.itsdicey.MainActivity     18
+:Dropped : keys=0 pointers=13 trackballs=0 flips=0 rotations=0
+[1629392367622] // Monkey finished

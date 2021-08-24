@@ -1,0 +1,40 @@
+[1629380312128] Events injected : 2282
+[1629380312128] // Monkey is over!
+[1629380312128] :Sending rotation degree : 0, persist : false
+[1629380312150] Total app activities:
+[1629380312151]    1 org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity
+[1629380312151]    2 org.secuso.privacyfriendlyactivitytracker.activities.DistanceMeasurementActivity
+[1629380312151]    3 org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity
+[1629380312151]    4 org.secuso.privacyfriendlyactivitytracker.activities.PreferencesActivity
+[1629380312151]    5 org.secuso.privacyfriendlyactivitytracker.tutorial.TutorialActivity
+[1629380312151]    6 org.secuso.privacyfriendlyactivitytracker.activities.AboutActivity
+[1629380312151]    7 org.secuso.privacyfriendlyactivitytracker.activities.WalkingModeLearningActivity
+[1629380312151]    8 org.secuso.privacyfriendlyactivitytracker.activities.MotivationAlertTextsActivity
+[1629380312151]    9 org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity
+[1629380312151]   10 org.secuso.privacyfriendlyactivitytracker.activities.HelpActivity
+[1629380312151]   11 org.secuso.privacyfriendlyactivitytracker.activities.WidgetConfigureActivity
+[1629380312151]   12 org.secuso.privacyfriendlyactivitytracker.activities.WalkingModesActivity
+[1629380312151]   13 org.secuso.privacyfriendlyactivitytracker.activities.MainActivity
+[1629380312151] Explored app activities:
+[1629380312151]    1 org.secuso.privacyfriendlyactivitytracker.activities.AboutActivity
+[1629380312151]    2 org.secuso.privacyfriendlyactivitytracker.activities.HelpActivity
+[1629380312151]    3 org.secuso.privacyfriendlyactivitytracker.activities.MainActivity
+[1629380312151]    4 org.secuso.privacyfriendlyactivitytracker.activities.MotivationAlertTextsActivity
+[1629380312151]    5 org.secuso.privacyfriendlyactivitytracker.activities.PreferencesActivity
+[1629380312151]    6 org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity
+[1629380312151]    7 org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity
+[1629380312151]    8 org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity
+[1629380312151]    9 org.secuso.privacyfriendlyactivitytracker.tutorial.TutorialActivity
+[1629380312151] Acitity of Coverage: 69.230774%
+[1629380312151] Activity of Times:
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity     17
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.tutorial.TutorialActivity      3
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.PreferencesActivity     15
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.AboutActivity      9
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity     12
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.HelpActivity      6
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.MotivationAlertTextsActivity      3
+[1629380312151] org.secuso.privacyfriendlyactivitytracker.activities.MainActivity    142
+:Dropped : keys=0 pointers=24 trackballs=0 flips=0 rotations=0
+[1629380312158] // App appears 1 crash, 0 anr, monkey using seed : 1630260076412
+[1629380312158] // Monkey finished

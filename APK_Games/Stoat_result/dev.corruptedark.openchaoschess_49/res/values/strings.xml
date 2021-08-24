@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BT_UUID">fc0ebdde–e425–4123–92a8–17bd8a90a769</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="aggressive_computer">Aggressive computer</string>
+    <string name="app_name">Open Chaos Chess</string>
+    <string name="background_color">Background Color:</string>
+    <string name="bar_color">Bar Color:</string>
+    <string name="bloodthirst">Bloodthirst</string>
+    <string name="bloodthirst_notification">Bloodthirst will be toggled on new game</string>
+    <string name="bloodthirst_toggle_cancelled">Bloodthirst toggle cancelled</string>
+    <string name="bloodthirsty_by_default">Bloodthirsty by default</string>
+    <string name="board_color_1">Board Color 1:</string>
+    <string name="board_color_2">Board Color 2:</string>
+    <string name="cant_move_that_bruh">"Can't move that, bruh!"</string>
+    <string name="check_invites">Check Invites</string>
+    <string name="chess960">Chess960 mode</string>
+    <string name="color_save_failed">Colors failed to save</string>
+    <string name="colors_saved">Colors saved</string>
+    <string name="computer_points">Computer Points:</string>
+    <string name="contact">"Facebook: Noah James Stanford
+Twitter: @CorruptedArk
+GitHub: CorruptedArk
+
+My Website: corruptedark.wordpress.com
+
+Email: noahstandingford@gmail.com
+
+"</string>
+    <string name="create_game">Send Invite</string>
+    <string name="credits">"v%1$s by Noah Stanford (aka CorruptedArk) 
+ originally for CIS 175 Fall 2016 at MCCC as Chaos Chess 
+ Credit for the color picker dialog goes to Simone Pessotto (aka Pes8) 
+ Credit for the idea of color settings goes to Jonas Lowe 
+ Credit for Chess960 mode, Queens Attack Handicap, Smart Computer, and other small changes goes to egorguslyan on GitHub 
+ Credit for Russian translations goes to LibreHacker on GitHub 
+ Credit for German translations goes to Lian C. Begett/RedsickleDE on GitHub 
+ Credit for Turkish translations goes to berkaygunduzz on GitHub 
+ Credit for Arabic translations and a quality of life improvement on captures goes to Vulldozer on GitHub 
+ Credit for Spanish translations goes to sguinetti on GitHub 
+ Credit for Indonesian translations goes to the7thNightmare on GitHub 
+ The concept for Bloodthirst was suggested by czarkoff on GitHub 
+ The Bloodthirst by default toggle was suggested by itsanogo on GitHub 
+ The aggressive computer option was suggested by vi on GitHub"</string>
+    <string name="descript">"Open Chaos Chess is a free as in speech version of Chaos Chess. Chaos Chess is a variation of chess where you can pick the piece that moves, but the moves are random. As such, you no longer win by checkmates. Instead, you win by eliminating your opponent's pieces. Have fun, and may the RNG be ever in your favor. 
+
+Open Chaos Chess Copyright © 2019 Noah Stanford 
+This program comes with ABSOLUTELY NO WARRANTY. 
+This is free software, and you are welcome to redistribute it under certain conditions. 
+For the full GNU General Public License visit: https://www.gnu.org/licenses/gpl-3.0.txt 
+ 
+By default, pieces have no bias to attack. However, while Bloodthirst is active, pieces will always attack if possible."</string>
+    <string name="enable_handicap">Enable handicap</string>
+    <string name="export_file">Export to File</string>
+    <string name="game_over_bruh">"Game's over, bruh!"</string>
+    <string name="gameplay_settings_file">gameplaysettings.txt</string>
+    <string name="host_game">Host Game</string>
+    <string name="host_status">Host status:</string>
+    <string name="import_file">Import From File</string>
+    <string name="issues">Issues</string>
+    <string name="issues_url">https://github.com/CorruptedArk/open-chaos-chess/issues</string>
+    <string name="join_game">Join Game</string>
+    <string name="knights_only">Knights only?</string>
+    <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__btnSelectColor">Select</string>
+    <string name="materialcolorpicker__descLib">Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__errHex">Hex Code Format incorrect</string>
+    <string name="materialcolorpicker__hash">\#</string>
+    <string name="materialcolorpicker__inputColor">Color:</string>
+    <string name="move_second">Move second (Solo)</string>
+    <string name="multiplayer_guide">"If you haven't paired up with the device of your opponent, go into your device's settings and do so before you start connecting."</string>
+    <string name="new_game">New Game</string>
+    <string name="new_slogan">"You pick the piece, not the move
+Now with more freedom!"</string>
+    <string name="noice">Noice!</string>
+    <string name="not_your_turn_stupid">"It's not your turn, bruh!"</string>
+    <string name="opponent_points">Opponent Points:</string>
+    <string name="paired_devices">Paired Devices:</string>
+    <string name="piece_color">Piece Color:</string>
+    <string name="play">Solo Play</string>
+    <string name="player_points">Player Points:</string>
+    <string name="plus_one">+1</string>
+    <string name="queensAttack">Queens attack</string>
+    <string name="quick_match">Quick Match</string>
+    <string name="quit">Quit</string>
+    <string name="save_colors">Save Colors</string>
+    <string name="search_menu_title">Search</string>
+    <string name="secondary_color">Secondary Color:</string>
+    <string name="secret_hello">"Hello, I'm not sure how you figured out how to get here. But, since you're here, may I ask your name?"</string>
+    <string name="selection_color">Selection Color:</string>
+    <string name="set_to_defaults">Set to defaults</string>
+    <string name="setting_applied_on_new_game">Setting will be applied on new game</string>
+    <string name="settings">Settings</string>
+    <string name="settings_file">settings.txt</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="slogan">You pick the piece, not the move</string>
+    <string name="smartComputer">Smart computer</string>
+    <string name="solo">Solo</string>
+    <string name="start_host">Start Host</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_host">Stop Host</string>
+    <string name="text_color">Text Color:</string>
+    <string name="that_sucks">Aw dang dude, that sucks!</string>
+    <string name="tied_bro">"OOOH IT'S TIED, BRO!"</string>
+    <string name="versus">Versus</string>
+    <string name="wait_for_move">Wait until the move has finished</string>
+    <string name="you_lost">Dang dude, you lost!</string>
+    <string name="you_won">Noice dude! You Won!</string>
+    <string name="your_points">Your Points:</string>
+</resources>

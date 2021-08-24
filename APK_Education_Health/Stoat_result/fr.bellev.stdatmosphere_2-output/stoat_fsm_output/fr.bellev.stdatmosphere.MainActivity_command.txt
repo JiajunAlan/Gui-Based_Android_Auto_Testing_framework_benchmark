@@ -1,0 +1,24 @@
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"StdAtmosphere"
+    3@click(content-desc='More options'):android.widget.ImageButton@""
+    55@edit(resource-id='fr.bellev.stdatmosphere:id/Val'):android.widget.EditText@"12"
+    281@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"R"
+    6@edit(resource-id='fr.bellev.stdatmosphere:id/Val'):android.widget.EditText@"0."
+    7@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"m"
+    8@edit(resource-id='fr.bellev.stdatmosphere:id/Val'):android.widget.EditText@"0."
+    9@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"---"
+    967@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Temperatures"
+    968@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Pressures"
+    969@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"3804.6412"
+    970@clickLong(className='android.widget.TextView',instance='12'):android.widget.TextView@"3804.6412"
+    1734@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"km/h"
+    972@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"0.0000"
+    973@clickLong(className='android.widget.TextView',instance='15'):android.widget.TextView@"0.0000"
+    1267@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"a0"
+    975@click(className='android.widget.TextView',instance='18'):android.widget.TextView@"0.0000"
+    976@clickLong(className='android.widget.TextView',instance='18'):android.widget.TextView@"0.0000"
+    977@click(className='android.widget.TextView',instance='19'):android.widget.TextView@"m/s"
+    20@menu
+    21@back
+    980@scroll(direction='down')
+    981@scroll(direction='up')

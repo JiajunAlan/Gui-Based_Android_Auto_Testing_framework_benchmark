@@ -1,0 +1,11 @@
+click(resource-id='org.voidsink.anewjkuapp:id/text_input_end_icon')@
+click(className='android.widget.Button',instance='0')@Login
+back@
+click(content-desc='Navigate up')@
+clickLong(resource-id='org.voidsink.anewjkuapp:id/action_refresh_mensa')@
+scroll(direction='down')@
+clickLong(resource-id='org.voidsink.anewjkuapp:id/action_refresh_mensa')@
+click(content-desc='Navigate up')@
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='7')@Info
+clickLong(className='android.widget.TextView',instance='4')@An der Johannes Kepler Universität besteht die ÖH aus der Universitätsvertretung, den zugeordneten Referaten, wie beispielsweise dem ÖH Sozialreferat, den Fakultätsvertretungen und den Studienvertretungen. Unsere Aufgabenfelder sind Beratung, Information, Service und Vertretung. In diesem Sinne stehen wir dir bei Problemen im Studium mit Rat und Tat zur Seite, informieren dich über aktuelle Ereignisse an der Universität und vertreten die Studierenden in den Gremien der Universität.

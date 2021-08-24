@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,759][1053,1101]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,1059]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,1059]">
+        <node index="0" text="" resource-id="de.blau.android:id/action_bar_root" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,1059]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,1059]">
+            <node index="0" text="" resource-id="de.blau.android:id/parentPanel" class="androidx.appcompat.widget.LinearLayoutCompat" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,1059]">
+              <node index="0" text="" resource-id="de.blau.android:id/topPanel" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,911]">
+                <node index="0" text="" resource-id="de.blau.android:id/title_template" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,801][1011,911]">
+                  <node index="0" text="Update template value too?" resource-id="de.blau.android:id/alertTitle" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[132,848][948,911]" />
+                </node>
+              </node>
+              <node index="1" text="" resource-id="de.blau.android:id/buttonPanel" class="android.widget.ScrollView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,911][1011,1059]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,911][1011,1059]">
+                  <node index="0" text="No" resource-id="android:id/button2" class="android.widget.Button" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[643,922][811,1048]" />
+                  <node index="1" text="Yes" resource-id="android:id/button1" class="android.widget.Button" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[811,922][979,1048]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

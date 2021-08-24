@@ -1,0 +1,22 @@
+    1@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Status"
+    2@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Service status"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Service running"
+    4@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Device identifier"
+    2548@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"12st50"
+    6@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Server URL"
+    7@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Tracking server URL"
+    8@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Location accuracy"
+    9@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Desired location accuracy"
+    10@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Frequency"
+    11@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Reporting interval in seconds"
+    12@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Distance"
+    13@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Reporting distance in meters"
+    14@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Angle"
+    15@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"Reporting angle in degrees"
+    16@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"Offline buffering"
+    61@click(className='android.widget.TextView',instance='17'):android.widget.TextView@"Buffering off"
+    18@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    19@click(className='android.widget.TextView',instance='18'):android.widget.TextView@"Wake lock"
+    20@back
+    21@scroll(direction='down')
+    22@scroll(direction='up')

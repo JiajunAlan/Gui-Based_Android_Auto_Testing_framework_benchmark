@@ -1,0 +1,101 @@
+    18@scroll(direction='down')
+    16@menu
+    20@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Default"
+    15@click(className='android.widget.Button',instance='4'):android.widget.Button@"U+0000"
+    17@back
+    8@click(className='android.widget.Button',instance='3'):android.widget.Button@"Share"
+    87@keyevent_back
+    2@clickLong(content-desc='Setting'):android.widget.TextView@""
+    3@edit(resource-id='jp.ddo.hotmist.unicodepad:id/text'):android.widget.EditText@""
+    14@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"U+0000 Basic Latin"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"U+0180 Latin Extended-B"
+    9@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Default"
+    21@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Select…"
+    87@keyevent_back
+    183@reset
+    1@click(content-desc='Setting'):android.widget.TextView@""
+    218@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Padding of grid"
+    222@back
+    210@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Appearance"
+    221@click(className='android.widget.TextView',instance='17'):android.widget.TextView@"8"
+    278@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"32"
+    214@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    205@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Latest (13.0.0)"
+    280@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    212@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Dark"
+    280@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    203@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"General"
+    209@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"https://www.google.com/get/noto/"
+    87@keyevent_back
+    206@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Use EmojiCompat to show emojis"
+    437@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"For all emoji glyphs"
+    211@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Theme"
+    364@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Light"
+    300@click(className='android.widget.TextView',instance='17'):android.widget.TextView@"32"
+    275@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"4"
+    224@scroll(direction='up')
+    220@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"Columns in grid"
+    274@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"2"
+    208@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Download Noto fonts…"
+    87@keyevent_back
+    217@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"24.0"
+    227@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    219@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"4"
+    226@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    444@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"For all emoji glyphs"
+    436@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Only for missing glyphs"
+    213@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Opt-out ads"
+    223@scroll(direction='down')
+    712@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"UnicodePad is licensed under the Apache License, Version2.0 https://github.com/Ryosuke839/UnicodePad"
+    87@keyevent_back
+    700@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    698@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    707@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Only in landscape"
+    435@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Never"
+    697@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Show font metrics in large view"
+    704@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show clear button"
+    711@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"UnicodePad 2.9.1"
+    87@keyevent_back
+    183@reset
+    6@click(className='android.widget.Button',instance='1'):android.widget.Button@"Detail"
+    12@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Emoji"
+    7@click(className='android.widget.Button',instance='2'):android.widget.Button@"Copy"
+    10@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"Default"
+    20@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Default"
+    855@click(resource-id='jp.ddo.hotmist.unicodepad:id/clear'):android.widget.ImageButton@""
+    909@scroll(direction='down')
+    20@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Default"
+    4@click(resource-id='jp.ddo.hotmist.unicodepad:id/delete'):android.widget.ImageButton@""
+    906@click(text='Modifier'):android.widget.CheckBox@"Modifier"
+    904@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Find"
+    5@click(className='android.widget.Button',instance='0'):android.widget.Button@"Paste"
+    1047@click(className='android.widget.ImageButton',instance='0'):android.widget.ImageButton@""
+    1046@edit(className='android.widget.EditText',instance='1'):android.widget.EditText@"Enter a character name"
+    1051@scroll(direction='down')
+    16@menu
+    20@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Default"
+    1044@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Emoji"
+    903@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"List"
+    19@scroll(direction='up')
+    17@back
+    173@click(className='android.widget.Button',instance='4'):android.widget.Button@"U+0180"
+    65@click(className='android.widget.Button',instance='16'):android.widget.Button@"Search"
+    11@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Recent"
+    1052@scroll(direction='up')
+    21@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Select…"
+    87@keyevent_back
+    183@reset
+    1256@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"List"
+    172@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"U+0180 Latin Extended-B"
+    157@scroll(direction='down')
+    158@scroll(direction='up')
+    1319@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"U+11400 Newa"
+    157@scroll(direction='down')
+    158@scroll(direction='up')
+    157@scroll(direction='down')
+    158@scroll(direction='up')
+    145@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"U+0000 Basic Latin"
+    158@scroll(direction='up')
+    146@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"U+0080 Latin-1 Supplement"
+    13@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Mark"
+    157@scroll(direction='down')

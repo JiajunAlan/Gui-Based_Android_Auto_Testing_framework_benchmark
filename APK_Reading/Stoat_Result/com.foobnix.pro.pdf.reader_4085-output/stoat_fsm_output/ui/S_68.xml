@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.foobnix.pro.pdf.reader:id/parentParent" class="android.widget.RelativeLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="com.foobnix.pro.pdf.reader:id/pager2" class="android.view.View" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+            <node index="0" text="" resource-id="com.foobnix.pro.pdf.reader:id/backgroundLayout" class="android.widget.RelativeLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+              <node index="0" text="" resource-id="com.foobnix.pro.pdf.reader:id/myImage1" class="android.view.View" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="com.foobnix.pro.pdf.reader:id/bottomPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,1784][1080,1794]">
+            <node NAF="true" index="0" text="" resource-id="com.foobnix.pro.pdf.reader:id/progressDraw" class="android.view.View" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[39,1784][1041,1794]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

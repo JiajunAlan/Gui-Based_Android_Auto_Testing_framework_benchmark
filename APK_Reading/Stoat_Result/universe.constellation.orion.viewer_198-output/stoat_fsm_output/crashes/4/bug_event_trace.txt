@@ -1,0 +1,14 @@
+keyevent_back@
+click(className='android.widget.TextView',instance='6')@DCIM
+clickLong(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+keyevent_back@
+click(className='android.widget.TextView',instance='15')@feedex
+click(className='android.widget.TextView',instance='6')@images
+menu@
+scroll(direction='down')@
+click(className='android.widget.ImageView',instance='1')@
+back@
+keyevent_back@
+click(resource-id='universe.constellation.orion.viewer:id/fileImage')@
+click(className='android.widget.TextView',instance='4')@sdcard
+click(className='android.widget.TextView',instance='17')@hackers.pdf

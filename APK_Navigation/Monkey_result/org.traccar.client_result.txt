@@ -1,0 +1,271 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626397738272 count=1000
+:AllowPackage: org.traccar.client
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(714.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(769.0979,971.1483)
+:Sending Touch (ACTION_DOWN): 0:(952.0,626.0)
+:Sending Touch (ACTION_UP): 0:(999.93585,689.4972)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,153.0)
+:Sending Touch (ACTION_UP): 0:(1068.6948,149.44917)
+    // Allowing start of Intent { cmp=org.traccar.client/.StatusActivity } in package org.traccar.client
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(164.0,401.0)
+:Sending Touch (ACTION_UP): 0:(162.12376,394.9934)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(23.0,972.0)
+:Sending Touch (ACTION_UP): 0:(8.125515,972.4778)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+:Sending Touch (ACTION_DOWN): 0:(679.0,107.0)
+:Sending Touch (ACTION_UP): 0:(658.1756,122.2363)
+:Sending Touch (ACTION_DOWN): 0:(348.0,473.0)
+:Sending Touch (ACTION_UP): 0:(348.27792,492.27548)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    // Allowing start of Intent { cmp=org.traccar.client/.StatusActivity } in package org.traccar.client
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2021-08-04 03:12:43.096  system_uptime:16575339]
+    // Sending event #100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(729.0,39.0)
+:Sending Touch (ACTION_UP): 0:(711.51575,0.0)
+:Sending Touch (ACTION_DOWN): 0:(174.0,154.0)
+:Sending Touch (ACTION_UP): 0:(173.21689,157.2011)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(679.9641,1059.4476)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(801.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(763.0938,1055.1445)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(831.3497,1377.8469)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(329.00702,1312.2893)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2021-08-04 03:12:51.756  system_uptime:16583980]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(413.0,264.0)
+:Sending Touch (ACTION_UP): 0:(409.95996,257.52054)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,642.0)
+:Sending Touch (ACTION_UP): 0:(1033.4393,645.2124)
+:Sending Touch (ACTION_DOWN): 0:(483.0,895.0)
+:Sending Touch (ACTION_UP): 0:(551.23486,857.25574)
+:Sending Touch (ACTION_DOWN): 0:(274.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(272.8699,1385.3354)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(726.7995,1705.198)
+:Sending Touch (ACTION_DOWN): 0:(639.0,200.0)
+:Sending Touch (ACTION_UP): 0:(636.61993,198.89778)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(804.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(800.0834,1745.8375)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(612.0,949.0)
+:Sending Touch (ACTION_UP): 0:(669.11194,943.39355)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,28.0)
+    //[calendar_time:2021-08-04 03:13:03.454  system_uptime:16595677]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(1080.0,80.60901)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(225.8256,1706.2084)
+:Sending Touch (ACTION_DOWN): 0:(385.0,657.0)
+:Sending Touch (ACTION_UP): 0:(385.12366,689.7264)
+:Sending Touch (ACTION_DOWN): 0:(789.0,983.0)
+:Sending Touch (ACTION_UP): 0:(782.69037,982.81384)
+:Sending Touch (ACTION_DOWN): 0:(75.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(75.02548,1167.3661)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(268.95752,1280.5422)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+    // activityResuming(com.google.android.gsf.login)
+    // Rejecting resume of package com.google.android.gsf.login
+    //[calendar_time:2021-08-04 03:13:14.326  system_uptime:16606549]
+    // Sending event #400
+    //[calendar_time:2021-08-04 03:13:14.827  system_uptime:16607051]
+    // Sending event #400
+    // Allowing start of Intent { cmp=org.traccar.client/.StatusActivity } in package org.traccar.client
+:Sending Touch (ACTION_DOWN): 0:(1001.0,782.0)
+:Sending Touch (ACTION_UP): 0:(1024.0754,737.6339)
+:Sending Touch (ACTION_DOWN): 0:(486.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(480.79318,1059.6755)
+:Sending Touch (ACTION_DOWN): 0:(693.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(703.39545,1458.5671)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(362.2408,1609.8992)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(968.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(1036.8132,1236.7288)
+:Sending Touch (ACTION_DOWN): 0:(665.0,185.0)
+:Sending Touch (ACTION_UP): 0:(661.09607,184.99509)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(414.63724,1752.9387)
+:Sending Touch (ACTION_DOWN): 0:(256.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(261.9911,1644.2471)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,1154.0)
+    //[calendar_time:2021-08-04 03:13:24.986  system_uptime:16617209]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(924.5234,1157.8125)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,89.0)
+:Sending Touch (ACTION_UP): 0:(0.0,139.11603)
+:Sending Touch (ACTION_DOWN): 0:(10.0,877.0)
+:Sending Touch (ACTION_UP): 0:(16.167734,867.6635)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1493.0)
+:Sending Touch (ACTION_UP): 0:(1076.759,1482.6166)
+:Sending Touch (ACTION_DOWN): 0:(786.0,308.0)
+:Sending Touch (ACTION_UP): 0:(781.0225,305.71124)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(316.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(314.4219,1136.6067)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+:Sending Touch (ACTION_DOWN): 0:(839.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(839.099,1476.4856)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(398.8242,1185.233)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(640.7608,1405.8265)
+:Sending Touch (ACTION_DOWN): 0:(928.0,1422.0)
+    //[calendar_time:2021-08-04 03:13:38.671  system_uptime:16630895]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(919.55444,1418.339)
+:Sending Touch (ACTION_DOWN): 0:(53.0,436.0)
+:Sending Touch (ACTION_UP): 0:(59.456657,418.95935)
+:Sending Touch (ACTION_DOWN): 0:(510.0,913.0)
+:Sending Touch (ACTION_UP): 0:(535.00256,905.77747)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(542.0,367.0)
+:Sending Touch (ACTION_UP): 0:(511.96503,365.86053)
+:Sending Touch (ACTION_DOWN): 0:(845.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(844.4768,1647.9366)
+:Sending Touch (ACTION_DOWN): 0:(963.0,395.0)
+:Sending Touch (ACTION_UP): 0:(980.25507,394.16315)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(143.0,416.0)
+:Sending Touch (ACTION_UP): 0:(142.97546,425.9881)
+:Sending Touch (ACTION_DOWN): 0:(571.0,449.0)
+:Sending Touch (ACTION_UP): 0:(552.1695,435.5107)
+:Sending Touch (ACTION_DOWN): 0:(472.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(449.43134,1279.0513)
+:Sending Touch (ACTION_DOWN): 0:(375.0,600.0)
+:Sending Touch (ACTION_UP): 0:(247.47276,694.787)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(4.0,727.0)
+:Sending Touch (ACTION_UP): 0:(2.577064,726.3544)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2021-08-04 03:13:54.013  system_uptime:16646237]
+    // Sending event #700
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(337.0,661.0)
+:Sending Touch (ACTION_UP): 0:(330.15155,659.96497)
+:Sending Touch (ACTION_DOWN): 0:(631.0,331.0)
+:Sending Touch (ACTION_UP): 0:(628.8332,328.8989)
+:Sending Touch (ACTION_DOWN): 0:(643.0,550.0)
+:Sending Touch (ACTION_UP): 0:(629.1003,550.0482)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(111.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(112.57961,1537.5695)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(559.0,834.0)
+:Sending Touch (ACTION_UP): 0:(558.21985,818.0124)
+:Sending Touch (ACTION_DOWN): 0:(264.0,348.0)
+:Sending Touch (ACTION_UP): 0:(274.8073,340.81937)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(757.7903,1638.9816)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(261.45178,1108.6904)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1209.0)
+:Sending Touch (ACTION_UP): 0:(231.0161,1210.2362)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2021-08-04 03:14:08.200  system_uptime:16660424]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(602.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(620.81464,1132.2166)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1096.0)
+:Sending Touch (ACTION_UP): 0:(387.0299,1087.4768)
+:Sending Touch (ACTION_DOWN): 0:(799.0,296.0)
+:Sending Touch (ACTION_UP): 0:(800.95856,301.45172)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traccar.client/.Launcher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traccar.client/.Launcher } in package org.traccar.client
+:Sending Touch (ACTION_DOWN): 0:(512.0,630.0)
+:Sending Touch (ACTION_UP): 0:(499.34512,619.73096)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(942.97577,1496.3398)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2021-08-04 03:14:21.071  system_uptime:16673295]
+    // Sending event #900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=org.traccar.client/.StatusActivity } in package org.traccar.client
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(710.443,1460.0061)
+:Sending Touch (ACTION_DOWN): 0:(799.0,801.0)
+:Sending Touch (ACTION_UP): 0:(802.8829,810.40137)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(1034.6957,1291.1222)
+:Sending Touch (ACTION_DOWN): 0:(953.0,208.0)
+:Sending Touch (ACTION_UP): 0:(960.8115,199.52684)
+:Sending Touch (ACTION_DOWN): 0:(128.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(137.65993,1079.1846)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(681.4611,1516.2339)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(91.55852,1131.8293)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(594.43616,1444.7391)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(71.14215,1248.8387)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(1033.3436,1141.4082)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=122384ms (0ms mobile, 0ms wifi, 122384ms not connected)
+// Monkey finished

@@ -1,0 +1,59 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 3203): FATAL EXCEPTION: main
+E/AndroidRuntime( 3203): Process: org.windvolt, PID: 3203
+E/AndroidRuntime( 3203): java.lang.NumberFormatException: Invalid int: ""
+E/AndroidRuntime( 3203): 	at java.lang.Integer.invalidInt(Integer.java:137)
+E/AndroidRuntime( 3203): 	at java.lang.Integer.parseInt(Integer.java:358)
+E/AndroidRuntime( 3203): 	at java.lang.Integer.parseInt(Integer.java:331)
+E/AndroidRuntime( 3203): 	at org.windvolt.diagram.Devices$RemoveDeviceDialog$2.onClick(Devices.java:348)
+E/AndroidRuntime( 3203): 	at androidx.appcompat.app.AlertController$ButtonHandler.handleMessage(AlertController.java:167)
+E/AndroidRuntime( 3203): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 3203): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3203): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3203): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3203): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3203): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3203): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3203): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: org.windvolt
+app code version: 2021.10
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 118729 Realtime: 118729
+
+** MEMINFO in pid 3203 [org.windvolt] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     7170     7136        0        0    11620    10963      568
+  Dalvik Heap    11372    11232        0        0    13964     9693     4271
+ Dalvik Other     3115     2968        0        0                           
+        Stack      324      324        0        0                           
+       Ashmem     4832     4832        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap    15852      712    13472        0                           
+    .jar mmap        2        0        0        0                           
+    .apk mmap      330        0       68        0                           
+    .ttf mmap       12        0        4        0                           
+    .dex mmap     4901      248     3680        0                           
+   Other mmap      982        4      956        0                           
+      Unknown     3220     3220        0        0                           
+        TOTAL    52116    30676    18184        0    25584    20656     4839
+ 
+ Objects
+               Views:      100         ViewRootImpl:        3
+         AppContexts:        4           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       31        Proxy Binders:       25
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

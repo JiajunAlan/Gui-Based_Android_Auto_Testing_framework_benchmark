@@ -1,0 +1,5 @@
+    1@click(resource-id='com.limelight:id/settingsButton'):android.widget.ImageButton@""
+    2@click(resource-id='com.limelight:id/helpButton'):android.widget.ImageButton@""
+    3@click(resource-id='com.limelight:id/manuallyAddPc'):android.widget.ImageButton@""
+    4@menu
+    5@back

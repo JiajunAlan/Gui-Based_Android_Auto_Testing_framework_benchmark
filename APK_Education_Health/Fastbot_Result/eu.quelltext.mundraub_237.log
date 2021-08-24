@@ -1,0 +1,57 @@
+[1629377482730] *** Inject event ***
+[1629377482731] :Sending Touch (ACTION_DOWN): 0:(540.0,1509.0)
+[1629377482732] :Sending Touch (ACTION_UP): 0:(540.0,1509.0)
+[1629377482733] Sleep for 0 ms
+[1629377482733] Sleep for 700 ms
+[1629377483435] Events injected : 1472
+[1629377483435] // Monkey is over!
+[1629377483435] :Sending rotation degree : 0, persist : false
+[1629377483460] Total app activities:
+[1629377483460]    1 eu.quelltext.mundraub.activities.map.ShowPlantsActivity
+[1629377483460]    2 eu.quelltext.mundraub.activities.SettingsActivity
+[1629377483460]    3 eu.quelltext.mundraub.activities.map.ChooseMapPosition
+[1629377483460]    4 eu.quelltext.mundraub.activities.AddressSearchActivity
+[1629377483460]    5 eu.quelltext.mundraub.activities.PlantDetailActivity
+[1629377483460]    6 eu.quelltext.mundraub.activities.LoginActivity
+[1629377483460]    7 eu.quelltext.mundraub.activities.NewPlantActivity
+[1629377483460]    8 eu.quelltext.mundraub.activities.CodexActivity
+[1629377483461]    9 eu.quelltext.mundraub.activities.PrivacyPolicyActivity
+[1629377483461]   10 eu.quelltext.mundraub.activities.map.SelectOfflineMapPartsActivity
+[1629377483461]   11 eu.quelltext.mundraub.activities.map.TestFruitRadarActivity
+[1629377483461]   12 eu.quelltext.mundraub.activities.StartupActivity
+[1629377483461]   13 eu.quelltext.mundraub.activities.AboutActivity
+[1629377483461]   14 eu.quelltext.mundraub.activities.ChoosePlantType
+[1629377483461]   15 eu.quelltext.mundraub.activities.ChangelogActivity
+[1629377483461]   16 eu.quelltext.mundraub.activities.PlantListActivity
+[1629377483461] Explored app activities:
+[1629377483461]    1 eu.quelltext.mundraub.activities.AboutActivity
+[1629377483461]    2 eu.quelltext.mundraub.activities.ChangelogActivity
+[1629377483461]    3 eu.quelltext.mundraub.activities.ChoosePlantType
+[1629377483461]    4 eu.quelltext.mundraub.activities.CodexActivity
+[1629377483461]    5 eu.quelltext.mundraub.activities.LoginActivity
+[1629377483461]    6 eu.quelltext.mundraub.activities.NewPlantActivity
+[1629377483461]    7 eu.quelltext.mundraub.activities.PlantDetailActivity
+[1629377483461]    8 eu.quelltext.mundraub.activities.PlantListActivity
+[1629377483461]    9 eu.quelltext.mundraub.activities.SettingsActivity
+[1629377483461]   10 eu.quelltext.mundraub.activities.StartupActivity
+[1629377483461]   11 eu.quelltext.mundraub.activities.map.ChooseMapPosition
+[1629377483461]   12 eu.quelltext.mundraub.activities.map.SelectOfflineMapPartsActivity
+[1629377483461]   13 eu.quelltext.mundraub.activities.map.ShowPlantsActivity
+[1629377483461] Acitity of Coverage: 81.25%
+[1629377483461] Activity of Times:
+[1629377483461] eu.quelltext.mundraub.activities.map.SelectOfflineMapPartsActivity      3
+[1629377483461] eu.quelltext.mundraub.activities.map.ShowPlantsActivity     16
+[1629377483461] eu.quelltext.mundraub.activities.StartupActivity      1
+[1629377483461] eu.quelltext.mundraub.activities.map.ChooseMapPosition      8
+[1629377483461] eu.quelltext.mundraub.activities.SettingsActivity     88
+[1629377483461] eu.quelltext.mundraub.activities.PlantDetailActivity      2
+[1629377483461] eu.quelltext.mundraub.activities.AboutActivity      8
+[1629377483461] eu.quelltext.mundraub.activities.ChoosePlantType      8
+[1629377483461] eu.quelltext.mundraub.activities.LoginActivity      8
+[1629377483461] eu.quelltext.mundraub.activities.NewPlantActivity     21
+[1629377483461] eu.quelltext.mundraub.activities.CodexActivity      7
+[1629377483461] eu.quelltext.mundraub.activities.ChangelogActivity     15
+[1629377483461] eu.quelltext.mundraub.activities.PlantListActivity     13
+:Dropped : keys=1 pointers=1 trackballs=0 flips=0 rotations=0
+[1629377483477] // App appears 2 crash, 0 anr, monkey using seed : 1630263652358
+[1629377483477] // Monkey finished

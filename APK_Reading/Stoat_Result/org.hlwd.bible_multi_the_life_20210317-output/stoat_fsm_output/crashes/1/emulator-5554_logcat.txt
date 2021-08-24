@@ -1,0 +1,718 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(18524): FATAL EXCEPTION: main
+E/AndroidRuntime(18524): Process: org.hlwd.bible_multi_the_life, PID: 18524
+E/AndroidRuntime(18524): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18524): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18524): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18524): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18524): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18524): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18524): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18524): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18524): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18524): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18524): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18524): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18524): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18524): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18524): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18524): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18524): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18524): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18524): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18565): FATAL EXCEPTION: main
+E/AndroidRuntime(18565): Process: org.hlwd.bible_multi_the_life, PID: 18565
+E/AndroidRuntime(18565): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18565): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18565): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18565): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18565): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18565): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18565): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18565): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18565): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18565): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18565): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18565): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18565): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18565): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18565): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18565): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18565): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18565): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18565): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18604): FATAL EXCEPTION: main
+E/AndroidRuntime(18604): Process: org.hlwd.bible_multi_the_life, PID: 18604
+E/AndroidRuntime(18604): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18604): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18604): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18604): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18604): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18604): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18604): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18604): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18604): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18604): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18604): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18604): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18604): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18604): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18604): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18604): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18604): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18604): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18604): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18643): FATAL EXCEPTION: main
+E/AndroidRuntime(18643): Process: org.hlwd.bible_multi_the_life, PID: 18643
+E/AndroidRuntime(18643): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18643): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18643): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18643): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18643): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18643): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18643): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18643): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18643): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18643): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18643): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18643): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18643): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18643): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18643): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18643): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18643): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18643): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18643): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18682): FATAL EXCEPTION: main
+E/AndroidRuntime(18682): Process: org.hlwd.bible_multi_the_life, PID: 18682
+E/AndroidRuntime(18682): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18682): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18682): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18682): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18682): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18682): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18682): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18682): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18682): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18682): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18682): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18682): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18682): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18682): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18682): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18682): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18682): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18682): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18682): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18721): FATAL EXCEPTION: main
+E/AndroidRuntime(18721): Process: org.hlwd.bible_multi_the_life, PID: 18721
+E/AndroidRuntime(18721): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18721): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18721): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18721): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18721): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18721): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18721): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18721): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18721): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18721): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18721): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18721): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18721): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18721): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18721): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18721): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18721): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18721): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18721): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18760): FATAL EXCEPTION: main
+E/AndroidRuntime(18760): Process: org.hlwd.bible_multi_the_life, PID: 18760
+E/AndroidRuntime(18760): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18760): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18760): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18760): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18760): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18760): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18760): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18760): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18760): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18760): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18760): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18760): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18760): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18760): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18760): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18760): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18760): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18760): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18760): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18799): FATAL EXCEPTION: main
+E/AndroidRuntime(18799): Process: org.hlwd.bible_multi_the_life, PID: 18799
+E/AndroidRuntime(18799): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18799): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18799): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18799): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18799): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18799): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18799): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18799): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18799): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18799): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18799): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18799): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18799): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18799): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18799): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18799): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18799): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18799): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18799): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18838): FATAL EXCEPTION: main
+E/AndroidRuntime(18838): Process: org.hlwd.bible_multi_the_life, PID: 18838
+E/AndroidRuntime(18838): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18838): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18838): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18838): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18838): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18838): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18838): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18838): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18838): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18838): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18838): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18838): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18838): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18838): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18838): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18838): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18838): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18838): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18838): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18877): FATAL EXCEPTION: main
+E/AndroidRuntime(18877): Process: org.hlwd.bible_multi_the_life, PID: 18877
+E/AndroidRuntime(18877): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18877): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18877): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18877): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18877): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18877): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18877): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18877): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18877): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18877): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18877): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18877): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18877): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18877): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18877): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18877): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18877): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18877): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18877): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18916): FATAL EXCEPTION: main
+E/AndroidRuntime(18916): Process: org.hlwd.bible_multi_the_life, PID: 18916
+E/AndroidRuntime(18916): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18916): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18916): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18916): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18916): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18916): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18916): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18916): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18916): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18916): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18916): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18916): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18916): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18916): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18916): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18916): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18916): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18916): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18916): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18955): FATAL EXCEPTION: main
+E/AndroidRuntime(18955): Process: org.hlwd.bible_multi_the_life, PID: 18955
+E/AndroidRuntime(18955): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18955): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18955): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18955): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18955): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18955): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18955): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18955): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18955): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18955): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18955): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18955): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18955): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18955): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18955): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18955): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18955): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18955): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18955): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(18994): FATAL EXCEPTION: main
+E/AndroidRuntime(18994): Process: org.hlwd.bible_multi_the_life, PID: 18994
+E/AndroidRuntime(18994): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(18994): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(18994): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(18994): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18994): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(18994): 	at io.flutter.view.d.a()
+E/AndroidRuntime(18994): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(18994): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(18994): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(18994): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(18994): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(18994): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(18994): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(18994): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(18994): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(18994): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(18994): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(18994): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(18994): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19033): FATAL EXCEPTION: main
+E/AndroidRuntime(19033): Process: org.hlwd.bible_multi_the_life, PID: 19033
+E/AndroidRuntime(19033): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19033): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19033): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19033): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19033): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19033): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19033): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19033): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19033): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19033): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19033): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19033): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19033): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19033): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19033): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19033): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19033): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19033): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19033): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19072): FATAL EXCEPTION: main
+E/AndroidRuntime(19072): Process: org.hlwd.bible_multi_the_life, PID: 19072
+E/AndroidRuntime(19072): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19072): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19072): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19072): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19072): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19072): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19072): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19072): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19072): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19072): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19072): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19072): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19072): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19072): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19072): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19072): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19072): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19072): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19072): 	at dalvik.system.NativeStart.main(Native Method)
+E/WindowManager( 1571): Starting window AppWindowToken{9d339dd8 token=Token{9d268108 ActivityRecord{9d93bd10 u0 org.hlwd.bible_multi_the_life/.MainActivity t79}}} timed out
+E/ActivityManager( 1571): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1571): PID: 18105
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1571): Load: 0.01 / 0.02 / 0.07
+E/ActivityManager( 1571): CPU usage from 4101ms to -1682ms ago:
+E/ActivityManager( 1571):   2.4% 1571/system_server: 2% user + 0.3% kernel / faults: 382 minor
+E/ActivityManager( 1571):   0% 1143/debuggerd: 0% user + 0% kernel / faults: 3464 minor
+E/ActivityManager( 1571):   0% 12/ksoftirqd/1: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 16978/com.android.systemui: 0% user + 0% kernel / faults: 5 minor
+E/ActivityManager( 1571):   0% 16992/com.android.phone: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 18105/com.google.android.gms.persistent: 0% user + 0% kernel / faults: 70 minor
+E/ActivityManager( 1571):   0.1% 18427/com.github.uiautomator: 0% user + 0.1% kernel
+E/ActivityManager( 1571): 1% TOTAL: 0.8% user + 0.1% kernel
+E/ActivityManager( 1571): CPU usage from 1178ms to 1681ms later:
+E/ActivityManager( 1571):   1.7% 12/ksoftirqd/1: 0% user + 1.7% kernel
+E/ActivityManager( 1571): 1% TOTAL: 0% user + 1% kernel
+E/ActivityManager( 1571): ANR in com.android.launcher
+E/ActivityManager( 1571): PID: 18299
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1571): Load: 0.01 / 0.02 / 0.07
+E/ActivityManager( 1571): CPU usage from 10016ms to 0ms ago:
+E/ActivityManager( 1571):   0.1% 18427/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 1571/system_server: 0% user + 0% kernel / faults: 6 minor
+E/ActivityManager( 1571):   0% 2078/com.google.android.gms: 0% user + 0% kernel / faults: 3 minor
+E/ActivityManager( 1571):   0% 13403/kworker/1:0: 0% user + 0% kernel
+E/ActivityManager( 1571):   0% 15388/kworker/0:0: 0% user + 0% kernel
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): CPU usage from 1185ms to 1689ms later:
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/AndroidRuntime(19291): FATAL EXCEPTION: main
+E/AndroidRuntime(19291): Process: org.hlwd.bible_multi_the_life, PID: 19291
+E/AndroidRuntime(19291): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19291): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19291): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19291): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19291): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19291): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19291): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19291): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19291): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19291): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19291): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19291): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19291): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19291): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19291): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19291): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19291): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19291): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19291): 	at dalvik.system.NativeStart.main(Native Method)
+E/WindowManager( 1571): Starting window AppWindowToken{9db050c8 token=Token{9d2d26f8 ActivityRecord{9d00e258 u0 org.hlwd.bible_multi_the_life/.MainActivity t80}}} timed out
+E/AndroidRuntime(19343): FATAL EXCEPTION: main
+E/AndroidRuntime(19343): Process: org.hlwd.bible_multi_the_life, PID: 19343
+E/AndroidRuntime(19343): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19343): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19343): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19343): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19343): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19343): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19343): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19343): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19343): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19343): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19343): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19343): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19343): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19343): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19343): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19343): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19343): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19343): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19343): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19382): FATAL EXCEPTION: main
+E/AndroidRuntime(19382): Process: org.hlwd.bible_multi_the_life, PID: 19382
+E/AndroidRuntime(19382): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19382): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19382): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19382): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19382): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19382): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19382): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19382): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19382): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19382): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19382): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19382): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19382): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19382): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19382): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19382): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19382): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19382): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19382): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19421): FATAL EXCEPTION: main
+E/AndroidRuntime(19421): Process: org.hlwd.bible_multi_the_life, PID: 19421
+E/AndroidRuntime(19421): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19421): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19421): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19421): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19421): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19421): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19421): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19421): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19421): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19421): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19421): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19421): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19421): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19421): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19421): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19421): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19421): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19421): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19421): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19460): FATAL EXCEPTION: main
+E/AndroidRuntime(19460): Process: org.hlwd.bible_multi_the_life, PID: 19460
+E/AndroidRuntime(19460): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19460): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19460): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19460): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19460): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19460): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19460): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19460): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19460): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19460): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19460): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19460): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19460): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19460): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19460): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19460): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19460): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19460): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19460): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19499): FATAL EXCEPTION: main
+E/AndroidRuntime(19499): Process: org.hlwd.bible_multi_the_life, PID: 19499
+E/AndroidRuntime(19499): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19499): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19499): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19499): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19499): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19499): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19499): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19499): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19499): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19499): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19499): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19499): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19499): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19499): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19499): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19499): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19499): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19499): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19499): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19538): FATAL EXCEPTION: main
+E/AndroidRuntime(19538): Process: org.hlwd.bible_multi_the_life, PID: 19538
+E/AndroidRuntime(19538): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19538): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19538): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19538): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19538): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19538): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19538): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19538): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19538): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19538): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19538): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19538): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19538): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19538): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19538): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19538): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19538): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19538): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19538): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19577): FATAL EXCEPTION: main
+E/AndroidRuntime(19577): Process: org.hlwd.bible_multi_the_life, PID: 19577
+E/AndroidRuntime(19577): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19577): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19577): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19577): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19577): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19577): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19577): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19577): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19577): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19577): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19577): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19577): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19577): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19577): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19577): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19577): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19577): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19577): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19577): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19616): FATAL EXCEPTION: main
+E/AndroidRuntime(19616): Process: org.hlwd.bible_multi_the_life, PID: 19616
+E/AndroidRuntime(19616): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19616): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19616): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19616): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19616): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19616): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19616): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19616): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19616): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19616): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19616): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19616): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19616): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19616): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19616): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19616): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19616): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19616): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19616): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19655): FATAL EXCEPTION: main
+E/AndroidRuntime(19655): Process: org.hlwd.bible_multi_the_life, PID: 19655
+E/AndroidRuntime(19655): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19655): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19655): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19655): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19655): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19655): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19655): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19655): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19655): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19655): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19655): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19655): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19655): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19655): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19655): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19655): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19655): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19655): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19655): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19694): FATAL EXCEPTION: main
+E/AndroidRuntime(19694): Process: org.hlwd.bible_multi_the_life, PID: 19694
+E/AndroidRuntime(19694): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19694): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19694): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19694): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19694): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19694): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19694): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19694): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19694): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19694): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19694): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19694): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19694): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19694): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19694): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19694): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19694): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19694): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19694): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19736): FATAL EXCEPTION: main
+E/AndroidRuntime(19736): Process: org.hlwd.bible_multi_the_life, PID: 19736
+E/AndroidRuntime(19736): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19736): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19736): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19736): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19736): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19736): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19736): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19736): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19736): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19736): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19736): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19736): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19736): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19736): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19736): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19736): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19736): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19736): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19736): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19776): FATAL EXCEPTION: main
+E/AndroidRuntime(19776): Process: org.hlwd.bible_multi_the_life, PID: 19776
+E/AndroidRuntime(19776): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19776): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19776): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19776): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19776): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19776): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19776): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19776): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19776): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19776): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19776): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19776): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19776): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19776): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19776): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19776): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19776): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19776): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19776): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19815): FATAL EXCEPTION: main
+E/AndroidRuntime(19815): Process: org.hlwd.bible_multi_the_life, PID: 19815
+E/AndroidRuntime(19815): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19815): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19815): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19815): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19815): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19815): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19815): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19815): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19815): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19815): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19815): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19815): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19815): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19815): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19815): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19815): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19815): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19815): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19815): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19854): FATAL EXCEPTION: main
+E/AndroidRuntime(19854): Process: org.hlwd.bible_multi_the_life, PID: 19854
+E/AndroidRuntime(19854): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19854): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19854): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19854): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19854): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19854): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19854): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19854): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19854): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19854): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19854): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19854): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19854): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19854): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19854): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19854): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19854): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19854): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19854): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(19893): FATAL EXCEPTION: main
+E/AndroidRuntime(19893): Process: org.hlwd.bible_multi_the_life, PID: 19893
+E/AndroidRuntime(19893): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19893): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19893): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19893): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19893): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19893): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19893): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19893): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19893): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19893): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19893): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19893): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19893): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19893): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19893): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19893): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19893): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19893): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19893): 	at dalvik.system.NativeStart.main(Native Method)
+E/WindowManager( 1571): Starting window AppWindowToken{9d418900 token=Token{9d56fe38 ActivityRecord{9d2e8aa0 u0 org.hlwd.bible_multi_the_life/.MainActivity t95}}} timed out
+E/ActivityManager( 1571): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1571): PID: 19133
+E/ActivityManager( 1571): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1571): Load: 0.12 / 0.07 / 0.06
+E/ActivityManager( 1571): CPU usage from 6386ms to 0ms ago:
+E/ActivityManager( 1571):   0.1% 1571/system_server: 0.1% user + 0% kernel / faults: 2 minor
+E/ActivityManager( 1571):   0% 15388/kworker/0:0: 0% user + 0% kernel
+E/ActivityManager( 1571):   0.1% 19218/com.github.uiautomator: 0% user + 0.1% kernel
+E/ActivityManager( 1571): 0.1% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1571): CPU usage from 1030ms to 1535ms later:
+E/ActivityManager( 1571):   1.7% 12/ksoftirqd/1: 0% user + 1.7% kernel
+E/ActivityManager( 1571): 0% TOTAL: 0% user + 0% kernel
+E/AndroidRuntime(19997): FATAL EXCEPTION: main
+E/AndroidRuntime(19997): Process: org.hlwd.bible_multi_the_life, PID: 19997
+E/AndroidRuntime(19997): java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(19997): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(19997): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(19997): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19997): 	at io.flutter.embedding.engine.f.a.a()
+E/AndroidRuntime(19997): 	at io.flutter.view.d.a()
+E/AndroidRuntime(19997): 	at io.flutter.app.FlutterApplication.onCreate()
+E/AndroidRuntime(19997): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(19997): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(19997): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(19997): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(19997): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(19997): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(19997): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(19997): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(19997): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(19997): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(19997): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(19997): 	at dalvik.system.NativeStart.main(Native Method)

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,686][1053,1173]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+        <node index="0" text="" resource-id="com.atr.tedit:id/action_bar_root" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+            <node index="0" text="" resource-id="com.atr.tedit:id/parentPanel" class="android.support.v7.widget.LinearLayoutCompat" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+              <node index="0" text="" resource-id="com.atr.tedit:id/customPanel" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+                <node index="0" text="" resource-id="com.atr.tedit:id/custom" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+                  <node index="0" text="" resource-id="com.atr.tedit:id/dialog_layout" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,728][1011,1131]">
+                    <node index="0" text="" resource-id="com.atr.tedit:id/dialog_layout_title" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,746][245,809]">
+                      <node index="0" text="Delete" resource-id="com.atr.tedit:id/dialog_title" class="android.widget.TextView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,746][245,809]" />
+                    </node>
+                    <node index="1" text="Are you sure you'd like to delete 20210818_225002.txt" resource-id="com.atr.tedit:id/dialog_message" class="android.widget.TextView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,851][993,945]" />
+                    <node index="2" text="" resource-id="com.atr.tedit:id/dialog_layout_button" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,987][993,1113]">
+                      <node index="0" text="Cancel" resource-id="com.atr.tedit:id/dialog_negative_button" class="android.widget.Button" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,987][744,1113]" />
+                      <node index="1" text="Okay" resource-id="com.atr.tedit:id/dialog_positive_button" class="android.widget.Button" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[762,987][993,1113]" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

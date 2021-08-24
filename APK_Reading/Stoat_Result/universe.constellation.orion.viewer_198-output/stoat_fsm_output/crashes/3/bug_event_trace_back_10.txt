@@ -1,0 +1,10 @@
+back@
+keyevent_back@
+click(resource-id='universe.constellation.orion.viewer:id/fileImage')@
+clickLong(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+click(className='android.widget.TextView',instance='4')@sdcard
+click(className='android.widget.TextView',instance='10')@Music
+menu@
+click(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+keyevent_back@
+click(className='android.widget.TextView',instance='16')@Hacking_Secrets_Revealed.pdf

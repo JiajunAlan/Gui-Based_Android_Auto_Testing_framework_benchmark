@@ -1,0 +1,1243 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626405276684 count=1000
+:AllowPackage: com.mikifus.padland
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.mikifus.padland/.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(224.0,847.0)
+:Sending Touch (ACTION_UP): 0:(237.90298,819.86725)
+:Sending Touch (ACTION_DOWN): 0:(976.0,815.0)
+:Sending Touch (ACTION_UP): 0:(969.7717,807.84546)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.IntroActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+:Sending Touch (ACTION_DOWN): 0:(216.0,926.0)
+:Sending Touch (ACTION_UP): 0:(161.59077,973.0198)
+:Sending Touch (ACTION_DOWN): 0:(83.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(77.333275,1125.3943)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 20628)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20681)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20695)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(906.0,1362.0)
+:Sending Touch (ACTION_UP): 0:(917.3036,1351.899)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(977.0,773.0)
+:Sending Touch (ACTION_UP): 0:(972.6945,769.2067)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 20722)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(621.0,897.0)
+    //[calendar_time:2021-08-04 05:10:50.450  system_uptime:23662703]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(620.72906,881.7171)
+// CRASH: com.mikifus.padland (pid 20739)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20755)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(658.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(657.82886,1086.8003)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1073.0,977.0)
+:Sending Touch (ACTION_UP): 0:(1070.6045,965.17725)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(248.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(260.93747,1607.668)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2021-08-04 05:11:01.851  system_uptime:23674075]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(854.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(876.8538,1713.6957)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(643.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(636.2921,1421.3698)
+:Sending Touch (ACTION_DOWN): 0:(64.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(57.93728,1717.3025)
+:Sending Touch (ACTION_DOWN): 0:(756.0,369.0)
+:Sending Touch (ACTION_UP): 0:(859.20905,356.54324)
+:Sending Touch (ACTION_DOWN): 0:(301.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(307.7004,1764.77)
+:Sending Touch (ACTION_DOWN): 0:(174.0,53.0)
+:Sending Touch (ACTION_UP): 0:(183.14389,82.515144)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(677.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(640.6877,1025.7549)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2021-08-04 05:11:16.094  system_uptime:23688318]
+    // Sending event #300
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(1077.0865,1273.2573)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(878.1011,1209.6792)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(272.0,836.0)
+:Sending Touch (ACTION_UP): 0:(276.49405,836.98944)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(531.25446,1083.505)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(211.73218,1450.8326)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2021-08-04 05:11:27.278  system_uptime:23699501]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(218.0,1404.0)
+:Sending Touch (ACTION_UP): 0:(201.74217,1405.4395)
+:Sending Touch (ACTION_DOWN): 0:(107.0,707.0)
+:Sending Touch (ACTION_UP): 0:(53.75991,755.075)
+:Sending Touch (ACTION_DOWN): 0:(346.0,788.0)
+:Sending Touch (ACTION_UP): 0:(344.53802,793.06036)
+:Sending Touch (ACTION_DOWN): 0:(778.0,799.0)
+:Sending Touch (ACTION_UP): 0:(796.60364,775.5814)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(482.0324,1105.8444)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(729.9374,1524.2031)
+:Sending Touch (ACTION_DOWN): 0:(492.0,111.0)
+:Sending Touch (ACTION_UP): 0:(494.3097,110.7834)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1383.0)
+    //[calendar_time:2021-08-04 05:11:37.590  system_uptime:23709813]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(777.3818,1422.6654)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(871.0,1451.0)
+:Sending Touch (ACTION_UP): 0:(868.44385,1465.5829)
+:Sending Touch (ACTION_DOWN): 0:(549.0,279.0)
+:Sending Touch (ACTION_UP): 0:(548.16925,269.564)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1060.0,707.0)
+:Sending Touch (ACTION_UP): 0:(1018.98175,744.49097)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(639.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(642.3589,1519.4799)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2021-08-04 05:11:47.248  system_uptime:23719471]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.mikifus.padland/.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 20915)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20934)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20948)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(943.0,490.0)
+:Sending Touch (ACTION_UP): 0:(924.01965,482.14874)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(47.0,709.0)
+:Sending Touch (ACTION_UP): 0:(27.571817,657.7285)
+:Sending Touch (ACTION_DOWN): 0:(967.0,736.0)
+:Sending Touch (ACTION_UP): 0:(967.2788,733.67)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.mikifus.padland/.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+:Sending Touch (ACTION_DOWN): 0:(139.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(129.3796,1688.0753)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 20974)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 20990)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 21005)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.mikifus.padland/.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,839.0)
+:Sending Touch (ACTION_UP): 0:(17.624552,837.60455)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 21021)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 21038)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 21053)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(874.0,485.0)
+:Sending Touch (ACTION_UP): 0:(874.3548,480.71265)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(489.81454,1066.1812)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2021-08-04 05:11:59.982  system_uptime:23732206]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(362.0,831.0)
+:Sending Touch (ACTION_UP): 0:(431.54617,888.7327)
+:Sending Touch (ACTION_DOWN): 0:(941.0,648.0)
+:Sending Touch (ACTION_UP): 0:(1004.42303,669.064)
+:Sending Touch (ACTION_DOWN): 0:(221.0,7.0)
+:Sending Touch (ACTION_UP): 0:(164.11575,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(67.0,844.0)
+:Sending Touch (ACTION_UP): 0:(78.84072,843.63116)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(583.345,1673.411)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(501.99625,1679.1178)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2021-08-04 05:12:08.611  system_uptime:23740834]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(905.0,600.0)
+:Sending Touch (ACTION_UP): 0:(914.3563,608.9563)
+:Sending Touch (ACTION_DOWN): 0:(520.0,16.0)
+:Sending Touch (ACTION_UP): 0:(521.5435,22.180807)
+:Sending Touch (ACTION_DOWN): 0:(725.0,533.0)
+:Sending Touch (ACTION_UP): 0:(718.2757,466.4869)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(600.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(604.7427,1519.9084)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.mikifus.padland/.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mikifus.padland/.SplashActivity } in package com.mikifus.padland
+:Sending Touch (ACTION_DOWN): 0:(193.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(176.7367,1356.5142)
+    // Allowing start of Intent { cmp=com.mikifus.padland/.PadListActivity } in package com.mikifus.padland
+    // activityResuming(com.mikifus.padland)
+// CRASH: com.mikifus.padland (pid 21125)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 21142)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+// CRASH: com.mikifus.padland (pid 21158)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.mikifus.padland/com.mikifus.padland.PadListActivity}: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.view.InflateException: Binary XML file line #34: Error inflating class com.google.android.material.floatingactionbutton.FloatingActionButton
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:621)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:759)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+// 	at androidx.appcompat.app.AppCompatDelegateImpl.setContentView(SourceFile:9)
+// 	at androidx.appcompat.app.AppCompatActivity.setContentView(SourceFile:1)
+// 	at com.mikifus.padland.PadListActivity.onCreate(SourceFile:3)
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Constructor.constructNative(Native Method)
+// 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+// 	at android.view.LayoutInflater.createView(LayoutInflater.java:595)
+// 	... 23 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_group_add_inverted.xml from drawable resource ID #0x7f08007b
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at com.google.android.material.internal.VisibilityAwareImageButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:3)
+// 	at com.google.android.material.floatingactionbutton.FloatingActionButton.<init>(SourceFile:2)
+// 	... 26 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 32 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(447.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(449.0906,1281.7039)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2021-08-04 05:12:21.222  system_uptime:23753445]
+    // Sending event #900
+    //[calendar_time:2021-08-04 05:12:21.724  system_uptime:23753948]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(89.0,205.0)
+:Sending Touch (ACTION_UP): 0:(0.0,184.38745)
+:Sending Touch (ACTION_DOWN): 0:(532.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(532.4131,1468.7802)
+:Sending Touch (ACTION_DOWN): 0:(865.0,64.0)
+:Sending Touch (ACTION_UP): 0:(852.279,64.04394)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(721.0,485.0)
+:Sending Touch (ACTION_UP): 0:(686.1912,364.66483)
+:Sending Touch (ACTION_DOWN): 0:(452.0,121.0)
+:Sending Touch (ACTION_UP): 0:(451.54843,104.81688)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(940.0,907.0)
+:Sending Touch (ACTION_UP): 0:(894.2082,915.25806)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,643.0)
+:Sending Touch (ACTION_UP): 0:(1057.0941,633.02167)
+:Sending Touch (ACTION_DOWN): 0:(5.0,889.0)
+:Sending Touch (ACTION_UP): 0:(0.0,897.379)
+:Sending Touch (ACTION_DOWN): 0:(166.0,395.0)
+:Sending Touch (ACTION_UP): 0:(151.87787,385.68674)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=4 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114196ms (0ms mobile, 0ms wifi, 114196ms not connected)
+// Monkey finished

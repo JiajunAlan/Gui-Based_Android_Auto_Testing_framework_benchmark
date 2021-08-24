@@ -1,0 +1,6 @@
+digraph graphtest {
+  S_1 -> EMPTY_APP_STATE  [ style=dotted,label="@2"] ;
+  S_1 -> S_5  [ label="@1"] ;
+  S_5 -> S_1  [ label="@7"] ;
+  S_5 -> S_1  [ label="@8"] ;
+}

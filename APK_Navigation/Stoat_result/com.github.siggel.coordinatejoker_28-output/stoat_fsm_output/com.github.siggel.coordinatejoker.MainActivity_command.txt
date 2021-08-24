@@ -1,0 +1,27 @@
+    4475@click(content-desc='More options'):android.widget.ImageView@""
+    4476@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4477@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Enter formulas with x, y being unknown, e.g. 12.(3+x)4y or import from clipboard."
+    4478@clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Enter formulas with x, y being unknown, e.g. 12.(3+x)4y or import from clipboard."
+    4662@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"S"
+    4663@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"S"
+    7185@edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula'):android.widget.EditText@"test"
+    11617@edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula'):android.widget.EditText@"test12"
+    4483@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"E"
+    4484@clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"E"
+    5992@edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula'):android.widget.EditText@"test"
+    5723@edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula'):android.widget.EditText@"test"
+    4487@click(resource-id='com.github.siggel.coordinatejoker:id/doReplaceMinutes'):android.widget.CheckBox@"Replace minutes mm.mmm with mm + (mmm)/1000.0"
+    4488@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"An explanation for the above selection is given here."
+    4489@clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"An explanation for the above selection is given here."
+    12277@edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula'):android.widget.EditText@"12st120"
+    4491@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"m"
+    4492@clickLong(className='android.widget.TextView',instance='11'):android.widget.TextView@"m"
+    7464@edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula'):android.widget.EditText@"test20"
+    8608@edit(resource-id='com.github.siggel.coordinatejoker:id/xValues'):android.widget.EditText@"12st29"
+    12610@edit(resource-id='com.github.siggel.coordinatejoker:id/yValues'):android.widget.EditText@"test12"
+    4496@click(className='android.widget.Button',instance='0'):android.widget.Button@"Reset"
+    4497@click(className='android.widget.Button',instance='1'):android.widget.Button@"View"
+    4498@menu
+    4499@back
+    4500@scroll(direction='down')
+    4501@scroll(direction='up')

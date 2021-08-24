@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,725][1006,1135]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,725][1006,1135]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,725][1006,1135]">
+        <node index="0" text="" resource-id="" class="android.view.View" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,725][1006,1135]">
+          <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,767][1006,967]">
+            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[137,788][943,946]">
+              <node index="0" text="12" resource-id="android:id/input" class="android.widget.EditText" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[133,788][947,900]" />
+              <node index="1" text="2/20" resource-id="me.ccrama.redditslide:id/md_minMax" class="android.widget.TextView" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[821,903][947,946]" />
+            </node>
+          </node>
+          <node index="1" text="Cancel" resource-id="me.ccrama.redditslide:id/md_buttonDefaultNegative" class="android.widget.TextView" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[498,988][700,1114]" />
+          <node index="2" text="Go to user" resource-id="me.ccrama.redditslide:id/md_buttonDefaultPositive" class="android.widget.TextView" package="me.ccrama.redditslide" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[700,988][974,1114]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

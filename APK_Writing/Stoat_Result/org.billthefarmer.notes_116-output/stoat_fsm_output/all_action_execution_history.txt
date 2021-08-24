@@ -1,0 +1,328 @@
+    8@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    10@menu
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    10@menu
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    11@back
+    7@click(content-desc='More options'):android.widget.ImageButton@""
+    29@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Add media…"
+    85@keyevent_back
+    86@reset
+    3@click(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    4@clickLong(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    9@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    6@clickLong(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    99@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Untitled.md"
+    10@menu
+    32@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Backup"
+    10@menu
+    168@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    56@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"sdcard"
+    53@click(className='android.widget.Button',instance='2'):android.widget.Button@"sdcard"
+    205@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"8.vcf"
+    7@click(content-desc='More options'):android.widget.ImageButton@""
+    31@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit script…"
+    270@click(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    246@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"8.vcf"
+    10@menu
+    25@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Save as"
+    309@click(className='android.widget.Button',instance='1'):android.widget.Button@"Storage"
+    85@keyevent_back
+    86@reset
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes.md"
+    8@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    19@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@""
+    21@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    354@clickLong(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    356@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"test"
+    353@click(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    388@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12st"
+    10@menu
+    413@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Save as"
+    308@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    10@menu
+    421@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Settings"
+    478@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"About"
+    473@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Theme"
+    476@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Use dark theme for editing"
+    468@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Media"
+    460@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Template"
+    477@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    461@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    482@back
+    467@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Template.md"
+    665@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    475@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Dark"
+    470@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Browser"
+    471@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Use browser for external links"
+    480@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"About"
+    827@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    469@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    664@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    463@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Use template for notes"
+    464@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    472@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    465@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    663@edit(resource-id='android:id/edit'):android.widget.EditText@"Notes"
+    664@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    459@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Notes"
+    665@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    474@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    664@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    479@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    665@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    457@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    663@edit(resource-id='android:id/edit'):android.widget.EditText@"Notes"
+    1127@edit(resource-id='android:id/edit'):android.widget.EditText@"tests"
+    664@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    455@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    20@click(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    10@menu
+    417@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Add media…"
+    85@keyevent_back
+    86@reset
+    10@menu
+    28@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Add date"
+    1238@scroll(direction='up')
+    1234@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    1237@scroll(direction='down')
+    10@menu
+    411@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Open"
+    1287@click(className='android.widget.Button',instance='0'):android.widget.Button@"Discard"
+    52@click(className='android.widget.Button',instance='1'):android.widget.Button@"storage"
+    51@click(className='android.widget.Button',instance='0'):android.widget.Button@"/"
+    218@scroll(direction='up')
+    1320@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"fstab.goldfish"
+    10@menu
+    168@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    1364@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"fstab.goldfish"
+    7@click(content-desc='More options'):android.widget.ImageButton@""
+    24@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Search…"
+    1394@click(resource-id='android:id/home'):android.widget.ImageView@""
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    1324@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"init.goldfish.rc"
+    10@menu
+    168@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    1440@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"init.goldfish.rc"
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    217@scroll(direction='down')
+    1328@click(className='android.widget.Button',instance='2'):android.widget.Button@"Storage"
+    85@keyevent_back
+    86@reset
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    57@click(className='android.widget.Button',instance='4'):android.widget.Button@"Cancel"
+    1233@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    58@click(className='android.widget.Button',instance='5'):android.widget.Button@"Storage"
+    85@keyevent_back
+    86@reset
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    1296@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Notes.md"
+    4@clickLong(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    1233@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    55@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"sdcard"
+    202@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"5.vcf"
+    1667@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"BEGIN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1661@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"5.vcf"
+    1679@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"testN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1703@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12stN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1661@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"5.vcf"
+    21@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    353@click(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    6@clickLong(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    11@back
+    85@keyevent_back
+    86@reset
+    3@click(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    9@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    99@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Untitled.md"
+    10@menu
+    33@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Settings"
+    456@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Folder"
+    481@click(className='android.widget.TextView',instance='17'):android.widget.TextView@"Version 1.16"
+    825@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Licence GNU GPLv3 "
+    85@keyevent_back
+    824@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"Copyright © 2020 Bill FarmerMarkdown view by Markdown View, German translation by mondstern, Brazilian Portuguese translation by aevw, Finnish translation by Rigo-V, Turkish translation by Berkay Gündüz "
+    85@keyevent_back
+    826@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Licence GNU GPLv3 "
+    85@keyevent_back
+    822@clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Version 1.16"
+    85@keyevent_back
+    821@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Version 1.16"
+    85@keyevent_back
+    823@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Copyright © 2020 Bill FarmerMarkdown view by Markdown View, German translation by mondstern, Brazilian Portuguese translation by aevw, Finnish translation by Rigo-V, Turkish translation by Berkay Gündüz "
+    85@keyevent_back
+    827@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    466@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Template file"
+    454@click(resource-id='android:id/home'):android.widget.ImageView@""
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    54@click(className='android.widget.Button',instance='3'):android.widget.Button@"Notes"
+    55@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"sdcard"
+    213@click(className='android.widget.Button',instance='3'):android.widget.Button@"Cancel"
+    10@menu
+    27@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Share…"
+    85@keyevent_back
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    51@click(className='android.widget.Button',instance='0'):android.widget.Button@"/"
+    1318@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"etc"
+    1305@click(className='android.widget.Button',instance='2'):android.widget.Button@"Cancel"
+    10@menu
+    30@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Edit styles…"
+    272@back
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    55@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"sdcard"
+    196@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"storage"
+    1303@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"/"
+    1316@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"default.prop"
+    2267@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"default.prop"
+    1237@scroll(direction='down')
+    1238@scroll(direction='up')
+    2267@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"default.prop"
+    1234@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    10@menu
+    31@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit script…"
+    269@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@""
+    271@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    268@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"script.js"
+    10@menu
+    24@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Search…"
+    1395@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    1393@click(resource-id='android:id/up'):android.widget.ImageView@""
+    10@menu
+    33@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Settings"
+    453@click(resource-id='android:id/up'):android.widget.ImageView@""
+    2267@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"default.prop"
+    1238@scroll(direction='up')
+    1234@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    3@click(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    6@clickLong(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    4@clickLong(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    99@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Untitled.md"
+    11@back
+    85@keyevent_back
+    86@reset
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes.md"
+    2591@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    20@click(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes.md"
+    1233@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    388@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12st"
+    354@clickLong(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    356@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"test"
+    354@clickLong(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    21@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    388@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12st"
+    353@click(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    51@click(className='android.widget.Button',instance='0'):android.widget.Button@"/"
+    1314@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"d"
+    1306@click(className='android.widget.Button',instance='3'):android.widget.Button@"Storage"
+    85@keyevent_back
+    86@reset
+    8@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    20@click(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    1237@scroll(direction='down')
+    10@menu
+    30@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Edit styles…"
+    266@click(resource-id='android:id/up'):android.widget.ImageView@""
+    10@menu
+    25@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Save as"
+    424@edit(resource-id='org.billthefarmer.notes:id/path_text'):android.widget.EditText@"Notes/Notes.md"
+    310@click(className='android.widget.Button',instance='2'):android.widget.Button@"Save"
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes.md"
+    10@menu
+    24@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Search…"
+    2404@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    2407@scroll(direction='down')
+    2408@scroll(direction='up')
+    1397@click(content-desc='More options'):android.widget.ImageButton@""
+    2956@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Edit styles…"
+    2182@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"styles.css"
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    2985@click(className='android.widget.Button',instance='3'):android.widget.Button@"tests"
+    55@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"sdcard"
+    201@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"4.vcf"
+    3036@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    3029@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"4.vcf"
+    3029@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"4.vcf"
+    10@menu
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    3094@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"/init.goldfish.rc"
+    10@menu
+    168@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    1440@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"init.goldfish.rc"
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    1319@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"file_contexts"
+    3147@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"file_contexts"
+    3147@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"file_contexts"
+    10@menu
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    3088@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"5.vcf"
+    1661@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"5.vcf"
+    10@menu
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    3201@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Clear list"
+    10@menu
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    36@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Clear list"
+    1661@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"5.vcf"
+    3@click(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    6@clickLong(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    11@back
+    85@keyevent_back
+    86@reset
+    9@clickLong(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes.md"
+    4@clickLong(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    7@click(content-desc='More options'):android.widget.ImageButton@""
+    26@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Open recent"
+    3384@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Notes/Untitled.md"
+    1237@scroll(direction='down')
+    1238@scroll(direction='up')
+    5@click(resource-id='org.billthefarmer.notes:id/openNote'):android.widget.TextView@""
+    51@click(className='android.widget.Button',instance='0'):android.widget.Button@"/"
+    1315@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"data"
+    56@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"sdcard"
+    204@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"7.vcf"
+    3490@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"7.vcf"
+    3490@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"7.vcf"
+    10@menu
+    32@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Backup"
+    3490@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"7.vcf"
+    10@menu
+    27@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Share…"
+    85@keyevent_back
+    3035@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    1667@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"BEGIN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    3601@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12GIN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1679@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"testN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    3490@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"7.vcf"
+    1679@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"testN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1703@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12stN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1679@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"testN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    1703@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12stN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    354@clickLong(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    21@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    353@click(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    1703@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12stN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    10@menu
+    419@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Edit script…"
+    267@click(resource-id='android:id/home'):android.widget.ImageView@""
+    20@click(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    3035@click(resource-id='org.billthefarmer.notes:id/edit'):android.widget.ImageButton@""
+    10@menu
+    418@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Edit styles…"
+    269@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@""
+    3812@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12"
+    3819@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"1test"
+    3826@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"12est"
+    271@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""
+    2182@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"styles.css"
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    21@clickLong(resource-id='org.billthefarmer.notes:id/accept'):android.widget.ImageButton@""

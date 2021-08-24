@@ -1,0 +1,18 @@
+    13@back
+    11@clickLong(content-desc='More options'):android.widget.ImageView@""
+    23@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Community Codex"
+    10@click(content-desc='More options'):android.widget.ImageView@""
+    27@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"About"
+    40@scroll(direction='down')
+    41@scroll(direction='up')
+    146@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    146@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    10@click(content-desc='More options'):android.widget.ImageView@""
+    21@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map"
+    268@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    11@clickLong(content-desc='More options'):android.widget.ImageView@""
+    20@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Find Places"
+    12@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    38@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    40@scroll(direction='down')
+    626@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""

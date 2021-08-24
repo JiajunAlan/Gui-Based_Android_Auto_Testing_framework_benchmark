@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[130,1135][949,1794]">
+    <node index="0" text="" resource-id="info.aario.snotepad:id/expanded_menu" class="android.widget.ListView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1156][928,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1156][928,1282]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1187][886,1250]">
+          <node index="0" text="Refresh" resource-id="info.aario.snotepad:id/title" class="android.widget.TextView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1187][886,1250]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1284][928,1410]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1315][886,1378]">
+          <node index="0" text="Sort by Name" resource-id="info.aario.snotepad:id/title" class="android.widget.TextView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1315][886,1378]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1412][928,1538]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1443][886,1506]">
+          <node index="0" text="Sort by Date" resource-id="info.aario.snotepad:id/title" class="android.widget.TextView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1443][886,1506]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1540][928,1666]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1571][886,1634]">
+          <node index="0" text="Settings" resource-id="info.aario.snotepad:id/title" class="android.widget.TextView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1571][886,1634]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[151,1668][928,1794]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1699][886,1762]">
+          <node index="0" text="About" resource-id="info.aario.snotepad:id/title" class="android.widget.TextView" package="info.aario.snotepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[193,1699][886,1762]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

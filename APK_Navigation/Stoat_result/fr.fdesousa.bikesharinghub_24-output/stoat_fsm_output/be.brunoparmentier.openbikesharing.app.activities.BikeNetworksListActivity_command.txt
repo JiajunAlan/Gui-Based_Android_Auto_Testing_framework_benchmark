@@ -1,0 +1,6 @@
+    38@click(resource-id='android:id/up'):android.widget.ImageView@""
+    39@click(resource-id='android:id/home'):android.widget.ImageView@""
+    40@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Choose a network"
+    41@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    43@back

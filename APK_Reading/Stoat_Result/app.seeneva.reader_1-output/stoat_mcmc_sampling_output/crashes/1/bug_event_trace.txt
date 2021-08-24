@@ -1,0 +1,6 @@
+click(resource-id='app.seeneva.reader:id/search_close_btn')@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+['adb', '-s', 'emulator-5554', 'shell', 'am', 'startservice', u'app.seeneva.reader/androidx.work.impl.background.systemalarm.SystemAlarmService']@
+clickLong(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='9')@GNU GPLv3 or any later version

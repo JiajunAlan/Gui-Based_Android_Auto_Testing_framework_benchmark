@@ -1,0 +1,66 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/ActivityThread( 3504): Performing stop of activity that is not resumed: {com.android.browser/com.android.browser.BrowserActivity}
+E/ActivityThread( 3504): java.lang.RuntimeException: Performing stop of activity that is not resumed: {com.android.browser/com.android.browser.BrowserActivity}
+E/ActivityThread( 3504): 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:3147)
+E/ActivityThread( 3504): 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:3234)
+E/ActivityThread( 3504): 	at android.app.ActivityThread.access$1100(ActivityThread.java:135)
+E/ActivityThread( 3504): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1223)
+E/ActivityThread( 3504): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/ActivityThread( 3504): 	at android.os.Looper.loop(Looper.java:136)
+E/ActivityThread( 3504): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/ActivityThread( 3504): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/ActivityThread( 3504): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/ActivityThread( 3504): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/ActivityThread( 3504): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/ActivityThread( 3504): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4466): FATAL EXCEPTION: Timer-0
+E/AndroidRuntime( 4466): Process: eu.quelltext.mundraub, PID: 4466
+E/AndroidRuntime( 4466): java.lang.RuntimeException: java.lang.Throwable: A WebView method was called on thread 'Timer-0'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 1) {9cfc85f8} called on null, FYI main Looper is Looper (main, tid 1) {9cfc85f8})
+E/AndroidRuntime( 4466): 	at android.webkit.WebView.checkThread(WebView.java:2073)
+E/AndroidRuntime( 4466): 	at android.webkit.WebView.getUrl(WebView.java:1220)
+E/AndroidRuntime( 4466): 	at eu.quelltext.mundraub.activities.map.MapBaseActivity.getUrl(MapBaseActivity.java:97)
+E/AndroidRuntime( 4466): 	at eu.quelltext.mundraub.activities.map.TestFruitRadarActivity$2.run(TestFruitRadarActivity.java:42)
+E/AndroidRuntime( 4466): 	at java.util.Timer$TimerImpl.run(Timer.java:284)
+E/AndroidRuntime( 4466): Caused by: java.lang.Throwable: A WebView method was called on thread 'Timer-0'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 1) {9cfc85f8} called on null, FYI main Looper is Looper (main, tid 1) {9cfc85f8})
+E/AndroidRuntime( 4466): 	at android.webkit.WebView.checkThread(WebView.java:2063)
+E/AndroidRuntime( 4466): 	... 4 more
+***********
+package name: eu.quelltext.mundraub
+app code version: v1.236
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 316293 Realtime: 316293
+
+** MEMINFO in pid 5198 [eu.quelltext.mundraub] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3862     3824        0        0     8308     8029      278
+  Dalvik Heap     4085     3872        0        0     6384     5948      436
+ Dalvik Other     1790     1624        0        0                           
+        Stack       96       96        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1334      532       52        0                           
+    .apk mmap      347        0       76        0                           
+    .ttf mmap      171        0      168        0                           
+    .dex mmap     2883       52     2460        0                           
+   Other mmap       34        4        8        0                           
+      Unknown       68       68        0        0                           
+        TOTAL    14674    10072     2768        0    14692    13977      714
+ 
+ Objects
+               Views:       68         ViewRootImpl:        2
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       15
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

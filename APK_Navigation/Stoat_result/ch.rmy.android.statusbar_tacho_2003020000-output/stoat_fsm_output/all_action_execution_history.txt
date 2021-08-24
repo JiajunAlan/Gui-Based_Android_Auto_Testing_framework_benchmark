@@ -1,0 +1,499 @@
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    2@menu
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    13@scroll(direction='up')
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    12@scroll(direction='down')
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    12@scroll(direction='down')
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    13@scroll(direction='up')
+    3@back
+    12@scroll(direction='down')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    13@scroll(direction='up')
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    12@scroll(direction='down')
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    13@scroll(direction='up')
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    13@scroll(direction='up')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    12@scroll(direction='down')
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    13@scroll(direction='up')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    12@scroll(direction='down')
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    12@scroll(direction='down')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    13@scroll(direction='up')
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    12@scroll(direction='down')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    13@scroll(direction='up')
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    3@back
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    12@scroll(direction='down')
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    13@scroll(direction='up')
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    13@scroll(direction='up')
+    3@back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    12@scroll(direction='down')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    12@scroll(direction='down')
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    13@scroll(direction='up')
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    3@back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    13@scroll(direction='up')
+    3@back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    12@scroll(direction='down')
+    3@back
+    12@scroll(direction='down')
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    13@scroll(direction='up')
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    12@scroll(direction='down')
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    13@scroll(direction='up')
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    3@back
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    13@scroll(direction='up')
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    12@scroll(direction='down')
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    12@scroll(direction='down')
+    3@back
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    13@scroll(direction='up')
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    3@back
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    4@click(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    40@keyevent_back
+    9@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer disabled"
+    5@clickLong(resource-id='ch.rmy.android.statusbar_tacho:id/action_github'):android.widget.TextView@""
+    82@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"Speedometer enabled"
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    12@scroll(direction='down')
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    3@back
+    70@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    112@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    2@menu
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    13@scroll(direction='up')
+    2@menu
+    26@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"mi/h"
+    111@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"mi/h"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    6@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    3@back
+    149@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    2@menu
+    25@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"m/s"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    3@back
+    8@click(resource-id='ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox'):android.widget.CheckBox@"Keep updating while screen is off"
+    148@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"m/s"
+    27@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"ft/s"
+    69@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ft/s"
+    24@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"km/h"
+    7@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"km/h"

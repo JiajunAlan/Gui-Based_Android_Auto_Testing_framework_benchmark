@@ -1,0 +1,18 @@
+    9@click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+    10@clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+    73@click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+    74@click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+    5485@click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+    5535@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Login"
+    5536@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Coordinate Records"
+    5537@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Image Logs"
+    5538@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+    5539@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Options"
+    5540@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+    5541@click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Block"
+    5542@click(className='android.widget.CheckedTextView',instance='7'):android.widget.CheckedTextView@"Register Version"
+    5543@click(className='android.widget.CheckedTextView',instance='8'):android.widget.CheckedTextView@"Help"
+    12@menu
+    13@back
+    5546@scroll(direction='down')
+    5547@scroll(direction='up')

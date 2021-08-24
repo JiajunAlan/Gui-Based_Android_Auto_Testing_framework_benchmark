@@ -1,0 +1,28 @@
+[1629391698414] Encounter abort but we are in continuous mode.
+[1629391698415] Sleep for 0 ms
+[1629391698415] Events injected : 1419
+[1629391698415] // Monkey is over!
+[1629391698415] :Sending rotation degree : 0, persist : false
+[1629391698436] Total app activities:
+[1629391698437]    1 com.DartChecker.matchcalc
+[1629391698437]    2 com.DartChecker.info
+[1629391698437]    3 com.DartChecker.MainActivity
+[1629391698437]    4 com.DartChecker.cricket
+[1629391698437]    5 com.DartChecker.einstellungen
+[1629391698437]    6 com.DartChecker.spielerliste
+[1629391698437]    7 com.DartChecker.match
+[1629391698437]    8 com.DartChecker.spielende
+[1629391698437]    9 com.DartChecker.hilfe
+[1629391698437]   10 com.DartChecker.statistik
+[1629391698437] Explored app activities:
+[1629391698437]    1 com.DartChecker.MainActivity
+[1629391698437]    2 com.DartChecker.info
+[1629391698437]    3 com.DartChecker.statistik
+[1629391698437] Acitity of Coverage: 30.000002%
+[1629391698437] Activity of Times:
+[1629391698437] com.DartChecker.info      1
+[1629391698437] com.DartChecker.MainActivity     32
+[1629391698437] com.DartChecker.statistik    109
+:Dropped : keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+[1629391698458] // App appears 6 crash, 0 anr, monkey using seed : 1629507167977
+[1629391698458] // Monkey finished

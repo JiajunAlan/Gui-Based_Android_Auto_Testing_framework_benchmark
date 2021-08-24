@@ -1,0 +1,238 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626370254169 count=1000
+:AllowPackage: com.example.spokennumbers
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.spokennumbers/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.spokennumbers/.MainActivity } in package com.example.spokennumbers
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(1026.801,1772.0717)
+:Sending Touch (ACTION_DOWN): 0:(780.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(785.37714,1696.714)
+:Sending Touch (ACTION_DOWN): 0:(92.0,527.0)
+:Sending Touch (ACTION_UP): 0:(92.338005,508.71487)
+:Sending Touch (ACTION_DOWN): 0:(397.0,104.0)
+:Sending Touch (ACTION_UP): 0:(406.36536,103.981606)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,719.0)
+:Sending Touch (ACTION_UP): 0:(657.848,727.8601)
+:Sending Touch (ACTION_DOWN): 0:(81.0,930.0)
+:Sending Touch (ACTION_UP): 0:(84.05564,919.77875)
+:Sending Touch (ACTION_DOWN): 0:(711.0,637.0)
+:Sending Touch (ACTION_UP): 0:(678.6845,595.9724)
+:Sending Touch (ACTION_DOWN): 0:(300.0,320.0)
+:Sending Touch (ACTION_UP): 0:(299.09415,326.7894)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,107.0)
+:Sending Touch (ACTION_UP): 0:(951.16064,85.018585)
+:Sending Touch (ACTION_DOWN): 0:(563.0,439.0)
+:Sending Touch (ACTION_UP): 0:(573.80896,441.20883)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-03 19:39:53.175  system_uptime:4807995]
+    // Sending event #100
+    //[calendar_time:2021-08-03 19:39:53.701  system_uptime:4808501]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(675.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(670.652,1597.4758)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(65.417404,1008.48505)
+:Sending Touch (ACTION_DOWN): 0:(54.0,179.0)
+:Sending Touch (ACTION_UP): 0:(37.701385,178.86104)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(307.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(318.6853,1549.2484)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(90.562614,1749.3446)
+:Sending Touch (ACTION_DOWN): 0:(351.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(352.93393,1342.4156)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(72.151596,1411.7468)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(1011.7907,1647.5183)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2021-08-03 19:40:03.393  system_uptime:4818193]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(820.0,966.0)
+:Sending Touch (ACTION_UP): 0:(873.9747,967.3656)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(510.0,4.0)
+:Sending Touch (ACTION_UP): 0:(490.3388,3.543282)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(390.92294,1658.2916)
+:Sending Touch (ACTION_DOWN): 0:(513.0,26.0)
+:Sending Touch (ACTION_UP): 0:(514.3504,27.867907)
+:Sending Touch (ACTION_DOWN): 0:(549.0,232.0)
+:Sending Touch (ACTION_UP): 0:(547.29724,234.93274)
+:Sending Touch (ACTION_DOWN): 0:(862.0,10.0)
+:Sending Touch (ACTION_UP): 0:(833.1701,29.724604)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(411.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(421.1815,1181.9111)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(250.0,492.0)
+:Sending Touch (ACTION_UP): 0:(251.64096,485.58832)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(639.0,1414.0)
+:Sending Touch (ACTION_UP): 0:(645.48553,1414.5599)
+:Sending Touch (ACTION_DOWN): 0:(562.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(552.1665,1209.7183)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1012.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(1012.2479,1469.2649)
+:Sending Touch (ACTION_DOWN): 0:(709.0,539.0)
+    //[calendar_time:2021-08-03 19:40:16.107  system_uptime:4830907]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(770.74677,540.797)
+:Sending Touch (ACTION_DOWN): 0:(558.0,226.0)
+:Sending Touch (ACTION_UP): 0:(550.6904,211.16895)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(262.0,654.0)
+:Sending Touch (ACTION_UP): 0:(309.42346,675.71515)
+:Sending Touch (ACTION_DOWN): 0:(852.0,1062.0)
+:Sending Touch (ACTION_UP): 0:(888.6779,1106.5287)
+:Sending Touch (ACTION_DOWN): 0:(723.0,10.0)
+:Sending Touch (ACTION_UP): 0:(720.1558,12.543415)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(1030.852,1552.8368)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(682.94727,1262.553)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,413.0)
+:Sending Touch (ACTION_UP): 0:(222.45334,417.4385)
+:Sending Touch (ACTION_DOWN): 0:(882.0,1266.0)
+:Sending Touch (ACTION_UP): 0:(881.7505,1258.9683)
+    //[calendar_time:2021-08-03 19:40:27.337  system_uptime:4842137]
+    // Sending event #400
+    //[calendar_time:2021-08-03 19:40:27.839  system_uptime:4842640]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(458.0,545.0)
+:Sending Touch (ACTION_UP): 0:(427.3631,548.9626)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(829.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(829.2893,1067.3661)
+:Sending Touch (ACTION_DOWN): 0:(135.0,793.0)
+:Sending Touch (ACTION_UP): 0:(118.1586,807.7317)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(225.88188,1756.9303)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(461.57913,1607.1531)
+:Sending Touch (ACTION_DOWN): 0:(144.0,919.0)
+:Sending Touch (ACTION_UP): 0:(143.63376,911.85986)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2021-08-03 19:40:38.589  system_uptime:4853390]
+    // Sending event #500
+    //[calendar_time:2021-08-03 19:40:39.091  system_uptime:4853891]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(948.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(940.74603,1026.3828)
+:Sending Touch (ACTION_DOWN): 0:(871.0,158.0)
+:Sending Touch (ACTION_UP): 0:(876.4549,169.48984)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(609.0,84.0)
+:Sending Touch (ACTION_UP): 0:(600.5185,87.0587)
+:Sending Touch (ACTION_DOWN): 0:(92.0,431.0)
+:Sending Touch (ACTION_UP): 0:(105.912895,424.00507)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2021-08-03 19:40:47.250  system_uptime:4862051]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,309.0)
+:Sending Touch (ACTION_UP): 0:(69.743935,253.08795)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(572.9387,1333.6958)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,902.0)
+:Sending Touch (ACTION_UP): 0:(1034.9221,901.5773)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.spokennumbers/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.spokennumbers/.MainActivity } in package com.example.spokennumbers
+:Sending Touch (ACTION_DOWN): 0:(164.0,375.0)
+:Sending Touch (ACTION_UP): 0:(195.37653,317.17517)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(958.0,848.0)
+:Sending Touch (ACTION_UP): 0:(921.90204,850.62683)
+    //[calendar_time:2021-08-03 19:40:56.941  system_uptime:4871741]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(928.0,107.0)
+:Sending Touch (ACTION_UP): 0:(963.6071,38.317)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(226.48523,1462.8776)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.spokennumbers/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.spokennumbers/.MainActivity } in package com.example.spokennumbers
+:Sending Touch (ACTION_DOWN): 0:(144.0,773.0)
+:Sending Touch (ACTION_UP): 0:(154.89633,778.3165)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2021-08-03 19:41:06.177  system_uptime:4880977]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(310.0,54.0)
+:Sending Touch (ACTION_UP): 0:(311.62405,69.06018)
+:Sending Touch (ACTION_DOWN): 0:(970.0,642.0)
+:Sending Touch (ACTION_UP): 0:(971.4919,643.5244)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(81.0,214.0)
+:Sending Touch (ACTION_UP): 0:(116.184944,288.59164)
+:Sending Touch (ACTION_DOWN): 0:(240.0,360.0)
+:Sending Touch (ACTION_UP): 0:(253.26883,418.50494)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(793.0,884.0)
+:Sending Touch (ACTION_UP): 0:(791.328,883.74365)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.spokennumbers/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.spokennumbers/.MainActivity } in package com.example.spokennumbers
+:Sending Touch (ACTION_DOWN): 0:(654.0,309.0)
+    //[calendar_time:2021-08-03 19:41:17.983  system_uptime:4892783]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(651.31366,395.42392)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(500.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(515.59467,1283.0082)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,781.0)
+:Sending Touch (ACTION_UP): 0:(1063.7467,774.63074)
+:Sending Touch (ACTION_DOWN): 0:(881.0,587.0)
+:Sending Touch (ACTION_UP): 0:(806.2726,613.77997)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=105238ms (0ms mobile, 0ms wifi, 105238ms not connected)
+// Monkey finished

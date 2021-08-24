@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="eu.lepiller.nani:id/decor_content_parent" class="android.view.View" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="eu.lepiller.nani:id/action_bar_container" class="android.widget.FrameLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+            <node index="0" text="" resource-id="eu.lepiller.nani:id/action_bar" class="android.view.View" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+              <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="eu.lepiller.nani" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][147,213]" />
+              <node index="1" text="Dictionaries" resource-id="" class="android.widget.TextView" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,104][472,175]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+            <node index="0" text="" resource-id="eu.lepiller.nani:id/dictionary_refresh_layout" class="android.view.View" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+              <node index="0" text="" resource-id="eu.lepiller.nani:id/dictionary_view" class="android.widget.ListView" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]" />
+              <node index="1" text="" resource-id="" class="android.widget.ImageView" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[479,276][601,399]" />
+            </node>
+            <node index="1" text="" resource-id="" class="android.widget.FrameLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,1669][1080,1794]">
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[32,1669][1048,1794]">
+                <node index="0" text="Dictionary list not yet downloaded, updating…" resource-id="eu.lepiller.nani:id/snackbar_text" class="android.widget.TextView" package="eu.lepiller.nani" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[32,1669][1048,1794]" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

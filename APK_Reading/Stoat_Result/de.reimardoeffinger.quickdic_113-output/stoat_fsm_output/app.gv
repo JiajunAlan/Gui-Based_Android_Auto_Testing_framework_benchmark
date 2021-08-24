@@ -1,0 +1,34 @@
+digraph graphtest {
+  S_1 -> S_1  [ label="@13"] ;
+  S_1 -> S_3  [ label="@68"] ;
+  S_1 -> S_1  [ label="@18"] ;
+  S_1 -> S_1  [ label="@46"] ;
+  S_1 -> S_1  [ label="@67"] ;
+  S_1 -> S_3  [ label="@2"] ;
+  S_3 -> S_1  [ label="@143"] ;
+  S_3 -> S_9  [ label="@143"] ;
+  S_9 -> EMPTY_APP_STATE  [ style=dotted,label="@69"] ;
+  S_9 -> S_9  [ label="@502"] ;
+  S_9 -> S_9  [ label="@468"] ;
+  S_9 -> S_15  [ label="@449"] ;
+  EMPTY_APP_STATE -> S_9  [ label="@513"] ;
+  S_15 -> S_16  [ label="@742"] ;
+  S_15 -> S_18  [ label="@734"] ;
+  S_15 -> S_20  [ label="@730"] ;
+  S_15 -> S_23  [ label="@758"] ;
+  S_15 -> S_26  [ label="@748"] ;
+  S_15 -> S_15  [ label="@772"] ;
+  S_15 -> S_29  [ label="@728"] ;
+  S_15 -> S_32  [ label="@721"] ;
+  S_15 -> S_15  [ label="@770"] ;
+  S_15 -> S_45  [ label="@770"] ;
+  S_16 -> S_15  [ label="@774"] ;
+  S_18 -> S_15  [ label="@774"] ;
+  S_20 -> S_20  [ label="@831"] ;
+  S_20 -> S_15  [ label="@775"] ;
+  S_23 -> S_23  [ label="@832"] ;
+  S_23 -> S_15  [ label="@774"] ;
+  S_26 -> S_15  [ label="@774"] ;
+  S_29 -> S_15  [ label="@771"] ;
+  S_32 -> S_15  [ label="@1233"] ;
+}

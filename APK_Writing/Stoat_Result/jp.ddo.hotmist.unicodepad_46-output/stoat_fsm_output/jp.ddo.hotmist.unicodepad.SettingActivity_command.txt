@@ -1,0 +1,21 @@
+    697@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Show font metrics in large view"
+    698@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    699@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Shrink font to fit width"
+    700@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    701@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Behaviour"
+    702@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Disable IME"
+    703@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    704@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Show clear button"
+    705@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    706@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"UI scroll"
+    797@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Never"
+    708@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Maximum number of recent list"
+    709@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"256"
+    710@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Legal"
+    711@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"UnicodePad 2.9.1"
+    712@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"UnicodePad is licensed under the Apache License, Version2.0 https://github.com/Ryosuke839/UnicodePad"
+    713@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Unicode®"
+    714@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"This application includes a modified version of Unicode Data File. Copyright © 1991-2020 Unicode, Inc. All rights reserved. Distributed under the Terms of Use in http://www.unicode.org/copyright.html."
+    222@back
+    223@scroll(direction='down')
+    224@scroll(direction='up')

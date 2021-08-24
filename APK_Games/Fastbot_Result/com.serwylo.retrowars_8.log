@@ -1,0 +1,3293 @@
+▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ 
+▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░▌     
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌     
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌          ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌     ▐░▌     
+ ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀       ▀
+[1629394144915]  @Version : 2.2.1.0304.2039_git
+[1629394144934] // Monkey : seed=1629975177138 count=1000
+
+
+[1629394144934] // Valid Package: com.serwylo.retrowars
+[1629394144934] // IncludeCategory : android.intent.category.LAUNCHER
+[1629394144934] // IncludeCategory : android.intent.category.MONKEY
+[1629394144940] // Selecting main activities from category android.intent.category.LAUNCHER
+[1629394144940] //   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+[1629394144940] //   - NOT USING main activity com.android.dialer.DialtactsActivity (from package com.android.dialer)
+[1629394144940] //   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+[1629394144941] //   - NOT USING main activity com.google.android.gms.app.settings.GoogleSettingsActivity (from package com.google.android.gms)
+[1629394144941] //   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+[1629394144941] //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+[1629394144941] //   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.google.android.calendar)
+[1629394144941] //   - NOT USING main activity com.android.deskclock.DeskClock (from package com.android.deskclock)
+[1629394144941] //   - NOT USING main activity com.android.camera.GalleryPicker (from package com.android.gallery)
+[1629394144941] //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+[1629394144941] //   - NOT USING main activity com.android.music.MusicBrowserActivity (from package com.android.music)
+[1629394144941] //   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+[1629394144941] //   - NOT USING main activity com.android.widgetpreview.WidgetPreviewActivity (from package com.android.widgetpreview)
+[1629394144941] //   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+[1629394144942] //   - NOT USING main activity com.android.customlocale2.CustomLocaleActivity (from package com.android.customlocale2)
+[1629394144942] //   - NOT USING main activity com.android.development.Development (from package com.android.development)
+[1629394144942] //   - NOT USING main activity android.app.AliasActivity (from package com.android.development_settings)
+[1629394144942] //   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+[1629394144942] //   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+[1629394144942] //   - NOT USING main activity com.google.android.gms.games.ui.destination.main.MainActivity (from package com.google.android.play.games)
+[1629394144942] //   - NOT USING main activity com.android.quicksearchbox.SearchActivity (from package com.android.quicksearchbox)
+[1629394144942] //   - NOT USING main activity com.android.speechrecorder.SpeechRecorderActivity (from package com.android.speechrecorder)
+[1629394144942] //   + Using main activity com.serwylo.retrowars.AndroidLauncher (from package com.serwylo.retrowars)
+[1629394144944] // Selecting main activities from category android.intent.category.MONKEY
+[1629394144944] //   - NOT USING main activity com.android.launcher2.Launcher (from package com.android.launcher)
+[1629394144944] //   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+[1629394144944] //   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+[1629394144945] //   - NOT USING main activity com.google.android.street.Street (from package com.google.android.street)
+[1629394147958] // Special Event: 
+[1629394147959] // Black Widget: 
+[1629394148554] 
+
+[1629394148555] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394148556] fastbot exec shell: 
+[1629394148560] fastbot exec schema: 
+[1629394148560] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394148562]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394148595] Sleep for 0 ms
+[1629394148655] : debug, currentActivity is com.serwylo.retrowars.AndroidLauncher
+[1629394148655] Sleep for 2000 ms
+[1629394150657] Sleep for 0 ms
+[1629394150658] :schema :
+[1629394150659] Sleep for 0 ms
+[1629394150659] Sleep for 2000 ms
+[1629394152661] Sleep for 0 ms
+[1629394152661] Sleep for 500 ms
+[1629394153164] Sleep for 0 ms
+[1629394153602] Exception for get action resouece: g0a3@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=0][throttle=200][, UNVISITED]
+[1629394153602] Exception for get action class: g0a3@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=0][throttle=200][, UNVISITED]
+[1629394153603] *** Get guitree ***
+[1629394153614]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394153614] using nstep-q agent
+[1629394153616] select new action from unvisited
+[1629394153616] current state or current action is null
+[1629394153616] new state visited : 1
+[1629394153616] new action visited : 0
+[1629394153618] *** Making decisions *** 
+[1629394153618] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394153618] New action: g0a3@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=6][throttle=200][]
+[1629394153619] *** Inject event ***
+[1629394153621] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394153623] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394153626] Sleep for 0 ms
+[1629394153649] Sleep for 700 ms
+[1629394154352] Sleep for 0 ms
+[1629394154353] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394154358] :Sending Touch (ACTION_DOWN): 0:(606.0,149.0)
+[1629394154362] :Sending Touch (ACTION_UP): 0:(606.3889,142.69771)
+[1629394154364] Sleep for 0 ms
+[1629394154367] Sleep for 260 ms
+[1629394154630] Sleep for 0 ms
+[1629394154631] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394154633] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394154635] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394154637] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394154638] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394154639] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394154641] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394154642] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394154644] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394154645] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394154647] Sleep for 237 ms
+[1629394154886] Sleep for 0 ms
+[1629394154886] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394154890] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394154893] Sleep for 0 ms
+[1629394154894] Sleep for 179 ms
+[1629394155075] Sleep for 0 ms
+[1629394155076] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394155078] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394155081] Sleep for 0 ms
+[1629394155082] Sleep for 211 ms
+[1629394155294] Sleep for 0 ms
+[1629394155294] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394155296] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394155298] Sleep for 0 ms
+[1629394155299] Sleep for 297 ms
+[1629394155598] Sleep for 0 ms
+[1629394155599] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394155603] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394155606] Sleep for 0 ms
+[1629394155607] Sleep for 205 ms
+[1629394155818] Sleep for 0 ms
+[1629394155819] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394155822] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394155824] Sleep for 0 ms
+[1629394155824] Sleep for 213 ms
+[1629394156040] Sleep for 0 ms
+[1629394156041] :Send Key (ACTION_DOWN): 86    // KEYCODE_MEDIA_STOP
+[1629394156045] :Send Key (ACTION_UP): 86    // KEYCODE_MEDIA_STOP
+[1629394156047] Sleep for 0 ms
+[1629394156048] Sleep for 132 ms
+[1629394156183] Sleep for 0 ms
+[1629394156184] :Sending Touch (ACTION_DOWN): 0:(815.0,899.0)
+[1629394156187] :Sending Touch (ACTION_MOVE): 0:(804.7703,902.8917)
+[1629394156191] Waiting Event for 28 milliseconds
+[1629394156220] Sleep for 0 ms
+[1629394156221] :Sending Touch (ACTION_MOVE): 0:(795.435,908.40704)
+[1629394156224] Waiting Event for 28 milliseconds
+[1629394156255] Sleep for 0 ms
+[1629394156256] :Sending Touch (ACTION_MOVE): 0:(780.6573,916.4646)
+[1629394156258] Waiting Event for 28 milliseconds
+[1629394156288] Sleep for 0 ms
+[1629394156289] :Sending Touch (ACTION_MOVE): 0:(772.879,924.44867)
+[1629394156292] Waiting Event for 28 milliseconds
+[1629394156321] Sleep for 0 ms
+[1629394156322] :Sending Touch (ACTION_MOVE): 0:(755.5934,935.0624)
+[1629394156326] Waiting Event for 28 milliseconds
+[1629394156356] Sleep for 0 ms
+[1629394156357] :Sending Touch (ACTION_UP): 0:(743.4944,939.92065)
+[1629394156361] Sleep for 0 ms
+[1629394156361] Sleep for 203 ms
+[1629394156567] Sleep for 0 ms
+[1629394156567] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394156571] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394156573] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394156578] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394156581] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394156586] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394156587] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394156591] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394156593] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394156596] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394156600] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394156603] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394156604] Sleep for 0 ms
+[1629394156604] Sleep for 101 ms
+[1629394156707] Sleep for 0 ms
+[1629394156708] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394156711] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394156721] Sleep for 0 ms
+[1629394156722] Sleep for 219 ms
+[1629394156944] Sleep for 0 ms
+[1629394156947] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394156951] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394156959] Sleep for 0 ms
+[1629394156959] Sleep for 260 ms
+[1629394157220] Sleep for 0 ms
+[1629394157221] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394157226] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394157231] Sleep for 0 ms
+[1629394157231] Sleep for 236 ms
+[1629394157469] Sleep for 0 ms
+[1629394157469] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394157476] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394157480] Sleep for 0 ms
+[1629394157481] Sleep for 194 ms
+[1629394157677] Sleep for 0 ms
+[1629394157678] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394157681] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394157685] Sleep for 0 ms
+[1629394157685] Sleep for 283 ms
+[1629394157970] Sleep for 0 ms
+[1629394157971] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394157976] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394157982] Sleep for 0 ms
+[1629394157982] Sleep for 112 ms
+[1629394158097] Sleep for 0 ms
+[1629394158098] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394158101] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394158107] Sleep for 0 ms
+[1629394158107] Sleep for 209 ms
+[1629394158321] Sleep for 0 ms
+[1629394158323] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394158326] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394158332] Sleep for 0 ms
+[1629394158335] Sleep for 264 ms
+[1629394158601] Sleep for 0 ms
+[1629394158602] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394158606] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394158614] Sleep for 0 ms
+[1629394158615] Sleep for 160 ms
+[1629394158777] Sleep for 0 ms
+[1629394158778] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394158780] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394158782] Sleep for 0 ms
+[1629394158784] Sleep for 166 ms
+[1629394158951] Sleep for 0 ms
+[1629394158952] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394158954] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394158956] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394158957] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394158959] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394158961] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394158965] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394158969] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394158970] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394158972] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394158974] Sleep for 192 ms
+[1629394159168] Sleep for 0 ms
+[1629394159169] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394159172] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394159179] Sleep for 0 ms
+[1629394159179] Sleep for 232 ms
+[1629394159413] Sleep for 0 ms
+[1629394159415] :Send Key (ACTION_DOWN): 67    // KEYCODE_DEL
+[1629394159417] :Send Key (ACTION_UP): 67    // KEYCODE_DEL
+[1629394159421] Sleep for 0 ms
+[1629394159422] Sleep for 180 ms
+[1629394159604] Sleep for 0 ms
+[1629394159604] Sleep for 0 ms
+[1629394159604] Sleep for 0 ms
+[1629394159605] :Sending rotation degree : 0, persist : false
+[1629394159623] Sleep for 0 ms
+[1629394159624] Sleep for 500 ms
+[1629394160126] Sleep for 0 ms
+[1629394160127] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394160127] fastbot exec shell: 
+[1629394160131] fastbot exec schema: 
+[1629394160131] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394160132]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394160138] Sleep for 0 ms
+[1629394160192] Sleep for 2000 ms
+[1629394162193] Sleep for 0 ms
+[1629394162193] :schema :
+[1629394162194] Sleep for 0 ms
+[1629394162194] Sleep for 2000 ms
+[1629394164197] Sleep for 0 ms
+[1629394164198] Sleep for 500 ms
+[1629394164700] Sleep for 0 ms
+[1629394164799] Exception for get action resouece: g0a4@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=6][throttle=0][]
+[1629394164799] Exception for get action class: g0a4@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=6][throttle=0][]
+[1629394164800] *** Get guitree ***
+[1629394164800]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394164800] using nstep-q agent
+[1629394164801] select new action from ucb q value: g0a4@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394164801] current state or current action is null
+[1629394164801] new state visited : 2
+[1629394164801] new action visited : 1
+[1629394164801] *** Making decisions *** 
+[1629394164801] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394164801] New action: g0a4@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394164801] *** Inject event ***
+[1629394164802] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394164805] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394164807] Sleep for 0 ms
+[1629394164807] Sleep for 500 ms
+[1629394165309] Sleep for 0 ms
+[1629394165310] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394165311] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394165318] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394165320] Sleep for 0 ms
+[1629394165321] Sleep for 235 ms
+[1629394165558] Sleep for 0 ms
+[1629394165559] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394165715] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394165718] Sleep for 0 ms
+[1629394165719] Sleep for 163 ms
+[1629394165883] Sleep for 0 ms
+[1629394165884] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394165888] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394165892] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394165895] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394165896] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394165897]     //[calendar_time:2021-08-19 13:29:25.897  system_uptime:8436114]
+[1629394165897]     // Sending event #100
+[1629394165897] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394165898] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394165898] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394165899] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394165900] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394165902] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394165904] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394165907] Sleep for 0 ms
+[1629394165909] Sleep for 233 ms
+[1629394166144] Sleep for 0 ms
+[1629394166145] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394166149] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394166152] Sleep for 0 ms
+[1629394166152] Sleep for 131 ms
+[1629394166285] Sleep for 0 ms
+[1629394166286] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394166289] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394166312] Sleep for 0 ms
+[1629394166314] Sleep for 129 ms
+[1629394166445] Sleep for 0 ms
+[1629394166447] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394166449] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394166452] Sleep for 0 ms
+[1629394166452] Sleep for 187 ms
+[1629394166454]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394166641] Sleep for 0 ms
+[1629394166643] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394166646] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394166651] Sleep for 0 ms
+[1629394166651] Sleep for 224 ms
+[1629394166877] Sleep for 0 ms
+[1629394166877] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394166881] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394166883] Sleep for 0 ms
+[1629394166884] Sleep for 253 ms
+[1629394167138] Sleep for 0 ms
+[1629394167139] :Send Key (ACTION_DOWN): 2    // KEYCODE_SOFT_RIGHT
+[1629394167143] :Send Key (ACTION_UP): 2    // KEYCODE_SOFT_RIGHT
+[1629394167145] Sleep for 0 ms
+[1629394167145] Sleep for 103 ms
+[1629394167249] Sleep for 0 ms
+[1629394167250] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394167252] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394167254] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394167257] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394167259] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394167262] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394167264] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394167266] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394167267] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394167269] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394167270] Sleep for 163 ms
+[1629394167435] Sleep for 0 ms
+[1629394167436] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394167440] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394167444] Sleep for 0 ms
+[1629394167445] Sleep for 236 ms
+[1629394167684] Sleep for 0 ms
+[1629394167685] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394167688] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394167691] Sleep for 0 ms
+[1629394167693] Sleep for 234 ms
+[1629394167930] Sleep for 0 ms
+[1629394167930] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394167935] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394167937] Sleep for 0 ms
+[1629394167937] Sleep for 133 ms
+[1629394168071] Sleep for 0 ms
+[1629394168072] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394168077] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394168080] Sleep for 0 ms
+[1629394168080] Sleep for 247 ms
+[1629394168329] Sleep for 0 ms
+[1629394168330] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394168332] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394168336] Sleep for 0 ms
+[1629394168336] Sleep for 224 ms
+[1629394168339]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394168562] Sleep for 0 ms
+[1629394168563] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394168717] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394168721] Sleep for 0 ms
+[1629394168721] Sleep for 232 ms
+[1629394168956] Sleep for 0 ms
+[1629394168956] Sleep for 0 ms
+[1629394168957] Sleep for 0 ms
+[1629394168957] :Sending rotation degree : 0, persist : false
+[1629394168991] Sleep for 0 ms
+[1629394168992] Sleep for 500 ms
+[1629394169494] Sleep for 0 ms
+[1629394169494] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394169494] fastbot exec shell: 
+[1629394169497] fastbot exec schema: 
+[1629394169498] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394169499]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394169564] Sleep for 0 ms
+[1629394169565] Sleep for 2000 ms
+[1629394171568] Sleep for 0 ms
+[1629394171569] :schema :
+[1629394171570] Sleep for 0 ms
+[1629394171571] Sleep for 2000 ms
+[1629394173572] Sleep for 0 ms
+[1629394173573] Sleep for 500 ms
+[1629394174076] Sleep for 0 ms
+[1629394174170] Exception for get action resouece: g0a5@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394174171] Exception for get action class: g0a5@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394174171] *** Get guitree ***
+[1629394174172]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394174172] using nstep-q agent
+[1629394174173] select new action from ucb q value: g0a5@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394174174] current state or current action is null
+[1629394174174] new state visited : 3
+[1629394174174] new action visited : 2
+[1629394174175] *** Making decisions *** 
+[1629394174175] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394174175] New action: g0a5@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394174175] *** Inject event ***
+[1629394174176] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394174178] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394174180] Sleep for 0 ms
+[1629394174180] Sleep for 500 ms
+[1629394174684] Sleep for 0 ms
+[1629394174684] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394174686] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394174688] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394174690] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394174694] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394174696] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394174698] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394174701] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394174702] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394174704] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394174705] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394174706] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394174707] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394174708] Sleep for 0 ms
+[1629394174709] Sleep for 154 ms
+[1629394174864] Sleep for 0 ms
+[1629394174865] :Sending Touch (ACTION_DOWN): 0:(430.0,460.0)
+[1629394174868] Waiting Event for 159 milliseconds
+[1629394175030] Sleep for 0 ms
+[1629394175031] :Sending Touch (ACTION_UP): 0:(430.0,460.0)
+[1629394175032] Sleep for 0 ms
+[1629394175032] Sleep for 271 ms
+[1629394175304] Sleep for 0 ms
+[1629394175305] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394175311] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394175314] Sleep for 0 ms
+[1629394175314] Sleep for 288 ms
+[1629394175604] Sleep for 0 ms
+[1629394175605] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394175608] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394175612] Sleep for 0 ms
+[1629394175614] Sleep for 187 ms
+[1629394175802] Sleep for 0 ms
+[1629394175803] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394175806] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394175808] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394175810] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394175811] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394175813] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394175815] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394175821] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394175822] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394175826] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394175827] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394175828] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394175829] Sleep for 0 ms
+[1629394175830] Sleep for 171 ms
+[1629394176001] Sleep for 0 ms
+[1629394176002] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394176005] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394176011] Sleep for 0 ms
+[1629394176012] Sleep for 127 ms
+[1629394176141] Sleep for 0 ms
+[1629394176142] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394176145] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394176149] Sleep for 0 ms
+[1629394176150] Sleep for 115 ms
+[1629394176267] Sleep for 0 ms
+[1629394176268] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394176272] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394176278] Sleep for 0 ms
+[1629394176279] Sleep for 217 ms
+[1629394176498] Sleep for 0 ms
+[1629394176498] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394176501] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394176505] Sleep for 0 ms
+[1629394176507] Sleep for 264 ms
+[1629394176774] Sleep for 0 ms
+[1629394176775] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394176778] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394176786] Sleep for 0 ms
+[1629394176787] Sleep for 212 ms
+[1629394177001] Sleep for 0 ms
+[1629394177002] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394177005] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394177007] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394177009] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394177010] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394177015] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394177021] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394177023] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394177025] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394177026] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394177028] Sleep for 181 ms
+[1629394177209] Sleep for 0 ms
+[1629394177210] :Send Key (ACTION_DOWN): 209    // KEYCODE_MUSIC
+[1629394177211]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+[1629394177212] :Send Key (ACTION_UP): 209    // KEYCODE_MUSIC
+[1629394177214] Sleep for 0 ms
+[1629394177214] Sleep for 292 ms
+[1629394177508] Sleep for 0 ms
+[1629394177508] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394177510]     //[calendar_time:2021-08-19 13:29:37.510  system_uptime:8447727]
+[1629394177510]     // Sending event #200
+[1629394177511] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394177512] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394177514] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394177516] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394177518] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394177519] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394177520] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394177521] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394177523] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394177524] Sleep for 217 ms
+[1629394177742] Sleep for 0 ms
+[1629394177744] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394177748] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394177750] Sleep for 0 ms
+[1629394177751] Sleep for 127 ms
+[1629394177879] Sleep for 0 ms
+[1629394177880] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394177883] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394177886] Sleep for 0 ms
+[1629394177886] Sleep for 114 ms
+[1629394178002] Sleep for 0 ms
+[1629394178002] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394178005] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394178008] Sleep for 0 ms
+[1629394178008] Sleep for 167 ms
+[1629394178010]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394178178] Sleep for 0 ms
+[1629394178179] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394178182] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394178185] Sleep for 0 ms
+[1629394178186] Sleep for 219 ms
+[1629394178407] Sleep for 0 ms
+[1629394178408] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394178411] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394178413] Sleep for 0 ms
+[1629394178414] Sleep for 134 ms
+[1629394178416]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394178551] Sleep for 0 ms
+[1629394178551] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394178704] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394178709] Sleep for 0 ms
+[1629394178710] Sleep for 143 ms
+[1629394178854] Sleep for 0 ms
+[1629394178854] Sleep for 0 ms
+[1629394178856] Sleep for 0 ms
+[1629394178856] :Sending rotation degree : 0, persist : false
+[1629394178889] Sleep for 0 ms
+[1629394178890] Sleep for 500 ms
+[1629394179394] Sleep for 0 ms
+[1629394179395] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394179395] fastbot exec shell: 
+[1629394179404] fastbot exec schema: 
+[1629394179404] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394179406]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394179410] Sleep for 0 ms
+[1629394179410] Sleep for 2000 ms
+[1629394181411] Sleep for 0 ms
+[1629394181411] :schema :
+[1629394181413] Sleep for 0 ms
+[1629394181413] Sleep for 2000 ms
+[1629394183415] Sleep for 0 ms
+[1629394183416] Sleep for 500 ms
+[1629394183919] Sleep for 0 ms
+[1629394184019] Exception for get action resouece: g0a6@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394184021] Exception for get action class: g0a6@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394184021] *** Get guitree ***
+[1629394184023]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394184023] using nstep-q agent
+[1629394184027] select new action from ucb q value: g0a6@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394184027] current state or current action is null
+[1629394184028] new state visited : 4
+[1629394184028] new action visited : 3
+[1629394184028] *** Making decisions *** 
+[1629394184028] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394184028] New action: g0a6@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394184028] *** Inject event ***
+[1629394184029] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394184032] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394184038] Sleep for 0 ms
+[1629394184038] Sleep for 500 ms
+[1629394184540] Sleep for 0 ms
+[1629394184541] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394184545] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394184547] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394184548] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394184551] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394184553] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394184555] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394184558] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394184560] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394184562] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394184564] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394184565] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394184568] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394184569] Sleep for 0 ms
+[1629394184569] Sleep for 209 ms
+[1629394184780] Sleep for 0 ms
+[1629394184781] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394184785] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394184792] Sleep for 0 ms
+[1629394184794] Sleep for 238 ms
+[1629394185034] Sleep for 0 ms
+[1629394185034] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394185037] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394185039] Sleep for 0 ms
+[1629394185039] Sleep for 225 ms
+[1629394185265] Sleep for 0 ms
+[1629394185267] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394185269] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394185272] Sleep for 0 ms
+[1629394185273] Sleep for 138 ms
+[1629394185414] Sleep for 0 ms
+[1629394185414] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394185421] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394185428] Sleep for 0 ms
+[1629394185429] Sleep for 280 ms
+[1629394185711] Sleep for 0 ms
+[1629394185713] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394185716] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394185722] Sleep for 0 ms
+[1629394185725] Sleep for 182 ms
+[1629394185910] Sleep for 0 ms
+[1629394185910] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394185913] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394185915] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394185918] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394185920] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394185921] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394185923] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394185925] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394185926] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394185928] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394185930] Sleep for 252 ms
+[1629394186185] Sleep for 0 ms
+[1629394186185] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394186186] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394186188] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394186189] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394186190] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394186191] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394186192] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394186194] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394186194] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394186195] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394186196] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394186197] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394186203] Sleep for 0 ms
+[1629394186204] Sleep for 122 ms
+[1629394186329] Sleep for 0 ms
+[1629394186329] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394186332] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394186338] Sleep for 0 ms
+[1629394186339] Sleep for 194 ms
+[1629394186535] Sleep for 0 ms
+[1629394186535] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394186538] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394186540] Sleep for 0 ms
+[1629394186541] Sleep for 116 ms
+[1629394186658] Sleep for 0 ms
+[1629394186659] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394186663] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394186666] Sleep for 0 ms
+[1629394186667] Sleep for 286 ms
+[1629394186954] Sleep for 0 ms
+[1629394186954] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394186957] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394186962] Sleep for 0 ms
+[1629394186964] Sleep for 147 ms
+[1629394187114] Sleep for 0 ms
+[1629394187115] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394187119] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394187122] Sleep for 0 ms
+[1629394187122] Sleep for 222 ms
+[1629394187347] Sleep for 0 ms
+[1629394187348] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394187352] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394187355] Sleep for 0 ms
+[1629394187356] Sleep for 201 ms
+[1629394187559] Sleep for 0 ms
+[1629394187559] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394187563] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394187565] Sleep for 0 ms
+[1629394187566] Sleep for 187 ms
+[1629394187754] Sleep for 0 ms
+[1629394187755] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394187758] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394187760] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394187761] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394187764] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394187765] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394187766] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394187768] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394187769] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394187770] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394187771] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394187772] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394187774] Sleep for 0 ms
+[1629394187774] Sleep for 267 ms
+[1629394187788]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394188044] Sleep for 0 ms
+[1629394188046] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394188051] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394188053] Sleep for 0 ms
+[1629394188054] Sleep for 246 ms
+[1629394188302] Sleep for 0 ms
+[1629394188304] :Sending Touch (ACTION_DOWN): 0:(19.0,113.0)
+[1629394188306] :Sending Touch (ACTION_MOVE): 0:(26.279202,120.24857)
+[1629394188308]     //[calendar_time:2021-08-19 13:29:48.308  system_uptime:8458525]
+[1629394188308]     // Sending event #300
+[1629394188309] Waiting Event for 28 milliseconds
+[1629394188338] Sleep for 0 ms
+[1629394188339] :Sending Touch (ACTION_MOVE): 0:(31.73618,138.17209)
+[1629394188341] Waiting Event for 28 milliseconds
+[1629394188370] Sleep for 0 ms
+[1629394188371] :Sending Touch (ACTION_MOVE): 0:(32.74872,158.72105)
+[1629394188375] Waiting Event for 28 milliseconds
+[1629394188405] Sleep for 0 ms
+[1629394188405] :Sending Touch (ACTION_MOVE): 0:(33.60459,166.91763)
+[1629394188409] Waiting Event for 28 milliseconds
+[1629394188439] Sleep for 0 ms
+[1629394188440] :Sending Touch (ACTION_MOVE): 0:(41.891914,173.0767)
+[1629394188444] Waiting Event for 28 milliseconds
+[1629394188474] Sleep for 0 ms
+[1629394188475] :Sending Touch (ACTION_UP): 0:(45.260483,178.09312)
+[1629394188479] Sleep for 0 ms
+[1629394188480] Sleep for 112 ms
+[1629394188594] Sleep for 0 ms
+[1629394188596] :Sending Touch (ACTION_DOWN): 0:(783.0,603.0)
+[1629394188598] :Sending Touch (ACTION_MOVE): 0:(785.07916,597.03656)
+[1629394188599] Waiting Event for 66 milliseconds
+[1629394188667] Sleep for 0 ms
+[1629394188667] :Sending Touch (ACTION_UP): 0:(785.6344,591.04626)
+[1629394188670] Sleep for 0 ms
+[1629394188670] Sleep for 244 ms
+[1629394188916] Sleep for 0 ms
+[1629394188918] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394189070] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394189077] Sleep for 0 ms
+[1629394189077] Sleep for 166 ms
+[1629394189244] Sleep for 0 ms
+[1629394189245] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394189247] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394189249] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394189250] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394189251] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394189252] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394189254] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394189255] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394189256] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394189257] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394189261] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394189267] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394189269] Sleep for 0 ms
+[1629394189269] Sleep for 120 ms
+[1629394189391] Sleep for 0 ms
+[1629394189391] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394189394] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394189420] Sleep for 0 ms
+[1629394189420] Sleep for 130 ms
+[1629394189552] Sleep for 0 ms
+[1629394189553] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394189557] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394189566] Sleep for 0 ms
+[1629394189566] Sleep for 205 ms
+[1629394189772] Sleep for 0 ms
+[1629394189773] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394189778] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394189783] Sleep for 0 ms
+[1629394189783] Sleep for 188 ms
+[1629394189972] Sleep for 0 ms
+[1629394189972] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394189979] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394189981] Sleep for 0 ms
+[1629394189981] Sleep for 177 ms
+[1629394190161] Sleep for 0 ms
+[1629394190163] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394190165] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394190167] Sleep for 0 ms
+[1629394190167] Sleep for 215 ms
+[1629394190385] Sleep for 0 ms
+[1629394190386] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394190389] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394190391] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394190392] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394190395] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394190400] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394190403] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394190405] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394190407] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394190408] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394190409] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394190411] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394190412] Sleep for 0 ms
+[1629394190412] Sleep for 219 ms
+[1629394190426]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394190633] Sleep for 0 ms
+[1629394190634] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394190635] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394190637] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394190639] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394190641] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394190645] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394190647] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394190649] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394190651] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394190652] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394190653] Sleep for 280 ms
+[1629394190935] Sleep for 0 ms
+[1629394190936] :Send Key (ACTION_DOWN): 246    // KEYCODE_TV_INPUT_HDMI_4
+[1629394190940] :Send Key (ACTION_UP): 246    // KEYCODE_TV_INPUT_HDMI_4
+[1629394190942] Sleep for 0 ms
+[1629394190943] Sleep for 269 ms
+[1629394191216] Sleep for 0 ms
+[1629394191217] :Sending rotation degree : 3, persist : false
+[1629394191245] Sleep for 0 ms
+[1629394191245] Sleep for 202 ms
+[1629394191450] Sleep for 0 ms
+[1629394191450] Sleep for 0 ms
+[1629394191451] Sleep for 0 ms
+[1629394191451] :Sending rotation degree : 0, persist : false
+[1629394191481] Sleep for 0 ms
+[1629394191481] Sleep for 500 ms
+[1629394191983] Sleep for 0 ms
+[1629394191984] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394191984] fastbot exec shell: 
+[1629394191988] fastbot exec schema: 
+[1629394191989] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394191991]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394192065] Sleep for 0 ms
+[1629394192072] Sleep for 2000 ms
+[1629394194073] Sleep for 0 ms
+[1629394194074] :schema :
+[1629394194076] Sleep for 0 ms
+[1629394194077] Sleep for 2000 ms
+[1629394196079] Sleep for 0 ms
+[1629394196079] Sleep for 500 ms
+[1629394196581] Sleep for 0 ms
+[1629394196667] Exception for get action resouece: g0a7@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394196668] Exception for get action class: g0a7@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394196668] *** Get guitree ***
+[1629394196669]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394196669] using nstep-q agent
+[1629394196669] select new action from ucb q value: g0a7@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394196670] current state or current action is null
+[1629394196670] new state visited : 5
+[1629394196670] new action visited : 4
+[1629394196670] *** Making decisions *** 
+[1629394196670] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394196670] New action: g0a7@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394196670] *** Inject event ***
+[1629394196671] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394196673] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394196675] Sleep for 0 ms
+[1629394196697] Sleep for 500 ms
+[1629394197199] Sleep for 0 ms
+[1629394197200] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394197207] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394197210] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394197212] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394197214] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394197215] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394197220] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394197222] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394197224] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394197225] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394197226] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394197229] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394197231] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394197233] Sleep for 0 ms
+[1629394197235] Sleep for 148 ms
+[1629394197384] Sleep for 0 ms
+[1629394197385] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394197388] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394197401] Sleep for 0 ms
+[1629394197401] Sleep for 193 ms
+[1629394197596] Sleep for 0 ms
+[1629394197596] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394197599] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394197602] Sleep for 0 ms
+[1629394197604] Sleep for 194 ms
+[1629394197801] Sleep for 0 ms
+[1629394197802] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394197805] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394197807] Sleep for 0 ms
+[1629394197809] Sleep for 141 ms
+[1629394197952] Sleep for 0 ms
+[1629394197955] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394197958] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394197960] Sleep for 0 ms
+[1629394197960] Sleep for 226 ms
+[1629394198188] Sleep for 0 ms
+[1629394198190] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394198192] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394198194] Sleep for 0 ms
+[1629394198196]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394198197] Sleep for 182 ms
+[1629394198381] Sleep for 0 ms
+[1629394198382] :Sending Touch (ACTION_DOWN): 0:(208.0,1243.0)
+[1629394198386] Waiting Event for 45 milliseconds
+[1629394198434] Sleep for 0 ms
+[1629394198435] :Sending Touch (ACTION_UP): 0:(208.0,1243.0)
+[1629394198439] Sleep for 0 ms
+[1629394198439] Sleep for 200 ms
+[1629394198642] Sleep for 0 ms
+[1629394198642] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394198649] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394198655] Sleep for 0 ms
+[1629394198655] Sleep for 298 ms
+[1629394198955] Sleep for 0 ms
+[1629394198956] :Sending Touch (ACTION_DOWN): 0:(749.0,719.0)
+[1629394198958] :Sending Touch (ACTION_UP): 0:(753.89417,729.2845)
+[1629394198960] Sleep for 0 ms
+[1629394198960] Sleep for 115 ms
+[1629394199077] Sleep for 0 ms
+[1629394199077] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394199080] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394199085] Sleep for 0 ms
+[1629394199085] Sleep for 292 ms
+[1629394199381] Sleep for 0 ms
+[1629394199381] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394199386]     //[calendar_time:2021-08-19 13:29:59.386  system_uptime:8469603]
+[1629394199386]     // Sending event #400
+[1629394199387] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394199390] Sleep for 0 ms
+[1629394199390] Sleep for 241 ms
+[1629394199635] Sleep for 0 ms
+[1629394199635] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394199639] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394199650] Sleep for 0 ms
+[1629394199651] Sleep for 157 ms
+[1629394199810] Sleep for 0 ms
+[1629394199811] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394199815] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394199817] Sleep for 0 ms
+[1629394199818] Sleep for 280 ms
+[1629394200100] Sleep for 0 ms
+[1629394200101] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394200105] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394200110] Sleep for 0 ms
+[1629394200110] Sleep for 183 ms
+[1629394200295] Sleep for 0 ms
+[1629394200296] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394200297] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394200299] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394200301] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394200302] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394200304] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394200306] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394200307] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394200309] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394200310] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394200311] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394200313] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394200315] Sleep for 0 ms
+[1629394200315] Sleep for 286 ms
+[1629394200604] Sleep for 0 ms
+[1629394200604] :Send Key (ACTION_DOWN): 43    // KEYCODE_O
+[1629394200607] :Send Key (ACTION_UP): 43    // KEYCODE_O
+[1629394200626]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394200628] Sleep for 0 ms
+[1629394200628] Sleep for 122 ms
+[1629394200752] Sleep for 0 ms
+[1629394200754] :Sending Touch (ACTION_DOWN): 0:(655.0,1312.0)
+[1629394200755] Waiting Event for 519 milliseconds
+[1629394201275] Sleep for 0 ms
+[1629394201276] :Sending Touch (ACTION_UP): 0:(655.0,1312.0)
+[1629394201278] Sleep for 0 ms
+[1629394201278] Sleep for 144 ms
+[1629394201424] Sleep for 0 ms
+[1629394201425] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394201427] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394201429] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394201430] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394201431] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394201433] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394201434] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394201436] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394201438] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394201441] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394201444] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394201447] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394201448] Sleep for 0 ms
+[1629394201449] Sleep for 208 ms
+[1629394201659] Sleep for 0 ms
+[1629394201659] Sleep for 0 ms
+[1629394201660] Sleep for 0 ms
+[1629394201660] :Sending rotation degree : 0, persist : false
+[1629394201722] Sleep for 0 ms
+[1629394201723] Sleep for 500 ms
+[1629394202225] Sleep for 0 ms
+[1629394202227] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394202227] fastbot exec shell: 
+[1629394202230] fastbot exec schema: 
+[1629394202230] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394202233]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394202239] Sleep for 0 ms
+[1629394202240] Sleep for 2000 ms
+[1629394204241] Sleep for 0 ms
+[1629394204242] :schema :
+[1629394204243] Sleep for 0 ms
+[1629394204243] Sleep for 2000 ms
+[1629394206244] Sleep for 0 ms
+[1629394206244] Sleep for 500 ms
+[1629394206746] Sleep for 0 ms
+[1629394206835] Exception for get action resouece: g0a8@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394206836] Exception for get action class: g0a8@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394206836] *** Get guitree ***
+[1629394206838]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394206839] using nstep-q agent
+[1629394206840] select new action from ucb q value: g0a8@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394206840] current state or current action is null
+[1629394206841] new state visited : 6
+[1629394206841] new action visited : 5
+[1629394206842] update Q value
+[1629394206842] // previous State and action polled
+[1629394206842] *** Making decisions *** 
+[1629394206843] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394206843] New action: g0a8@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394206844] *** Inject event ***
+[1629394206844] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394206848] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394206852] Sleep for 0 ms
+[1629394206856] Sleep for 500 ms
+[1629394207358] Sleep for 0 ms
+[1629394207359] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394207362] :Send Key (ACTION_DOWN): 2    // KEYCODE_SOFT_RIGHT
+[1629394207366] :Send Key (ACTION_UP): 2    // KEYCODE_SOFT_RIGHT
+[1629394207368] Sleep for 0 ms
+[1629394207369] Sleep for 266 ms
+[1629394207636] Sleep for 0 ms
+[1629394207637] :Sending Touch (ACTION_DOWN): 0:(592.0,1483.0)
+[1629394207638] :Sending Touch (ACTION_UP): 0:(577.9525,1481.1854)
+[1629394207640] Sleep for 0 ms
+[1629394207641] Sleep for 190 ms
+[1629394207834] Sleep for 0 ms
+[1629394207836] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394207841] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394207847] Sleep for 0 ms
+[1629394207847] Sleep for 108 ms
+[1629394207958] Sleep for 0 ms
+[1629394207959] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394207965] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394207968] Sleep for 0 ms
+[1629394207969] Sleep for 156 ms
+[1629394208127] Sleep for 0 ms
+[1629394208128] :Sending Touch (ACTION_DOWN): 0:(502.0,1639.0)
+[1629394208130] Waiting Event for 615 milliseconds
+[1629394208746] Sleep for 0 ms
+[1629394208747] :Sending Touch (ACTION_UP): 0:(502.0,1639.0)
+[1629394208749] Sleep for 0 ms
+[1629394208750] Sleep for 268 ms
+[1629394209020] Sleep for 0 ms
+[1629394209020] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394209024] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394209028] Sleep for 0 ms
+[1629394209028] Sleep for 258 ms
+[1629394209289] Sleep for 0 ms
+[1629394209290] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394209292] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394209294] Sleep for 0 ms
+[1629394209294] Sleep for 207 ms
+[1629394209503] Sleep for 0 ms
+[1629394209504] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394209506] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394209514] Sleep for 0 ms
+[1629394209515] Sleep for 288 ms
+[1629394209804] Sleep for 0 ms
+[1629394209804] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394209808] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394209814] Sleep for 0 ms
+[1629394209815] Sleep for 185 ms
+[1629394210003] Sleep for 0 ms
+[1629394210004] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394210007] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394210014] Sleep for 0 ms
+[1629394210015] Sleep for 135 ms
+[1629394210152] Sleep for 0 ms
+[1629394210152] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394210156] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394210158] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394210162] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394210165] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394210167] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394210168] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394210169] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394210170] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394210172] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394210176] Sleep for 291 ms
+[1629394210468] Sleep for 0 ms
+[1629394210468] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394210472] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394210474] Sleep for 0 ms
+[1629394210475] Sleep for 255 ms
+[1629394210733] Sleep for 0 ms
+[1629394210734] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394210736] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394210740] Sleep for 0 ms
+[1629394210740] Sleep for 191 ms
+[1629394210742]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394210935] Sleep for 0 ms
+[1629394210937] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394210940] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394210942] Sleep for 0 ms
+[1629394210943] Sleep for 237 ms
+[1629394211182] Sleep for 0 ms
+[1629394211183] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394211186] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394211190] Sleep for 0 ms
+[1629394211192] Sleep for 228 ms
+[1629394211425] Sleep for 0 ms
+[1629394211427] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394211429] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394211432] Sleep for 0 ms
+[1629394211433] Sleep for 219 ms
+[1629394211654] Sleep for 0 ms
+[1629394211656] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394211658] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394211660] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394211662] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394211664] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394211665] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394211667] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394211674] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394211675] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394211676] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394211678] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394211679] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394211679] Sleep for 0 ms
+[1629394211680] Sleep for 191 ms
+[1629394211874] Sleep for 0 ms
+[1629394211876] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394211880] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394211882] Sleep for 0 ms
+[1629394211883] Sleep for 249 ms
+[1629394212134] Sleep for 0 ms
+[1629394212134] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394212288] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394212295] Sleep for 0 ms
+[1629394212297] Sleep for 140 ms
+[1629394212438] Sleep for 0 ms
+[1629394212439] :Send Key (ACTION_DOWN): 211    // KEYCODE_ZENKAKU_HANKAKU
+[1629394212442] :Send Key (ACTION_UP): 211    // KEYCODE_ZENKAKU_HANKAKU
+[1629394212448]     //[calendar_time:2021-08-19 13:30:12.447  system_uptime:8482665]
+[1629394212448]     // Sending event #500
+[1629394212449] Sleep for 0 ms
+[1629394212449]     //[calendar_time:2021-08-19 13:30:12.449  system_uptime:8482666]
+[1629394212449]     // Sending event #500
+[1629394212450] Sleep for 155 ms
+[1629394212606]     //[calendar_time:2021-08-19 13:30:12.606  system_uptime:8482823]
+[1629394212606]     // Sending event #500
+[1629394212607] Sleep for 0 ms
+[1629394212608]     //[calendar_time:2021-08-19 13:30:12.607  system_uptime:8482825]
+[1629394212608]     // Sending event #500
+[1629394212609] :Sending Touch (ACTION_DOWN): 0:(1060.0,99.0)
+[1629394212611] :Sending Touch (ACTION_MOVE): 0:(1059.9313,102.93915)
+[1629394212613] Waiting Event for 40 milliseconds
+[1629394212654] Sleep for 0 ms
+[1629394212657] :Sending Touch (ACTION_MOVE): 0:(1058.8816,103.04691)
+[1629394212661] Waiting Event for 40 milliseconds
+[1629394212702] Sleep for 0 ms
+[1629394212703] :Sending Touch (ACTION_MOVE): 0:(1058.1354,103.079315)
+[1629394212705] Waiting Event for 40 milliseconds
+[1629394212747] Sleep for 0 ms
+[1629394212748] :Sending Touch (ACTION_UP): 0:(1057.5193,107.44299)
+[1629394212751] Sleep for 0 ms
+[1629394212751] Sleep for 161 ms
+[1629394212915] Sleep for 0 ms
+[1629394212916] Sleep for 0 ms
+[1629394212916] Sleep for 0 ms
+[1629394212917] :Sending rotation degree : 0, persist : false
+[1629394212961] Sleep for 0 ms
+[1629394212962] Sleep for 500 ms
+[1629394213465] Sleep for 0 ms
+[1629394213466] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394213466] fastbot exec shell: 
+[1629394213471] fastbot exec schema: 
+[1629394213471] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394213472]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394213531] Sleep for 0 ms
+[1629394213532] Sleep for 2000 ms
+[1629394215536] Sleep for 0 ms
+[1629394215536] :schema :
+[1629394215537] Sleep for 0 ms
+[1629394215538] Sleep for 2000 ms
+[1629394217539] Sleep for 0 ms
+[1629394217539] Sleep for 500 ms
+[1629394218041] Sleep for 0 ms
+[1629394218139] Exception for get action resouece: g0a9@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394218139] Exception for get action class: g0a9@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394218140] *** Get guitree ***
+[1629394218141]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394218141] using nstep-q agent
+[1629394218141] select new action from ucb q value: g0a9@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394218141] current state or current action is null
+[1629394218141] new state visited : 7
+[1629394218142] new action visited : 6
+[1629394218142] update Q value
+[1629394218142] // previous State and action polled
+[1629394218142] *** Making decisions *** 
+[1629394218142] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394218142] New action: g0a9@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394218143] *** Inject event ***
+[1629394218143] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394218145] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394218171] Sleep for 0 ms
+[1629394218172] Sleep for 500 ms
+[1629394218675] Sleep for 0 ms
+[1629394218676] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394218680] :Sending Touch (ACTION_DOWN): 0:(102.0,1287.0)
+[1629394218682] Waiting Event for 672 milliseconds
+[1629394219355] Sleep for 0 ms
+[1629394219356] :Sending Touch (ACTION_UP): 0:(102.0,1287.0)
+[1629394219358] Sleep for 0 ms
+[1629394219359] Sleep for 191 ms
+[1629394219552] Sleep for 0 ms
+[1629394219553] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394219555] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394219558] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394219562] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394219564] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394219568] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394219571] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394219571] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394219577] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394219579] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394219580] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394219581] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394219582] Sleep for 0 ms
+[1629394219582] Sleep for 110 ms
+[1629394219693] Sleep for 0 ms
+[1629394219694] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394219698] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394219699] Sleep for 0 ms
+[1629394219700] Sleep for 224 ms
+[1629394219925] Sleep for 0 ms
+[1629394219926] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394219929] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394219933] Sleep for 0 ms
+[1629394219933] Sleep for 203 ms
+[1629394220138] Sleep for 0 ms
+[1629394220138] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394220144] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394220148] Sleep for 0 ms
+[1629394220149] Sleep for 257 ms
+[1629394220408] Sleep for 0 ms
+[1629394220409] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394220415] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394220420] Sleep for 0 ms
+[1629394220421] Sleep for 195 ms
+[1629394220619] Sleep for 0 ms
+[1629394220620] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394220623] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394220629] Sleep for 0 ms
+[1629394220630] Sleep for 133 ms
+[1629394220765] Sleep for 0 ms
+[1629394220765] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394220768] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394220769] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394220770] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394220771] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394220772] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394220774] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394220775] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394220777] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394220779] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394220780] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394220784] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394220785] Sleep for 0 ms
+[1629394220785] Sleep for 216 ms
+[1629394221003] Sleep for 0 ms
+[1629394221005] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394221006] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394221009] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394221014] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394221016] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394221017] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394221019] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394221020] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394221022] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394221023] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394221026] Sleep for 292 ms
+[1629394221319] Sleep for 0 ms
+[1629394221319] :Sending Touch (ACTION_DOWN): 0:(384.0,1670.0)
+[1629394221322] Waiting Event for 347 milliseconds
+[1629394221670] Sleep for 0 ms
+[1629394221671] :Sending Touch (ACTION_UP): 0:(384.0,1670.0)
+[1629394221673] Sleep for 0 ms
+[1629394221673] Sleep for 115 ms
+[1629394221790] Sleep for 0 ms
+[1629394221791] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394221795] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394221798] Sleep for 0 ms
+[1629394221798] Sleep for 265 ms
+[1629394222064] Sleep for 0 ms
+[1629394222065] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394222069] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394222072] Sleep for 0 ms
+[1629394222072] Sleep for 275 ms
+[1629394222350] Sleep for 0 ms
+[1629394222352] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394222355] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394222357] Sleep for 0 ms
+[1629394222358] Sleep for 277 ms
+[1629394222636] Sleep for 0 ms
+[1629394222637] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394222639] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394222641] Sleep for 0 ms
+[1629394222641] Sleep for 208 ms
+[1629394222853] Sleep for 0 ms
+[1629394222855] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394222859] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394222865] Sleep for 0 ms
+[1629394222865] Sleep for 153 ms
+[1629394223020] Sleep for 0 ms
+[1629394223021] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394223024] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394223026] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394223029] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394223031] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394223034] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394223035] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223037] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223038] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394223040] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394223042] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394223043] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394223044] Sleep for 0 ms
+[1629394223045] Sleep for 229 ms
+[1629394223081]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394223276] Sleep for 0 ms
+[1629394223277] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394223279] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223281] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223283] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394223287] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223289] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394223292] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394223297] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394223298] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394223299] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394223301] Sleep for 247 ms
+[1629394223551] Sleep for 0 ms
+[1629394223552] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394223555] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394223558] Sleep for 0 ms
+[1629394223559] Sleep for 276 ms
+[1629394223836] Sleep for 0 ms
+[1629394223837] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394223842] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394223847] Sleep for 0 ms
+[1629394223848] Sleep for 161 ms
+[1629394224011] Sleep for 0 ms
+[1629394224011] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394224014]     //[calendar_time:2021-08-19 13:30:24.014  system_uptime:8494231]
+[1629394224014]     // Sending event #600
+[1629394224015] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394224018] Sleep for 0 ms
+[1629394224018] Sleep for 181 ms
+[1629394224202] Sleep for 0 ms
+[1629394224204] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394224208] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394224219] Sleep for 0 ms
+[1629394224221] Sleep for 111 ms
+[1629394224336] Sleep for 0 ms
+[1629394224336] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394224340] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394224346] Sleep for 0 ms
+[1629394224347] Sleep for 273 ms
+[1629394224622] Sleep for 0 ms
+[1629394224623] Sleep for 0 ms
+[1629394224625] Sleep for 0 ms
+[1629394224625] :Sending rotation degree : 0, persist : false
+[1629394224645] Sleep for 0 ms
+[1629394224646] Sleep for 500 ms
+[1629394225150] Sleep for 0 ms
+[1629394225150] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394225151] fastbot exec shell: 
+[1629394225154] fastbot exec schema: 
+[1629394225154] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394225156]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394225211] Sleep for 0 ms
+[1629394225214] Sleep for 2000 ms
+[1629394227215] Sleep for 0 ms
+[1629394227217] :schema :
+[1629394227222] Sleep for 0 ms
+[1629394227222] Sleep for 2000 ms
+[1629394229223] Sleep for 0 ms
+[1629394229224] Sleep for 500 ms
+[1629394229725] Sleep for 0 ms
+[1629394229820] Exception for get action resouece: g0a10@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394229821] Exception for get action class: g0a10@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394229821] *** Get guitree ***
+[1629394229822]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394229823] using nstep-q agent
+[1629394229824] select new action from ucb q value: g0a10@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394229824] current state or current action is null
+[1629394229824] new state visited : 8
+[1629394229824] new action visited : 7
+[1629394229824] update Q value
+[1629394229824] // previous State and action polled
+[1629394229825] *** Making decisions *** 
+[1629394229825] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394229825] New action: g0a10@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394229825] *** Inject event ***
+[1629394229825] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394229829] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394229831] Sleep for 0 ms
+[1629394229858] Sleep for 500 ms
+[1629394230361] Sleep for 0 ms
+[1629394230362] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394230364] :Sending Touch (ACTION_DOWN): 0:(6.0,1773.0)
+[1629394230369] :Sending Touch (ACTION_MOVE): 0:(0.0,1769.5227)
+[1629394230371] Waiting Event for 28 milliseconds
+[1629394230401] Sleep for 0 ms
+[1629394230402] :Sending Touch (ACTION_MOVE): 0:(0.0,1762.5206)
+[1629394230404] Waiting Event for 28 milliseconds
+[1629394230435] Sleep for 0 ms
+[1629394230436] :Sending Touch (ACTION_MOVE): 0:(0.0,1760.9094)
+[1629394230438] Waiting Event for 28 milliseconds
+[1629394230468] Sleep for 0 ms
+[1629394230469] :Sending Touch (ACTION_MOVE): 0:(0.0,1755.0232)
+[1629394230471] Waiting Event for 28 milliseconds
+[1629394230501] Sleep for 0 ms
+[1629394230503] :Sending Touch (ACTION_MOVE): 0:(0.0,1752.5494)
+[1629394230505] Waiting Event for 28 milliseconds
+[1629394230534] Sleep for 0 ms
+[1629394230535] :Sending Touch (ACTION_UP): 0:(0.0,1747.6417)
+[1629394230536] Sleep for 0 ms
+[1629394230537] Sleep for 169 ms
+[1629394230708] Sleep for 0 ms
+[1629394230709] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394230713] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394230715] Sleep for 0 ms
+[1629394230716] Sleep for 198 ms
+[1629394230916] Sleep for 0 ms
+[1629394230918] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394230921] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394230924] Sleep for 0 ms
+[1629394230926] Sleep for 113 ms
+[1629394231041] Sleep for 0 ms
+[1629394231042] :Sending Touch (ACTION_DOWN): 0:(196.0,1501.0)
+[1629394231044] :Sending Touch (ACTION_MOVE): 0:(196.06534,1499.6449)
+[1629394231046] Waiting Event for 20 milliseconds
+[1629394231068] Sleep for 0 ms
+[1629394231068] :Sending Touch (ACTION_MOVE): 0:(204.42714,1494.3324)
+[1629394231070] Waiting Event for 20 milliseconds
+[1629394231092] Sleep for 0 ms
+[1629394231094] :Sending Touch (ACTION_MOVE): 0:(211.98055,1488.8678)
+[1629394231096] Waiting Event for 20 milliseconds
+[1629394231118] Sleep for 0 ms
+[1629394231120] :Sending Touch (ACTION_MOVE): 0:(214.49208,1485.1891)
+[1629394231121] Waiting Event for 20 milliseconds
+[1629394231145] Sleep for 0 ms
+[1629394231146] :Sending Touch (ACTION_MOVE): 0:(219.36496,1473.4747)
+[1629394231148] Waiting Event for 20 milliseconds
+[1629394231170] Sleep for 0 ms
+[1629394231171] :Sending Touch (ACTION_MOVE): 0:(228.22556,1472.3148)
+[1629394231174] Waiting Event for 20 milliseconds
+[1629394231196] Sleep for 0 ms
+[1629394231197] :Sending Touch (ACTION_MOVE): 0:(234.81514,1462.9711)
+[1629394231199] Waiting Event for 20 milliseconds
+[1629394231222] Sleep for 0 ms
+[1629394231223] :Sending Touch (ACTION_MOVE): 0:(240.33527,1453.3245)
+[1629394231225] Waiting Event for 20 milliseconds
+[1629394231247] Sleep for 0 ms
+[1629394231249] :Sending Touch (ACTION_UP): 0:(243.7983,1447.0319)
+[1629394231253] Sleep for 0 ms
+[1629394231256] Sleep for 292 ms
+[1629394231552] Sleep for 0 ms
+[1629394231553] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394231555] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394231557] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394231560] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394231562] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394231566] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394231569] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394231573] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394231575] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394231577] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394231579] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394231580] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394231581] Sleep for 0 ms
+[1629394231581] Sleep for 273 ms
+[1629394231857] Sleep for 0 ms
+[1629394231859] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394231865] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394231868] Sleep for 0 ms
+[1629394231868] Sleep for 236 ms
+[1629394232105] Sleep for 0 ms
+[1629394232106] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394232108] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394232111] Sleep for 0 ms
+[1629394232112] Sleep for 196 ms
+[1629394232310] Sleep for 0 ms
+[1629394232310] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394232315] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394232319] Sleep for 0 ms
+[1629394232320] Sleep for 198 ms
+[1629394232519] Sleep for 0 ms
+[1629394232520] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394232523] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394232527] Sleep for 0 ms
+[1629394232527] Sleep for 263 ms
+[1629394232794] Sleep for 0 ms
+[1629394232795] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394232798] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394232801] Sleep for 0 ms
+[1629394232802] Sleep for 268 ms
+[1629394233071] Sleep for 0 ms
+[1629394233075] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394233229] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394233234] Sleep for 0 ms
+[1629394233234] Sleep for 126 ms
+[1629394233363] Sleep for 0 ms
+[1629394233365] :Sending Touch (ACTION_DOWN): 0:(524.0,222.0)
+[1629394233368] Waiting Event for 463 milliseconds
+[1629394233834] Sleep for 0 ms
+[1629394233835] :Sending Touch (ACTION_UP): 0:(524.0,222.0)
+[1629394233837]     // Injection Failed com.android.commands.monkey.E@de1b2eb
+[1629394233839] Sleep for 0 ms
+[1629394233840] Sleep for 273 ms
+[1629394234116] Sleep for 0 ms
+[1629394234116] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394234120] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394234129] Sleep for 0 ms
+[1629394234130] Sleep for 255 ms
+[1629394234387] Sleep for 0 ms
+[1629394234387] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394234390] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394234393] Sleep for 0 ms
+[1629394234395] Sleep for 500 ms
+[1629394234896] Sleep for 0 ms
+[1629394234898] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394234901] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394234907] Sleep for 0 ms
+[1629394234909] Sleep for 168 ms
+[1629394235079] Sleep for 0 ms
+[1629394235079] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394235080] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394235082] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394235086] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394235090] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394235093] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394235095] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394235096] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394235098] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394235101] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394235104] Sleep for 218 ms
+[1629394235203]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394235325] Sleep for 0 ms
+[1629394235326] Sleep for 0 ms
+[1629394235327] Sleep for 0 ms
+[1629394235327] :Sending rotation degree : 0, persist : false
+[1629394235362] Sleep for 0 ms
+[1629394235363] Sleep for 500 ms
+[1629394235866] Sleep for 0 ms
+[1629394235867] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394235867] fastbot exec shell: 
+[1629394235871] fastbot exec schema: 
+[1629394235871] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394235872]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394235929] Sleep for 0 ms
+[1629394235931] Sleep for 2000 ms
+[1629394237933] Sleep for 0 ms
+[1629394237934] :schema :
+[1629394237935] Sleep for 0 ms
+[1629394237936] Sleep for 2000 ms
+[1629394239938] Sleep for 0 ms
+[1629394239938] Sleep for 500 ms
+[1629394240440] Sleep for 0 ms
+[1629394240531] Exception for get action resouece: g0a11@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394240532] Exception for get action class: g0a11@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394240532] *** Get guitree ***
+[1629394240534]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394240534] using nstep-q agent
+[1629394240534] select new action from ucb q value: g0a11@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394240534] current state or current action is null
+[1629394240535] new state visited : 9
+[1629394240535] new action visited : 8
+[1629394240535] update Q value
+[1629394240535] // previous State and action polled
+[1629394240535] *** Making decisions *** 
+[1629394240536] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394240536] New action: g0a11@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394240536] *** Inject event ***
+[1629394240537] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394240539] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394240541] Sleep for 0 ms
+[1629394240566] Sleep for 500 ms
+[1629394241068] Sleep for 0 ms
+[1629394241071] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394241075] :Sending rotation degree : 1, persist : true
+[1629394241099] Sleep for 0 ms
+[1629394241101] Sleep for 238 ms
+[1629394241344] Sleep for 0 ms
+[1629394241345] :Sending Touch (ACTION_DOWN): 0:(644.0,1682.0)
+[1629394241347] :Sending Touch (ACTION_UP): 0:(638.8647,1681.7611)
+[1629394241349] Sleep for 0 ms
+[1629394241350] Sleep for 246 ms
+[1629394241599] Sleep for 0 ms
+[1629394241599] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394241604] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394241606] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394241608] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394241610] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394241611]     //[calendar_time:2021-08-19 13:30:41.611  system_uptime:8511828]
+[1629394241611]     // Sending event #700
+[1629394241612] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394241613] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394241614] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394241615] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394241617] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394241619] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394241620] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394241621] Sleep for 0 ms
+[1629394241621] Sleep for 226 ms
+[1629394241849] Sleep for 0 ms
+[1629394241849] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394241855] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394241860] Sleep for 0 ms
+[1629394241860] Sleep for 264 ms
+[1629394242126] Sleep for 0 ms
+[1629394242128] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394242130] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394242133] Sleep for 0 ms
+[1629394242133] Sleep for 235 ms
+[1629394242370] Sleep for 0 ms
+[1629394242371] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394242378] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394242381] Sleep for 0 ms
+[1629394242381] Sleep for 212 ms
+[1629394242595] Sleep for 0 ms
+[1629394242596] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394242599] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394242602] Sleep for 0 ms
+[1629394242603] Sleep for 293 ms
+[1629394242899] Sleep for 0 ms
+[1629394242900] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394242904] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394242915] Sleep for 0 ms
+[1629394242916] Sleep for 251 ms
+[1629394243169] Sleep for 0 ms
+[1629394243170] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394243172] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394243174] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394243178] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394243180] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394243184] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394243194] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394243197] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394243198] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394243199] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394243202] Sleep for 250 ms
+[1629394243454] Sleep for 0 ms
+[1629394243454] Sleep for 0 ms
+[1629394243455] Sleep for 0 ms
+[1629394243456] :Sending rotation degree : 0, persist : false
+[1629394243482] Sleep for 0 ms
+[1629394243483] Sleep for 500 ms
+[1629394243984] Sleep for 0 ms
+[1629394243984] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394243985] fastbot exec shell: 
+[1629394243989] fastbot exec schema: 
+[1629394243990] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394243991]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394244061] Sleep for 0 ms
+[1629394244063] Sleep for 2000 ms
+[1629394246065] Sleep for 0 ms
+[1629394246065] :schema :
+[1629394246070] Sleep for 0 ms
+[1629394246072] Sleep for 2000 ms
+[1629394248073] Sleep for 0 ms
+[1629394248074] Sleep for 500 ms
+[1629394248575] Sleep for 0 ms
+[1629394248665] Exception for get action resouece: g0a12@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394248665] Exception for get action class: g0a12@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394248665] *** Get guitree ***
+[1629394248666]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394248666] using nstep-q agent
+[1629394248666] select new action from ucb q value: g0a12@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394248667] current state or current action is null
+[1629394248667] new state visited : 10
+[1629394248667] new action visited : 9
+[1629394248667] update Q value
+[1629394248667] // previous State and action polled
+[1629394248667] *** Making decisions *** 
+[1629394248667] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394248667] New action: g0a12@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394248668] *** Inject event ***
+[1629394248668] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394248671] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394248675] Sleep for 0 ms
+[1629394248702] Sleep for 500 ms
+[1629394249204] Sleep for 0 ms
+[1629394249204] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394249210] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394249212] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394249214] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394249215] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394249216] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394249217] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249218] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394249220] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394249221] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394249223] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249224] Sleep for 279 ms
+[1629394249505] Sleep for 0 ms
+[1629394249506] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249508] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394249510] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394249512] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394249513] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249515] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249516] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394249517] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394249518] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249519] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394249520] Sleep for 226 ms
+[1629394249748] Sleep for 0 ms
+[1629394249749] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394249753] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394249757] Sleep for 0 ms
+[1629394249757] Sleep for 112 ms
+[1629394249871] Sleep for 0 ms
+[1629394249872] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394249876] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394249881] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394249883] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394249886] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394249890] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394249896] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394249898] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394249901] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394249903] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394249906] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394249909] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394249911] Sleep for 0 ms
+[1629394249911] Sleep for 143 ms
+[1629394250057] Sleep for 0 ms
+[1629394250059] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394250063] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394250065] Sleep for 0 ms
+[1629394250066] Sleep for 294 ms
+[1629394250362] Sleep for 0 ms
+[1629394250363] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394250367] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394250372] Sleep for 0 ms
+[1629394250373] Sleep for 190 ms
+[1629394250565] Sleep for 0 ms
+[1629394250566] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394250569] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394250576] Sleep for 0 ms
+[1629394250577] Sleep for 115 ms
+[1629394250695] Sleep for 0 ms
+[1629394250696] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394250699] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394250703] Sleep for 0 ms
+[1629394250704] Sleep for 185 ms
+[1629394250892] Sleep for 0 ms
+[1629394250894] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394250896] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394250901] Sleep for 0 ms
+[1629394250901] Sleep for 117 ms
+[1629394251019] Sleep for 0 ms
+[1629394251020] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394251024] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394251027] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394251029] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394251031] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394251034] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394251036] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394251039] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394251045] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394251048] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394251050] Sleep for 291 ms
+[1629394251344] Sleep for 0 ms
+[1629394251345] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394251349] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394251351] Sleep for 0 ms
+[1629394251351] Sleep for 297 ms
+[1629394251652] Sleep for 0 ms
+[1629394251653] :Sending Touch (ACTION_DOWN): 0:(310.0,1447.0)
+[1629394251656] Waiting Event for 979 milliseconds
+[1629394252636] Sleep for 0 ms
+[1629394252637] :Sending Touch (ACTION_UP): 0:(310.0,1447.0)
+[1629394252639] Sleep for 0 ms
+[1629394252639] Sleep for 130 ms
+[1629394252772] Sleep for 0 ms
+[1629394252775] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394252776] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394252778] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394252779] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394252781] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394252782] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394252784] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394252785] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394252786] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394252787]     //[calendar_time:2021-08-19 13:30:52.787  system_uptime:8523004]
+[1629394252788]     // Sending event #800
+[1629394252788] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394252790] Sleep for 160 ms
+[1629394252951]     // Rejecting start of Intent { act=android.intent.action.CREATE_SHORTCUT cmp=com.google.android.gm/.CreateShortcutActivityGmail } in package com.google.android.gm
+[1629394252953] Sleep for 0 ms
+[1629394252953] :Send Key (ACTION_DOWN): 148    // KEYCODE_NUMPAD_4
+[1629394252959] :Send Key (ACTION_UP): 148    // KEYCODE_NUMPAD_4
+[1629394252987] Sleep for 0 ms
+[1629394252988] Sleep for 237 ms
+[1629394253228] Sleep for 0 ms
+[1629394253228] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394253231] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394253237] Sleep for 0 ms
+[1629394253238] Sleep for 500 ms
+[1629394253741] Sleep for 0 ms
+[1629394253742] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394253745] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394253749] Sleep for 0 ms
+[1629394253749] Sleep for 240 ms
+[1629394253991] Sleep for 0 ms
+[1629394253993] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394253996] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394253998] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394253999] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394254001] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394254002] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394254004] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394254005] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394254007] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394254010] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394254012] Sleep for 201 ms
+[1629394254031]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394254215] Sleep for 0 ms
+[1629394254215] Sleep for 0 ms
+[1629394254216] Sleep for 0 ms
+[1629394254216] :Sending rotation degree : 0, persist : false
+[1629394254246] Sleep for 0 ms
+[1629394254247] Sleep for 500 ms
+[1629394254748] Sleep for 0 ms
+[1629394254749] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394254749] fastbot exec shell: 
+[1629394254754] fastbot exec schema: 
+[1629394254754] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394254756]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394254812] Sleep for 0 ms
+[1629394254816] Sleep for 2000 ms
+[1629394256818] Sleep for 0 ms
+[1629394256818] :schema :
+[1629394256820] Sleep for 0 ms
+[1629394256820] Sleep for 2000 ms
+[1629394258822] Sleep for 0 ms
+[1629394258823] Sleep for 500 ms
+[1629394259324] Sleep for 0 ms
+[1629394259404] Exception for get action resouece: g0a13@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394259404] Exception for get action class: g0a13@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394259404] *** Get guitree ***
+[1629394259405]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394259405] using nstep-q agent
+[1629394259405] select new action from ucb q value: g0a13@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394259406] current state or current action is null
+[1629394259406] new state visited : 11
+[1629394259406] new action visited : 10
+[1629394259406] update Q value
+[1629394259406] // previous State and action polled
+[1629394259406] *** Making decisions *** 
+[1629394259406] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394259406] New action: g0a13@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394259406] *** Inject event ***
+[1629394259406] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394259408] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394259435] Sleep for 0 ms
+[1629394259435] Sleep for 500 ms
+[1629394259937] Sleep for 0 ms
+[1629394259937] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394259941] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394259944] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394259946] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394259948] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394259950] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394259951] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394259952] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394259954] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394259955] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394259956] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394259957] Sleep for 174 ms
+[1629394260134] Sleep for 0 ms
+[1629394260135] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394260138] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394260142] Sleep for 0 ms
+[1629394260143] Sleep for 148 ms
+[1629394260294] Sleep for 0 ms
+[1629394260295] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394260296] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394260300] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394260302] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394260303] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394260304] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394260306] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394260308] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394260309] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394260311] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394260313] Sleep for 166 ms
+[1629394260482] Sleep for 0 ms
+[1629394260483] :Sending Touch (ACTION_DOWN): 0:(979.0,1642.0)
+[1629394260486] Waiting Event for 935 milliseconds
+[1629394261422] Sleep for 0 ms
+[1629394261424] :Sending Touch (ACTION_UP): 0:(979.0,1642.0)
+[1629394261426] Sleep for 0 ms
+[1629394261426] Sleep for 204 ms
+[1629394261633] Sleep for 0 ms
+[1629394261634] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394261641] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394261643] Sleep for 0 ms
+[1629394261645] Sleep for 153 ms
+[1629394261799] Sleep for 0 ms
+[1629394261799] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394261801] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394261802] Sleep for 0 ms
+[1629394261803] Sleep for 277 ms
+[1629394262083] Sleep for 0 ms
+[1629394262084] :Send Key (ACTION_DOWN): 232    // KEYCODE_TV_RADIO_SERVICE
+[1629394262087] :Send Key (ACTION_UP): 232    // KEYCODE_TV_RADIO_SERVICE
+[1629394262089] Sleep for 0 ms
+[1629394262090] Sleep for 277 ms
+[1629394262369] Sleep for 0 ms
+[1629394262370] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394262372] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394262375] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394262377] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394262378] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394262380] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394262381] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394262383] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394262384] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394262385] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394262394] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394262395] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394262396] Sleep for 0 ms
+[1629394262397] Sleep for 103 ms
+[1629394262501] Sleep for 0 ms
+[1629394262502] :Sending Touch (ACTION_DOWN): 0:(862.0,142.0)
+[1629394262508] Waiting Event for 942 milliseconds
+[1629394263453] Sleep for 0 ms
+[1629394263454] :Sending Touch (ACTION_UP): 0:(862.0,142.0)
+[1629394263457] Sleep for 0 ms
+[1629394263458] Sleep for 220 ms
+[1629394263680] Sleep for 0 ms
+[1629394263681] :Sending rotation degree : 1, persist : true
+[1629394263700] Sleep for 0 ms
+[1629394263701] Sleep for 122 ms
+[1629394263825] Sleep for 0 ms
+[1629394263826] Sleep for 0 ms
+[1629394263827] Sleep for 0 ms
+[1629394263827] :Sending rotation degree : 0, persist : false
+[1629394263851] Sleep for 0 ms
+[1629394263851] Sleep for 500 ms
+[1629394264354] Sleep for 0 ms
+[1629394264355] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394264355] fastbot exec shell: 
+[1629394264358] fastbot exec schema: 
+[1629394264358] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394264360]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394264415] Sleep for 0 ms
+[1629394264421] Sleep for 2000 ms
+[1629394266423] Sleep for 0 ms
+[1629394266424] :schema :
+[1629394266426] Sleep for 0 ms
+[1629394266426] Sleep for 2000 ms
+[1629394268427] Sleep for 0 ms
+[1629394268427] Sleep for 500 ms
+[1629394268930] Sleep for 0 ms
+[1629394269027] Exception for get action resouece: g0a14@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394269027] Exception for get action class: g0a14@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394269027] *** Get guitree ***
+[1629394269028]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394269028] using nstep-q agent
+[1629394269029] select new action from ucb q value: g0a14@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394269029] current state or current action is null
+[1629394269029] new state visited : 12
+[1629394269029] new action visited : 11
+[1629394269029] update Q value
+[1629394269030] // previous State and action polled
+[1629394269030] *** Making decisions *** 
+[1629394269030] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394269030] New action: g0a14@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394269030] *** Inject event ***
+[1629394269031] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394269034] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394269038] Sleep for 0 ms
+[1629394269039] Sleep for 500 ms
+[1629394269541] Sleep for 0 ms
+[1629394269542] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394269545] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394269547] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394269549] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394269551] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394269553] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394269555] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394269557] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394269559] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394269561] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394269563] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394269565] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394269566] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394269568] Sleep for 0 ms
+[1629394269568] Sleep for 217 ms
+[1629394269787] Sleep for 0 ms
+[1629394269788] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394269795] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394269800] Sleep for 0 ms
+[1629394269801] Sleep for 284 ms
+[1629394270087] Sleep for 0 ms
+[1629394270087] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394270090] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394270094] Sleep for 0 ms
+[1629394270095] Sleep for 243 ms
+[1629394270339] Sleep for 0 ms
+[1629394270339] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394270343] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394270345] Sleep for 0 ms
+[1629394270346] Sleep for 223 ms
+[1629394270570] Sleep for 0 ms
+[1629394270570] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394270574] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394270583] Sleep for 0 ms
+[1629394270583] Sleep for 248 ms
+[1629394270589]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394270834] Sleep for 0 ms
+[1629394270835] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394270838] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394270842] Sleep for 0 ms
+[1629394270843] Sleep for 162 ms
+[1629394271008] Sleep for 0 ms
+[1629394271008] :Sending Touch (ACTION_DOWN): 0:(377.0,1682.0)
+[1629394271011] :Sending Touch (ACTION_UP): 0:(377.7762,1677.8726)
+[1629394271014] Sleep for 0 ms
+[1629394271015] Sleep for 252 ms
+[1629394271269] Sleep for 0 ms
+[1629394271269] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394271271] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394271272]     //[calendar_time:2021-08-19 13:31:11.272  system_uptime:8541489]
+[1629394271272]     // Sending event #900
+[1629394271274] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394271275] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394271277] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394271278] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394271279] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394271281] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394271282] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394271294] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394271296] Sleep for 100 ms
+[1629394271399] Sleep for 0 ms
+[1629394271400] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394271404] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394271406] Sleep for 0 ms
+[1629394271407] Sleep for 171 ms
+[1629394271580] Sleep for 0 ms
+[1629394271581] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394271583] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394271585] Sleep for 0 ms
+[1629394271586] Sleep for 244 ms
+[1629394271831] Sleep for 0 ms
+[1629394271832] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394271835] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394271837] Sleep for 0 ms
+[1629394271838] Sleep for 202 ms
+[1629394272043] Sleep for 0 ms
+[1629394272044] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394272049] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394272059] Sleep for 0 ms
+[1629394272060] Sleep for 245 ms
+[1629394272308] Sleep for 0 ms
+[1629394272309] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394272312] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394272314] Sleep for 0 ms
+[1629394272315] Sleep for 127 ms
+[1629394272444] Sleep for 0 ms
+[1629394272446] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394272447] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394272449] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394272450] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394272453] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394272455] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394272459] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394272460] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394272461] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394272463] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394272465] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394272467] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394272468] Sleep for 0 ms
+[1629394272468] Sleep for 288 ms
+[1629394272487]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394272758] Sleep for 0 ms
+[1629394272760] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394272762] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394272767] Sleep for 0 ms
+[1629394272768] Sleep for 297 ms
+[1629394273067] Sleep for 0 ms
+[1629394273068] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394273070] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394273074] Sleep for 0 ms
+[1629394273075] Sleep for 287 ms
+[1629394273365] Sleep for 0 ms
+[1629394273366] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394273369] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394273374] Sleep for 0 ms
+[1629394273374] Sleep for 285 ms
+[1629394273661] Sleep for 0 ms
+[1629394273662] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394273664] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394273666] Sleep for 0 ms
+[1629394273667] Sleep for 136 ms
+[1629394273805] Sleep for 0 ms
+[1629394273805] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394273808] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394273812] Sleep for 0 ms
+[1629394273814] Sleep for 148 ms
+[1629394273965] Sleep for 0 ms
+[1629394273965] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394273968] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394273970] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394273971] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394273973] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394273975] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394273978] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394273984] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394273985] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394273986] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394273987] Sleep for 173 ms
+[1629394274163] Sleep for 0 ms
+[1629394274164] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394274167] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394274169] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394274171] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394274172] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394274173] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394274175] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394274176] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394274177] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394274179] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394274180] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394274181] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394274182] Sleep for 0 ms
+[1629394274183] Sleep for 296 ms
+[1629394274481] Sleep for 0 ms
+[1629394274481] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394274485] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394274496] Sleep for 0 ms
+[1629394274497] Sleep for 123 ms
+[1629394274621] Sleep for 0 ms
+[1629394274621] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394274627] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394274630] Sleep for 0 ms
+[1629394274630] Sleep for 210 ms
+[1629394274843] Sleep for 0 ms
+[1629394274843] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394274847] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394274851] Sleep for 0 ms
+[1629394274851] Sleep for 157 ms
+[1629394275010] Sleep for 0 ms
+[1629394275011] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394275015] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394275019] Sleep for 0 ms
+[1629394275019] Sleep for 272 ms
+[1629394275294] Sleep for 0 ms
+[1629394275296] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394275298] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394275303] Sleep for 0 ms
+[1629394275304] Sleep for 117 ms
+[1629394275425] Sleep for 0 ms
+[1629394275426] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394275429] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394275431] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394275432] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394275438] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394275439] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394275440] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394275441] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394275442] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394275444] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394275445] Sleep for 163 ms
+[1629394275609] Sleep for 0 ms
+[1629394275609] :Send Key (ACTION_DOWN): 85    // KEYCODE_MEDIA_PLAY_PAUSE
+[1629394275612] :Send Key (ACTION_UP): 85    // KEYCODE_MEDIA_PLAY_PAUSE
+[1629394275619] Sleep for 0 ms
+[1629394275619] Sleep for 241 ms
+[1629394275863] Sleep for 0 ms
+[1629394275864] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394275866] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394275868] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394275870] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394275872] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394275874] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394275876] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394275877] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394275879] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394275880] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394275881] Sleep for 273 ms
+[1629394276157] Sleep for 0 ms
+[1629394276158] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394276161] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394276163] Sleep for 0 ms
+[1629394276164] Sleep for 231 ms
+[1629394276397] Sleep for 0 ms
+[1629394276398] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394276400] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394276402] Sleep for 0 ms
+[1629394276403] Sleep for 116 ms
+[1629394276522] Sleep for 0 ms
+[1629394276522] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394276525] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394276528]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394276530]     //[calendar_time:2021-08-19 13:31:16.530  system_uptime:8546747]
+[1629394276531]     // Sending event #1000
+[1629394276531] Sleep for 0 ms
+[1629394276531]     //[calendar_time:2021-08-19 13:31:16.531  system_uptime:8546748]
+[1629394276531]     // Sending event #1000
+[1629394276531] Sleep for 162 ms
+[1629394276695]     //[calendar_time:2021-08-19 13:31:16.695  system_uptime:8546912]
+[1629394276695]     // Sending event #1000
+[1629394276696] Sleep for 0 ms
+[1629394276697]     //[calendar_time:2021-08-19 13:31:16.697  system_uptime:8546914]
+[1629394276697]     // Sending event #1000
+[1629394276698] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394276700] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394276706] Sleep for 0 ms
+[1629394276706] Sleep for 200 ms
+[1629394276909] Sleep for 0 ms
+[1629394276910] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394276913] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394276916] Sleep for 0 ms
+[1629394276916] Sleep for 137 ms
+[1629394277055] Sleep for 0 ms
+[1629394277056] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394277060] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394277063] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394277067] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394277069] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394277070] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394277072] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394277073] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394277078] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394277080] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394277082] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394277083] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394277085] Sleep for 0 ms
+[1629394277085] Sleep for 277 ms
+[1629394277364] Sleep for 0 ms
+[1629394277365] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394277368] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394277372] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394277373] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394277375] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394277380] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394277382] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394277385] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394277386] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394277388] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394277390] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394277392] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394277397] Sleep for 0 ms
+[1629394277398] Sleep for 270 ms
+[1629394277671] Sleep for 0 ms
+[1629394277671] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394277675] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394277682] Sleep for 0 ms
+[1629394277683] Sleep for 188 ms
+[1629394277875] Sleep for 0 ms
+[1629394277875] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394277877] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394277881] Sleep for 0 ms
+[1629394277882] Sleep for 196 ms
+[1629394278081] Sleep for 0 ms
+[1629394278082] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394278084] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394278089] Sleep for 0 ms
+[1629394278092] Sleep for 164 ms
+[1629394278257] Sleep for 0 ms
+[1629394278257] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394278260] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394278264] Sleep for 0 ms
+[1629394278264] Sleep for 210 ms
+[1629394278477] Sleep for 0 ms
+[1629394278477] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394278479] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394278482] Sleep for 0 ms
+[1629394278483] Sleep for 181 ms
+[1629394278666] Sleep for 0 ms
+[1629394278668] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394278672] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394278675] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394278676] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394278678] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394278682] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394278685] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394278686] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394278688] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394278691] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394278694] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394278696] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394278697] Sleep for 0 ms
+[1629394278698] Sleep for 172 ms
+[1629394278727]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394278871] Sleep for 0 ms
+[1629394278872] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394278876] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394278881] Sleep for 0 ms
+[1629394278882] Sleep for 232 ms
+[1629394279116] Sleep for 0 ms
+[1629394279117] :Sending Touch (ACTION_DOWN): 0:(342.0,522.0)
+[1629394279119] :Sending Touch (ACTION_MOVE): 0:(354.50082,529.2646)
+[1629394279122] Waiting Event for 22 milliseconds
+[1629394279146] Sleep for 0 ms
+[1629394279147] :Sending Touch (ACTION_MOVE): 0:(364.01233,537.3718)
+[1629394279149] Waiting Event for 22 milliseconds
+[1629394279173] Sleep for 0 ms
+[1629394279174] :Sending Touch (ACTION_MOVE): 0:(368.60385,539.17224)
+[1629394279175] Waiting Event for 22 milliseconds
+[1629394279199] Sleep for 0 ms
+[1629394279200] :Sending Touch (ACTION_MOVE): 0:(377.7635,545.2434)
+[1629394279201] Waiting Event for 22 milliseconds
+[1629394279225] Sleep for 0 ms
+[1629394279226] :Sending Touch (ACTION_MOVE): 0:(388.25964,545.69977)
+[1629394279228] Waiting Event for 22 milliseconds
+[1629394279252] Sleep for 0 ms
+[1629394279254] :Sending Touch (ACTION_MOVE): 0:(391.94296,549.2346)
+[1629394279258] Waiting Event for 22 milliseconds
+[1629394279284] Sleep for 0 ms
+[1629394279285] :Sending Touch (ACTION_MOVE): 0:(396.26938,550.2951)
+[1629394279287] Waiting Event for 22 milliseconds
+[1629394279312] Sleep for 0 ms
+[1629394279313] :Sending Touch (ACTION_UP): 0:(400.56927,555.32025)
+[1629394279316] Sleep for 0 ms
+[1629394279316] Sleep for 195 ms
+[1629394279513] Sleep for 0 ms
+[1629394279514] Sleep for 0 ms
+[1629394279514] Sleep for 0 ms
+[1629394279516] :Sending rotation degree : 0, persist : false
+[1629394279574] Sleep for 0 ms
+[1629394279575] Sleep for 500 ms
+[1629394280077] Sleep for 0 ms
+[1629394280077] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394280078] fastbot exec shell: 
+[1629394280080] fastbot exec schema: 
+[1629394280080] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394280081]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394280156] Sleep for 0 ms
+[1629394280161] Sleep for 2000 ms
+[1629394282164] Sleep for 0 ms
+[1629394282165] :schema :
+[1629394282167] Sleep for 0 ms
+[1629394282169] Sleep for 2000 ms
+[1629394284171] Sleep for 0 ms
+[1629394284171] Sleep for 500 ms
+[1629394284672] Sleep for 0 ms
+[1629394284768] Exception for get action resouece: g0a15@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394284769] Exception for get action class: g0a15@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394284769] *** Get guitree ***
+[1629394284772]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394284772] using nstep-q agent
+[1629394284773] select new action from ucb q value: g0a15@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394284773] current state or current action is null
+[1629394284774] new state visited : 13
+[1629394284774] new action visited : 12
+[1629394284774] update Q value
+[1629394284774] // previous State and action polled
+[1629394284774] *** Making decisions *** 
+[1629394284774] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394284775] New action: g0a15@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394284775] *** Inject event ***
+[1629394284776] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394284779] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394284782] Sleep for 0 ms
+[1629394284782] Sleep for 500 ms
+[1629394285285] Sleep for 0 ms
+[1629394285286] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394285288] :Send Key (ACTION_DOWN): 18    // KEYCODE_POUND
+[1629394285291] :Send Key (ACTION_UP): 18    // KEYCODE_POUND
+[1629394285306]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394285308] Sleep for 0 ms
+[1629394285310] Sleep for 170 ms
+[1629394285482] Sleep for 0 ms
+[1629394285484] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394285487] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394285488] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394285491] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394285496] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394285500] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394285501] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394285502] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394285504] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394285506] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394285507] Sleep for 239 ms
+[1629394285749] Sleep for 0 ms
+[1629394285751] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394285754] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394285759] Sleep for 0 ms
+[1629394285760] Sleep for 123 ms
+[1629394285885] Sleep for 0 ms
+[1629394285885] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394285889] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394285893] Sleep for 0 ms
+[1629394285893] Sleep for 160 ms
+[1629394286054] Sleep for 0 ms
+[1629394286055] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394286059] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394286062] Sleep for 0 ms
+[1629394286063] Sleep for 141 ms
+[1629394286205] Sleep for 0 ms
+[1629394286205] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394286208] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394286213] Sleep for 0 ms
+[1629394286214] Sleep for 223 ms
+[1629394286216]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394286439] Sleep for 0 ms
+[1629394286440] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394286445] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394286449] Sleep for 0 ms
+[1629394286450] Sleep for 138 ms
+[1629394286590] Sleep for 0 ms
+[1629394286591] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394286596] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394286598] Sleep for 0 ms
+[1629394286598] Sleep for 253 ms
+[1629394286854] Sleep for 0 ms
+[1629394286854] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394286857] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394286863] Sleep for 0 ms
+[1629394286864] Sleep for 265 ms
+[1629394287132] Sleep for 0 ms
+[1629394287134] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394287137]     //[calendar_time:2021-08-19 13:31:27.136  system_uptime:8557354]
+[1629394287137]     // Sending event #1100
+[1629394287137] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394287142] Sleep for 0 ms
+[1629394287144] Sleep for 103 ms
+[1629394287248] Sleep for 0 ms
+[1629394287253] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394287256] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394287271] Sleep for 0 ms
+[1629394287272] Sleep for 190 ms
+[1629394287465] Sleep for 0 ms
+[1629394287467] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394287470] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394287474] Sleep for 0 ms
+[1629394287474] Sleep for 245 ms
+[1629394287721] Sleep for 0 ms
+[1629394287722] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394287725] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394287727] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394287729] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394287731] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394287732] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394287734] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394287735] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394287736] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394287738] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394287741] Sleep for 226 ms
+[1629394287970] Sleep for 0 ms
+[1629394287971] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394287974] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394287976] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394287978] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394287980] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394287980] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394287982] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394287983] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394287985] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394287986] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394287988] Sleep for 255 ms
+[1629394288245] Sleep for 0 ms
+[1629394288246] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394288249] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394288252] Sleep for 0 ms
+[1629394288253] Sleep for 246 ms
+[1629394288502] Sleep for 0 ms
+[1629394288502] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394288506] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394288509] Sleep for 0 ms
+[1629394288509] Sleep for 116 ms
+[1629394288628] Sleep for 0 ms
+[1629394288629] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394288632] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394288638] Sleep for 0 ms
+[1629394288638] Sleep for 180 ms
+[1629394288821] Sleep for 0 ms
+[1629394288822] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394288825] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394288828] Sleep for 0 ms
+[1629394288829] Sleep for 229 ms
+[1629394289060] Sleep for 0 ms
+[1629394289061] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394289065] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394289069] Sleep for 0 ms
+[1629394289070] Sleep for 221 ms
+[1629394289293] Sleep for 0 ms
+[1629394289294] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394289296] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394289298] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394289300] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394289303] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394289305] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394289305] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394289307] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394289308] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394289309] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394289311] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394289312] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394289314] Sleep for 0 ms
+[1629394289314] Sleep for 194 ms
+[1629394289326]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394289510] Sleep for 0 ms
+[1629394289512] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394289514] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394289518] Sleep for 0 ms
+[1629394289519] Sleep for 245 ms
+[1629394289766] Sleep for 0 ms
+[1629394289767] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394289771] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394289776] Sleep for 0 ms
+[1629394289776] Sleep for 231 ms
+[1629394290011] Sleep for 0 ms
+[1629394290012] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394290016] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394290018] Sleep for 0 ms
+[1629394290019] Sleep for 269 ms
+[1629394290289] Sleep for 0 ms
+[1629394290291] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394290295] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394290300] Sleep for 0 ms
+[1629394290300]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394290302] Sleep for 293 ms
+[1629394290597] Sleep for 0 ms
+[1629394290598] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394290601] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394290604] Sleep for 0 ms
+[1629394290604] Sleep for 116 ms
+[1629394290723] Sleep for 0 ms
+[1629394290725] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394290727] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394290729] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394290730] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394290731] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394290733] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394290735] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394290737] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394290738] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394290740] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394290741] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394290742] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394290743] Sleep for 0 ms
+[1629394290744] Sleep for 198 ms
+[1629394290943] Sleep for 0 ms
+[1629394290945] :Send Key (ACTION_DOWN): 89    // KEYCODE_MEDIA_REWIND
+[1629394290947] :Send Key (ACTION_UP): 89    // KEYCODE_MEDIA_REWIND
+[1629394290951] Sleep for 0 ms
+[1629394290952] Sleep for 154 ms
+[1629394291107] Sleep for 0 ms
+[1629394291109] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394291118] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394291120] Sleep for 0 ms
+[1629394291121] Sleep for 170 ms
+[1629394291293] Sleep for 0 ms
+[1629394291295] Sleep for 0 ms
+[1629394291295] Sleep for 0 ms
+[1629394291296] :Sending rotation degree : 0, persist : false
+[1629394291321] Sleep for 0 ms
+[1629394291322] Sleep for 500 ms
+[1629394291825] Sleep for 0 ms
+[1629394291827] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394291827] fastbot exec shell: 
+[1629394291830] fastbot exec schema: 
+[1629394291830] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394291831]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394291906] Sleep for 0 ms
+[1629394291908] Sleep for 2000 ms
+[1629394293908] Sleep for 0 ms
+[1629394293909] :schema :
+[1629394293910] Sleep for 0 ms
+[1629394293911] Sleep for 2000 ms
+[1629394295913] Sleep for 0 ms
+[1629394295915] Sleep for 500 ms
+[1629394296417] Sleep for 0 ms
+[1629394296518] Exception for get action resouece: g0a16@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394296518] Exception for get action class: g0a16@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394296519] *** Get guitree ***
+[1629394296519]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394296519] using nstep-q agent
+[1629394296520] select new action from ucb q value: g0a16@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394296520] current state or current action is null
+[1629394296520] new state visited : 14
+[1629394296520] new action visited : 13
+[1629394296520] update Q value
+[1629394296520] // previous State and action polled
+[1629394296520] *** Making decisions *** 
+[1629394296520] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394296521] New action: g0a16@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394296521] *** Inject event ***
+[1629394296521] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394296523] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394296524] Sleep for 0 ms
+[1629394296525] Sleep for 500 ms
+[1629394297027] Sleep for 0 ms
+[1629394297028] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394297031] :Sending Touch (ACTION_DOWN): 0:(477.0,1379.0)
+[1629394297033] Waiting Event for 363 milliseconds
+[1629394297399] Sleep for 0 ms
+[1629394297400] :Sending Touch (ACTION_UP): 0:(477.0,1379.0)
+[1629394297402] Sleep for 0 ms
+[1629394297404] Sleep for 238 ms
+[1629394297644] Sleep for 0 ms
+[1629394297645] :Sending Touch (ACTION_DOWN): 0:(234.0,1660.0)
+[1629394297647] :Sending Touch (ACTION_MOVE): 0:(214.30707,1657.3298)
+[1629394297648] Waiting Event for 20 milliseconds
+[1629394297670] Sleep for 0 ms
+[1629394297671] :Sending Touch (ACTION_MOVE): 0:(199.90588,1644.1743)
+[1629394297675] Waiting Event for 20 milliseconds
+[1629394297698] Sleep for 0 ms
+[1629394297698] :Sending Touch (ACTION_MOVE): 0:(183.42657,1626.8861)
+[1629394297701] Waiting Event for 20 milliseconds
+[1629394297725] Sleep for 0 ms
+[1629394297726] :Sending Touch (ACTION_MOVE): 0:(177.23222,1624.1997)
+[1629394297729] Waiting Event for 20 milliseconds
+[1629394297751] Sleep for 0 ms
+[1629394297752] :Sending Touch (ACTION_MOVE): 0:(164.66699,1621.2944)
+[1629394297755] Waiting Event for 20 milliseconds
+[1629394297777] Sleep for 0 ms
+[1629394297780] :Sending Touch (ACTION_MOVE): 0:(150.73863,1600.5366)
+[1629394297783] Waiting Event for 20 milliseconds
+[1629394297805] Sleep for 0 ms
+[1629394297807] :Sending Touch (ACTION_MOVE): 0:(143.09294,1584.4803)
+[1629394297810] Waiting Event for 20 milliseconds
+[1629394297832] Sleep for 0 ms
+[1629394297834] :Sending Touch (ACTION_MOVE): 0:(136.95146,1576.0425)
+[1629394297835] Waiting Event for 20 milliseconds
+[1629394297859] Sleep for 0 ms
+[1629394297860] :Sending Touch (ACTION_UP): 0:(136.66899,1567.2817)
+[1629394297863] Sleep for 0 ms
+[1629394297864] Sleep for 134 ms
+[1629394298000] Sleep for 0 ms
+[1629394298000] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394298004]     //[calendar_time:2021-08-19 13:31:38.003  system_uptime:8568221]
+[1629394298004]     // Sending event #1200
+[1629394298004] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394298006] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394298008] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394298013] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394298015] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394298019] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394298020] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394298023] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394298028] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394298030] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394298032] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394298035] Sleep for 0 ms
+[1629394298037] Sleep for 152 ms
+[1629394298191] Sleep for 0 ms
+[1629394298192] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394298195] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394298198] Sleep for 0 ms
+[1629394298198] Sleep for 211 ms
+[1629394298410] Sleep for 0 ms
+[1629394298411] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394298414] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394298416] Sleep for 0 ms
+[1629394298417] Sleep for 289 ms
+[1629394298707] Sleep for 0 ms
+[1629394298708] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394298711] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394298714] Sleep for 0 ms
+[1629394298715] Sleep for 266 ms
+[1629394298984] Sleep for 0 ms
+[1629394298985] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394298987] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394298993] Sleep for 0 ms
+[1629394298994] Sleep for 220 ms
+[1629394298995]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394299216] Sleep for 0 ms
+[1629394299217] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394299220] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394299225] Sleep for 0 ms
+[1629394299226] Sleep for 241 ms
+[1629394299470] Sleep for 0 ms
+[1629394299471] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394299473] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394299475] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394299478] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394299479] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394299480] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394299481] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394299483] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394299484] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394299486] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394299488] Sleep for 124 ms
+[1629394299615] Sleep for 0 ms
+[1629394299616] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394299619] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394299621] Sleep for 0 ms
+[1629394299621] Sleep for 500 ms
+[1629394300124] Sleep for 0 ms
+[1629394300124] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394300129] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394300133] Sleep for 0 ms
+[1629394300135] Sleep for 184 ms
+[1629394300320] Sleep for 0 ms
+[1629394300320] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394300324] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394300328] Sleep for 0 ms
+[1629394300328] Sleep for 247 ms
+[1629394300420]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394300578] Sleep for 0 ms
+[1629394300579] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394300581] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394300585] Sleep for 0 ms
+[1629394300586] Sleep for 162 ms
+[1629394300751] Sleep for 0 ms
+[1629394300752] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394300755] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394300757] Sleep for 0 ms
+[1629394300758] Sleep for 265 ms
+[1629394301025] Sleep for 0 ms
+[1629394301026] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394301028] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394301031] Sleep for 0 ms
+[1629394301031] Sleep for 188 ms
+[1629394301221] Sleep for 0 ms
+[1629394301222] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394301225] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394301227] Sleep for 0 ms
+[1629394301228] Sleep for 290 ms
+[1629394301520] Sleep for 0 ms
+[1629394301521] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394301523] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394301525] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394301527] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394301528] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394301529] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394301531] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394301533] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394301534] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394301535] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394301537] Sleep for 155 ms
+[1629394301695] Sleep for 0 ms
+[1629394301695] Sleep for 0 ms
+[1629394301696] Sleep for 0 ms
+[1629394301697] :Sending rotation degree : 0, persist : false
+[1629394301719] Sleep for 0 ms
+[1629394301719] Sleep for 500 ms
+[1629394302222] Sleep for 0 ms
+[1629394302223] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394302223] fastbot exec shell: 
+[1629394302227] fastbot exec schema: 
+[1629394302227] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394302228]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394302308] Sleep for 0 ms
+[1629394302311] Sleep for 2000 ms
+[1629394304312] Sleep for 0 ms
+[1629394304312] :schema :
+[1629394304314] Sleep for 0 ms
+[1629394304314] Sleep for 2000 ms
+[1629394306315] Sleep for 0 ms
+[1629394306317] Sleep for 500 ms
+[1629394306820] Sleep for 0 ms
+[1629394306913] Exception for get action resouece: g0a17@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394306913] Exception for get action class: g0a17@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394306913] *** Get guitree ***
+[1629394306914]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394306914] using nstep-q agent
+[1629394306914] select new action from ucb q value: g0a17@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394306914] current state or current action is null
+[1629394306914] new state visited : 15
+[1629394306915] new action visited : 14
+[1629394306915] update Q value
+[1629394306915] // previous State and action polled
+[1629394306915] *** Making decisions *** 
+[1629394306915] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394306915] New action: g0a17@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394306915] *** Inject event ***
+[1629394306917] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394306922] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394306924] Sleep for 0 ms
+[1629394306925] Sleep for 500 ms
+[1629394307427] Sleep for 0 ms
+[1629394307428] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394307429] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394307432] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394307435] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394307437] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394307438] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394307441] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394307442] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394307443] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394307445] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394307446] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394307447] Sleep for 263 ms
+[1629394307712] Sleep for 0 ms
+[1629394307714] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394307717] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394307723] Sleep for 0 ms
+[1629394307723] Sleep for 243 ms
+[1629394307967] Sleep for 0 ms
+[1629394307968] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394307970] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394307974] Sleep for 0 ms
+[1629394307977] Sleep for 132 ms
+[1629394308111] Sleep for 0 ms
+[1629394308113] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394308118] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394308123] Sleep for 0 ms
+[1629394308125] Sleep for 297 ms
+[1629394308424] Sleep for 0 ms
+[1629394308425] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394308428] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394308436] Sleep for 0 ms
+[1629394308437] Sleep for 248 ms
+[1629394308686] Sleep for 0 ms
+[1629394308687] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394308690] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394308698] Sleep for 0 ms
+[1629394308699] Sleep for 149 ms
+[1629394308851] Sleep for 0 ms
+[1629394308851] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394308854] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394308861] Sleep for 0 ms
+[1629394308861] Sleep for 100 ms
+[1629394308964] Sleep for 0 ms
+[1629394308964] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394308967] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394308972] Sleep for 0 ms
+[1629394308972] Sleep for 142 ms
+[1629394309116] Sleep for 0 ms
+[1629394309117] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394309120] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394309123] Sleep for 0 ms
+[1629394309124] Sleep for 244 ms
+[1629394309370] Sleep for 0 ms
+[1629394309371] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394309375] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394309382] Sleep for 0 ms
+[1629394309383] Sleep for 188 ms
+[1629394309573] Sleep for 0 ms
+[1629394309575] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394309578] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394309580] Sleep for 0 ms
+[1629394309581] Sleep for 195 ms
+[1629394309582]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394309778] Sleep for 0 ms
+[1629394309779] :Sending Touch (ACTION_DOWN): 0:(128.0,797.0)
+[1629394309780] :Sending Touch (ACTION_MOVE): 0:(132.15808,805.52295)
+[1629394309781] Waiting Event for 20 milliseconds
+[1629394309802] Sleep for 0 ms
+[1629394309805] :Sending Touch (ACTION_MOVE): 0:(154.30838,812.38934)
+[1629394309806] Waiting Event for 20 milliseconds
+[1629394309829] Sleep for 0 ms
+[1629394309831] :Sending Touch (ACTION_MOVE): 0:(165.47122,820.96173)
+[1629394309832] Waiting Event for 20 milliseconds
+[1629394309854] Sleep for 0 ms
+[1629394309854] :Sending Touch (ACTION_MOVE): 0:(184.7633,822.45776)
+[1629394309857] Waiting Event for 20 milliseconds
+[1629394309879] Sleep for 0 ms
+[1629394309880] :Sending Touch (ACTION_MOVE): 0:(202.27054,824.19165)
+[1629394309882]     //[calendar_time:2021-08-19 13:31:49.881  system_uptime:8580099]
+[1629394309882]     // Sending event #1300
+[1629394309883] Waiting Event for 20 milliseconds
+[1629394309903] Sleep for 0 ms
+[1629394309904] :Sending Touch (ACTION_MOVE): 0:(223.52722,831.13934)
+[1629394309906] Waiting Event for 20 milliseconds
+[1629394309927] Sleep for 0 ms
+[1629394309928] :Sending Touch (ACTION_MOVE): 0:(245.98051,837.6515)
+[1629394309931] Waiting Event for 20 milliseconds
+[1629394309952] Sleep for 0 ms
+[1629394309953] :Sending Touch (ACTION_MOVE): 0:(260.6424,841.09973)
+[1629394309955] Waiting Event for 20 milliseconds
+[1629394309976] Sleep for 0 ms
+[1629394309977] :Sending Touch (ACTION_UP): 0:(261.66895,843.8891)
+[1629394309979] Sleep for 0 ms
+[1629394309979] Sleep for 217 ms
+[1629394310199] Sleep for 0 ms
+[1629394310201] :Sending Touch (ACTION_DOWN): 0:(854.0,1010.0)
+[1629394310204] Waiting Event for 222 milliseconds
+[1629394310427] Sleep for 0 ms
+[1629394310428] :Sending Touch (ACTION_UP): 0:(854.0,1010.0)
+[1629394310430] Sleep for 0 ms
+[1629394310430] Sleep for 172 ms
+[1629394310603] Sleep for 0 ms
+[1629394310604] :Sending Touch (ACTION_DOWN): 0:(862.0,1645.0)
+[1629394310607] :Sending Touch (ACTION_MOVE): 0:(860.2919,1644.7125)
+[1629394310608] Waiting Event for 40 milliseconds
+[1629394310651] Sleep for 0 ms
+[1629394310651] :Sending Touch (ACTION_MOVE): 0:(843.5427,1643.8313)
+[1629394310653] Waiting Event for 40 milliseconds
+[1629394310698] Sleep for 0 ms
+[1629394310700] :Sending Touch (ACTION_MOVE): 0:(839.33966,1643.2754)
+[1629394310701] Waiting Event for 40 milliseconds
+[1629394310742] Sleep for 0 ms
+[1629394310744] :Sending Touch (ACTION_UP): 0:(819.4499,1643.0162)
+[1629394310748] Sleep for 0 ms
+[1629394310749] Sleep for 187 ms
+[1629394310938] Sleep for 0 ms
+[1629394310938] Sleep for 0 ms
+[1629394310939] Sleep for 0 ms
+[1629394310940] :Sending rotation degree : 0, persist : false
+[1629394310980] Sleep for 0 ms
+[1629394310980] Sleep for 500 ms
+[1629394311482] Sleep for 0 ms
+[1629394311484] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394311484] fastbot exec shell: 
+[1629394311487] fastbot exec schema: 
+[1629394311487] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394311488]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394311549] Sleep for 0 ms
+[1629394311556] Sleep for 2000 ms
+[1629394313557] Sleep for 0 ms
+[1629394313557] :schema :
+[1629394313559] Sleep for 0 ms
+[1629394313559] Sleep for 2000 ms
+[1629394315561] Sleep for 0 ms
+[1629394315562] Sleep for 500 ms
+[1629394316065] Sleep for 0 ms
+[1629394316163] Exception for get action resouece: g0a18@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394316164] Exception for get action class: g0a18@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394316164] *** Get guitree ***
+[1629394316165]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394316165] using nstep-q agent
+[1629394316165] select new action from ucb q value: g0a18@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394316165] current state or current action is null
+[1629394316165] new state visited : 16
+[1629394316165] new action visited : 15
+[1629394316166] update Q value
+[1629394316166] // previous State and action polled
+[1629394316166] *** Making decisions *** 
+[1629394316166] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394316166] New action: g0a18@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394316166] *** Inject event ***
+[1629394316167] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394316171] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394316173] Sleep for 0 ms
+[1629394316175] Sleep for 500 ms
+[1629394316677] Sleep for 0 ms
+[1629394316678] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394316683] :Sending Touch (ACTION_DOWN): 0:(1037.0,1281.0)
+[1629394316686] :Sending Touch (ACTION_MOVE): 0:(1038.4236,1280.9641)
+[1629394316688] Waiting Event for 33 milliseconds
+[1629394316723] Sleep for 0 ms
+[1629394316725] :Sending Touch (ACTION_MOVE): 0:(1044.545,1279.0808)
+[1629394316727] Waiting Event for 33 milliseconds
+[1629394316762] Sleep for 0 ms
+[1629394316764] :Sending Touch (ACTION_MOVE): 0:(1047.6044,1277.5166)
+[1629394316766] Waiting Event for 33 milliseconds
+[1629394316800] Sleep for 0 ms
+[1629394316801] :Sending Touch (ACTION_MOVE): 0:(1050.4274,1277.3578)
+[1629394316802] Waiting Event for 33 milliseconds
+[1629394316837] Sleep for 0 ms
+[1629394316837] :Sending Touch (ACTION_UP): 0:(1051.6079,1277.0771)
+[1629394316839] Sleep for 0 ms
+[1629394316840] Sleep for 145 ms
+[1629394316987] Sleep for 0 ms
+[1629394316987] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394317142] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394317148] Sleep for 0 ms
+[1629394317148] Sleep for 242 ms
+[1629394317392] Sleep for 0 ms
+[1629394317392] :Sending Touch (ACTION_DOWN): 0:(228.0,873.0)
+[1629394317394] :Sending Touch (ACTION_MOVE): 0:(224.5132,874.7804)
+[1629394317396] Waiting Event for 20 milliseconds
+[1629394317418] Sleep for 0 ms
+[1629394317420] :Sending Touch (ACTION_MOVE): 0:(223.88544,875.4764)
+[1629394317422] Waiting Event for 20 milliseconds
+[1629394317444] Sleep for 0 ms
+[1629394317445] :Sending Touch (ACTION_MOVE): 0:(220.91039,876.4564)
+[1629394317448] Waiting Event for 20 milliseconds
+[1629394317469] Sleep for 0 ms
+[1629394317469] :Sending Touch (ACTION_MOVE): 0:(216.69464,879.09094)
+[1629394317471] Waiting Event for 20 milliseconds
+[1629394317494] Sleep for 0 ms
+[1629394317496] :Sending Touch (ACTION_MOVE): 0:(213.62103,879.48395)
+[1629394317497] Waiting Event for 20 milliseconds
+[1629394317519] Sleep for 0 ms
+[1629394317520] :Sending Touch (ACTION_MOVE): 0:(208.88043,881.8714)
+[1629394317522] Waiting Event for 20 milliseconds
+[1629394317544] Sleep for 0 ms
+[1629394317546] :Sending Touch (ACTION_MOVE): 0:(207.8684,883.06287)
+[1629394317547] Waiting Event for 20 milliseconds
+[1629394317568] Sleep for 0 ms
+[1629394317569] :Sending Touch (ACTION_MOVE): 0:(205.32748,885.1172)
+[1629394317572] Waiting Event for 20 milliseconds
+[1629394317594] Sleep for 0 ms
+[1629394317595] :Sending Touch (ACTION_UP): 0:(202.32976,885.548)
+[1629394317596] Sleep for 0 ms
+[1629394317597] Sleep for 202 ms
+[1629394317803] Sleep for 0 ms
+[1629394317807] :Sending Touch (ACTION_DOWN): 0:(272.0,1680.0)
+[1629394317808] :Sending Touch (ACTION_MOVE): 0:(272.11917,1679.9614)
+[1629394317816] Waiting Event for 18 milliseconds
+[1629394317836] Sleep for 0 ms
+[1629394317837] :Sending Touch (ACTION_MOVE): 0:(273.9191,1679.8788)
+[1629394317839] Waiting Event for 18 milliseconds
+[1629394317860] Sleep for 0 ms
+[1629394317861] :Sending Touch (ACTION_MOVE): 0:(275.52188,1679.8787)
+[1629394317861] Waiting Event for 18 milliseconds
+[1629394317882] Sleep for 0 ms
+[1629394317882] :Sending Touch (ACTION_MOVE): 0:(276.87375,1679.785)
+[1629394317883] Waiting Event for 18 milliseconds
+[1629394317906] Sleep for 0 ms
+[1629394317907] :Sending Touch (ACTION_MOVE): 0:(277.0987,1679.7292)
+[1629394317908] Waiting Event for 18 milliseconds
+[1629394317929] Sleep for 0 ms
+[1629394318004] :Sending Touch (ACTION_MOVE): 0:(278.01492,1679.6669)
+[1629394318006] Waiting Event for 18 milliseconds
+[1629394318026] Sleep for 0 ms
+[1629394318026] :Sending Touch (ACTION_MOVE): 0:(278.20325,1679.6433)
+[1629394318031] Waiting Event for 18 milliseconds
+[1629394318051] Sleep for 0 ms
+[1629394318052] :Sending Touch (ACTION_MOVE): 0:(279.70874,1679.5558)
+[1629394318053] Waiting Event for 18 milliseconds
+[1629394318072] Sleep for 0 ms
+[1629394318072] :Sending Touch (ACTION_MOVE): 0:(281.3689,1679.545)
+[1629394318074] Waiting Event for 18 milliseconds
+[1629394318095] Sleep for 0 ms
+[1629394318096] :Sending Touch (ACTION_UP): 0:(283.3312,1679.4694)
+[1629394318097] Sleep for 0 ms
+[1629394318099] Sleep for 201 ms
+[1629394318302] Sleep for 0 ms
+[1629394318303] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394318306] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394318308] Sleep for 0 ms
+[1629394318308] Sleep for 147 ms
+[1629394318457] Sleep for 0 ms
+[1629394318458] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394318461] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394318465] Sleep for 0 ms
+[1629394318465] Sleep for 111 ms
+[1629394318580] Sleep for 0 ms
+[1629394318582] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394318585] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394318589] Sleep for 0 ms
+[1629394318590] Sleep for 238 ms
+[1629394318830] Sleep for 0 ms
+[1629394318831] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394318835] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394318841] Sleep for 0 ms
+[1629394318842] Sleep for 113 ms
+[1629394318957] Sleep for 0 ms
+[1629394318959] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394318965] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394318970] Sleep for 0 ms
+[1629394318971] Sleep for 287 ms
+[1629394319261] Sleep for 0 ms
+[1629394319263] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394319265] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394319271] Sleep for 0 ms
+[1629394319272] Sleep for 102 ms
+[1629394319376] Sleep for 0 ms
+[1629394319378] :Send Key (ACTION_DOWN): 140    // KEYCODE_F10
+[1629394319382] :Send Key (ACTION_UP): 140    // KEYCODE_F10
+[1629394319388] Sleep for 0 ms
+[1629394319389] Sleep for 281 ms
+[1629394319671] Sleep for 0 ms
+[1629394319671] :Sending Touch (ACTION_DOWN): 0:(702.0,755.0)
+[1629394319677] :Sending Touch (ACTION_MOVE): 0:(702.7987,756.7582)
+[1629394319678] Waiting Event for 28 milliseconds
+[1629394319708] Sleep for 0 ms
+[1629394319709] :Sending Touch (ACTION_MOVE): 0:(704.0065,768.1011)
+[1629394319711] Waiting Event for 28 milliseconds
+[1629394319740] Sleep for 0 ms
+[1629394319741] :Sending Touch (ACTION_MOVE): 0:(705.12695,777.4312)
+[1629394319744] Waiting Event for 28 milliseconds
+[1629394319773] Sleep for 0 ms
+[1629394319775] :Sending Touch (ACTION_MOVE): 0:(706.5943,778.79596)
+[1629394319777] Waiting Event for 28 milliseconds
+[1629394319807] Sleep for 0 ms
+[1629394319808] :Sending Touch (ACTION_MOVE): 0:(707.54395,791.40466)
+[1629394319811] Waiting Event for 28 milliseconds
+[1629394319840] Sleep for 0 ms
+[1629394319841] :Sending Touch (ACTION_UP): 0:(708.4389,801.76337)
+[1629394319844]     //[calendar_time:2021-08-19 13:31:59.844  system_uptime:8590061]
+[1629394319844]     // Sending event #1400
+[1629394319845] Sleep for 0 ms
+[1629394319846]     //[calendar_time:2021-08-19 13:31:59.845  system_uptime:8590063]
+[1629394319846]     // Sending event #1400
+[1629394319846] Sleep for 164 ms
+[1629394320011]     //[calendar_time:2021-08-19 13:32:00.011  system_uptime:8590228]
+[1629394320011]     // Sending event #1400
+[1629394320012] Sleep for 0 ms
+[1629394320012]     //[calendar_time:2021-08-19 13:32:00.012  system_uptime:8590229]
+[1629394320012]     // Sending event #1400
+[1629394320013] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394320015] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394320016] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394320017] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394320019] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394320021] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394320022] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394320024] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394320027] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394320028] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394320032] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394320035] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394320039] Sleep for 0 ms
+[1629394320040] Sleep for 119 ms
+[1629394320160] Sleep for 0 ms
+[1629394320160] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394320162] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394320166] Sleep for 0 ms
+[1629394320169] Sleep for 157 ms
+[1629394320327] Sleep for 0 ms
+[1629394320328] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394320329] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394320332] Sleep for 0 ms
+[1629394320332] Sleep for 287 ms
+[1629394320621] Sleep for 0 ms
+[1629394320621] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394320624] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394320626] Sleep for 0 ms
+[1629394320627] Sleep for 291 ms
+[1629394320920] Sleep for 0 ms
+[1629394320921] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394320926] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394320930] Sleep for 0 ms
+[1629394320930] Sleep for 291 ms
+[1629394321225] Sleep for 0 ms
+[1629394321226] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394321229] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394321232] Sleep for 0 ms
+[1629394321233] Sleep for 216 ms
+[1629394321452] Sleep for 0 ms
+[1629394321452] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394321456] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394321458]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394321461] Sleep for 0 ms
+[1629394321462] Sleep for 122 ms
+[1629394321585] Sleep for 0 ms
+[1629394321586] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394321589] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394321598] Sleep for 0 ms
+[1629394321600] Sleep for 156 ms
+[1629394321757] Sleep for 0 ms
+[1629394321758] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394321762] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394321764] Sleep for 0 ms
+[1629394321765] Sleep for 108 ms
+[1629394321875] Sleep for 0 ms
+[1629394321878] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394321881] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394321882] Sleep for 0 ms
+[1629394321883] Sleep for 280 ms
+[1629394322165] Sleep for 0 ms
+[1629394322166] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394322169] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394322176] Sleep for 0 ms
+[1629394322176] Sleep for 223 ms
+[1629394322402] Sleep for 0 ms
+[1629394322404] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394322407] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394322411] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394322414] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394322415] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394322416] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394322417] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394322418] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394322419] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394322421] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394322422] Sleep for 243 ms
+[1629394322667] Sleep for 0 ms
+[1629394322668] Sleep for 0 ms
+[1629394322670] Sleep for 0 ms
+[1629394322670] :Sending rotation degree : 0, persist : false
+[1629394322700] Sleep for 0 ms
+[1629394322701] Sleep for 500 ms
+[1629394323202] Sleep for 0 ms
+[1629394323203] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394323204] fastbot exec shell: 
+[1629394323207] fastbot exec schema: 
+[1629394323207] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+[1629394323208]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+[1629394323264] Sleep for 0 ms
+[1629394323275] Sleep for 2000 ms
+[1629394325276] Sleep for 0 ms
+[1629394325277] :schema :
+[1629394325279] Sleep for 0 ms
+[1629394325279] Sleep for 2000 ms
+[1629394327281] Sleep for 0 ms
+[1629394327283] Sleep for 500 ms
+[1629394327786] Sleep for 0 ms
+[1629394327884] Exception for get action resouece: g0a19@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394327885] Exception for get action class: g0a19@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394327885] *** Get guitree ***
+[1629394327886]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.serwylo.retrowars" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1920,1080]"/>
+</node>
+
+[1629394327886] using nstep-q agent
+[1629394327886] select new action from ucb q value: g0a19@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394327887] current state or current action is null
+[1629394327887] new state visited : 17
+[1629394327887] new action visited : 16
+[1629394327887] update Q value
+[1629394327887] // previous State and action polled
+[1629394327887] *** Making decisions *** 
+[1629394327887] New  state: g0s0@com.serwylo.retrowars.AndroidLauncher@325816739
+[1629394327887] New action: g0a19@BACKg0s0@com.serwylo.retrowars.AndroidLauncher@325816739[priority=1][throttle=0][]
+[1629394327887] *** Inject event ***
+[1629394327888] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394327889] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394327891] Sleep for 0 ms
+[1629394327891] Sleep for 500 ms
+[1629394328392] Sleep for 0 ms
+[1629394328393] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394328397] :Sending Touch (ACTION_DOWN): 0:(529.0,94.0)
+[1629394328399] :Sending Touch (ACTION_MOVE): 0:(530.68634,85.866776)
+[1629394328401] Waiting Event for 33 milliseconds
+[1629394328436] Sleep for 0 ms
+[1629394328436] :Sending Touch (ACTION_MOVE): 0:(533.9818,83.174675)
+[1629394328439] Waiting Event for 33 milliseconds
+[1629394328474] Sleep for 0 ms
+[1629394328475] :Sending Touch (ACTION_MOVE): 0:(542.40375,79.0)
+[1629394328476] Waiting Event for 33 milliseconds
+[1629394328511] Sleep for 0 ms
+[1629394328513] :Sending Touch (ACTION_MOVE): 0:(542.60156,79.0)
+[1629394328514] Waiting Event for 33 milliseconds
+[1629394328549] Sleep for 0 ms
+[1629394328551] :Sending Touch (ACTION_UP): 0:(545.29944,79.0)
+[1629394328552] Sleep for 0 ms
+[1629394328553] Sleep for 129 ms
+[1629394328684] Events injected : 1457
+[1629394328684] // Monkey is over!
+[1629394328684] :Sending rotation degree : 0, persist : false
+[1629394328706] Total app activities:
+[1629394328706]    1 com.serwylo.retrowars.AndroidLauncher
+[1629394328706] Explored app activities:
+[1629394328706]    1 com.serwylo.retrowars.AndroidLauncher
+[1629394328706] Acitity of Coverage: 100.0%
+[1629394328706] Activity of Times:
+[1629394328706] com.serwylo.retrowars.AndroidLauncher     17 
+:Dropped : keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+[1629394328718] // Monkey finished

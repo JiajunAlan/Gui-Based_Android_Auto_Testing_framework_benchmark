@@ -1,0 +1,241 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626403529632 count=1000
+:AllowPackage: universe.constellation.orion.viewer
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,1065.0)
+:Sending Touch (ACTION_UP): 0:(471.3036,1076.9352)
+:Sending Touch (ACTION_DOWN): 0:(627.0,233.0)
+:Sending Touch (ACTION_UP): 0:(557.2742,248.55348)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(520.0,992.0)
+:Sending Touch (ACTION_UP): 0:(551.44464,1037.2031)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(1018.83185,1452.9767)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+    //[calendar_time:2021-08-04 04:41:05.602  system_uptime:21877845]
+    // Sending event #100
+    //[calendar_time:2021-08-04 04:41:06.124  system_uptime:21878348]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(988.0,1333.0)
+:Sending Touch (ACTION_UP): 0:(987.6751,1344.0702)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1627.0)
+:Sending Touch (ACTION_UP): 0:(539.6461,1615.0397)
+:Sending Touch (ACTION_DOWN): 0:(951.0,392.0)
+:Sending Touch (ACTION_UP): 0:(945.3724,384.36713)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,475.0)
+:Sending Touch (ACTION_UP): 0:(221.36806,522.7421)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(135.0,227.0)
+:Sending Touch (ACTION_UP): 0:(133.02464,229.94481)
+    //[calendar_time:2021-08-04 04:41:17.992  system_uptime:21890216]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(210.0,523.0)
+:Sending Touch (ACTION_UP): 0:(273.07236,589.7551)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(530.0,117.0)
+:Sending Touch (ACTION_UP): 0:(557.66345,53.66021)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(95.24144,1093.487)
+:Sending Touch (ACTION_DOWN): 0:(793.0,224.0)
+:Sending Touch (ACTION_UP): 0:(777.5424,251.85086)
+:Sending Touch (ACTION_DOWN): 0:(177.0,440.0)
+:Sending Touch (ACTION_UP): 0:(159.5745,490.84833)
+:Sending Touch (ACTION_DOWN): 0:(499.0,318.0)
+:Sending Touch (ACTION_UP): 0:(571.8741,236.0526)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,194.0)
+    //[calendar_time:2021-08-04 04:41:28.324  system_uptime:21900547]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(984.0753,28.95851)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Touch (ACTION_DOWN): 0:(321.0,674.0)
+:Sending Touch (ACTION_UP): 0:(360.1304,674.8618)
+:Sending Touch (ACTION_DOWN): 0:(696.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(622.4752,1307.4507)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(224.23698,1006.35516)
+:Sending Touch (ACTION_DOWN): 0:(984.0,887.0)
+:Sending Touch (ACTION_UP): 0:(973.87164,888.6394)
+    //[calendar_time:2021-08-04 04:41:41.714  system_uptime:21913938]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(353.0,729.0)
+:Sending Touch (ACTION_UP): 0:(369.17914,728.7404)
+:Sending Touch (ACTION_DOWN): 0:(804.0,566.0)
+:Sending Touch (ACTION_UP): 0:(788.91205,530.62103)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(929.0,228.0)
+:Sending Touch (ACTION_UP): 0:(921.5145,228.4464)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(63.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(73.93908,1294.8258)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Touch (ACTION_DOWN): 0:(139.0,530.0)
+:Sending Touch (ACTION_UP): 0:(143.06757,514.3423)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(525.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(524.76697,1760.1515)
+:Sending Touch (ACTION_DOWN): 0:(465.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(411.1936,1660.5613)
+:Sending Touch (ACTION_DOWN): 0:(111.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(106.12482,1788.8228)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(31.0,532.0)
+:Sending Touch (ACTION_UP): 0:(23.905901,524.53656)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2021-08-04 04:41:55.405  system_uptime:21927629]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1061.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(1066.0912,1405.3282)
+:Sending Touch (ACTION_DOWN): 0:(296.0,699.0)
+:Sending Touch (ACTION_UP): 0:(265.38293,724.2618)
+:Sending Touch (ACTION_DOWN): 0:(977.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(995.7877,1372.0193)
+:Sending Touch (ACTION_DOWN): 0:(601.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(609.95984,1248.9271)
+:Sending Touch (ACTION_DOWN): 0:(815.0,214.0)
+:Sending Touch (ACTION_UP): 0:(760.29767,167.70625)
+:Sending Touch (ACTION_DOWN): 0:(928.0,789.0)
+:Sending Touch (ACTION_UP): 0:(933.24866,789.9004)
+:Sending Touch (ACTION_DOWN): 0:(897.0,32.0)
+:Sending Touch (ACTION_UP): 0:(904.1848,37.55641)
+:Sending Touch (ACTION_DOWN): 0:(279.0,960.0)
+:Sending Touch (ACTION_UP): 0:(277.01355,964.6966)
+:Sending Touch (ACTION_DOWN): 0:(682.0,592.0)
+:Sending Touch (ACTION_UP): 0:(607.377,701.1621)
+    //[calendar_time:2021-08-04 04:42:09.616  system_uptime:21941839]
+    // Sending event #600
+    //[calendar_time:2021-08-04 04:42:10.117  system_uptime:21942340]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(593.0,730.0)
+:Sending Touch (ACTION_UP): 0:(523.2013,709.7548)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=universe.constellation.orion.viewer/.filemanager.OrionFileManagerActivity } in package universe.constellation.orion.viewer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,619.0)
+:Sending Touch (ACTION_UP): 0:(1072.5636,616.96606)
+:Sending Touch (ACTION_DOWN): 0:(49.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(44.150524,1674.9368)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(565.0,775.0)
+:Sending Touch (ACTION_UP): 0:(563.25525,761.2471)
+:Sending Touch (ACTION_DOWN): 0:(112.0,978.0)
+:Sending Touch (ACTION_UP): 0:(155.23657,945.8114)
+:Sending Touch (ACTION_DOWN): 0:(649.0,964.0)
+:Sending Touch (ACTION_UP): 0:(668.6582,964.8025)
+:Sending Touch (ACTION_DOWN): 0:(258.0,237.0)
+:Sending Touch (ACTION_UP): 0:(262.86264,235.04028)
+:Sending Touch (ACTION_DOWN): 0:(144.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(143.34283,1161.6433)
+:Sending Touch (ACTION_DOWN): 0:(145.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(122.65367,1785.1669)
+:Sending Touch (ACTION_DOWN): 0:(728.0,299.0)
+:Sending Touch (ACTION_UP): 0:(740.3489,293.92572)
+:Sending Touch (ACTION_DOWN): 0:(541.0,886.0)
+:Sending Touch (ACTION_UP): 0:(538.40955,869.2126)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-04 04:42:23.806  system_uptime:21956030]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(853.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(832.2936,1240.616)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(439.93494,1124.8568)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(480.39496,1150.8761)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(997.78735,1475.6752)
+:Sending Touch (ACTION_DOWN): 0:(646.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(656.6429,1116.2368)
+:Sending Touch (ACTION_DOWN): 0:(377.0,873.0)
+:Sending Touch (ACTION_UP): 0:(369.842,873.794)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2021-08-04 04:42:34.983  system_uptime:21967207]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(104.0,40.0)
+:Sending Touch (ACTION_UP): 0:(54.04336,29.298357)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(424.0,607.0)
+:Sending Touch (ACTION_UP): 0:(396.9965,614.4794)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(578.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(612.9365,1571.8291)
+:Sending Touch (ACTION_DOWN): 0:(687.0,922.0)
+:Sending Touch (ACTION_UP): 0:(600.028,964.3588)
+:Sending Touch (ACTION_DOWN): 0:(540.0,551.0)
+:Sending Touch (ACTION_UP): 0:(522.3446,543.9748)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(927.4677,1623.4635)
+:Sending Touch (ACTION_DOWN): 0:(301.0,582.0)
+:Sending Touch (ACTION_UP): 0:(332.5808,506.89407)
+:Sending Touch (ACTION_DOWN): 0:(560.0,36.0)
+:Sending Touch (ACTION_UP): 0:(559.9588,27.850481)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(225.0,199.0)
+:Sending Touch (ACTION_UP): 0:(238.40065,195.07588)
+:Sending Touch (ACTION_DOWN): 0:(514.0,110.0)
+    //[calendar_time:2021-08-04 04:42:44.650  system_uptime:21976873]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(543.8637,53.957367)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(351.0,167.0)
+:Sending Touch (ACTION_UP): 0:(351.3607,127.71242)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(480.10464,1209.2084)
+:Sending Touch (ACTION_DOWN): 0:(493.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(488.04425,1571.1338)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=115456ms (0ms mobile, 0ms wifi, 115456ms not connected)
+// Monkey finished

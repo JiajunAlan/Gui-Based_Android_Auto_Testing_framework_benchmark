@@ -1,0 +1,14 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(12696): FATAL EXCEPTION: main
+E/AndroidRuntime(12696): Process: me.ccrama.redditslide, PID: 12696
+E/AndroidRuntime(12696): android.app.RemoteServiceException: Bad notification posted from package me.ccrama.redditslide: Couldn't create icon: StatusBarIcon(pkg=me.ccrama.redditslideuser=0 id=0x7f080124 level=0 visible=true num=0 )
+E/AndroidRuntime(12696): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1363)
+E/AndroidRuntime(12696): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(12696): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(12696): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(12696): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(12696): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(12696): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(12696): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(12696): 	at dalvik.system.NativeStart.main(Native Method)

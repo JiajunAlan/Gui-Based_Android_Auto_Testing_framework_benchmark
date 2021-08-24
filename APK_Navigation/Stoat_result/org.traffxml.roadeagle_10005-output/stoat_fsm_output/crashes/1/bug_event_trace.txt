@@ -1,0 +1,61 @@
+clickLong(resource-id='org.traffxml.roadeagle:id/action_connect_sources')@
+menu@
+click(className='android.widget.TextView',instance='0')@Settings
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@lt.eismoinfo.restrictions
+click(className='android.widget.TextView',instance='4')@lt.eismoinfo.trafficintensity
+scroll(direction='up')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@lv.lvceli.slegtasatiksme
+back@
+click(content-desc='More options')@
+back@
+click(resource-id='org.traffxml.roadeagle:id/action_connect_sources')@
+click(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources')@
+menu@
+click(className='android.widget.TextView',instance='0')@Settings
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='14')@Debug
+click(className='android.widget.TextView',instance='1')@Sources
+click(content-desc='Navigate up')@
+click(resource-id='org.traffxml.roadeagle:id/action_connect_sources')@
+clickLong(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources')@
+click(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources')@
+back@
+keyevent_back@
+clickLong(resource-id='org.traffxml.roadeagle:id/action_connect_sources')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Settings
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='15')@Show debug options
+click(className='android.widget.TextView',instance='8')@lv.lvceli.buvdarbipartraukuma
+click(className='android.widget.TextView',instance='15')@Log TraFF output to file on disconnect
+click(className='android.widget.TextView',instance='12')@pl.gov.gddkia
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='6')@lv.lvceli.aktivibuvdarbi
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='16')@When disconnecting from sources, write active messages to a TraFF file
+click(className='android.widget.TextView',instance='15')@Log TraFF output to file on disconnect
+click(className='android.widget.TextView',instance='12')@pl.gov.gddkia
+click(className='android.widget.TextView',instance='6')@lv.lvceli.aktivibuvdarbi
+click(className='android.widget.TextView',instance='10')@lv.lvceli.slegtasatiksme
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='9')@Debug
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='1')@lv.lvceli.aktivibuvdarbi
+click(className='android.widget.TextView',instance='11')@When disconnecting from sources, write active messages to a TraFF file
+click(className='android.widget.TextView',instance='12')@Verbose logging
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@Log TraFF output to file on disconnect
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='3')@lv.lvceli.buvdarbipartraukuma
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='13')@Write extensive status information to logcat
+click(className='android.widget.TextView',instance='7')@pl.gov.gddkia
+click(className='android.widget.TextView',instance='14')@Mirror system log to file

@@ -1,0 +1,243 @@
+menu@
+click(className='android.widget.Button',instance='0')@Close
+back@
+keyevent_back@
+click(resource-id='com.android.gpstest.osmdroid:id/sort_sats')@
+click(className='android.widget.CheckedTextView',instance='2')@Signal Strength
+clickLong(resource-id='com.android.gpstest.osmdroid:id/filter_sats')@
+clickLong(resource-id='com.android.gpstest.osmdroid:id/sort_sats')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(resource-id='com.android.gpstest.osmdroid:id/include_altitude')@Include altitude
+click(resource-id='com.android.gpstest.osmdroid:id/location_share')@
+keyevent_back@
+click(resource-id='com.android.gpstest.osmdroid:id/location_geohack')@
+keyevent_back@
+clickLong(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(resource-id='com.android.gpstest.osmdroid:id/filter_sats')@
+click(className='android.widget.Button',instance='1')@Save
+click(content-desc='Open navigation drawer')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='41')@Inject PSDS data
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(className='android.widget.TextView',instance='2')@Log
+click(className='android.widget.ImageView',instance='3')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='1')@Location
+click(className='android.widget.TextView',instance='4')@37.421998333333335,-122.08400000000002
+click(className='android.widget.Button',instance='4')@Close
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='44')@Visit us on GitHub
+keyevent_back@
+click(resource-id='com.android.gpstest.osmdroid:id/filter_sats')@
+click(className='android.widget.CheckedTextView',instance='7')@Unknown
+click(className='android.widget.CheckedTextView',instance='6')@SBAS
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='com.android.gpstest.osmdroid:id/sort_sats')@
+click(className='android.widget.CheckedTextView',instance='3')@Used in Fix
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='36')@Status
+click(content-desc='Open navigation drawer')@
+click(content-desc='Close navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.ImageView',instance='1')@
+scroll(direction='down')@
+click(className='android.widget.Button',instance='0')@Close
+menu@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(resource-id='com.android.gpstest.osmdroid:id/sort_sats')@
+click(className='android.widget.CheckedTextView',instance='4')@Constellation, Carrier Frequency
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='43')@Clear assist data
+click(className='android.widget.Button',instance='1')@YES
+clickLong(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(resource-id='com.android.gpstest.osmdroid:id/location_launch_app')@
+keyevent_back@
+scroll(direction='down')@
+click(resource-id='com.android.gpstest.osmdroid:id/location_copy')@
+clickLong(className='android.widget.TextView',instance='4')@37.421998333333335,-122.08400000000002
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@Device
+click(resource-id='com.android.gpstest.osmdroid:id/upload')@
+click(className='android.widget.Button',instance='1')@Close
+clickLong(resource-id='com.android.gpstest.osmdroid:id/sort_sats')@
+clickLong(resource-id='com.android.gpstest.osmdroid:id/filter_sats')@
+back@
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='38')@Sky
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(className='android.widget.TextView',instance='3')@Device
+click(resource-id='com.android.gpstest.osmdroid:id/upload')@
+click(resource-id='com.android.gpstest.osmdroid:id/upload')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@Log
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='1')@Location
+click(resource-id='com.android.gpstest.osmdroid:id/include_altitude')@Include altitude
+click(resource-id='com.android.gpstest.osmdroid:id/location_launch_app')@
+keyevent_back@
+click(resource-id='com.android.gpstest.osmdroid:id/location_share')@
+keyevent_back@
+click(className='android.widget.ImageView',instance='3')@
+click(className='android.widget.TextView',instance='4')@37.421998333333335,-122.08400000000002
+click(className='android.widget.Button',instance='4')@Close
+scroll(direction='up')@
+clickLong(resource-id='com.android.gpstest.osmdroid:id/share')@
+scroll(direction='down')@
+clickLong(resource-id='com.android.gpstest.osmdroid:id/share')@
+scroll(direction='up')@
+click(resource-id='com.android.gpstest.osmdroid:id/share')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.Button',instance='1')@Close
+scroll(direction='down')@
+menu@
+click(content-desc='Open navigation drawer')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='25')@Accuracy
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_lat_text')@Your latitude
+click(className='android.widget.Button',instance='0')@Save
+click(className='android.widget.Button',instance='0')@OK
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_lat_text')@Your latitude
+click(resource-id='com.android.gpstest.osmdroid:id/qr_code')@
+click(className='android.widget.Button',instance='0')@Not now
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_long_text')@Your longitude
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_long_text')@12, Your longitude
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_long_text')@1, Your longitude
+click(resource-id='com.android.gpstest.osmdroid:id/qr_code')@
+click(resource-id='com.android.gpstest.osmdroid:id/qr_code_never_show_again')@Never show again
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='0')@No
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='7')@Accuracy
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='15')@Send feedback
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Save
+click(className='android.widget.Button',instance='0')@OK
+click(resource-id='com.android.gpstest.osmdroid:id/qr_code')@
+click(className='android.widget.Button',instance='1')@Yes
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_long_text')@12, Your longitude
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_lat_text')@Your latitude
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_lat_text')@12, Your latitude
+click(content-desc='Open navigation drawer')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='16')@Send feedback
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='5')@Status
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='37')@Map
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='42')@Inject time data
+click(content-desc='Open navigation drawer')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='40')@Modify assist data
+click(resource-id='com.android.gpstest.osmdroid:id/secondary_icon')@
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='46')@Help
+click(className='android.widget.Button',instance='0')@Close
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='39')@Accuracy
+edit(resource-id='com.android.gpstest.osmdroid:id/ground_truth_lat_text')@12, Your latitude
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='com.android.gpstest.osmdroid:id/icon')@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='47')@Send feedback
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='45')@Settings
+back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='45')@Settings
+click(className='android.widget.TextView',instance='11')@Display in decimal degrees, DMS, or degrees decimal minutes
+click(className='android.widget.CheckedTextView',instance='0')@Decimal Degrees
+click(className='android.widget.TextView',instance='16')@Map
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='12')@Preferred distance units
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='14')@Preferred speed units
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='15')@Meters per second
+click(className='android.widget.CheckedTextView',instance='0')@Meters per second
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='2')@Use Dark Theme
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='18')@Change the map orientation based on your direction
+click(className='android.widget.TextView',instance='17')@Rotate Map with Compass
+click(className='android.widget.TextView',instance='9')@Compass will face true north instead of magnetic north
+click(className='android.widget.TextView',instance='3')@Give the background a dark color and text a light color
+click(className='android.widget.TextView',instance='5')@Manually sets the language shown in the app
+scroll(direction='up')@
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='3')@Polskie
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@Format współrzędnych
+click(className='android.widget.CheckedTextView',instance='1')@Stopnie, Minuty, Sekundy dziesiętne
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='17')@Obróć mapę za pomocą kompasu
+click(className='android.widget.TextView',instance='14')@Preferowana jednostka prędkości
+click(className='android.widget.Button',instance='0')@Anuluj
+click(className='android.widget.TextView',instance='1')@Wyświetlacz
+click(className='android.widget.TextView',instance='8')@Ustaw kompas na rzeczywistą północ
+click(className='android.widget.TextView',instance='16')@Mapa
+click(className='android.widget.TextView',instance='11')@Wyświetlaj w stopniach dziesiętnych, DMS lub stopniach minut dziesiętnych
+click(className='android.widget.CheckedTextView',instance='0')@Stopnie dziesiętne
+click(className='android.widget.TextView',instance='18')@Zmień orientację mapy na podstawie twojego kierunku
+click(className='android.widget.TextView',instance='4')@Język
+click(className='android.widget.CheckedTextView',instance='7')@한국어
+scroll(direction='down')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='12')@Minimum distance between GNSS fixes, in meters
+click(className='android.widget.Button',instance='0')@취소
+click(className='android.widget.TextView',instance='5')@Change the map orientation based on your direction
+click(className='android.widget.TextView',instance='17')@Log NMEA, raw measurements, or navigation messsages to files or Android Studio
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='16')@NMEA Timestamp
+click(className='android.widget.TextView',instance='0')@File Output
+click(className='android.widget.TextView',instance='1')@NMEA
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='14')@NMEA
+click(className='android.widget.TextView',instance='5')@Measurements
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='3')@Navigation Messages
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='15')@Logs NMEA sentences to Android Studio
+click(className='android.widget.TextView',instance='13')@Android Monitor Output
+click(className='android.widget.TextView',instance='7')@Location
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='17')@Include NMEA timestamp in output
+click(className='android.widget.TextView',instance='8')@Logs location fix details to the CSV file
+click(resource-id='android:id/checkbox')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='11')@Logs NMEA sentences to Android Studio
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@NMEA
+click(className='android.widget.TextView',instance='12')@NMEA Timestamp
+click(className='android.widget.TextView',instance='13')@Include NMEA timestamp in output
+click(resource-id='android:id/checkbox')@

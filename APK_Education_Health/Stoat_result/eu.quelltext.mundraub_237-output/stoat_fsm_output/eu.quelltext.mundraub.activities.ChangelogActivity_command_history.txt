@@ -1,0 +1,8 @@
+    96@clickLong(content-desc='More options'):android.widget.ImageView@""
+    97@back
+    95@click(content-desc='More options'):android.widget.ImageView@""
+    105@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Changelog"
+    99@scroll(direction='up')
+    98@scroll(direction='down')
+    95@click(content-desc='More options'):android.widget.ImageView@""
+    100@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Map"

@@ -1,0 +1,60 @@
+# the app FSM, including all unique app states and transitions. Please keep this file unchanged. 
+13;32
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_3.xml
+S_3;com.hughes.android.dictionary.DictionaryManagerActivity;2
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;143;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Sort dictionaries";3;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;143;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Sort dictionaries";8;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_32.xml
+S_32;com.hughes.android.dictionary.DictionaryActivity;1
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_32.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;1233;click(content-desc='Portuguese'):android.widget.ImageButton@"";31;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml
+S_1;com.hughes.android.dictionary.DictionaryManagerActivity;6
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;13;clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"English";1;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_3.xml;68;menu;2;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;18;click(content-desc='French'):android.widget.ImageButton@"";4;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;46;click(className='android.widget.Button',instance='4'):android.widget.Button@"19.9MB";5;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;67;clickLong(className='android.widget.TextView',instance='15'):android.widget.TextView@"EN: 3,289 words AF: 7,832 words 1.0MB";6;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_3.xml;2;click(content-desc='More options'):android.widget.ImageView@"";7;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_45.xml
+S_45;com.hughes.android.dictionary.DictionaryActivity;0
+/EMPTY_APP_STATE.xml
+EMPTY_APP_STATE;;1
+/EMPTY_APP_STATE.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;513;reset;10;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_23.xml
+S_23;com.hughes.android.dictionary.HtmlDisplayActivity;2
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_23.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;774;click(content-desc='Navigate up'):android.widget.ImageButton@"";23;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_23.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_23.xml;832;scroll(direction='up');22;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_29.xml
+S_29;com.hughes.android.dictionary.DictionaryActivity;1
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_29.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;771;back;28;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml
+S_9;com.hughes.android.dictionary.DictionaryManagerActivity;4
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;/EMPTY_APP_STATE.xml;69;back;9;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;502;click(className='android.widget.TextView',instance='14'):android.widget.TextView@"English-Afrikaans";11;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;468;click(className='android.widget.TextView',instance='6'):android.widget.TextView@"French";12;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_9.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;449;clickLong(content-desc='Portuguese'):android.widget.ImageButton@"";13;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml
+S_15;com.hughes.android.dictionary.DictionaryActivity;10
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_18.xml;734;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"&";16;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;770;clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton'):android.widget.ImageButton@"";33;5;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_20.xml;730;click(className='android.widget.TextView',instance='2'):android.widget.TextView@"-";18;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_23.xml;758;click(className='android.widget.TextView',instance='16'):android.widget.TextView@"1ª3ªp.s.";21;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_45.xml;770;clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton'):android.widget.ImageButton@"";43;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_26.xml;748;click(className='android.widget.TextView',instance='11'):android.widget.TextView@"10";24;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_29.xml;728;click(content-desc='More options'):android.widget.ImageView@"";27;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;772;scroll(direction='down');26;8;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_16.xml;742;click(className='android.widget.TextView',instance='8'):android.widget.TextView@"00";14;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_32.xml;721;click(resource-id='de.reimardoeffinger.quickdic:id/languageButton'):android.widget.ImageButton@"";30;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_18.xml
+S_18;com.hughes.android.dictionary.HtmlDisplayActivity;1
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_18.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;774;click(content-desc='Navigate up'):android.widget.ImageButton@"";17;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_26.xml
+S_26;com.hughes.android.dictionary.HtmlDisplayActivity;1
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_26.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;774;click(content-desc='Navigate up'):android.widget.ImageButton@"";25;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_16.xml
+S_16;com.hughes.android.dictionary.HtmlDisplayActivity;1
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_16.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;774;click(content-desc='Navigate up'):android.widget.ImageButton@"";15;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_20.xml
+S_20;com.hughes.android.dictionary.HtmlDisplayActivity;2
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_20.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_20.xml;831;scroll(direction='down');19;1;0.0
+/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_20.xml;/Users/jiajunzhou/Downloads/APK_Reading/de.reimardoeffinger.quickdic_113-output/stoat_fsm_output/ui/S_15.xml;775;back;20;1;0.0

@@ -1,0 +1,7 @@
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    3@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    4@menu
+    5@back
+    17@scroll(direction='down')
+    18@scroll(direction='up')

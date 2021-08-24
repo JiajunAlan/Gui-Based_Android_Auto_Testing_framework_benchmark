@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[474,482][1024,695]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,503][1003,674]">
+      <node index="0" text="Default" resource-id="android:id/text1" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,503][1003,560]" />
+      <node index="1" text="American" resource-id="android:id/text1" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,560][1003,617]" />
+      <node index="2" text="European" resource-id="android:id/text1" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[495,617][1003,674]" />
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,123 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(20751): FATAL EXCEPTION: main
+E/AndroidRuntime(20751): Process: com.krawieck.lemmur, PID: 20751
+E/AndroidRuntime(20751): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20751): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(20751): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(20751): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(20751): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(20751): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(20751): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(20751): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(20751): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(20751): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(20751): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(20751): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(20751): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(20751): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.g.c.a()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.android.f.o()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.android.f.a()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.android.e.onCreate()
+E/AndroidRuntime(20751): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(20751): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(20751): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(20751): 	... 11 more
+E/AndroidRuntime(20751): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20751): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(20751): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(20751): 	... 20 more
+E/AndroidRuntime(20751): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20751): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(20751): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(20751): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(20751): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(20751): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(20751): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(20751): 	at java.lang.Thread.run(Thread.java:841)
+E/AndroidRuntime(20809): FATAL EXCEPTION: main
+E/AndroidRuntime(20809): Process: com.manuelvargastapia.libgen, PID: 20809
+E/AndroidRuntime(20809): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.manuelvargastapia.libgen/com.manuelvargastapia.libgen.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.manuelvargastapia.libgen-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.manuelvargastapia.libgen-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20809): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(20809): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(20809): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(20809): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(20809): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(20809): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(20809): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(20809): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(20809): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(20809): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(20809): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(20809): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(20809): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.manuelvargastapia.libgen-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.manuelvargastapia.libgen-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.g.c.c()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.android.f.B()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.android.f.k()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.android.e.onCreate()
+E/AndroidRuntime(20809): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(20809): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(20809): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(20809): 	... 11 more
+E/AndroidRuntime(20809): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.manuelvargastapia.libgen-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.manuelvargastapia.libgen-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20809): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(20809): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(20809): 	... 20 more
+E/AndroidRuntime(20809): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.manuelvargastapia.libgen-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.manuelvargastapia.libgen-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20809): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(20809): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.g.c$a.a()
+E/AndroidRuntime(20809): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(20809): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(20809): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(20809): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(20809): 	at java.lang.Thread.run(Thread.java:841)
+E/WindowManager( 1569): Starting window AppWindowToken{9db673d8 token=Token{9d3be380 ActivityRecord{9d292028 u0 com.manuelvargastapia.libgen/.MainActivity t84}}} timed out
+E/AndroidRuntime(20883): FATAL EXCEPTION: main
+E/AndroidRuntime(20883): Process: com.quinncasey.paperless_share, PID: 20883
+E/AndroidRuntime(20883): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20883): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime(20883): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime(20883): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime(20883): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime(20883): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(20883): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(20883): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(20883): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(20883): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(20883): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(20883): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(20883): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(20883): Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.g.c.a()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.a.<init>()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.android.f.o()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.android.f.a()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.android.e.onCreate()
+E/AndroidRuntime(20883): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime(20883): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime(20883): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime(20883): 	... 11 more
+E/AndroidRuntime(20883): Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20883): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/AndroidRuntime(20883): 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+E/AndroidRuntime(20883): 	... 20 more
+E/AndroidRuntime(20883): Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(20883): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(20883): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(20883): 	at io.flutter.embedding.engine.g.c$a.call()
+E/AndroidRuntime(20883): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/AndroidRuntime(20883): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AndroidRuntime(20883): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AndroidRuntime(20883): 	at java.lang.Thread.run(Thread.java:841)

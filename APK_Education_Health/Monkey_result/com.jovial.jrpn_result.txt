@@ -1,0 +1,523 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626372170251 count=1000
+:AllowPackage: com.jovial.jrpn
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Touch (ACTION_DOWN): 0:(215.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(269.46707,1154.4774)
+:Sending Touch (ACTION_DOWN): 0:(677.0,105.0)
+:Sending Touch (ACTION_UP): 0:(668.5454,103.83392)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(306.0,126.0)
+:Sending Touch (ACTION_UP): 0:(359.53223,161.86319)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(1051.7426,1121.0356)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2021-08-03 20:09:05.697  system_uptime:6560517]
+    // Sending event #100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(576.5204,1032.1166)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(107.0,141.0)
+:Sending Touch (ACTION_UP): 0:(99.54863,139.50426)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(234.62007,1155.325)
+// CRASH: com.jovial.jrpn (pid 8054)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRS'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View$PerformClick.run(View.java:18422)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 11 more
+// 
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(667.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(692.22614,1131.7328)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,806.0)
+:Sending Touch (ACTION_UP): 0:(30.56529,817.03845)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.gallery/com.android.camera.GalleryPicker } in package com.android.gallery
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(666.0,1597.0)
+:Sending Touch (ACTION_UP): 0:(664.646,1592.5433)
+:Sending Touch (ACTION_DOWN): 0:(147.0,506.0)
+:Sending Touch (ACTION_UP): 0:(135.49315,512.0039)
+    //[calendar_time:2021-08-03 20:09:16.489  system_uptime:6571290]
+    // Sending event #200
+    //[calendar_time:2021-08-03 20:09:16.994  system_uptime:6571795]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(493.0,323.0)
+:Sending Touch (ACTION_UP): 0:(497.59656,313.83688)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,100.0)
+:Sending Touch (ACTION_UP): 0:(522.54236,92.83598)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(384.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(393.24844,1525.7903)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,635.0)
+:Sending Touch (ACTION_UP): 0:(1051.2667,637.90857)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1061.0,124.0)
+:Sending Touch (ACTION_UP): 0:(1057.415,123.328445)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(1029.4199,1662.7426)
+:Sending Touch (ACTION_DOWN): 0:(908.0,1760.0)
+:Sending Touch (ACTION_UP): 0:(917.5109,1752.6715)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(837.0,610.0)
+:Sending Touch (ACTION_UP): 0:(837.2397,607.1082)
+    //[calendar_time:2021-08-03 20:09:32.260  system_uptime:6587061]
+    // Sending event #300
+    //[calendar_time:2021-08-03 20:09:32.763  system_uptime:6587564]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,448.0)
+:Sending Touch (ACTION_UP): 0:(1030.5481,449.3588)
+:Sending Touch (ACTION_DOWN): 0:(374.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(308.8668,1175.4412)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(252.02509,1609.0361)
+// CRASH: com.jovial.jrpn (pid 8136)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonEnter with id 'GButtonEnt'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View$PerformClick.run(View.java:18422)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 11 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(314.0,1509.0)
+:Sending Touch (ACTION_UP): 0:(243.01027,1459.875)
+:Sending Touch (ACTION_DOWN): 0:(228.0,452.0)
+:Sending Touch (ACTION_UP): 0:(176.54729,421.47507)
+:Sending Touch (ACTION_DOWN): 0:(861.0,729.0)
+:Sending Touch (ACTION_UP): 0:(782.2954,650.49384)
+:Sending Touch (ACTION_DOWN): 0:(808.0,767.0)
+:Sending Touch (ACTION_UP): 0:(801.9636,778.6988)
+:Sending Touch (ACTION_DOWN): 0:(373.0,15.0)
+:Sending Touch (ACTION_UP): 0:(375.15457,12.573058)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2021-08-03 20:09:45.442  system_uptime:6600242]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(542.0,276.0)
+:Sending Touch (ACTION_UP): 0:(524.3042,285.6317)
+:Sending Touch (ACTION_DOWN): 0:(271.0,503.0)
+:Sending Touch (ACTION_UP): 0:(265.29575,481.6536)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1076.0,283.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,286.2367)
+:Sending Touch (ACTION_DOWN): 0:(12.0,375.0)
+:Sending Touch (ACTION_UP): 0:(50.98597,365.8565)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1029.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(1043.3611,1002.4512)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,106.0)
+:Sending Touch (ACTION_UP): 0:(423.16415,103.86736)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1617.0)
+:Sending Touch (ACTION_UP): 0:(802.9005,1616.9026)
+:Sending Touch (ACTION_DOWN): 0:(625.0,536.0)
+    //[calendar_time:2021-08-03 20:09:58.210  system_uptime:6613010]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(596.6092,500.97205)
+// CRASH: com.jovial.jrpn (pid 8223)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBSP'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View$PerformClick.run(View.java:18422)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 11 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(391.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(434.9072,1601.3345)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(90.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(86.851135,1736.2805)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(403.0,805.0)
+:Sending Touch (ACTION_UP): 0:(405.33636,799.82556)
+:Sending Touch (ACTION_DOWN): 0:(269.0,291.0)
+:Sending Touch (ACTION_UP): 0:(269.26065,291.47974)
+:Sending Touch (ACTION_DOWN): 0:(606.0,611.0)
+:Sending Touch (ACTION_UP): 0:(603.0834,600.63086)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(521.0,313.0)
+:Sending Touch (ACTION_UP): 0:(546.058,402.36606)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(931.0,860.0)
+:Sending Touch (ACTION_UP): 0:(930.2234,864.35736)
+:Sending Touch (ACTION_DOWN): 0:(300.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(306.45508,1011.8833)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(784.0,787.0)
+:Sending Touch (ACTION_UP): 0:(791.4156,791.8389)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    //[calendar_time:2021-08-03 20:10:08.921  system_uptime:6623722]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Touch (ACTION_DOWN): 0:(837.0,653.0)
+:Sending Touch (ACTION_UP): 0:(794.7191,633.5564)
+:Sending Touch (ACTION_DOWN): 0:(78.0,34.0)
+:Sending Touch (ACTION_UP): 0:(77.87941,24.882305)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(489.0,296.0)
+:Sending Touch (ACTION_UP): 0:(513.011,374.67325)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1452.271)
+:Sending Touch (ACTION_DOWN): 0:(70.0,974.0)
+:Sending Touch (ACTION_UP): 0:(92.29074,978.73737)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,143.0)
+:Sending Touch (ACTION_UP): 0:(253.9911,132.82736)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    //[calendar_time:2021-08-03 20:10:18.763  system_uptime:6633564]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(857.0,1690.0)
+:Sending Touch (ACTION_UP): 0:(865.6504,1689.4633)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(976.5786,1096.6715)
+// CRASH: com.jovial.jrpn (pid 8280)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDiv'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View$PerformClick.run(View.java:18422)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 11 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,689.0)
+:Sending Touch (ACTION_UP): 0:(54.36411,666.7539)
+:Sending Touch (ACTION_DOWN): 0:(471.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(464.76736,1025.0808)
+:Sending Touch (ACTION_DOWN): 0:(765.0,104.0)
+:Sending Touch (ACTION_UP): 0:(763.2772,109.30636)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(624.0,222.0)
+:Sending Touch (ACTION_UP): 0:(638.6532,234.10733)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(707.0,94.0)
+:Sending Touch (ACTION_UP): 0:(725.77936,89.43791)
+:Sending Touch (ACTION_DOWN): 0:(469.0,543.0)
+    //[calendar_time:2021-08-03 20:10:28.971  system_uptime:6643771]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(447.0289,516.1958)
+// CRASH: com.jovial.jrpn (pid 8327)
+// Short Msg: java.lang.NoSuchMethodException
+// Long Msg: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton5'
+// 	at android.view.View$1.onClick(View.java:3810)
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View$PerformClick.run(View.java:18422)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+// 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+// 	at java.lang.Class.getMethod(Class.java:857)
+// 	at android.view.View$1.onClick(View.java:3803)
+// 	... 11 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Touch (ACTION_DOWN): 0:(10.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(14.333067,1710.5139)
+:Sending Touch (ACTION_DOWN): 0:(336.0,962.0)
+:Sending Touch (ACTION_UP): 0:(336.339,957.65497)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(467.0,525.0)
+:Sending Touch (ACTION_UP): 0:(464.08807,530.069)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,639.0)
+:Sending Touch (ACTION_UP): 0:(956.962,580.8367)
+// CRASH: com.jovial.jrpn (pid 8373)
+// Short Msg: java.lang.ClassCastException
+// Long Msg: java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to android.support.v7.view.menu.MenuAdapter
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to android.support.v7.view.menu.MenuAdapter
+// 	at android.support.v7.widget.MenuPopupWindow$MenuDropDownListView.onKeyDown(MenuPopupWindow.java:175)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2640)
+// 	at android.view.View.dispatchKeyEvent(View.java:7665)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1403)
+// 	at android.widget.ListView.dispatchKeyEvent(ListView.java:2095)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.widget.PopupWindow$PopupViewContainer.dispatchKeyEvent(PopupWindow.java:1624)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:3852)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3826)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5602)
+// 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5582)
+// 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5553)
+// 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5682)
+// 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:138)
+// 	at android.os.Looper.loop(Looper.java:123)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(832.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(797.12646,1276.3308)
+    //[calendar_time:2021-08-03 20:10:40.334  system_uptime:6655135]
+    // Sending event #900
+    //[calendar_time:2021-08-03 20:10:40.837  system_uptime:6655637]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(739.0,422.0)
+:Sending Touch (ACTION_UP): 0:(743.86505,432.27567)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.jovial.jrpn/.fmMain;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jovial.jrpn/.fmMain } in package com.jovial.jrpn
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+// CRASH: com.jovial.jrpn (pid 8407)
+// Short Msg: java.lang.ClassCastException
+// Long Msg: java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to android.support.v7.view.menu.MenuAdapter
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to android.support.v7.view.menu.MenuAdapter
+// 	at android.support.v7.widget.MenuPopupWindow$MenuDropDownListView.onKeyDown(MenuPopupWindow.java:175)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2640)
+// 	at android.view.View.dispatchKeyEvent(View.java:7665)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1403)
+// 	at android.widget.ListView.dispatchKeyEvent(ListView.java:2095)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.widget.PopupWindow$PopupViewContainer.dispatchKeyEvent(PopupWindow.java:1624)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:3852)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3826)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5602)
+// 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5582)
+// 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5553)
+// 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5682)
+// 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+// 	at android.view.InputEventReceiver.nativeConsumeBatchedInputEvents(Native Method)
+// 	at android.view.InputEventReceiver.consumeBatchedInputEvents(InputEventReceiver.java:176)
+// 	at android.view.ViewRootImpl.doConsumeBatchedInput(ViewRootImpl.java:5655)
+// 	at android.view.ViewRootImpl$ConsumeBatchedInputRunnable.run(ViewRootImpl.java:5701)
+// 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)
+// 	at android.view.Choreographer.doCallbacks(Choreographer.java:574)
+// 	at android.view.Choreographer.doFrame(Choreographer.java:542)
+// 	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(27.0,76.0)
+:Sending Touch (ACTION_UP): 0:(127.53812,158.8166)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1339.0)
+:Sending Touch (ACTION_UP): 0:(782.7634,1345.6733)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,354.0)
+:Sending Touch (ACTION_UP): 0:(1057.2557,353.66754)
+:Sending Touch (ACTION_DOWN): 0:(21.0,356.0)
+:Sending Touch (ACTION_UP): 0:(3.8321218,448.26498)
+:Sending Touch (ACTION_DOWN): 0:(450.0,367.0)
+:Sending Touch (ACTION_UP): 0:(452.1439,379.16968)
+:Sending Touch (ACTION_DOWN): 0:(497.0,260.0)
+:Sending Touch (ACTION_UP): 0:(480.761,254.49387)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(1034.3054,1262.2313)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1020.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=3 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=115585ms (0ms mobile, 0ms wifi, 115585ms not connected)
+// Monkey finished

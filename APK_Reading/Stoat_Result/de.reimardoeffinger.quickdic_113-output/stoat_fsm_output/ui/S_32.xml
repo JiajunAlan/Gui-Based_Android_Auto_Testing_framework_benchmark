@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[120,706][960,1154]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,727][939,1133]">
+      <node index="0" text="Select dictionary…" resource-id="android:id/title" class="android.widget.TextView" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,727][939,895]" />
+      <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,895][939,900]" />
+      <node index="2" text="" resource-id="" class="android.widget.FrameLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,900][939,1133]">
+        <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,900][939,1133]">
+          <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,900][939,1133]">
+            <node index="0" text="" resource-id="android:id/list" class="android.widget.ListView" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,900][939,1133]">
+              <node index="0" text="Dictionary manager" resource-id="" class="android.widget.Button" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,900][939,1026]" />
+              <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,1029][939,1133]">
+                <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="de.reimardoeffinger.quickdic" content-desc="Portuguese" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[141,1029][298,1133]" />
+                <node index="1" text="Portuguese" resource-id="" class="android.widget.TextView" package="de.reimardoeffinger.quickdic" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[298,1029][939,1080]" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,6 @@
+    523@click(content-desc='More options'):android.widget.ImageView@""
+    524@clickLong(content-desc='More options'):android.widget.ImageView@""
+    545@edit(resource-id='eu.quelltext.mundraub:id/search_address_text'):android.widget.EditText@"12"
+    526@click(className='android.widget.Button',instance='0'):android.widget.Button@"Search"
+    527@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Data © OpenStreetMap contributors, ODbL 1.0."
+    528@back

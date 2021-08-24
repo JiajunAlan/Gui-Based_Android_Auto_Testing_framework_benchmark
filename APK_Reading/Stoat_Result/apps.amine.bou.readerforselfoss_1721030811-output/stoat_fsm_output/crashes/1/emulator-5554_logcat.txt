@@ -1,0 +1,21 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/WindowManager( 9122): 
+E/WindowManager( 9122): android.view.WindowLeaked: Activity apps.amine.bou.readerforselfoss.LoginActivity has leaked window android.widget.LinearLayout{9d4272a8 V.E..... ......I. 0,0-345,127} that was originally added here
+E/WindowManager( 9122): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager( 9122): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager( 9122): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 9122): 	at androidx.appcompat.widget.y0.e()
+E/WindowManager( 9122): 	at androidx.appcompat.widget.x0.g()
+E/WindowManager( 9122): 	at androidx.appcompat.widget.x0.onLongClick()
+E/WindowManager( 9122): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager( 9122): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager( 9122): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager( 9122): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager( 9122): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager( 9122): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager( 9122): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager( 9122): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager( 9122): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager( 9122): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager( 9122): 	at dalvik.system.NativeStart.main(Native Method)

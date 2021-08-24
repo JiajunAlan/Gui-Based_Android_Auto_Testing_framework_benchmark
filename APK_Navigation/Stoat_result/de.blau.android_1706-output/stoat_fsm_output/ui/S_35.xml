@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[159,1237][716,1783]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1258][695,1762]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1258][695,1384]">
+        <node index="0" text="GPX track management…" resource-id="android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1295][653,1346]" />
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1384][695,1510]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1384][695,1510]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1418][653,1475]">
+            <node index="0" text="Upload GPX track" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1418][653,1475]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1510][695,1636]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1510][695,1636]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1544][653,1601]">
+            <node index="0" text="Export GPX track" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1544][653,1601]" />
+          </node>
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1636][695,1762]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[180,1636][695,1762]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1670][653,1727]">
+            <node index="0" text="Import GPX track" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[222,1670][653,1727]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

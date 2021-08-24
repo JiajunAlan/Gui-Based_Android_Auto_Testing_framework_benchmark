@@ -1,0 +1,10 @@
+click(className='android.widget.TextView',instance='12')@Verbose logging
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@Log TraFF output to file on disconnect
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='3')@lv.lvceli.buvdarbipartraukuma
+click(resource-id='org.traffxml.roadeagle:id/checkbox')@
+click(className='android.widget.TextView',instance='13')@Write extensive status information to logcat
+click(className='android.widget.TextView',instance='7')@pl.gov.gddkia
+click(className='android.widget.TextView',instance='14')@Mirror system log to file

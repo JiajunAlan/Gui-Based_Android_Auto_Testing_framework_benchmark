@@ -1,0 +1,6 @@
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.Button',instance='1')@exit
+click(className='android.widget.Button',instance='0')@clear
+click(className='android.widget.Button',instance='0')@okay
+click(resource-id='org.windvolt:id/open_page2')@
+keyevent_back@

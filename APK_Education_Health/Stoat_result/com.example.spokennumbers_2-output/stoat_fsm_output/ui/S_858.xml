@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.example.spokennumbers:id/decor_content_parent" class="android.view.View" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="com.example.spokennumbers:id/action_bar_container" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+            <node index="0" text="" resource-id="com.example.spokennumbers:id/action_bar" class="android.view.View" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+              <node index="0" text="DékaDico" resource-id="" class="android.widget.TextView" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,104][269,175]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+              <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+                <node index="0" text="" resource-id="com.example.spokennumbers:id/ingame_container" class="android.widget.LinearLayout" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[53,266][1027,1741]">
+                  <node NAF="true" index="0" text="" resource-id="com.example.spokennumbers:id/pause_button" class="android.widget.ImageButton" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[53,266][1027,400]" />
+                  <node index="1" text="Recall" resource-id="com.example.spokennumbers:id/recall_button" class="android.widget.Button" package="com.example.spokennumbers" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[53,400][1027,526]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[389,502][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,523][1059,1783]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,523][1059,649]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,523][1059,649]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,557][1017,614]">
+            <node index="0" text="Align background" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,557][1017,614]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,649][1059,775]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,649][1059,775]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,683][1017,740]">
+            <node index="0" text="Apply stored offset to imagery" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,683][1017,740]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,775][1059,901]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,775][1059,901]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,809][933,866]">
+            <node index="0" text="More imagery tools…" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,809][933,866]" />
+          </node>
+          <node index="1" text="" resource-id="de.blau.android:id/submenuarrow" class="android.widget.ImageView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[954,806][1017,869]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,901][1059,1027]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,901][1059,1027]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,935][1017,992]">
+            <node index="0" text="Reset address prediction" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,935][1017,992]" />
+          </node>
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1027][1059,1153]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1027][1059,1153]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1061][1017,1118]">
+            <node index="0" text="Reset OAuth" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1061][1017,1118]" />
+          </node>
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1153][1059,1279]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1153][1059,1279]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1187][1017,1244]">
+            <node index="0" text="Authorise OAuth" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1187][1017,1244]" />
+          </node>
+        </node>
+      </node>
+      <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1279][1059,1405]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1279][1059,1405]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1313][1017,1370]">
+            <node index="0" text="Set MapRoulette API key" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1313][1017,1370]" />
+          </node>
+        </node>
+      </node>
+      <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1405][1059,1531]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1405][1059,1531]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1439][1017,1496]">
+            <node index="0" text="Clear clipboard" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1439][1017,1496]" />
+          </node>
+        </node>
+      </node>
+      <node index="8" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1531][1059,1657]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1531][1059,1657]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1565][1017,1622]">
+            <node index="0" text="Install EGM" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1565][1017,1622]" />
+          </node>
+        </node>
+      </node>
+      <node index="9" text="" resource-id="" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1657][1059,1783]">
+        <node index="0" text="" resource-id="de.blau.android:id/content" class="android.widget.LinearLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[410,1657][1059,1783]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1691][1017,1748]">
+            <node index="0" text="JS console" resource-id="de.blau.android:id/title" class="android.widget.TextView" package="de.blau.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[452,1691][1017,1748]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

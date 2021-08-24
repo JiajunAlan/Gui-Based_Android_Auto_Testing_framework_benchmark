@@ -1,0 +1,113 @@
+menu@
+click(resource-id='com.limelight:id/settingsButton')@
+click(className='android.widget.TextView',instance='4')@Increase for a smoother video stream. Decrease for better performance on lower end devices.
+back@
+click(className='android.widget.TextView',instance='1')@Video resolution
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='13')@If enabled, the touchscreen acts like a trackpad. If disabled, the touchscreen directly controls the mouse cursor.
+click(className='android.widget.TextView',instance='9')@Surround sound configuration
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='14')@Automatic gamepad presence detection
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='12')@Use the touchscreen as a trackpad
+click(className='android.widget.TextView',instance='10')@Enable 5.1 or 7.1 surround sound for home-theater systems
+click(className='android.widget.CheckedTextView',instance='1')@5.1 Surround Sound
+click(className='android.widget.TextView',instance='2')@Increase to improve image clarity. Decrease for better performance on lower end devices and slower networks.
+click(className='android.widget.CheckedTextView',instance='1')@480p
+click(className='android.widget.TextView',instance='3')@Video frame rate
+click(className='android.widget.CheckedTextView',instance='1')@60 FPS
+click(className='android.widget.TextView',instance='8')@Audio Settings
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='0')@Basic Settings
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='7')@Smaller box art in the app grid allows more apps to be visible on screen
+click(className='android.widget.TextView',instance='16')@Display real-time stream performance information while streaming
+click(className='android.widget.TextView',instance='2')@Play audio from the computer and this device
+click(className='android.widget.TextView',instance='8')@Advanced Settings
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='11')@Change HEVC settings
+click(className='android.widget.CheckedTextView',instance='2')@Never use HEVC
+click(className='android.widget.TextView',instance='12')@HEVC lowers video bandwidth requirements but requires a newer device
+click(className='android.widget.TextView',instance='14')@May reduce micro-stuttering on some devices, but can increase latency
+click(className='android.widget.TextView',instance='18')@Display a latency information message after the stream ends
+click(className='android.widget.TextView',instance='9')@Disable warning messages
+click(className='android.widget.TextView',instance='3')@UI Settings
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='17')@Show latency message after streaming
+click(className='android.widget.TextView',instance='1')@Play audio on PC
+click(className='android.widget.TextView',instance='10')@Disable on-screen connection warning messages while streaming
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.CheckedTextView',instance='3')@日本語
+click(className='android.widget.TextView',instance='6')@Use small box art
+click(className='android.widget.TextView',instance='15')@Show performance stats while streaming
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='5')@Nederlands
+click(className='android.widget.TextView',instance='13')@Never drop frames
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='0')@Allow GFE to modify game settings for optimal streaming
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='2')@Korean
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.CheckedTextView',instance='7')@Українська
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.CheckedTextView',instance='5')@Deutsch
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.CheckedTextView',instance='9')@Tiếng Việt
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.CheckedTextView',instance='8')@Norwegian Bokmål
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.CheckedTextView',instance='6')@Română
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.CheckedTextView',instance='10')@Magyar
+click(className='android.widget.TextView',instance='12')@HEVC lowers video bandwidth requirements but requires a newer device
+click(className='android.widget.CheckedTextView',instance='0')@Use HEVC only if stable
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+click(className='android.widget.CheckedTextView',instance='4')@Français
+click(className='android.widget.TextView',instance='4')@Language
+click(className='android.widget.CheckedTextView',instance='3')@Español
+click(className='android.widget.TextView',instance='5')@Language to use for Moonlight
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='1')@English
+click(className='android.widget.TextView',instance='7')@Smaller box art in the app grid allows more apps to be visible on screen
+click(className='android.widget.TextView',instance='14')@May reduce micro-stuttering on some devices, but can increase latency
+click(className='android.widget.TextView',instance='2')@Play audio from the computer and this device
+click(className='android.widget.TextView',instance='0')@Allow GFE to modify game settings for optimal streaming
+click(className='android.widget.TextView',instance='18')@Display a latency information message after the stream ends
+click(className='android.widget.TextView',instance='1')@Play audio on PC
+click(className='android.widget.TextView',instance='8')@Advanced Settings
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='17')@Show latency message after streaming
+scroll(direction='up')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='16')@Enable back and forward mouse buttons
+click(className='android.widget.TextView',instance='11')@Input Settings
+click(className='android.widget.TextView',instance='5')@Video bitrate
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='6')@Increase for better image quality. Decrease to improve performance on slower connections.
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='7')@Stretch video to full-screen
+click(className='android.widget.TextView',instance='15')@Unchecking this option forces a gamepad to always be present
+click(className='android.widget.TextView',instance='2')@Increase to improve image clarity. Decrease for better performance on lower end devices and slower networks.
+click(className='android.widget.CheckedTextView',instance='5')@4K
+click(className='android.widget.TextView',instance='1')@Video resolution
+click(className='android.widget.CheckedTextView',instance='0')@360p
+click(className='android.widget.TextView',instance='10')@Enable 5.1 or 7.1 surround sound for home-theater systems
+click(className='android.widget.CheckedTextView',instance='0')@Stereo
+click(className='android.widget.TextView',instance='3')@Video frame rate
+click(className='android.widget.CheckedTextView',instance='0')@30 FPS
+click(className='android.widget.TextView',instance='14')@Automatic gamepad presence detection
+click(className='android.widget.TextView',instance='0')@Basic Settings
+click(resource-id='android:id/checkbox')@
+scroll(direction='down')@
+back@

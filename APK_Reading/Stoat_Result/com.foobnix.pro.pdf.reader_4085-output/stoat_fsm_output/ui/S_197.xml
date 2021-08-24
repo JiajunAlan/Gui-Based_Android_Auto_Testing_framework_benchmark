@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1272]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1272]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1272]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,588][1032,1272]">
+          <node index="0" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,588][1032,1122]">
+            <node index="0" text="" resource-id="android:id/select_dialog_listview" class="android.widget.ListView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,609][1011,1122]">
+              <node index="0" text="Close Book" resource-id="android:id/text1" class="android.widget.TextView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,609][1011,735]" />
+              <node index="1" text="Open Library" resource-id="android:id/text1" class="android.widget.TextView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,864]" />
+              <node index="2" text="Minimize" resource-id="android:id/text1" class="android.widget.TextView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,867][1011,993]" />
+              <node index="3" text="Exit" resource-id="android:id/text1" class="android.widget.TextView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,996][1011,1122]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,1122][1032,1272]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1125][1011,1251]">
+              <node index="0" text="Cancel" resource-id="android:id/button1" class="android.widget.Button" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1125][1011,1251]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,9 @@
+    1@click(content-desc='Open Drawer'):android.widget.ImageButton@""
+    62@click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add'):android.widget.TextView@""
+    63@clickLong(resource-id='com.ibrahimyousre.resumebuilder:id/action_add'):android.widget.TextView@""
+    2670@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"test"
+    734@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"ㅡ"
+    956@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"12stt"
+    2673@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"12st"
+    8@menu
+    9@back

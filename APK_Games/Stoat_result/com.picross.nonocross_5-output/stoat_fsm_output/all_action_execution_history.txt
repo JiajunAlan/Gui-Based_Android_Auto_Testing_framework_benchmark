@@ -1,0 +1,499 @@
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    18@back
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    18@back
+    15@back
+    4@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    5@back
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    150@back
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    121@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"9"
+    130@click(className='android.widget.Button',instance='6'):android.widget.Button@"Cancel"
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    120@click(className='android.widget.Button',instance='2'):android.widget.Button@"9"
+    234@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"9"
+    115@click(className='android.widget.Button',instance='0'):android.widget.Button@"9"
+    129@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"6"
+    236@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"10"
+    318@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"11"
+    122@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"10"
+    319@click(className='android.widget.Button',instance='1'):android.widget.Button@"12"
+    348@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"5"
+    128@click(className='android.widget.Button',instance='5'):android.widget.Button@"6"
+    347@click(className='android.widget.Button',instance='4'):android.widget.Button@"5"
+    126@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"4"
+    135@scroll(direction='up')
+    519@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"5"
+    124@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"11"
+    125@click(className='android.widget.Button',instance='4'):android.widget.Button@"4"
+    517@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"4"
+    573@click(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+    381@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@""
+    119@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"11"
+    518@click(className='android.widget.Button',instance='5'):android.widget.Button@"5"
+    317@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"10"
+    131@click(className='android.widget.Button',instance='7'):android.widget.Button@"OK"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    150@back
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    18@back
+    15@back
+    4@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    123@click(className='android.widget.Button',instance='3'):android.widget.Button@"11"
+    116@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"9"
+    134@scroll(direction='down')
+    127@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"5"
+    316@click(className='android.widget.Button',instance='0'):android.widget.Button@"10"
+    576@click(className='android.widget.Button',instance='3'):android.widget.Button@"12"
+    118@click(className='android.widget.Button',instance='1'):android.widget.Button@"11"
+    320@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"12"
+    1236@click(className='android.widget.Button',instance='3'):android.widget.Button@"13"
+    421@click(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+    1298@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"13"
+    1300@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"14"
+    1361@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"14"
+    1360@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"13"
+    1296@click(className='android.widget.Button',instance='2'):android.widget.Button@"12"
+    1237@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"13"
+    1299@click(className='android.widget.Button',instance='3'):android.widget.Button@"14"
+    1362@click(className='android.widget.Button',instance='3'):android.widget.Button@"15"
+    297@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"12"
+    1488@click(className='android.widget.Button',instance='3'):android.widget.Button@"16"
+    425@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+    1529@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"16"
+    1527@click(className='android.widget.Button',instance='2'):android.widget.Button@"15"
+    1485@click(className='android.widget.Button',instance='2'):android.widget.Button@"14"
+    1543@click(className='android.widget.Button',instance='0'):android.widget.Button@"12"
+    1359@click(className='android.widget.Button',instance='2'):android.widget.Button@"13"
+    1297@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"12"
+    1235@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"12"
+    1234@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"11"
+    575@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"11"
+    574@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+    422@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+    121@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"9"
+    235@click(className='android.widget.Button',instance='3'):android.widget.Button@"10"
+    128@click(className='android.widget.Button',instance='5'):android.widget.Button@"6"
+    351@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"7"
+    1871@click(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+    1891@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+    1890@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"7"
+    1872@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+    1892@click(className='android.widget.Button',instance='5'):android.widget.Button@"9"
+    1974@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+    1889@click(className='android.widget.Button',instance='4'):android.widget.Button@"7"
+    1869@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"6"
+    349@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"6"
+    424@click(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+    1546@click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+    350@click(className='android.widget.Button',instance='5'):android.widget.Button@"7"
+    2091@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"14"
+    2089@click(className='android.widget.Button',instance='0'):android.widget.Button@"13"
+    1868@click(className='android.widget.Button',instance='4'):android.widget.Button@"6"
+    120@click(className='android.widget.Button',instance='2'):android.widget.Button@"9"
+    233@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"8"
+    2220@click(className='android.widget.Button',instance='2'):android.widget.Button@"7"
+    2245@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"8"
+    2223@click(className='android.widget.Button',instance='3'):android.widget.Button@"9"
+    232@click(className='android.widget.Button',instance='2'):android.widget.Button@"8"
+    2221@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"7"
+    2222@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+    2224@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"9"
+    350@click(className='android.widget.Button',instance='5'):android.widget.Button@"7"
+    1870@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"7"
+    424@click(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+    1544@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"12"
+    425@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+    1545@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"13"
+    1547@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+    1546@click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+    2090@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"13"
+    1871@click(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+    1893@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"9"
+    1975@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"9"
+    1973@click(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+    1892@click(className='android.widget.Button',instance='5'):android.widget.Button@"9"
+    1977@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"10"
+    2688@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"9"
+    1976@click(className='android.widget.Button',instance='5'):android.widget.Button@"10"
+    2691@click(className='android.widget.Button',instance='6'):android.widget.Button@"OK"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    4@menu
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    150@back
+    4@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    15@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    4@menu
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    150@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    15@back
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    2689@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"10"
+    2690@click(className='android.widget.Button',instance='5'):android.widget.Button@"Cancel"
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    2687@click(className='android.widget.Button',instance='4'):android.widget.Button@"9"
+    135@scroll(direction='up')
+    316@click(className='android.widget.Button',instance='0'):android.widget.Button@"10"
+    117@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"10"
+    116@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"9"
+    1145@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"8"
+    1146@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"9"
+    1148@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"10"
+    131@click(className='android.widget.Button',instance='7'):android.widget.Button@"OK"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    4@menu
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    150@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    4@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    15@back
+    4@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    18@back
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    14@click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    12@click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    8@click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    15@back
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    146@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    148@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+    143@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+    150@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    4@menu
+    3@click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+    145@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    144@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+    141@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+    147@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    142@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+    149@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+    150@back
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    1973@click(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+    1893@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"9"
+    232@click(className='android.widget.Button',instance='2'):android.widget.Button@"8"
+    2220@click(className='android.widget.Button',instance='2'):android.widget.Button@"7"
+    2243@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"7"
+    2244@click(className='android.widget.Button',instance='3'):android.widget.Button@"8"
+    2222@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+    2224@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"9"
+    235@click(className='android.widget.Button',instance='3'):android.widget.Button@"10"
+    123@click(className='android.widget.Button',instance='3'):android.widget.Button@"11"
+    577@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"12"
+    1233@click(className='android.widget.Button',instance='2'):android.widget.Button@"11"
+    574@clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+    134@scroll(direction='down')
+    2093@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"15"
+    4564@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+    4585@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"17"
+    4604@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"17"
+    4602@click(className='android.widget.Button',instance='0'):android.widget.Button@"16"
+    4583@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"16"
+    4584@click(className='android.widget.Button',instance='1'):android.widget.Button@"17"
+    1976@click(className='android.widget.Button',instance='5'):android.widget.Button@"10"
+    2690@click(className='android.widget.Button',instance='5'):android.widget.Button@"Cancel"
+    4@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+    11@click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+    18@back
+    10@click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    13@click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    9@click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    7@click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    17@click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+    18@back
+    6@click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+    16@click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+    18@back
+    15@back
+    5@back
+    2750@keyevent_back
+    2751@reset
+    4@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+    1977@clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"10"
+    1544@clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"12"
+    2688@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"9"
+    234@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"9"
+    421@click(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+    318@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"11"
+    320@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"12"
+    1545@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"13"
+    381@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@""
+    1974@clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+    1891@edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+    1547@clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+    236@clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"10"

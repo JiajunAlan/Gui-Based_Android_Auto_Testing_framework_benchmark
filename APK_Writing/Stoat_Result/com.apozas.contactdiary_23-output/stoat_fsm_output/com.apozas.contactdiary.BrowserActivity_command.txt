@@ -1,0 +1,6 @@
+    572@click(resource-id='com.android.browser:id/lock'):android.widget.ImageView@""
+    573@click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+    574@edit(resource-id='com.android.browser:id/url'):android.widget.EditText@"https://github.com/GenosseFlosse"
+    575@click(resource-id='com.android.browser:id/tab_switcher'):android.widget.ImageButton@""
+    576@click(resource-id='com.android.browser:id/more'):android.widget.ImageButton@""
+    577@back

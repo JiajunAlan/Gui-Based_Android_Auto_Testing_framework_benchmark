@@ -1,0 +1,256 @@
+clickLong(className='android.widget.TextView',instance='7')@zip
+menu@
+click(resource-id='com.foobnix.pro.pdf.reader:id/author')@
+scroll(direction='down')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/publisher')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/year')@
+click(className='android.widget.TextView',instance='1')@{sample_3GPP.3gp.zip} Sample 3GPP.3gp
+click(resource-id='com.foobnix.pro.pdf.reader:id/image')@
+back@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/author')@
+clickLong(className='android.widget.TextView',instance='19')@/storage/sdcard/sample_3GPP.3gp.zip
+click(className='android.widget.TextView',instance='21')@Delete
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+click(className='android.widget.TextView',instance='2')@Recent
+scroll(direction='up')@
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='9')@zip
+click(resource-id='com.foobnix.pro.pdf.reader:id/year')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+clickLong(className='android.widget.TextView',instance='1')@{sample_iPod.m4v.zip} Sample iPod.m4v
+click(resource-id='com.foobnix.pro.pdf.reader:id/publisher')@
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.TextView',instance='2')@Favorites
+click(className='android.widget.TextView',instance='8')@sample_iPod.m4v.zip
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='2')@Delete
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@Playlists
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.TextView',instance='0')@Folder
+click(className='android.widget.TextView',instance='3')@Favorites
+click(className='android.widget.TextView',instance='0')@Folder
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='7')@storage
+click(className='android.widget.TextView',instance='4')@Bookmarks
+click(className='android.widget.TextView',instance='0')@Folder
+click(className='android.widget.TextView',instance='1')@Folder
+click(resource-id='com.foobnix.pro.pdf.reader:id/onSort')@
+clickLong(className='android.widget.TextView',instance='0')@Filename
+click(resource-id='com.foobnix.pro.pdf.reader:id/sortOrder')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(className='android.widget.TextView',instance='0')@Library
+click(className='android.widget.TextView',instance='5')@Date
+clickLong(className='android.widget.TextView',instance='2')@File Size
+click(className='android.widget.TextView',instance='0')@Library
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='1')@Read!
+click(className='android.widget.TextView',instance='2')@Book mode
+click(className='android.widget.TextView',instance='7')@100%
+back@
+click(resource-id='com.foobnix.pro.pdf.reader:id/autoScroll')@
+click(className='android.widget.TextView',instance='6')@77
+click(resource-id='com.foobnix.pro.pdf.reader:id/seek')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/plus')@
+click(className='android.widget.Button',instance='0')@Stop
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/onCrop')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/isLoopAutoplay')@Loop scroll
+click(resource-id='com.foobnix.pro.pdf.reader:id/closePopup')@
+back@
+click(className='android.widget.Button',instance='0')@Cancel
+back@
+click(className='android.widget.TextView',instance='2')@Minimize
+click(resource-id='com.android.settings:id/ind_brightness')@
+keyevent_back@
+click(className='android.widget.TextView',instance='0')@Library
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+click(className='android.widget.TextView',instance='0')@New Tag
+edit(className='android.widget.EditText',instance='0')@#
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='1')@Apply
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='4')@Copy
+click(className='android.widget.TextView',instance='5')@File Size
+clickLong(className='android.widget.TextView',instance='2')@File Size
+click(resource-id='com.foobnix.pro.pdf.reader:id/idPercentText')@
+click(className='android.widget.TextView',instance='2')@Book mode
+back@
+click(className='android.widget.TextView',instance='1')@Open Library
+click(className='android.widget.TextView',instance='6')@Manual
+click(className='android.widget.TextView',instance='3')@Musician’s mode
+back@
+click(resource-id='com.foobnix.pro.pdf.reader:id/seekBar')@
+click(className='android.widget.TextView',instance='8')@Musician’s mode
+click(className='android.widget.TextView',instance='1')@Scroll mode
+click(className='android.widget.TextView',instance='1')@ACCESS GRANTED – 2/6
+back@
+click(className='android.widget.TextView',instance='3')@Exit
+keyevent_back@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='4')@Copy
+click(resource-id='com.foobnix.pro.pdf.reader:id/menu2')@
+clickLong(className='android.widget.TextView',instance='10')@{sample_mpeg4.mp4.zip} Sample mpeg4.mp4
+click(resource-id='com.foobnix.pro.pdf.reader:id/menu2')@
+clickLong(className='android.widget.TextView',instance='23')@Librera
+click(className='android.widget.Button',instance='1')@OK
+clickLong(className='android.widget.TextView',instance='5')@File Size
+click(className='android.widget.TextView',instance='8')@Page Count
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+scroll(direction='up')@
+clickLong(className='android.widget.TextView',instance='1')@{sample_mpeg4.mp4.zip} Sample mpeg4.mp4
+click(className='android.widget.TextView',instance='1')@{sample_mpeg4.mp4.zip} Sample mpeg4.mp4
+click(className='android.widget.Button',instance='0')@Close
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='0')@Close
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+click(className='android.widget.TextView',instance='9')@{sample_sorenson.mov.zip} Sample sorenson.mov
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='0')@Close
+clickLong(className='android.widget.TextView',instance='15')@Example2
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.TextView',instance='18')@hackers.pdf
+click(className='android.widget.TextView',instance='4')@Edit
+click(resource-id='com.foobnix.pro.pdf.reader:id/checkBoxRemember')@Remember selection
+edit(resource-id='com.foobnix.pro.pdf.reader:id/musicEdit')@Musician’s mode
+edit(resource-id='com.foobnix.pro.pdf.reader:id/verticalEdit')@Scroll mode
+click(className='android.widget.TextView',instance='1')@Save
+clickLong(className='android.widget.TextView',instance='4')@Edit
+click(className='android.widget.TextView',instance='1')@Scroll mode
+back@
+click(className='android.widget.TextView',instance='0')@Close Book
+click(resource-id='com.foobnix.pro.pdf.reader:id/onRefresh')@
+click(className='android.widget.Button',instance='1')@Add
+edit(resource-id='com.foobnix.pro.pdf.reader:id/editPath')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/onBack')@
+click(className='android.widget.TextView',instance='3')@vendor
+click(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/onSort')@
+click(className='android.widget.TextView',instance='2')@File Size
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(className='android.widget.TextView',instance='1')@Move
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/sortOrder')@
+clickLong(className='android.widget.TextView',instance='3')@vendor
+click(className='android.widget.TextView',instance='0')@Paste
+click(className='android.widget.TextView',instance='5')@lib
+click(resource-id='com.foobnix.pro.pdf.reader:id/createFolder')@
+clickLong(className='android.widget.TextView',instance='0')@New File
+edit(className='android.widget.EditText',instance='0')@Name.txt
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='1')@Select
+click(resource-id='com.foobnix.pro.pdf.reader:id/delete')@
+click(className='android.widget.Button',instance='1')@Add
+click(resource-id='com.foobnix.pro.pdf.reader:id/onListGrid')@
+clickLong(className='android.widget.TextView',instance='1')@Condensed
+clickLong(className='android.widget.TextView',instance='5')@lib
+click(className='android.widget.TextView',instance='5')@lib
+click(resource-id='com.foobnix.pro.pdf.reader:id/onHome')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/onSort')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/starIcon')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(className='android.widget.TextView',instance='1')@Move
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/onHome')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/image1')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='7')@Fonts
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='3')@Librera
+click(className='android.widget.TextView',instance='7')@Fonts
+clickLong(className='android.widget.TextView',instance='3')@Librera
+click(className='android.widget.TextView',instance='7')@Fonts
+clickLong(className='android.widget.TextView',instance='24')@ttf
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+back@
+click(className='android.widget.TextView',instance='0')@Close Book
+clickLong(className='android.widget.TextView',instance='7')@ptleeson
+clickLong(className='android.widget.TextView',instance='5')@Page Count
+click(className='android.widget.TextView',instance='8')@Page Count
+clickLong(className='android.widget.TextView',instance='6')@Microsoft Word - Costs and Benefits in the Digital Underground 3.doc
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/sortOrder')@
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='2')@Send file
+keyevent_back@
+click(className='android.widget.TextView',instance='8')@pdf
+back@
+click(className='android.widget.TextView',instance='0')@Close Book
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='1')@Open with
+back@
+click(className='android.widget.TextView',instance='2')@Minimize
+click(className='android.widget.TextView',instance='0')@Phone
+keyevent_back@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='0')@Close
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='1')@Send file
+keyevent_back@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='8')@File info
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='6')@Add to playlist
+click(className='android.widget.TextView',instance='1')@New Playlist
+click(className='android.widget.Button',instance='1')@Add
+edit(className='android.widget.EditText',instance='0')@
+edit(className='android.widget.EditText',instance='0')@12
+edit(className='android.widget.EditText',instance='0')@test
+menu@
+click(className='android.widget.Button',instance='1')@Add
+click(className='android.widget.TextView',instance='10')@zip
+click(className='android.widget.TextView',instance='1')@sample_sorenson.mov
+keyevent_back@
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='3')@Copy
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/idPercentText')@
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.TextView',instance='23')@pdf
+back@
+click(className='android.widget.Button',instance='0')@Cancel
+back@
+click(className='android.widget.TextView',instance='1')@Open Library
+click(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='3')@Copy
+click(resource-id='com.foobnix.pro.pdf.reader:id/idPercentText')@
+click(className='android.widget.TextView',instance='1')@sample_mpeg4.mp4
+keyevent_back@
+edit(resource-id='com.foobnix.pro.pdf.reader:id/filterLine')@Find
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/sortOrder')@
+click(className='android.widget.TextView',instance='5')@Page Count
+click(className='android.widget.TextView',instance='8')@Page Count
+click(resource-id='com.foobnix.pro.pdf.reader:id/onRefresh')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='com.foobnix.pro.pdf.reader:id/cleanFilter')@
+clickLong(resource-id='com.foobnix.pro.pdf.reader:id/itemMenu')@
+click(className='android.widget.TextView',instance='7')@Reset progress
+clickLong(className='android.widget.TextView',instance='16')@txt
+click(className='android.widget.TextView',instance='1')@Example2
+clickLong(className='android.widget.TextView',instance='1')@Example2
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/browserItemIcon')@
+click(className='android.widget.Button',instance='0')@Close
+clickLong(className='android.widget.TextView',instance='18')@License
+click(className='android.widget.Button',instance='0')@Close
+click(resource-id='com.foobnix.pro.pdf.reader:id/idPercentText')@
+click(className='android.widget.Button',instance='0')@Close
+click(className='android.widget.TextView',instance='16')@txt
+back@
+click(className='android.widget.TextView',instance='1')@Open Library
+clickLong(className='android.widget.TextView',instance='21')@Microsoft Word - Costs and Benefits in the Digital Underground 3.doc
+click(className='android.widget.TextView',instance='7')@2005
+clickLong(className='android.widget.TextView',instance='1')@Microsoft Word - Costs and Benefits in the Digital Underground 3.doc
+clickLong(className='android.widget.TextView',instance='3')@Ptleeson

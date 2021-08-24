@@ -1,0 +1,10 @@
+    1@click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow'):android.widget.TextView@""
+    2@clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow'):android.widget.TextView@""
+    3@click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export'):android.widget.TextView@""
+    4@clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export'):android.widget.TextView@""
+    5@click(content-desc='More options'):android.widget.ImageView@""
+    6@clickLong(content-desc='More options'):android.widget.ImageView@""
+    7@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"© OpenStreetMap contributors"
+    8@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"© OpenStreetMap contributors"
+    9@menu
+    10@back

@@ -1,0 +1,249 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626404018332 count=1000
+:AllowPackage: com.ibrahimyousre.resumebuilder
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,131.0)
+:Sending Touch (ACTION_UP): 0:(875.8381,125.96519)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,673.0)
+:Sending Touch (ACTION_UP): 0:(898.4782,663.1712)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(940.0,376.0)
+:Sending Touch (ACTION_UP): 0:(938.82153,387.21298)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    //[calendar_time:2021-08-04 05:05:01.469  system_uptime:23313709]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(3.0,368.0)
+:Sending Touch (ACTION_UP): 0:(26.34458,376.051)
+:Sending Touch (ACTION_DOWN): 0:(638.0,201.0)
+:Sending Touch (ACTION_UP): 0:(634.58765,201.39027)
+:Sending Touch (ACTION_DOWN): 0:(445.0,454.0)
+:Sending Touch (ACTION_UP): 0:(454.3142,450.6664)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(741.0,353.0)
+:Sending Touch (ACTION_UP): 0:(741.43396,352.96835)
+:Sending Touch (ACTION_DOWN): 0:(521.0,910.0)
+:Sending Touch (ACTION_UP): 0:(539.47015,909.08374)
+:Sending Touch (ACTION_DOWN): 0:(697.0,422.0)
+:Sending Touch (ACTION_UP): 0:(697.0158,416.07047)
+:Sending Touch (ACTION_DOWN): 0:(963.0,240.0)
+:Sending Touch (ACTION_UP): 0:(963.2813,237.4492)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(249.0,928.0)
+:Sending Touch (ACTION_UP): 0:(249.26338,940.2609)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2021-08-04 05:05:17.769  system_uptime:23329993]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(40.0,577.0)
+:Sending Touch (ACTION_UP): 0:(0.0,581.4261)
+:Sending Touch (ACTION_DOWN): 0:(137.0,764.0)
+:Sending Touch (ACTION_UP): 0:(187.54948,702.0326)
+:Sending Touch (ACTION_DOWN): 0:(314.0,652.0)
+:Sending Touch (ACTION_UP): 0:(337.43808,734.19147)
+:Sending Touch (ACTION_DOWN): 0:(434.0,768.0)
+:Sending Touch (ACTION_UP): 0:(424.61218,746.05444)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,332.0)
+:Sending Touch (ACTION_UP): 0:(1018.24445,329.62637)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,769.0)
+:Sending Touch (ACTION_UP): 0:(144.66537,770.154)
+    //[calendar_time:2021-08-04 05:05:27.992  system_uptime:23340216]
+    // Sending event #300
+    //[calendar_time:2021-08-04 05:05:28.494  system_uptime:23340717]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(1041.1663,1158.1958)
+:Sending Touch (ACTION_DOWN): 0:(323.0,963.0)
+:Sending Touch (ACTION_UP): 0:(321.3181,942.80334)
+:Sending Touch (ACTION_DOWN): 0:(963.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(895.5389,1572.7086)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(768.0,546.0)
+:Sending Touch (ACTION_UP): 0:(768.25104,552.7416)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(206.1196,1530.485)
+:Sending Touch (ACTION_DOWN): 0:(559.0,226.0)
+:Sending Touch (ACTION_UP): 0:(551.2005,241.72394)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(228.525,1111.5419)
+:Sending Touch (ACTION_DOWN): 0:(206.0,708.0)
+:Sending Touch (ACTION_UP): 0:(218.05008,696.7391)
+:Sending Touch (ACTION_DOWN): 0:(558.0,734.0)
+    //[calendar_time:2021-08-04 05:05:42.312  system_uptime:23354536]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(547.0382,735.0011)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(960.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(1069.0173,1267.433)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1316.395)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(434.0,953.0)
+:Sending Touch (ACTION_UP): 0:(459.61896,954.3407)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(451.98877,1093.0728)
+:Sending Touch (ACTION_DOWN): 0:(45.0,1690.0)
+:Sending Touch (ACTION_UP): 0:(43.428802,1687.87)
+:Sending Touch (ACTION_DOWN): 0:(968.0,816.0)
+:Sending Touch (ACTION_UP): 0:(947.5616,818.4841)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    //[calendar_time:2021-08-04 05:05:52.512  system_uptime:23364736]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(837.0,893.0)
+:Sending Touch (ACTION_UP): 0:(749.50836,960.23413)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(719.0,1373.0)
+:Sending Touch (ACTION_UP): 0:(711.7925,1395.123)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(489.96808,1504.4021)
+:Sending Touch (ACTION_DOWN): 0:(458.0,52.0)
+:Sending Touch (ACTION_UP): 0:(454.79938,53.44596)
+:Sending Touch (ACTION_DOWN): 0:(11.0,1591.0)
+:Sending Touch (ACTION_UP): 0:(7.8494573,1605.5558)
+:Sending Touch (ACTION_DOWN): 0:(46.0,642.0)
+:Sending Touch (ACTION_UP): 0:(36.340466,648.2367)
+:Sending Touch (ACTION_DOWN): 0:(550.0,361.0)
+:Sending Touch (ACTION_UP): 0:(555.2159,360.70468)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2021-08-04 05:06:08.206  system_uptime:23380430]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1052.0,54.0)
+:Sending Touch (ACTION_UP): 0:(1052.1167,53.87473)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1097.0)
+:Sending Touch (ACTION_UP): 0:(423.76556,1089.1127)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,168.0)
+:Sending Touch (ACTION_UP): 0:(372.8383,176.35522)
+:Sending Touch (ACTION_DOWN): 0:(899.0,718.0)
+:Sending Touch (ACTION_UP): 0:(783.42755,601.242)
+:Sending Touch (ACTION_DOWN): 0:(559.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(557.12463,1733.5587)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(348.33905,1188.7482)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1613.0989)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 05:06:17.992  system_uptime:23390215]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(198.0,279.0)
+:Sending Touch (ACTION_UP): 0:(214.48479,290.51984)
+:Sending Touch (ACTION_DOWN): 0:(846.0,515.0)
+:Sending Touch (ACTION_UP): 0:(838.77704,520.4131)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(675.0,78.0)
+:Sending Touch (ACTION_UP): 0:(675.8812,76.30677)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(379.0,274.0)
+:Sending Touch (ACTION_UP): 0:(375.9471,274.20847)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Allowing start of Intent { cmp=com.ibrahimyousre.resumebuilder/.EditActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(998.0,245.0)
+:Sending Touch (ACTION_UP): 0:(1006.86414,241.27861)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(166.36938,950.339)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2021-08-04 05:06:29.679  system_uptime:23401903]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(947.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(950.5296,1095.7258)
+:Sending Touch (ACTION_DOWN): 0:(528.0,81.0)
+:Sending Touch (ACTION_UP): 0:(527.85345,79.28301)
+:Sending Touch (ACTION_DOWN): 0:(402.0,962.0)
+:Sending Touch (ACTION_UP): 0:(419.82767,1004.9429)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(272.28638,1277.5266)
+    // activityResuming(com.ibrahimyousre.resumebuilder)
+    // Allowing start of Intent { cmp=com.ibrahimyousre.resumebuilder/.EditActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(1041.0,575.0)
+:Sending Touch (ACTION_UP): 0:(1061.4954,590.23254)
+:Sending Touch (ACTION_DOWN): 0:(489.0,652.0)
+:Sending Touch (ACTION_UP): 0:(479.5253,651.0719)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.ibrahimyousre.resumebuilder)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+    // Allowing start of Intent { cmp=com.ibrahimyousre.resumebuilder/.EditActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Flip keyboardOpen=false
+    // activityResuming(com.ibrahimyousre.resumebuilder)
+:Sending Touch (ACTION_DOWN): 0:(634.0,307.0)
+:Sending Touch (ACTION_UP): 0:(634.00256,307.95596)
+:Sending Touch (ACTION_DOWN): 0:(20.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(30.685596,1566.9385)
+:Sending Touch (ACTION_DOWN): 0:(450.0,820.0)
+:Sending Touch (ACTION_UP): 0:(528.7272,747.3705)
+:Sending Touch (ACTION_DOWN): 0:(572.0,422.0)
+:Sending Touch (ACTION_UP): 0:(565.0785,419.90662)
+    //[calendar_time:2021-08-04 05:06:45.933  system_uptime:23418157]
+    // Sending event #900
+    //[calendar_time:2021-08-04 05:06:46.435  system_uptime:23418659]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(266.0,292.0)
+:Sending Touch (ACTION_UP): 0:(265.6676,287.35083)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(646.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(663.8699,1466.3998)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(1034.6464,1357.7092)
+:Sending Touch (ACTION_DOWN): 0:(359.0,1627.0)
+:Sending Touch (ACTION_UP): 0:(350.37994,1627.5459)
+:Sending Touch (ACTION_DOWN): 0:(512.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(496.6867,1143.7667)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(10.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(63.38636,1293.5536)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ibrahimyousre.resumebuilder/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ibrahimyousre.resumebuilder/.MainActivity } in package com.ibrahimyousre.resumebuilder
+:Sending Touch (ACTION_DOWN): 0:(754.0,850.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=123356ms (0ms mobile, 0ms wifi, 123356ms not connected)
+// Monkey finished

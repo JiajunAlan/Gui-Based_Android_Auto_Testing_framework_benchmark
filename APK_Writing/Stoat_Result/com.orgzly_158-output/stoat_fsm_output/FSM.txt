@@ -1,0 +1,561 @@
+# the app FSM, including all unique app states and transitions. Please keep this file unchanged. 
+111;337
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml
+S_152;com.orgzly.android.ui.main.MainActivity;9
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3791;click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Next 3 days";152;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3788;clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"To Do";153;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3793;click(className='android.widget.TextView',instance='8'):android.widget.TextView@".it.done s.ge.today ad.3";154;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;6241;click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Next 3 days";231;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3789;click(className='android.widget.TextView',instance='6'):android.widget.TextView@"i.todo";163;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_248.xml;3833;click(content-desc='More options'):android.widget.ImageView@"";247;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3834;clickLong(content-desc='More options'):android.widget.ImageView@"";162;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3763;click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Scheduled";161;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3464;click(className='android.widget.TextView',instance='4'):android.widget.TextView@".it.done ad.7";160;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml
+S_175;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_176.xml;871;clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"+";175;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;471;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";179;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;873;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";183;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_16.xml
+S_16;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_16.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_17.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";16;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_296.xml
+S_296;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_296.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_297.xml;5707;clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"–";296;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_244.xml
+S_244;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_244.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;197;click(content-desc='Close drawer'):android.widget.ImageButton@"";244;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml
+S_249;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";256;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;1021;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";249;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_58.xml
+S_58;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_58.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1374;click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Notebooks can be saved as plain-text files";58;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_274.xml
+S_274;com.orgzly.android.ui.repo.webdav.WebdavRepoActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_274.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;6882;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";274;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_273.xml
+S_273;com.orgzly.android.ui.repos.ReposActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_273.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_274.xml;6877;click(className='android.widget.Button',instance='0'):android.widget.Button@"WebDAV";273;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_273.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_270.xml;6879;back;279;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml
+S_33;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_34.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";33;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_37.xml;1077;clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Getting Started with Orgzly";36;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_45.xml;1093;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"Property value";44;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml
+S_56;com.orgzly.android.ui.main.MainActivity;14
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;5455;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"1test";205;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;5425;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"testt";204;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;1610;click(resource-id='com.orgzly:id/delete'):android.widget.ImageButton@"";206;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1606;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"12";201;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;5256;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"Property value";200;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1611;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"12";203;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;5231;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"1test";202;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1608;edit(resource-id='com.orgzly:id/name'):android.widget.EditText@"Property name";199;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1605;edit(resource-id='com.orgzly:id/name'):android.widget.EditText@"12";198;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;1607;click(resource-id='com.orgzly:id/delete'):android.widget.ImageButton@"";195;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1609;edit(resource-id='com.orgzly:id/value'):android.widget.EditText@"Property value";194;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_58.xml;1072;click(resource-id='com.orgzly:id/done'):android.widget.TextView@"";57;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_300.xml;1077;clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Getting Started with Orgzly";299;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1083;click(resource-id='com.orgzly:id/fragment_note_tags_button'):android.widget.ImageButton@"";56;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml
+S_313;com.orgzly.android.ui.main.MainActivity;25
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;8209;clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"12";342;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8074;click(className='android.widget.Button',instance='2'):android.widget.Button@"33";341;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8242;click(className='android.widget.Button',instance='1'):android.widget.Button@"11";340;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8142;click(className='android.widget.Button',instance='2'):android.widget.Button@"34";339;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8078;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"35";338;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8143;clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"34";337;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8193;click(className='android.widget.Button',instance='2'):android.widget.Button@"35";336;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7852;click(className='android.widget.Button',instance='1'):android.widget.Button@"2";313;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7864;scroll(direction='down');315;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7855;clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"31";314;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7918;clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"3";317;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7908;click(className='android.widget.Button',instance='3'):android.widget.Button@"32";316;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;7862;click(className='android.widget.Button',instance='5'):android.widget.Button@"Done";319;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7857;click(className='android.widget.Button',instance='3'):android.widget.Button@"33";318;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8076;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"34";326;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7884;clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"1";327;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7977;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"34";324;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7853;clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"2";325;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7858;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"33";322;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7878;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"PM";323;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8205;click(className='android.widget.Button',instance='0'):android.widget.Button@"10";334;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8227;click(className='android.widget.Button',instance='2'):android.widget.Button@"36";335;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8196;click(className='android.widget.Button',instance='3'):android.widget.Button@"37";333;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;8077;click(className='android.widget.Button',instance='3'):android.widget.Button@"35";328;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7877;clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"AM";329;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml
+S_47;com.orgzly.android.ui.main.MainActivity;8
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1407;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"Title";51;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1075;clickLong(content-desc='More options'):android.widget.ImageView@"";50;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;1080;click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Metadata";55;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1494;click(resource-id='com.orgzly:id/fragment_note_metadata_header_down_icon'):android.widget.ImageView@"";80;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1076;click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Getting Started with Orgzly";54;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1543;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"test";53;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1495;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"Content";52;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_48.xml;1074;click(content-desc='More options'):android.widget.ImageView@"";47;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_42.xml
+S_42;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_42.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_43.xml;295;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";42;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_210.xml
+S_210;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_210.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;4926;clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"+";293;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_210.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_211.xml;4924;clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Location (repository) type  1";210;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml
+S_118;com.orgzly.android.ui.main.MainActivity;11
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3186;clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"18";119;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3191;clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"2020";118;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3187;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"19";127;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;3195;click(className='android.widget.Button',instance='6'):android.widget.Button@"Done";128;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3294;click(className='android.widget.Button',instance='0'):android.widget.Button@"Sep";126;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3194;clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"2022";125;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3213;clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"2021";124;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3238;clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"May";123;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3239;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"Jun";122;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3227;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"19";121;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;3198;scroll(direction='up');120;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml
+S_69;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_70.xml;371;scroll(direction='up');69;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_72.xml;2160;clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"Location (repository) type  1";71;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_174.xml;1379;clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"–";173;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1752;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";74;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml
+S_312;com.orgzly.android.ui.main.MainActivity;13
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7859;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"AM";343;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7850;clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"12";350;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7860;click(className='android.widget.Button',instance='4'):android.widget.Button@"PM";312;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7854;click(className='android.widget.Button',instance='2'):android.widget.Button@"31";349;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7851;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"1";348;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;8379;clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"1";347;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7849;click(className='android.widget.Button',instance='0'):android.widget.Button@"12";346;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7974;clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"32";345;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;8378;click(className='android.widget.Button',instance='1'):android.widget.Button@"1";344;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7861;clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"PM";321;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_313.xml;7865;scroll(direction='up');332;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;8144;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"35";330;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;8146;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"36";331;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_34.xml
+S_34;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_34.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_35.xml;1073;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";34;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml
+S_28;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_188.xml;1002;click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Refile";187;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_307.xml;1001;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Move";306;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_29.xml;1003;click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Delete";28;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_208.xml
+S_208;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_208.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_208.xml;5527;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"12est";208;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_208.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_210.xml;5556;click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Getting Started with Orgzly";209;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_48.xml
+S_48;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_48.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_49.xml;1497;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Metadata";48;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_134.xml
+S_134;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_134.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;3504;click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Notebooks";171;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_134.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;3500;click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Agenda";236;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_134.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_135.xml;3484;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";134;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_38.xml
+S_38;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_38.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_39.xml;1217;click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Paste note";38;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml
+S_63;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;1924;click(content-desc='More options'):android.widget.ImageView@"";186;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1846;click(resource-id='com.orgzly:id/bottom_action_bar_schedule'):android.widget.TextView@"";64;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_68.xml;290;click(resource-id='com.orgzly:id/books_options_menu_item_cycle_visibility'):android.widget.TextView@"";67;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;1847;clickLong(resource-id='com.orgzly:id/bottom_action_bar_schedule'):android.widget.TextView@"";63;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_193.xml
+S_193;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_193.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;4931;click(className='android.widget.TextView',instance='7'):android.widget.TextView@"12";193;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_272.xml
+S_272;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_272.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_273.xml;6874;click(className='android.widget.Button',instance='0'):android.widget.Button@"Repositories";272;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_272.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";282;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_39.xml
+S_39;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_39.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_40.xml;370;scroll(direction='down');39;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml
+S_61;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_62.xml;1383;clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"Location (repository) type";184;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;1675;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";178;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_181.xml;1798;clickLong(className='android.widget.TextView',instance='15'):android.widget.TextView@"–";180;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_62.xml;1018;clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"Syncing";61;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_60.xml
+S_60;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_60.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;1395;clickLong(className='android.widget.TextView',instance='13'):android.widget.TextView@"–";177;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_60.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_61.xml;1394;click(className='android.widget.TextView',instance='13'):android.widget.TextView@"–";60;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_25.xml
+S_25;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_25.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_26.xml;382;clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Notes";25;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_211.xml
+S_211;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_211.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;4925;click(className='android.widget.TextView',instance='5'):android.widget.TextView@"+";211;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_4.xml
+S_4;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_4.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;78;click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";4;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_73.xml
+S_73;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_73.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;1856;click(resource-id='com.orgzly:id/action_mode_close_button'):android.widget.ImageView@"";73;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_17.xml
+S_17;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_17.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_18.xml;385;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";17;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_30.xml
+S_30;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_30.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_31.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";30;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml
+S_196;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_208.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";207;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;5255;edit(resource-id='com.orgzly:id/name'):android.widget.EditText@"Property name";197;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_196.xml;1569;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"12st";196;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_32.xml
+S_32;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_32.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;1017;click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Syncing";32;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_62.xml
+S_62;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_62.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;1377;clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"Files are in the format used by “Org mode”.";185;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_62.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;1794;clickLong(className='android.widget.TextView',instance='13'):android.widget.TextView@"12st";62;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_181.xml
+S_181;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_181.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_24.xml;1676;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";181;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml
+S_101;com.orgzly.android.ui.main.MainActivity;9
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;2887;click(className='android.widget.Button',instance='1'):android.widget.Button@"1";102;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2852;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"+";101;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;2898;click(className='android.widget.Button',instance='6'):android.widget.Button@"OK";110;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2962;click(className='android.widget.Button',instance='3'):android.widget.Button@"Day";108;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2978;click(className='android.widget.Button',instance='2'):android.widget.Button@"4";109;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2902;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"";106;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2977;edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"3";107;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2893;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"Week";104;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2890;click(className='android.widget.Button',instance='2'):android.widget.Button@"3";105;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_14.xml
+S_14;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_14.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;267;click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";14;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml
+S_91;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml;1073;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";289;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;1077;clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Getting Started with Orgzly";290;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2707;edit(resource-id='com.orgzly:id/fragment_note_tags'):android.widget.MultiAutoCompleteTextView@"12stt";91;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_31.xml
+S_31;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_31.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_32.xml;529;click(className='android.widget.TextView',instance='2'):android.widget.TextView@"+";31;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_49.xml
+S_49;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_49.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1505;click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Show selected";49;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_1.xml
+S_1;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_2.xml;28;back;1;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_190.xml
+S_190;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_190.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_190.xml;4935;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";190;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_190.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_192.xml;4940;clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"Files are in the format used by “Org mode”.";191;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml
+S_271;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;6861;click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Notebooks";283;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_272.xml;6864;click(resource-id='com.orgzly:id/sync_button_icon'):android.widget.ImageView@"";281;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_272.xml;6866;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Last sync: No repos configured";271;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_262.xml
+S_262;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_262.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_262.xml;6681;clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_up'):android.widget.TextView@"";262;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_262.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_261.xml;6636;click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Agenda";263;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_223.xml
+S_223;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_223.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml;6042;click(className='android.widget.Button',instance='0'):android.widget.Button@"Copy";223;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_24.xml
+S_24;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_24.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_25.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";24;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_24.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;876;click(className='android.widget.TextView',instance='8'):android.widget.TextView@"+";182;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_259.xml
+S_259;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_259.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;6641;clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"To Do";259;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_298.xml
+S_298;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_298.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_56.xml;7406;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"12st  1";298;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_192.xml
+S_192;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_192.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_193.xml;5020;click(resource-id='com.orgzly:id/book_cab_cut'):android.widget.TextView@"";192;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_307.xml
+S_307;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_307.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;7528;click(resource-id='com.orgzly:id/bottom_action_bar_schedule'):android.widget.TextView@"";307;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_302.xml
+S_302;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_302.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;7375;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"12st";302;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_20.xml
+S_20;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_20.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_21.xml;572;clickLong(className='android.widget.TextView',instance='17'):android.widget.TextView@"You can keep notebooks synced with a directory on your mobile device, SD card or Dropbox.";20;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml
+S_257;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_259.xml;6643;clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"i.todo";258;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;378;clickLong(content-desc='More options'):android.widget.ImageView@"";257;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_261.xml;580;edit(resource-id='com.orgzly:id/search_src_text'):android.widget.EditText@"Search notes";260;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_257.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;1038;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";267;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml
+S_99;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2840;click(className='android.widget.Button',instance='1'):android.widget.Button@"2";103;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_101.xml;2841;clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"2";100;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;2848;click(className='android.widget.Button',instance='5'):android.widget.Button@"OK";309;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;2846;clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"Month";99;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml
+S_132;com.orgzly.android.ui.main.MainActivity;12
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3474;click(className='android.widget.TextView',instance='9'):android.widget.TextView@"To Do";137;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3466;click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Next 3 days";139;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3459;clickLong(resource-id='com.orgzly:id/saved_searches_help'):android.widget.TextView@"";156;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3790;clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"i.todo";157;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;6243;click(className='android.widget.TextView',instance='10'):android.widget.TextView@".it.done s.ge.today ad.3";233;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3462;click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Agenda";146;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;6242;clickLong(className='android.widget.TextView',instance='9'):android.widget.TextView@"Next 3 days";245;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3792;clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"Next 3 days";228;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3475;clickLong(className='android.widget.TextView',instance='9'):android.widget.TextView@"To Do";148;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;878;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";132;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3465;clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@".it.done ad.7";225;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3787;click(className='android.widget.TextView',instance='5'):android.widget.TextView@"To Do";165;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml
+S_65;com.orgzly.android.ui.main.MainActivity;16
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;2000;click(className='android.widget.Button',instance='7'):android.widget.Button@"-1d";308;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;2001;click(resource-id='com.orgzly:id/delay_used_checkbox'):android.widget.CheckBox@"";65;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7791;click(className='android.widget.Button',instance='5'):android.widget.Button@"1:32 AM";311;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_63.xml;2002;click(className='android.widget.Button',instance='8'):android.widget.Button@"Cancel";66;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1992;click(className='android.widget.Button',instance='2'):android.widget.Button@"Tomorrow";96;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1995;click(resource-id='com.orgzly:id/time_used_checkbox'):android.widget.CheckBox@"";310;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_98.xml;1998;click(className='android.widget.Button',instance='6'):android.widget.Button@".+1w";97;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2003;click(className='android.widget.Button',instance='9'):android.widget.Button@"Clear";129;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1991;click(className='android.widget.Button',instance='1'):android.widget.Button@"Today";111;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_118.xml;1990;click(className='android.widget.Button',instance='0'):android.widget.Button@"Thu, Aug 19";117;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2004;click(className='android.widget.Button',instance='10'):android.widget.Button@"Set";114;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_312.xml;7789;click(className='android.widget.Button',instance='4'):android.widget.Button@"1:32 AM";320;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;2778;click(className='android.widget.Button',instance='5'):android.widget.Button@"1:26 AM";113;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1999;click(resource-id='com.orgzly:id/repeater_used_checkbox'):android.widget.CheckBox@"";112;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1997;click(resource-id='com.orgzly:id/end_time_used_checkbox'):android.widget.CheckBox@"";95;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1993;click(className='android.widget.Button',instance='3'):android.widget.Button@"Next Week";94;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_22.xml
+S_22;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_22.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_23.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";22;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_68.xml
+S_68;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_68.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;1387;clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"–";68;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml
+S_59;com.orgzly.android.ui.main.MainActivity;22
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_77.xml;1084;click(className='android.widget.TextView',instance='3'):android.widget.TextView@"State";76;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1085;click(resource-id='com.orgzly:id/fragment_note_state_remove'):android.widget.ImageButton@"";78;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";130;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1081;click(resource-id='com.orgzly:id/fragment_note_metadata_header_up_icon'):android.widget.ImageView@"";79;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1082;edit(resource-id='com.orgzly:id/fragment_note_tags'):android.widget.MultiAutoCompleteTextView@"tag tag";75;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;5959;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"12stbooks can be saved as plain-text files";220;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2463;edit(resource-id='com.orgzly:id/fragment_note_tags'):android.widget.MultiAutoCompleteTextView@"12";85;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2564;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"test";84;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2631;edit(resource-id='com.orgzly:id/fragment_note_tags'):android.widget.MultiAutoCompleteTextView@"1test";87;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;3141;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Thu, Aug 19";116;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1604;click(resource-id='com.orgzly:id/fragment_note_scheduled_remove'):android.widget.ImageButton@"";86;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1695;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"Notebooks can be saved as plain-text files";216;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2450;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"Content";81;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1705;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"Files are in the format used by “Org mode”.";217;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;5921;edit(resource-id='com.orgzly:id/fragment_note_title'):android.widget.EditText@"testbooks can be saved as plain-text files";218;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;5950;edit(resource-id='com.orgzly:id/body_edit'):android.widget.EditText@"tests are in the format used by “Org mode”.";219;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_65.xml;1603;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Scheduled time";82;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_60.xml;1072;click(resource-id='com.orgzly:id/done'):android.widget.TextView@"";59;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1077;clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Getting Started with Orgzly";92;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;2669;edit(resource-id='com.orgzly:id/fragment_note_tags'):android.widget.MultiAutoCompleteTextView@"testt";89;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;1073;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";88;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_91.xml;1072;click(resource-id='com.orgzly:id/done'):android.widget.TextView@"";90;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml
+S_301;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;7545;click(content-desc='More options'):android.widget.ImageView@"";305;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;7537;clickLong(resource-id='com.orgzly:id/bottom_action_bar_new'):android.widget.TextView@"";304;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_302.xml;7495;click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Notebooks can be saved as plain-text files  1";301;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;7542;clickLong(resource-id='com.orgzly:id/book_cab_copy'):android.widget.TextView@"";303;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_23.xml
+S_23;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_23.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_24.xml;291;clickLong(resource-id='com.orgzly:id/books_options_menu_item_cycle_visibility'):android.widget.TextView@"";23;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_12.xml
+S_12;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_12.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;238;clickLong(content-desc='Notebook last action'):android.widget.ImageView@"";12;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml
+S_3;com.orgzly.android.ui.main.MainActivity;7
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_4.xml;46;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";3;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;33;clickLong(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";5;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;43;clickLong(content-desc='Notebook last action'):android.widget.ImageView@"";6;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;39;clickLong(content-desc='Notebook modification time'):android.widget.ImageView@"";8;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_2.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";10;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;44;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Thu, Aug 19, 12:23 AM: Loaded from resource Getting Started with Orgzly";284;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_16.xml;44;click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Thu, Aug 19, 12:23 AM: Loaded from resource Getting Started with Orgzly";15;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml
+S_7;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;45;clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Thu, Aug 19, 12:23 AM: Loaded from resource Getting Started with Orgzly";7;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;37;clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Getting Started with Orgzly";9;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_7.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_14.xml;132;click(resource-id='com.orgzly:id/books_context_menu_force_load'):android.widget.TextView@"";13;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_300.xml
+S_300;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_300.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_301.xml;7378;clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"12";300;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_45.xml
+S_45;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_45.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_47.xml;1079;click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@"";46;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_45.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_45.xml;1092;edit(resource-id='com.orgzly:id/name'):android.widget.EditText@"Property name";45;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml
+S_149;com.orgzly.android.ui.main.MainActivity;13
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3765;click(className='android.widget.TextView',instance='10'):android.widget.TextView@"s.today .it.done";155;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3740;clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_up'):android.widget.TextView@"";158;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3471;clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"Scheduled";232;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3766;clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"s.today .it.done";159;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3473;clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"s.today .it.done";246;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3470;click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Scheduled";230;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3737;click(resource-id='com.orgzly:id/saved_searches_cab_move_down'):android.widget.TextView@"";229;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3463;clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"Agenda";227;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3738;clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_down'):android.widget.TextView@"";226;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3458;click(resource-id='com.orgzly:id/saved_searches_help'):android.widget.TextView@"";149;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;3739;click(resource-id='com.orgzly:id/saved_searches_cab_move_up'):android.widget.TextView@"";150;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3736;click(resource-id='com.orgzly:id/action_mode_close_button'):android.widget.ImageView@"";164;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_149.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_152.xml;3764;clickLong(className='android.widget.TextView',instance='9'):android.widget.TextView@"Scheduled";151;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_189.xml
+S_189;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_189.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_190.xml;872;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";189;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_287.xml
+S_287;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_287.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;7089;click(resource-id='com.orgzly:id/icon'):android.widget.ImageView@"";287;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml
+S_275;com.orgzly.android.ui.repo.webdav.WebdavRepoActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;6881;click(resource-id='com.orgzly:id/done'):android.widget.TextView@"";275;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_273.xml;6880;click(content-desc='Navigate up'):android.widget.ImageButton@"";278;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;6895;edit(resource-id='com.orgzly:id/activity_repo_webdav_password'):android.widget.EditText@"Password";277;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_275.xml;6896;click(className='android.widget.Button',instance='1'):android.widget.Button@"Test connection";276;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_18.xml
+S_18;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_18.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_19.xml;32;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";18;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_70.xml
+S_70;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_70.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_69.xml;293;clickLong(content-desc='More options'):android.widget.ImageView@"";70;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml
+S_133;com.orgzly.android.ui.main.MainActivity;18
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3481;click(resource-id='com.orgzly:id/close'):android.widget.TextView@"";136;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;4234;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"12 Do";169;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3483;click(resource-id='com.orgzly:id/done'):android.widget.TextView@"";138;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;4225;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@"testdo";168;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3599;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"Next 3 days";141;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3484;clickLong(resource-id='com.orgzly:id/done'):android.widget.TextView@"";234;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3482;clickLong(resource-id='com.orgzly:id/close'):android.widget.TextView@"";140;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3619;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"test 3 days";143;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3600;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@".it.done s.ge.today ad.3";142;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_134.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";133;4;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3564;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"To Do";167;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3565;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@"i.todo";166;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_255.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";254;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;6560;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"12";252;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;6571;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@"test";253;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3487;edit(resource-id='com.orgzly:id/fragment_saved_search_name'):android.widget.EditText@"Name";250;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3488;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@"Query";251;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;3630;edit(resource-id='com.orgzly:id/fragment_saved_search_query'):android.widget.EditText@"testdone s.ge.today ad.3";144;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml
+S_131;com.orgzly.android.ui.main.MainActivity;3
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_223.xml;3451;clickLong(resource-id='com.orgzly:id/sync_button_icon'):android.widget.ImageView@"";222;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;197;click(content-desc='Close drawer'):android.widget.ImageButton@"";131;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_131.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_132.xml;3442;click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Searches";224;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_261.xml
+S_261;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_261.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_262.xml;6639;clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@".it.done ad.7";261;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_261.xml;/EMPTY_APP_STATE.xml;6632;click(resource-id='com.orgzly:id/saved_searches_help'):android.widget.TextView@"";264;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_26.xml
+S_26;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_26.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_27.xml;533;click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Search";26;1;0.0
+/EMPTY_APP_STATE.xml
+EMPTY_APP_STATE;;1
+/EMPTY_APP_STATE.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml;6783;keyevent_back;265;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml
+S_285;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;4936;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";291;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_210.xml;5706;click(className='android.widget.TextView',instance='6'):android.widget.TextView@"–";292;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;5705;clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"You can keep notebooks synced with a directory on your mobile device, SD card or Dropbox.";294;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_285.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;5719;clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"Notebooks can be saved as plain-text files";285;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_27.xml
+S_27;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_27.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_28.xml;377;click(content-desc='More options'):android.widget.ImageView@"";27;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_37.xml
+S_37;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_37.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_38.xml;292;click(content-desc='More options'):android.widget.ImageView@"";37;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_215.xml
+S_215;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_215.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;5720;click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Files are in the format used by “Org mode”.";215;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_72.xml
+S_72;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_72.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_73.xml;2154;clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"Location (repository) type  1";72;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_41.xml
+S_41;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_41.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_42.xml;294;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";41;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_35.xml
+S_35;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_35.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;226;click(content-desc='Close drawer'):android.widget.ImageButton@"";35;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_176.xml
+S_176;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_176.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_60.xml;471;clickLong(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";176;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_135.xml
+S_135;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_135.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_133.xml;226;click(content-desc='Close drawer'):android.widget.ImageButton@"";135;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_2.xml
+S_2;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_2.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_3.xml;52;click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Notebooks";2;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_2.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_12.xml;35;clickLong(content-desc='More options'):android.widget.ImageView@"";11;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_29.xml
+S_29;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_29.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_30.xml;1006;click(className='android.widget.Button',instance='1'):android.widget.Button@"Delete";29;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml
+S_212;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_296.xml;5678;click(resource-id='com.orgzly:id/book_cab_cut'):android.widget.TextView@"";295;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;5668;clickLong(resource-id='com.orgzly:id/bottom_action_bar_schedule'):android.widget.TextView@"";212;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_214.xml;5718;click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Notebooks can be saved as plain-text files";213;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_212.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_287.xml;5675;click(resource-id='com.orgzly:id/bottom_action_bar_new'):android.widget.TextView@"";286;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_77.xml
+S_77;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_77.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_59.xml;267;click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel";77;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_239.xml
+S_239;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_239.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_240.xml;6393;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Sync";239;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_214.xml
+S_214;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_214.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_215.xml;5681;clickLong(resource-id='com.orgzly:id/book_cab_copy'):android.widget.TextView@"";214;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_248.xml
+S_248;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_248.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml;6524;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Delete";248;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_270.xml
+S_270;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_270.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_271.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";270;2;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml
+S_237;com.orgzly.android.ui.main.MainActivity;4
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_239.xml;6384;click(content-desc='More options'):android.widget.ImageView@"";238;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;6385;clickLong(content-desc='More options'):android.widget.ImageView@"";237;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;6383;clickLong(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";242;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_244.xml;31;click(content-desc='Open drawer'):android.widget.ImageButton@"";243;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_188.xml
+S_188;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_188.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_189.xml;4908;click(resource-id='com.orgzly:id/item_refile_button'):android.widget.ImageButton@"";188;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_40.xml
+S_40;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_40.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_41.xml;1210;click(className='android.widget.TextView',instance='8'):android.widget.TextView@"+";40;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_240.xml
+S_240;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_240.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_241.xml;6382;click(resource-id='com.orgzly:id/activity_action_search'):android.widget.TextView@"";240;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_297.xml
+S_297;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_297.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_298.xml;4934;clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"–";297;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_255.xml
+S_255;com.orgzly.android.ui.main.MainActivity;2
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_255.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_249.xml;3499;click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Searches";255;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_255.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_270.xml;4268;click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"To Do";269;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_43.xml
+S_43;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_43.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_33.xml;1291;click(resource-id='com.orgzly:id/fab'):android.widget.ImageButton@"";43;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_174.xml
+S_174;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_174.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_175.xml;304;click(resource-id='com.orgzly:id/item_head_bullet'):android.widget.ImageView@"";174;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_19.xml
+S_19;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_19.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_20.xml;374;click(resource-id='com.orgzly:id/search_close_btn'):android.widget.ImageView@"";19;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_98.xml
+S_98;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_98.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_99.xml;2851;scroll(direction='up');98;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_241.xml
+S_241;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_241.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_237.xml;372;click(content-desc='Collapse'):android.widget.ImageButton@"";241;1;0.0
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_21.xml
+S_21;com.orgzly.android.ui.main.MainActivity;1
+/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_21.xml;/Users/jiajunzhou/Downloads/APK_Writing/com.orgzly_158-output/stoat_fsm_output/ui/S_22.xml;543;click(className='android.widget.TextView',instance='7'):android.widget.TextView@"–";21;1;0.0

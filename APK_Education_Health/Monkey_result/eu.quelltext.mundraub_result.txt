@@ -1,0 +1,263 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626383579757 count=1000
+:AllowPackage: eu.quelltext.mundraub
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(227.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(244.37158,1508.3502)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.map.ShowPlantsActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(979.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(989.84595,1242.9309)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(484.0,856.0)
+:Sending Touch (ACTION_UP): 0:(522.5726,879.5461)
+:Sending Touch (ACTION_DOWN): 0:(336.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(336.68512,1179.2219)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.CodexActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2021-08-03 23:21:12.657  system_uptime:2684901]
+    // Sending event #100
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://mundraub.org/mundraeuber-regeln cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(27.0,144.0)
+:Sending Touch (ACTION_UP): 0:(0.0,51.201843)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.map.ShowPlantsActivity } in package eu.quelltext.mundraub
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(470.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(492.9141,1553.1875)
+:Sending Touch (ACTION_DOWN): 0:(790.0,1450.0)
+:Sending Touch (ACTION_UP): 0:(799.8725,1447.724)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1433.0)
+:Sending Touch (ACTION_UP): 0:(131.00082,1430.5054)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(438.0,873.0)
+:Sending Touch (ACTION_UP): 0:(438.4657,872.20435)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1341.0)
+:Sending Touch (ACTION_UP): 0:(712.16534,1316.1493)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,571.0)
+:Sending Touch (ACTION_UP): 0:(987.6381,539.6056)
+:Sending Touch (ACTION_DOWN): 0:(137.0,784.0)
+    //[calendar_time:2021-08-03 23:21:25.413  system_uptime:2697637]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(119.7916,800.088)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(326.6884,1062.6923)
+:Sending Touch (ACTION_DOWN): 0:(432.0,445.0)
+:Sending Touch (ACTION_UP): 0:(448.79465,461.45105)
+:Sending Touch (ACTION_DOWN): 0:(782.0,739.0)
+:Sending Touch (ACTION_UP): 0:(730.21985,730.2432)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(178.95154,1468.1606)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(236.0,610.0)
+:Sending Touch (ACTION_UP): 0:(252.32799,714.3748)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(132.0,955.0)
+:Sending Touch (ACTION_UP): 0:(150.65172,951.9307)
+:Sending Touch (ACTION_DOWN): 0:(896.0,2.0)
+:Sending Touch (ACTION_UP): 0:(831.18567,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2021-08-03 23:21:39.090  system_uptime:2711313]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(488.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(491.51892,1194.1827)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.CodexActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,800.0)
+:Sending Touch (ACTION_UP): 0:(1029.2715,799.9635)
+:Sending Touch (ACTION_DOWN): 0:(983.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(982.00024,1092.8768)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(887.0,761.0)
+:Sending Touch (ACTION_UP): 0:(899.33203,743.0803)
+    // activityResuming(eu.quelltext.mundraub)
+:Sending Touch (ACTION_DOWN): 0:(339.0,901.0)
+:Sending Touch (ACTION_UP): 0:(336.55115,891.31415)
+:Sending Touch (ACTION_DOWN): 0:(586.0,927.0)
+:Sending Touch (ACTION_UP): 0:(569.98883,906.4279)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,756.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,755.9561)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2021-08-03 23:21:50.410  system_uptime:2722634]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(287.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(274.6384,1173.4261)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.CodexActivity } in package eu.quelltext.mundraub
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://mundraub.org/mundraeuber-regeln cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://mundraub.org/mundraeuber-regeln cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(671.0,781.0)
+:Sending Touch (ACTION_UP): 0:(669.50653,777.90424)
+    // activityResuming(eu.quelltext.mundraub)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,540.0)
+:Sending Touch (ACTION_UP): 0:(358.6474,558.23126)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.NewPlantActivity } in package eu.quelltext.mundraub
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.ChoosePlantType } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(885.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(881.3869,1781.3453)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(918.0,259.0)
+:Sending Touch (ACTION_UP): 0:(919.3283,257.22803)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.PlantListActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(526.0,688.0)
+    //[calendar_time:2021-08-03 23:22:01.070  system_uptime:2733293]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(568.27673,713.1671)
+:Sending Touch (ACTION_DOWN): 0:(268.0,914.0)
+:Sending Touch (ACTION_UP): 0:(272.2298,919.60187)
+:Sending Touch (ACTION_DOWN): 0:(689.0,254.0)
+:Sending Touch (ACTION_UP): 0:(676.805,272.00238)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.NewPlantActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(414.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(410.4422,1674.2369)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.ChoosePlantType } in package eu.quelltext.mundraub
+    // activityResuming(eu.quelltext.mundraub)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.ChoosePlantType } in package eu.quelltext.mundraub
+    // activityResuming(eu.quelltext.mundraub)
+:Sending Touch (ACTION_DOWN): 0:(280.0,733.0)
+:Sending Touch (ACTION_UP): 0:(280.56818,730.98663)
+    // Rejecting start of Intent { act=android.media.action.IMAGE_CAPTURE cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(213.0,651.0)
+:Sending Touch (ACTION_UP): 0:(214.77325,648.20087)
+    // activityResuming(eu.quelltext.mundraub)
+:Sending Touch (ACTION_DOWN): 0:(327.0,322.0)
+:Sending Touch (ACTION_UP): 0:(321.19257,329.05835)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.PlantDetailActivity } in package eu.quelltext.mundraub
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,300.0)
+:Sending Touch (ACTION_UP): 0:(631.2914,289.03488)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(722.0,14.0)
+:Sending Touch (ACTION_UP): 0:(722.9201,2.01791)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(970.0,701.0)
+:Sending Touch (ACTION_UP): 0:(996.0714,703.4099)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    //[calendar_time:2021-08-03 23:22:18.946  system_uptime:2751169]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1051.0,338.0)
+:Sending Touch (ACTION_UP): 0:(1050.974,330.80698)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1176.0)
+:Sending Touch (ACTION_UP): 0:(750.5096,1184.9594)
+:Sending Touch (ACTION_DOWN): 0:(367.0,266.0)
+:Sending Touch (ACTION_UP): 0:(364.17654,261.16968)
+:Sending Touch (ACTION_DOWN): 0:(467.0,714.0)
+:Sending Touch (ACTION_UP): 0:(460.15698,612.03986)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.NewPlantActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(557.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(547.7779,1051.7152)
+    // Allowing start of Intent { cmp=eu.quelltext.mundraub/.activities.map.ChooseMapPosition } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(1.0,398.0)
+:Sending Touch (ACTION_UP): 0:(0.0,273.4556)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2021-08-03 23:22:30.314  system_uptime:2762537]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(80.0,8.0)
+:Sending Touch (ACTION_UP): 0:(80.98344,7.024543)
+:Sending Touch (ACTION_DOWN): 0:(953.0,242.0)
+:Sending Touch (ACTION_UP): 0:(942.34503,203.44835)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1606.0)
+:Sending Touch (ACTION_UP): 0:(36.094997,1600.5752)
+:Sending Touch (ACTION_DOWN): 0:(401.0,555.0)
+:Sending Touch (ACTION_UP): 0:(453.10162,675.0143)
+:Sending Touch (ACTION_DOWN): 0:(18.0,1390.0)
+:Sending Touch (ACTION_UP): 0:(76.87518,1451.8431)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(1074.4192,1281.4927)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(601.0,421.0)
+:Sending Touch (ACTION_UP): 0:(609.51495,412.05237)
+:Sending Touch (ACTION_DOWN): 0:(1017.0,844.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,886.9702)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(38.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1076.985)
+    //[calendar_time:2021-08-03 23:22:40.713  system_uptime:2772937]
+    // Sending event #800
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    //[calendar_time:2021-08-03 23:22:41.217  system_uptime:2773441]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(759.0,345.0)
+:Sending Touch (ACTION_UP): 0:(758.3861,346.80402)
+:Sending Touch (ACTION_DOWN): 0:(271.0,875.0)
+:Sending Touch (ACTION_UP): 0:(264.61963,868.3034)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.quelltext.mundraub/.activities.StartupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.quelltext.mundraub/.activities.StartupActivity } in package eu.quelltext.mundraub
+:Sending Touch (ACTION_DOWN): 0:(83.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(140.68063,1176.8296)
+:Sending Touch (ACTION_DOWN): 0:(514.0,549.0)
+:Sending Touch (ACTION_UP): 0:(520.7631,566.5454)
+:Sending Touch (ACTION_DOWN): 0:(542.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(536.00244,1479.873)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2021-08-03 23:22:52.924  system_uptime:2785147]
+    // Sending event #900
+    //[calendar_time:2021-08-03 23:22:53.425  system_uptime:2785648]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(480.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(479.1842,1287.7999)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(206.61014,1579.4453)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114869ms (0ms mobile, 0ms wifi, 114869ms not connected)
+// Monkey finished

@@ -1,0 +1,267 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626384539724 count=1000
+:AllowPackage: fr.bellev.stdatmosphere
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(566.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(572.7232,1328.5679)
+:Sending Touch (ACTION_DOWN): 0:(894.0,967.0)
+:Sending Touch (ACTION_UP): 0:(896.60815,979.6501)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(974.0,286.0)
+:Sending Touch (ACTION_UP): 0:(968.72894,274.52582)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(202.0,773.0)
+:Sending Touch (ACTION_UP): 0:(197.77841,761.63104)
+:Sending Touch (ACTION_DOWN): 0:(379.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(379.28885,1322.3679)
+:Sending Touch (ACTION_DOWN): 0:(538.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(543.65436,1258.8414)
+:Sending Touch (ACTION_DOWN): 0:(802.0,280.0)
+:Sending Touch (ACTION_UP): 0:(803.0782,275.8978)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1256.0)
+    //[calendar_time:2021-08-03 23:25:15.103  system_uptime:2927344]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(430.91,1199.8179)
+:Sending Touch (ACTION_DOWN): 0:(38.0,540.0)
+:Sending Touch (ACTION_UP): 0:(36.01445,539.6351)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(162.0,446.0)
+:Sending Touch (ACTION_UP): 0:(167.7229,451.28702)
+:Sending Touch (ACTION_DOWN): 0:(963.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(957.33295,1209.4967)
+:Sending Touch (ACTION_DOWN): 0:(234.0,487.0)
+:Sending Touch (ACTION_UP): 0:(240.33487,479.5796)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(710.0,793.0)
+:Sending Touch (ACTION_UP): 0:(711.0598,797.22473)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(826.0,653.0)
+:Sending Touch (ACTION_UP): 0:(815.0306,648.24695)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(532.0,532.0)
+:Sending Touch (ACTION_UP): 0:(533.0062,537.7359)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(993.0,1017.0)
+    //[calendar_time:2021-08-03 23:25:24.895  system_uptime:2937119]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(1002.25134,1018.6065)
+:Sending Touch (ACTION_DOWN): 0:(125.0,850.0)
+:Sending Touch (ACTION_UP): 0:(45.708008,865.4849)
+:Sending Touch (ACTION_DOWN): 0:(799.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(892.1589,1748.8845)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(154.0,440.0)
+:Sending Touch (ACTION_UP): 0:(156.23459,441.6613)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(937.0,49.0)
+:Sending Touch (ACTION_UP): 0:(921.7653,47.697437)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(446.0,93.0)
+:Sending Touch (ACTION_UP): 0:(455.8265,93.30115)
+    //[calendar_time:2021-08-03 23:25:33.546  system_uptime:2945770]
+    // Sending event #300
+    //[calendar_time:2021-08-03 23:25:34.049  system_uptime:2946273]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(812.0,638.0)
+:Sending Touch (ACTION_UP): 0:(769.7259,639.19275)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1411.1892)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(340.97876,1621.3912)
+:Sending Touch (ACTION_DOWN): 0:(151.0,312.0)
+:Sending Touch (ACTION_UP): 0:(56.11891,385.3014)
+:Sending Touch (ACTION_DOWN): 0:(62.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(64.10661,1358.5197)
+:Sending Touch (ACTION_DOWN): 0:(492.0,609.0)
+:Sending Touch (ACTION_UP): 0:(493.57367,607.14307)
+:Sending Touch (ACTION_DOWN): 0:(646.0,842.0)
+:Sending Touch (ACTION_UP): 0:(633.62897,842.8446)
+:Sending Touch (ACTION_DOWN): 0:(940.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(882.98535,1073.4114)
+:Sending Touch (ACTION_DOWN): 0:(752.0,977.0)
+:Sending Touch (ACTION_UP): 0:(753.4031,976.0649)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,7.0)
+:Sending Touch (ACTION_UP): 0:(375.7195,7.028354)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(753.0,889.0)
+:Sending Touch (ACTION_UP): 0:(748.5446,907.4188)
+    //[calendar_time:2021-08-03 23:25:48.247  system_uptime:2960470]
+    // Sending event #400
+    //[calendar_time:2021-08-03 23:25:48.747  system_uptime:2960971]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(29.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(34.104042,1591.8983)
+:Sending Touch (ACTION_DOWN): 0:(932.0,767.0)
+:Sending Touch (ACTION_UP): 0:(897.67725,690.742)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(385.02756,1309.6506)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(517.7915,1252.7446)
+:Sending Touch (ACTION_DOWN): 0:(124.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(136.46825,1019.32324)
+:Sending Touch (ACTION_DOWN): 0:(349.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(339.64212,1138.3265)
+:Sending Touch (ACTION_DOWN): 0:(536.0,778.0)
+:Sending Touch (ACTION_UP): 0:(535.7366,777.8276)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(961.4246,1129.3953)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2021-08-03 23:25:58.885  system_uptime:2971108]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(376.0,1236.0)
+:Sending Touch (ACTION_UP): 0:(352.9069,1255.3972)
+:Sending Touch (ACTION_DOWN): 0:(963.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(964.6664,1627.5896)
+:Sending Touch (ACTION_DOWN): 0:(703.0,443.0)
+:Sending Touch (ACTION_UP): 0:(710.48315,440.3467)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(522.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(544.17957,1775.5487)
+:Sending Touch (ACTION_DOWN): 0:(553.0,1376.0)
+:Sending Touch (ACTION_UP): 0:(505.8722,1398.7118)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(359.0,1181.0)
+:Sending Touch (ACTION_UP): 0:(304.57053,1236.5952)
+:Sending Touch (ACTION_DOWN): 0:(487.0,217.0)
+:Sending Touch (ACTION_UP): 0:(468.77945,203.24672)
+:Sending Touch (ACTION_DOWN): 0:(647.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(607.8504,1590.3927)
+:Sending Touch (ACTION_DOWN): 0:(516.0,317.0)
+:Sending Touch (ACTION_UP): 0:(530.8772,316.3539)
+:Sending Touch (ACTION_DOWN): 0:(818.0,873.0)
+:Sending Touch (ACTION_UP): 0:(813.87885,884.3439)
+:Sending Touch (ACTION_DOWN): 0:(89.0,326.0)
+:Sending Touch (ACTION_UP): 0:(95.86518,318.7274)
+:Sending Touch (ACTION_DOWN): 0:(60.0,450.0)
+:Sending Touch (ACTION_UP): 0:(75.56196,452.7511)
+    //[calendar_time:2021-08-03 23:26:12.621  system_uptime:2984844]
+    // Sending event #600
+    //[calendar_time:2021-08-03 23:26:13.122  system_uptime:2985346]
+    // Sending event #600
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(801.0,174.0)
+:Sending Touch (ACTION_UP): 0:(798.99005,164.34001)
+:Sending Touch (ACTION_DOWN): 0:(776.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(779.2894,1455.8364)
+:Sending Touch (ACTION_DOWN): 0:(145.0,129.0)
+:Sending Touch (ACTION_UP): 0:(132.45135,165.50343)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(731.6538,1331.121)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(411.0,1599.0)
+:Sending Touch (ACTION_UP): 0:(425.90042,1588.2306)
+:Sending Touch (ACTION_DOWN): 0:(846.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(844.3769,1780.9895)
+    //[calendar_time:2021-08-03 23:26:30.358  system_uptime:3002582]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(297.63992,1655.6201)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(24.238966,1443.7305)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(983.0,389.0)
+:Sending Touch (ACTION_UP): 0:(977.2124,392.21106)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(429.0,643.0)
+:Sending Touch (ACTION_UP): 0:(430.57086,643.23004)
+:Sending Touch (ACTION_DOWN): 0:(191.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(190.06424,1755.5032)
+:Sending Touch (ACTION_DOWN): 0:(393.0,907.0)
+:Sending Touch (ACTION_UP): 0:(394.37933,906.4549)
+:Sending Touch (ACTION_DOWN): 0:(282.0,904.0)
+:Sending Touch (ACTION_UP): 0:(291.80148,901.1508)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.bellev.stdatmosphere/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.bellev.stdatmosphere/.MainActivity } in package fr.bellev.stdatmosphere
+:Sending Touch (ACTION_DOWN): 0:(255.0,88.0)
+:Sending Touch (ACTION_UP): 0:(304.32333,56.823364)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-03 23:26:41.559  system_uptime:3013782]
+    // Sending event #800
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(984.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(1001.40283,1107.6613)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(584.4302,1128.8757)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(163.0,871.0)
+:Sending Touch (ACTION_UP): 0:(166.71872,866.8648)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(807.6662,1758.4199)
+:Sending Touch (ACTION_DOWN): 0:(276.0,512.0)
+:Sending Touch (ACTION_UP): 0:(297.29538,500.73965)
+:Sending Touch (ACTION_DOWN): 0:(627.0,289.0)
+:Sending Touch (ACTION_UP): 0:(631.6161,279.62714)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,373.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,379.91385)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(374.0,16.0)
+:Sending Touch (ACTION_UP): 0:(385.40973,13.095529)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2021-08-03 23:26:57.892  system_uptime:3030116]
+    // Sending event #900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(582.0,590.0)
+:Sending Touch (ACTION_UP): 0:(636.2181,534.685)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(556.0,930.0)
+:Sending Touch (ACTION_UP): 0:(559.63074,947.08563)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxx.xxxxxx@xxxxx.xxx cmp=com.android.email/.activity.ComposeActivityEmail } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(765.0,263.0)
+:Sending Touch (ACTION_UP): 0:(764.851,261.46277)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(701.60425,1643.26)
+:Sending Touch (ACTION_DOWN): 0:(471.0,845.0)
+:Sending Touch (ACTION_UP): 0:(448.71774,835.3694)
+:Sending Touch (ACTION_DOWN): 0:(340.0,1693.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=7 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=129349ms (0ms mobile, 0ms wifi, 129349ms not connected)
+// Monkey finished

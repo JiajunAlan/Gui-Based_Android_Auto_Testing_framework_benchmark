@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,66][1070,738]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,717]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[534,87][1049,213]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[576,121][1007,178]">
+          <node index="0" text="Export Notes" resource-id="com.alaskalinuxuser.justnotes:id/title" class="android.widget.TextView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[576,121][1007,178]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]">
+          <node index="0" text="Import Notes" resource-id="com.alaskalinuxuser.justnotes:id/title" class="android.widget.TextView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,339][1049,465]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][1007,430]">
+          <node index="0" text="Settings" resource-id="com.alaskalinuxuser.justnotes:id/title" class="android.widget.TextView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][1007,430]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,465][1049,591]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,499][1007,556]">
+          <node index="0" text="About" resource-id="com.alaskalinuxuser.justnotes:id/title" class="android.widget.TextView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,499][1007,556]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,591][1049,717]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,625][1007,682]">
+          <node index="0" text="Help" resource-id="com.alaskalinuxuser.justnotes:id/title" class="android.widget.TextView" package="com.alaskalinuxuser.justnotes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,625][1007,682]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

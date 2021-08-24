@@ -1,0 +1,252 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626388871664 count=1000
+:AllowPackage: com.picross.nonocross
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    // Allowing start of Intent { cmp=com.picross.nonocross/.LevelSelectActivity } in package com.picross.nonocross
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(234.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(232.49341,1672.8495)
+    // Allowing start of Intent { cmp=com.picross.nonocross/.GameActivity } in package com.picross.nonocross
+:Sending Touch (ACTION_DOWN): 0:(755.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(748.47723,1687.6125)
+:Sending Touch (ACTION_DOWN): 0:(875.0,164.0)
+:Sending Touch (ACTION_UP): 0:(879.6851,163.55258)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(229.69426,1052.0344)
+:Sending Touch (ACTION_DOWN): 0:(831.0,623.0)
+:Sending Touch (ACTION_UP): 0:(824.1277,619.20264)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2021-08-04 00:48:50.093  system_uptime:7942333]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(49.0,961.0)
+:Sending Touch (ACTION_UP): 0:(54.167164,964.0445)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(941.0,722.0)
+:Sending Touch (ACTION_UP): 0:(878.47327,689.8722)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1637.0)
+:Sending Touch (ACTION_UP): 0:(559.5417,1636.4703)
+:Sending Touch (ACTION_DOWN): 0:(768.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(769.5406,1376.5581)
+:Sending Touch (ACTION_DOWN): 0:(582.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(492.27014,1761.4333)
+    // activityResuming(com.picross.nonocross)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(203.0,382.0)
+:Sending Touch (ACTION_UP): 0:(151.54797,387.91483)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(772.0,625.0)
+:Sending Touch (ACTION_UP): 0:(786.6523,623.33136)
+    // Allowing start of Intent { cmp=com.picross.nonocross/.GameActivity } in package com.picross.nonocross
+    //[calendar_time:2021-08-04 00:49:03.347  system_uptime:7955571]
+    // Sending event #200
+    //[calendar_time:2021-08-04 00:49:03.849  system_uptime:7956072]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(413.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(430.00845,1371.1019)
+:Sending Touch (ACTION_DOWN): 0:(853.0,430.0)
+:Sending Touch (ACTION_UP): 0:(746.73395,417.65598)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+:Sending Touch (ACTION_DOWN): 0:(797.0,290.0)
+:Sending Touch (ACTION_UP): 0:(793.4835,289.0679)
+:Sending Touch (ACTION_DOWN): 0:(460.0,28.0)
+:Sending Touch (ACTION_UP): 0:(459.20627,26.385002)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(44.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(43.897926,1738.2156)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1558.0)
+:Sending Touch (ACTION_UP): 0:(605.912,1559.9966)
+:Sending Touch (ACTION_DOWN): 0:(930.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(929.92725,1358.9053)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,556.0)
+:Sending Touch (ACTION_UP): 0:(887.9009,632.7839)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(834.0,66.0)
+:Sending Touch (ACTION_UP): 0:(818.9127,59.15912)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1216.0)
+:Sending Touch (ACTION_UP): 0:(569.4158,1162.8826)
+    //[calendar_time:2021-08-04 00:49:20.554  system_uptime:7972778]
+    // Sending event #300
+    //[calendar_time:2021-08-04 00:49:21.056  system_uptime:7973280]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(536.9448,1574.5619)
+:Sending Touch (ACTION_DOWN): 0:(413.0,425.0)
+:Sending Touch (ACTION_UP): 0:(419.0458,426.77097)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(86.67222,977.00446)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(106.60623,1658.6963)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(751.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(722.0345,1206.2217)
+    //[calendar_time:2021-08-04 00:49:27.706  system_uptime:7979930]
+    // Sending event #400
+    //[calendar_time:2021-08-04 00:49:28.208  system_uptime:7980431]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(99.0,943.0)
+:Sending Touch (ACTION_UP): 0:(107.88504,1042.35)
+:Sending Touch (ACTION_DOWN): 0:(764.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(761.43787,1104.9677)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(209.0,264.0)
+:Sending Touch (ACTION_UP): 0:(211.09953,266.1758)
+:Sending Touch (ACTION_DOWN): 0:(991.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(1004.1841,1127.5386)
+:Sending Touch (ACTION_DOWN): 0:(385.0,182.0)
+:Sending Touch (ACTION_UP): 0:(385.37418,176.35634)
+:Sending Touch (ACTION_DOWN): 0:(584.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(590.78357,1643.7596)
+:Sending Touch (ACTION_DOWN): 0:(749.0,134.0)
+:Sending Touch (ACTION_UP): 0:(755.4207,126.51405)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(471.0,92.0)
+:Sending Touch (ACTION_UP): 0:(357.3923,71.67348)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2021-08-04 00:49:36.867  system_uptime:7989091]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(424.0,441.0)
+:Sending Touch (ACTION_UP): 0:(430.82095,441.22006)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(772.0,670.0)
+:Sending Touch (ACTION_UP): 0:(767.3799,651.27246)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(785.0,896.0)
+:Sending Touch (ACTION_UP): 0:(742.00964,882.1198)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(606.24365,1550.643)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,739.0)
+:Sending Touch (ACTION_UP): 0:(1021.1831,748.521)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(213.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(198.52817,1419.9225)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(153.0,129.0)
+    //[calendar_time:2021-08-04 00:49:52.587  system_uptime:8004811]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(149.80667,154.61885)
+:Sending Touch (ACTION_DOWN): 0:(527.0,473.0)
+:Sending Touch (ACTION_UP): 0:(462.4653,458.94907)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(974.91156,1512.3741)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(624.0,303.0)
+:Sending Touch (ACTION_UP): 0:(614.31415,241.92079)
+:Sending Touch (ACTION_DOWN): 0:(293.0,78.0)
+:Sending Touch (ACTION_UP): 0:(315.55856,70.03074)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+:Sending Touch (ACTION_DOWN): 0:(550.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(552.6016,1141.2194)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+:Sending Touch (ACTION_DOWN): 0:(824.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(810.1854,1640.3828)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(197.62082,1364.3224)
+:Sending Touch (ACTION_DOWN): 0:(106.0,667.0)
+:Sending Touch (ACTION_UP): 0:(104.15416,652.7488)
+:Sending Touch (ACTION_DOWN): 0:(46.0,886.0)
+:Sending Touch (ACTION_UP): 0:(56.54992,884.1314)
+    //[calendar_time:2021-08-04 00:50:03.236  system_uptime:8015460]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(243.0,434.0)
+:Sending Touch (ACTION_UP): 0:(217.63478,419.1283)
+:Sending Touch (ACTION_DOWN): 0:(782.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(877.2714,1635.9572)
+:Sending Touch (ACTION_DOWN): 0:(823.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(727.5181,1469.0205)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(715.0,586.0)
+:Sending Touch (ACTION_UP): 0:(709.71875,594.73846)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(545.0,1364.0)
+:Sending Touch (ACTION_UP): 0:(549.9416,1361.6301)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.picross.nonocross/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.picross.nonocross/.MainActivity } in package com.picross.nonocross
+    //[calendar_time:2021-08-04 00:50:11.909  system_uptime:8024132]
+    // Sending event #800
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(111.0,430.0)
+:Sending Touch (ACTION_UP): 0:(117.271324,429.73953)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(573.2132,1134.0122)
+:Sending Touch (ACTION_DOWN): 0:(203.0,1301.0)
+:Sending Touch (ACTION_UP): 0:(213.35695,1335.1854)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(856.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(868.1825,1059.9165)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(936.0,665.0)
+:Sending Touch (ACTION_UP): 0:(924.9419,662.35156)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(708.0,622.0)
+:Sending Touch (ACTION_UP): 0:(709.25903,625.01385)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2021-08-04 00:50:21.066  system_uptime:8033290]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(428.0,562.0)
+:Sending Touch (ACTION_UP): 0:(419.97263,564.75275)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,128.0)
+:Sending Touch (ACTION_UP): 0:(1009.47644,116.671)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1402.0)
+:Sending Touch (ACTION_UP): 0:(156.2883,1394.4459)
+:Sending Touch (ACTION_DOWN): 0:(368.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(406.54037,1128.7485)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(349.0,866.0)
+:Sending Touch (ACTION_UP): 0:(313.33795,847.3638)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(268.42767,1391.0553)
+:Sending Touch (ACTION_DOWN): 0:(846.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(857.0679,1037.6049)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,10.0)
+:Sending Touch (ACTION_UP): 0:(435.75842,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=111708ms (0ms mobile, 0ms wifi, 111708ms not connected)
+// Monkey finished

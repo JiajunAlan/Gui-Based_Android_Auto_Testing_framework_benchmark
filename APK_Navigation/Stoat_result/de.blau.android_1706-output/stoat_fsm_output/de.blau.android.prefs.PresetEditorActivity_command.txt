@@ -1,0 +1,13 @@
+    19344@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    19345@click(content-desc='Help'):android.widget.TextView@""
+    19346@clickLong(content-desc='Help'):android.widget.TextView@""
+    19347@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Built-in preset"
+    19348@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Built-in preset"
+    19349@click(resource-id='de.blau.android:id/listItemText2'):android.widget.TextView@""
+    19350@clickLong(resource-id='de.blau.android:id/listItemText2'):android.widget.TextView@""
+    19351@click(resource-id='de.blau.android:id/listItemCheckBox'):android.widget.CheckBox@""
+    19352@click(resource-id='de.blau.android:id/listItemMenu'):android.widget.ImageButton@""
+    19353@clickLong(resource-id='de.blau.android:id/listItemMenu'):android.widget.ImageButton@""
+    19354@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Add preset"
+    19355@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Add preset"
+    19356@back

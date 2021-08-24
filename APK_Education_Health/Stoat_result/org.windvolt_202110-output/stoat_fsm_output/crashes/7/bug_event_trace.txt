@@ -1,0 +1,113 @@
+click(className='android.widget.Button',instance='0')@OK
+click(resource-id='org.windvolt:id/open_page1')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(resource-id='org.windvolt:id/open_page0')@
+back@
+click(resource-id='org.windvolt:id/open_page3')@
+menu@
+click(className='android.widget.TextView',instance='8')@Über
+back@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.TextView',instance='2')@Online-Modell nicht geladen
+keyevent_back@
+back@
+click(resource-id='org.windvolt:id/services_open')@
+click(className='android.widget.Button',instance='0')@clear
+click(className='android.widget.Button',instance='0')@okay
+click(resource-id='org.windvolt:id/recommendation_symbol')@
+click(className='android.widget.Button',instance='1')@exit
+click(className='android.widget.Button',instance='0')@clear
+click(className='android.widget.Button',instance='0')@okay
+click(resource-id='org.windvolt:id/services_open')@
+click(className='android.widget.Button',instance='0')@clear
+click(className='android.widget.Button',instance='0')@okay
+click(resource-id='org.windvolt:id/recommendation_symbol')@
+scroll(direction='up')@
+scroll(direction='down')@
+click(resource-id='org.windvolt:id/open_page1')@
+back@
+click(resource-id='org.windvolt:id/open_page3')@
+clickLong(content-desc='More options')@
+back@
+click(className='android.widget.Button',instance='1')@exit
+click(resource-id='org.windvolt:id/open_page0')@
+back@
+click(className='android.widget.TextView',instance='3')@Wähle einen Ort
+edit(resource-id='org.windvolt:id/location_chooser')@Wähle einen Ort
+edit(resource-id='org.windvolt:id/location_chooser')@test
+scroll(direction='up')@
+scroll(direction='down')@
+click(resource-id='org.windvolt:id/open_page0')@
+back@
+click(resource-id='org.windvolt:id/services_open')@
+edit(resource-id='org.windvolt:id/location_chooser')@test
+click(resource-id='org.windvolt:id/recommendation_symbol')@
+click(resource-id='org.windvolt:id/action_open_devices')@
+click(content-desc='100')@
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+click(className='android.widget.Button',instance='0')@abbrechen
+click(content-desc='102')@
+edit(resource-id='org.windvolt:id/position_input')@
+edit(resource-id='org.windvolt:id/position_input')@12
+edit(resource-id='org.windvolt:id/position_input')@1test
+edit(resource-id='org.windvolt:id/position_input')@12est
+edit(resource-id='org.windvolt:id/position_input')@12est
+edit(resource-id='org.windvolt:id/position_input')@testt
+edit(resource-id='org.windvolt:id/position_input')@testt
+edit(resource-id='org.windvolt:id/position_input')@12stt
+edit(resource-id='org.windvolt:id/position_input')@12stt
+edit(resource-id='org.windvolt:id/content_edit')@12
+edit(resource-id='org.windvolt:id/content_edit')@1
+edit(resource-id='org.windvolt:id/content_edit')@
+edit(resource-id='org.windvolt:id/position_input')@12stt
+edit(resource-id='org.windvolt:id/content_edit')@
+edit(resource-id='org.windvolt:id/position_input')@12stt
+edit(resource-id='org.windvolt:id/content_edit')@
+click(resource-id='org.windvolt:id/type_other')@other
+click(className='android.widget.Button',instance='0')@abbrechen
+click(resource-id='org.windvolt:id/device_share')@
+click(resource-id='org.windvolt:id/device_add')@
+edit(resource-id='org.windvolt:id/content_edit')@11
+edit(resource-id='org.windvolt:id/position_input')@
+edit(resource-id='org.windvolt:id/position_input')@test
+edit(resource-id='org.windvolt:id/position_input')@12st
+edit(resource-id='org.windvolt:id/position_input')@12st
+edit(resource-id='org.windvolt:id/position_input')@12st
+edit(resource-id='org.windvolt:id/position_input')@test
+edit(resource-id='org.windvolt:id/position_input')@12st
+edit(resource-id='org.windvolt:id/position_input')@test
+back@
+click(content-desc='101')@
+edit(resource-id='org.windvolt:id/content_edit')@11
+back@
+click(resource-id='org.windvolt:id/device_remove')@
+click(className='android.widget.Button',instance='0')@abbrechen
+click(content-desc='103')@
+click(className='android.widget.Button',instance='0')@abbrechen
+click(content-desc='100')@
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+click(resource-id='org.windvolt:id/type_other')@other
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/content_edit')@11
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/content_edit')@12
+click(className='android.widget.Button',instance='1')@okay
+click(resource-id='org.windvolt:id/device_remove')@
+click(className='android.widget.Button',instance='1')@entfernen

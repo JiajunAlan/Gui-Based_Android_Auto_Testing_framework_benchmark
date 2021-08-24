@@ -1,0 +1,173 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+E/WindowManager(12825): 
+E/WindowManager(12825): android.view.WindowLeaked: Activity org.secuso.privacyfriendlyactivitytracker.activities.TrainingActivity has leaked window android.widget.LinearLayout{9d36d730 V.E..... ......I. 0,0-345,127} that was originally added here
+E/WindowManager(12825): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager(12825): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager(12825): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipPopup.show(TooltipPopup.java:87)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipCompatHandler.show(TooltipCompatHandler.java:174)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipCompatHandler.onLongClick(TooltipCompatHandler.java:123)
+E/WindowManager(12825): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager(12825): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager(12825): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager(12825): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager(12825): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager(12825): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager(12825): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager(12825): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager(12825): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager(12825): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager(12825): 	at dalvik.system.NativeStart.main(Native Method)
+E/WindowManager( 1569): Starting window AppWindowToken{9d97c010 token=Token{9d5a19c0 ActivityRecord{9d5a1860 u0 org.secuso.privacyfriendlyactivitytracker/.activities.MainActivity t43}}} timed out
+E/WindowManager(12825): 
+E/WindowManager(12825): android.view.WindowLeaked: Activity org.secuso.privacyfriendlyactivitytracker.activities.TrainingOverviewActivity has leaked window android.widget.LinearLayout{9dd5c3a0 V.E..... ......I. 0,0-345,127} that was originally added here
+E/WindowManager(12825): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager(12825): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager(12825): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipPopup.show(TooltipPopup.java:87)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipCompatHandler.show(TooltipCompatHandler.java:174)
+E/WindowManager(12825): 	at androidx.appcompat.widget.TooltipCompatHandler.onLongClick(TooltipCompatHandler.java:123)
+E/WindowManager(12825): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager(12825): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager(12825): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager(12825): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager(12825): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager(12825): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager(12825): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager(12825): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager(12825): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager(12825): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager(12825): 	at dalvik.system.NativeStart.main(Native Method)
+E/WindowManager( 1569): Starting window AppWindowToken{9db5ef18 token=Token{9d4ab290 ActivityRecord{9d2f2d60 u0 org.secuso.privacyfriendlyactivitytracker/.activities.MainActivity t43}}} timed out
+E/WindowManager( 1569): Starting window AppWindowToken{9d9bfdc8 token=Token{9d910a38 ActivityRecord{9d22b400 u0 org.secuso.privacyfriendlyactivitytracker/.activities.MainActivity t43}}} timed out
+E/AndroidRuntime(12825): FATAL EXCEPTION: main
+E/AndroidRuntime(12825): Process: org.secuso.privacyfriendlyactivitytracker, PID: 12825
+E/AndroidRuntime(12825): android.content.res.Resources$NotFoundException: File res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml from drawable resource ID #0x7f080024. If the resource you are trying to use is a vector resource, you may be referencing it in an unsupported way. See AppCompatDelegate.setCompatVectorFromResourcesEnabled() for more info.
+E/AndroidRuntime(12825): 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+E/AndroidRuntime(12825): 	at android.content.res.Resources.getDrawable(Resources.java:700)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.MenuItemImpl.getIcon(MenuItemImpl.java:388)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuItemView.initialize(ActionMenuItemView.java:105)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuPresenter.bindItemView(ActionMenuPresenter.java:198)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.BaseMenuPresenter.getItemView(BaseMenuPresenter.java:178)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuPresenter.getItemView(ActionMenuPresenter.java:163)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuPresenter.flagActionItems(ActionMenuPresenter.java:438)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.MenuBuilder.flagActionItems(MenuBuilder.java:1059)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.BaseMenuPresenter.updateMenuView(BaseMenuPresenter.java:87)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuPresenter.updateMenuView(ActionMenuPresenter.java:216)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.BaseMenuPresenter.getMenuView(BaseMenuPresenter.java:72)
+E/AndroidRuntime(12825): 	at com.android.internal.view.menu.ActionMenuPresenter.getMenuView(ActionMenuPresenter.java:154)
+E/AndroidRuntime(12825): 	at com.android.internal.widget.ActionBarContextView.initForMode(ActionBarContextView.java:230)
+E/AndroidRuntime(12825): 	at com.android.internal.policy.impl.PhoneWindow$DecorView.startActionMode(PhoneWindow.java:2422)
+E/AndroidRuntime(12825): 	at com.android.internal.policy.impl.PhoneWindow$DecorView.startActionModeForChild(PhoneWindow.java:2362)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime(12825): 	at android.view.View.startActionMode(View.java:4536)
+E/AndroidRuntime(12825): 	at android.widget.Editor.startSelectionActionMode(Editor.java:1551)
+E/AndroidRuntime(12825): 	at android.widget.TextView.performAccessibilityAction(TextView.java:8241)
+E/AndroidRuntime(12825): 	at android.widget.NumberPicker$AccessibilityNodeProviderImpl.performAction(NumberPicker.java:2322)
+E/AndroidRuntime(12825): 	at android.view.AccessibilityInteractionController.perfromAccessibilityActionUiThread(AccessibilityInteractionController.java:588)
+E/AndroidRuntime(12825): 	at android.view.AccessibilityInteractionController.access$400(AccessibilityInteractionController.java:49)
+E/AndroidRuntime(12825): 	at android.view.AccessibilityInteractionController$PrivateHandler.handleMessage(AccessibilityInteractionController.java:974)
+E/AndroidRuntime(12825): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(12825): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(12825): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(12825): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(12825): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(12825): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(12825): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(12825): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(12825): Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #17: invalid drawable tag vector
+E/AndroidRuntime(12825): 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+E/AndroidRuntime(12825): 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+E/AndroidRuntime(12825): 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+E/AndroidRuntime(12825): 	... 39 more
+E/ActivityThread( 2172): Failed to find provider info for com.google.android.partnersetup.rlzappprovider
+E/ActivityThread( 2172): Failed to find provider info for com.google.android.partnersetup.rlzappprovider
+E/ActivityThread( 2172): Failed to find provider info for com.google.android.partnersetup.rlzappprovider
+E/AndroidRuntime(14195): FATAL EXCEPTION: main
+E/AndroidRuntime(14195): Process: org.secuso.privacyfriendlyactivitytracker, PID: 14195
+E/AndroidRuntime(14195): android.view.InflateException: Binary XML file line #25: Error inflating class android.support.design.widget.TextInputLayout
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:708)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.inflate(LayoutInflater.java:353)
+E/AndroidRuntime(14195): 	at org.secuso.privacyfriendlyactivitytracker.fragments.DailyReportFragment.onWalkingModeClicked(DailyReportFragment.java:587)
+E/AndroidRuntime(14195): 	at org.secuso.privacyfriendlyactivitytracker.adapters.ReportAdapter$SummaryViewHolder.onMenuItemClick(ReportAdapter.java:490)
+E/AndroidRuntime(14195): 	at androidx.appcompat.widget.PopupMenu$1.onMenuItemSelected(PopupMenu.java:113)
+E/AndroidRuntime(14195): 	at androidx.appcompat.view.menu.MenuBuilder.dispatchMenuItemSelected(MenuBuilder.java:834)
+E/AndroidRuntime(14195): 	at androidx.appcompat.view.menu.MenuItemImpl.invoke(MenuItemImpl.java:158)
+E/AndroidRuntime(14195): 	at androidx.appcompat.view.menu.MenuBuilder.performItemAction(MenuBuilder.java:985)
+E/AndroidRuntime(14195): 	at androidx.appcompat.view.menu.MenuPopup.onItemClick(MenuPopup.java:128)
+E/AndroidRuntime(14195): 	at android.widget.AdapterView.performItemClick(AdapterView.java:299)
+E/AndroidRuntime(14195): 	at android.widget.AbsListView.performItemClick(AbsListView.java:1113)
+E/AndroidRuntime(14195): 	at android.widget.AbsListView$PerformClick.run(AbsListView.java:2904)
+E/AndroidRuntime(14195): 	at android.widget.AbsListView$3.run(AbsListView.java:3638)
+E/AndroidRuntime(14195): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(14195): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(14195): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(14195): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(14195): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(14195): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(14195): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(14195): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(14195): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(14195): Caused by: java.lang.ClassNotFoundException: Didn't find class "android.support.design.widget.TextInputLayout" on path: DexPathList[[zip file "/data/app/org.secuso.privacyfriendlyactivitytracker-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.secuso.privacyfriendlyactivitytracker-1, /vendor/lib, /system/lib]]
+E/AndroidRuntime(14195): 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+E/AndroidRuntime(14195): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:497)
+E/AndroidRuntime(14195): 	at java.lang.ClassLoader.loadClass(ClassLoader.java:457)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.createView(LayoutInflater.java:559)
+E/AndroidRuntime(14195): 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:697)
+E/AndroidRuntime(14195): 	... 24 more
+***********
+package name: org.secuso.privacyfriendlyactivitytracker
+app code version: 2.4
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 1705102 Realtime: 1705102
+
+** MEMINFO in pid 14195 [org.secuso.privacyfriendlyactivitytracker] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4935     4900        0        0     9368     9172      195
+  Dalvik Heap    12574    12336        0        0    14872    14370      502
+ Dalvik Other     2628     2472        0        0                           
+        Stack      108      108        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1423      544      180        0                           
+    .apk mmap      305        0       92        0                           
+    .ttf mmap        1        0        0        0                           
+    .dex mmap     4778      276     4048        0                           
+   Other mmap       16        4        0        0                           
+      Unknown       68       68        0        0                           
+        TOTAL    26840    20708     4324        0    24240    23542      697
+ 
+ Objects
+               Views:      167         ViewRootImpl:        2
+         AppContexts:        4           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:       12        Proxy Binders:       22
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      274
+  PAGECACHE_OVERFLOW:       49          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       16             33      1610/17/3  /data/data/org.secuso.privacyfriendlyactivitytracker/databases/StepCount.db
+         4       16             43       590/17/3  /data/data/org.secuso.privacyfriendlyactivitytracker/databases/WalkingModes.db
+         4       16             36        15/16/2  /data/data/org.secuso.privacyfriendlyactivitytracker/databases/TrainingSessions.db
+***********

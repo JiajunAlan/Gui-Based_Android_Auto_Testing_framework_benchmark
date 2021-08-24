@@ -1,0 +1,63 @@
+the 1th test suite
+the covered nodes (states): 8
+==================
+menuclick(className='android.widget.TextView',instance='0'):android.widget.TextView@"About LocationMapViewer"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"click(content-desc='More options'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About LocationMapViewer"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"menuclick(className='android.widget.TextView',instance='0'):android.widget.TextView@"About LocationMapViewer"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+
+click(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(resource-id='de.k3b.android.locationMapViewer:id/thumbnail'):android.widget.ImageView@""click(resource-id='de.k3b.android.locationMapViewer:id/thumbnail'):android.widget.ImageView@""click(className='android.widget.TextView',instance='3'):android.widget.TextView@" (0/0) z=3"click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Bookmarks"click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Bookmarks"click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"click(className='android.widget.TextView',instance='2'):android.widget.TextView@"[Current Window]"
+
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(content-desc='More options'):android.widget.ImageButton@""menuclick(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"menumenuclick(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='2'):android.widget.TextView@"[Current Window]"click(resource-id='de.k3b.android.locationMapViewer:id/thumbnail'):android.widget.ImageView@""click(resource-id='de.k3b.android.locationMapViewer:id/cmd_delete'):android.widget.ImageButton@""
+
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"back
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+back
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+back
+
+click(content-desc='More options'):android.widget.ImageButton@""menuclick(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='12'):android.widget.TextView@"12sty"edit(resource-id='android:id/edit'):android.widget.EditText@"3"edit(resource-id='android:id/edit'):android.widget.EditText@""edit(resource-id='android:id/edit'):android.widget.EditText@"12"click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"click(className='android.widget.TextView',instance='10'):android.widget.TextView@"0"
+
+click(resource-id='android:id/home'):android.widget.ImageView@""click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"click(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='9'):android.widget.TextView@"North"backclick(resource-id='android:id/checkbox'):android.widget.CheckBox@""click(className='android.widget.TextView',instance='5'):android.widget.TextView@"About LocationMapViewer"backclick(className='android.widget.TextView',instance='12'):android.widget.TextView@"0"
+
+clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Current Position"click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Show Minimap"click(className='android.widget.TextView',instance='12'):android.widget.TextView@"testt"backclick(resource-id='android:id/checkbox'):android.widget.CheckBox@""click(resource-id='android:id/checkbox'):android.widget.CheckBox@""click(className='android.widget.TextView',instance='10'):android.widget.TextView@"0"edit(resource-id='android:id/edit'):android.widget.EditText@""
+
+click(resource-id='android:id/home'):android.widget.ImageView@""clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(resource-id='de.k3b.android.locationMapViewer:id/thumbnail'):android.widget.ImageView@""click(className='android.widget.TextView',instance='3'):android.widget.TextView@" (0/0) z=3"click(className='android.widget.TextView',instance='5'):android.widget.TextView@" (37.4219983/-122.084) z="click(className='android.widget.TextView',instance='4'):android.widget.TextView@"[GPS] "click(resource-id='de.k3b.android.locationMapViewer:id/cmd_edit'):android.widget.ImageButton@""click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"
+
+clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(resource-id='android:id/home'):android.widget.ImageView@""click(content-desc='More options'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About LocationMapViewer"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+back
+
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"click(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(resource-id='de.k3b.android.locationMapViewer:id/cmd_cancel'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"click(content-desc='More options'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About LocationMapViewer"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"click(content-desc='More options'):android.widget.ImageButton@""
+
+menumenuclickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""menumenumenumenuclick(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='3'):android.widget.TextView@" (0/0) z=3"
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+back
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+
+click(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""click(className='android.widget.TextView',instance='2'):android.widget.TextView@"[Current Window]"click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Bookmarks"click(className='android.widget.TextView',instance='4'):android.widget.TextView@"[GPS] "clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"click(resource-id='de.k3b.android.locationMapViewer:id/cmd_edit'):android.widget.ImageButton@""click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"click(resource-id='de.k3b.android.locationMapViewer:id/cmd_delete'):android.widget.ImageButton@""
+
+clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""back
+
+click(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='12'):android.widget.TextView@"12"edit(resource-id='android:id/edit'):android.widget.EditText@"12"click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map Overlays"click(className='android.widget.TextView',instance='8'):android.widget.TextView@"3"edit(resource-id='android:id/edit'):android.widget.EditText@"12st"edit(resource-id='android:id/edit'):android.widget.EditText@"3"back
+
+clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(resource-id='android:id/home'):android.widget.ImageView@""click(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Current Position"click(className='android.widget.TextView',instance='10'):android.widget.TextView@"12"edit(resource-id='android:id/edit'):android.widget.EditText@"3"edit(resource-id='android:id/edit'):android.widget.EditText@"0"edit(resource-id='android:id/edit'):android.widget.EditText@"12stt"edit(resource-id='android:id/edit'):android.widget.EditText@"12stt"
+

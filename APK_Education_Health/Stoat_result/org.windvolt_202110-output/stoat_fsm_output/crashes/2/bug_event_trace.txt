@@ -1,0 +1,11 @@
+menu@
+click(className='android.widget.Button',instance='0')@OK
+click(resource-id='org.windvolt:id/open_page1')@
+back@
+click(resource-id='org.windvolt:id/open_page0')@
+back@
+clickLong(content-desc='More options')@
+click(resource-id='org.windvolt:id/recommendation_symbol')@
+click(resource-id='org.windvolt:id/open_page3')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@Ökonomie

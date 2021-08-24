@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[168,66][606,612]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,87][585,591]">
+      <node index="0" text="Simple View" resource-id="android:id/text1" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,87][585,213]" />
+      <node index="1" text="Detailed View" resource-id="android:id/text1" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,213][585,339]" />
+      <node index="2" text="Big View" resource-id="android:id/text1" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,339][585,465]" />
+      <node index="3" text="Log View" resource-id="android:id/text1" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,465][585,591]" />
+    </node>
+  </node>
+</hierarchy>

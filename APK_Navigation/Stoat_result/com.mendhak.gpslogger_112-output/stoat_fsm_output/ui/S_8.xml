@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[523,754][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,775][1059,1783]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,775][1059,901]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,775][1059,901]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,809][1017,866]">
+            <node index="0" text="Auto Send Now" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,809][1017,866]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,901][1059,1027]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,901][1059,1027]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,935][1017,992]">
+            <node index="0" text="Dropbox" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,935][1017,992]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1027][1059,1153]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1027][1059,1153]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1061][1017,1118]">
+            <node index="0" text="SFTP" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1061][1017,1118]" />
+          </node>
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1153][1059,1279]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1153][1059,1279]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1187][1017,1244]">
+            <node index="0" text="OpenGTS" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1187][1017,1244]" />
+          </node>
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1279][1059,1405]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1279][1059,1405]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1313][1017,1370]">
+            <node index="0" text="OpenStreetMap" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1313][1017,1370]" />
+          </node>
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1405][1059,1531]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1405][1059,1531]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1439][1017,1496]">
+            <node index="0" text="Email" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1439][1017,1496]" />
+          </node>
+        </node>
+      </node>
+      <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1531][1059,1657]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1531][1059,1657]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1565][1017,1622]">
+            <node index="0" text="ownCloud" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1565][1017,1622]" />
+          </node>
+        </node>
+      </node>
+      <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1657][1059,1783]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/content" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,1657][1059,1783]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1691][1017,1748]">
+            <node index="0" text="FTP" resource-id="com.mendhak.gpslogger:id/title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,1691][1017,1748]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

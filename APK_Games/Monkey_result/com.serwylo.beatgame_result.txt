@@ -1,0 +1,239 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626389353653 count=1000
+:AllowPackage: com.serwylo.beatgame
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(1513.0,89.0)
+:Sending Touch (ACTION_UP): 0:(1554.9958,96.48364)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(762.0,497.0)
+:Sending Touch (ACTION_UP): 0:(712.202,413.53635)
+:Sending Touch (ACTION_DOWN): 0:(262.0,650.0)
+:Sending Touch (ACTION_UP): 0:(255.9399,644.9241)
+:Sending Touch (ACTION_DOWN): 0:(486.0,618.0)
+:Sending Touch (ACTION_UP): 0:(480.20618,627.4312)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,366.0)
+:Sending Touch (ACTION_UP): 0:(980.07874,375.05173)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,681.0)
+:Sending Touch (ACTION_UP): 0:(1058.9738,689.95746)
+:Sending Touch (ACTION_DOWN): 0:(28.0,76.0)
+    //[calendar_time:2021-08-04 00:56:36.154  system_uptime:8408406]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(16.17306,107.57003)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(459.0,466.0)
+:Sending Touch (ACTION_UP): 0:(454.91873,454.8198)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,934.0)
+:Sending Touch (ACTION_UP): 0:(146.33308,940.33826)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(1478.0,502.0)
+:Sending Touch (ACTION_UP): 0:(1464.8162,461.10147)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1674.0,615.0)
+:Sending Touch (ACTION_UP): 0:(1669.6298,623.83826)
+    //[calendar_time:2021-08-04 00:56:44.367  system_uptime:8416591]
+    // Sending event #200
+    //[calendar_time:2021-08-04 00:56:44.869  system_uptime:8417093]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(376.0,527.0)
+:Sending Touch (ACTION_UP): 0:(360.94754,480.51178)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(569.0,970.0)
+:Sending Touch (ACTION_UP): 0:(567.7394,957.84515)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(605.0,505.0)
+:Sending Touch (ACTION_UP): 0:(606.02545,506.88593)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,776.0)
+:Sending Touch (ACTION_UP): 0:(958.59796,776.00964)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(1281.0,602.0)
+:Sending Touch (ACTION_UP): 0:(1275.5951,600.20886)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1738.0,887.0)
+    //[calendar_time:2021-08-04 00:56:55.550  system_uptime:8427774]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(1778.7389,914.4712)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1519.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(1532.7615,1074.8641)
+:Sending Touch (ACTION_DOWN): 0:(853.0,345.0)
+:Sending Touch (ACTION_UP): 0:(899.1619,293.7682)
+:Sending Touch (ACTION_DOWN): 0:(1159.0,686.0)
+:Sending Touch (ACTION_UP): 0:(1169.363,723.6613)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(412.0,143.0)
+:Sending Touch (ACTION_UP): 0:(431.25113,185.06653)
+:Sending Touch (ACTION_DOWN): 0:(232.0,167.0)
+:Sending Touch (ACTION_UP): 0:(251.81696,170.51988)
+    //[calendar_time:2021-08-04 00:57:09.239  system_uptime:8441462]
+    // Sending event #400
+    //[calendar_time:2021-08-04 00:57:09.740  system_uptime:8441964]
+    // Sending event #400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(829.0,719.0)
+:Sending Touch (ACTION_UP): 0:(745.1782,664.1377)
+:Sending Touch (ACTION_DOWN): 0:(621.0,25.0)
+:Sending Touch (ACTION_UP): 0:(643.7338,41.215122)
+:Sending Touch (ACTION_DOWN): 0:(549.0,444.0)
+:Sending Touch (ACTION_UP): 0:(490.40833,376.6557)
+:Sending Touch (ACTION_DOWN): 0:(305.0,876.0)
+:Sending Touch (ACTION_UP): 0:(297.80936,877.8752)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(1278.0,532.0)
+:Sending Touch (ACTION_UP): 0:(1277.1776,538.02673)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(232.0,458.0)
+:Sending Touch (ACTION_UP): 0:(221.27794,457.37003)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2021-08-04 00:57:22.892  system_uptime:8455116]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(398.0,578.0)
+:Sending Touch (ACTION_UP): 0:(397.2122,567.3123)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,753.0)
+:Sending Touch (ACTION_UP): 0:(1097.2738,747.6682)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(798.0,376.0)
+:Sending Touch (ACTION_UP): 0:(779.2033,383.1758)
+:Sending Touch (ACTION_DOWN): 0:(966.0,741.0)
+:Sending Touch (ACTION_UP): 0:(1010.1041,672.0413)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1254.0,264.0)
+:Sending Touch (ACTION_UP): 0:(1245.7919,264.51804)
+:Sending Touch (ACTION_DOWN): 0:(524.0,946.0)
+:Sending Touch (ACTION_UP): 0:(527.71954,946.0694)
+:Sending Touch (ACTION_DOWN): 0:(693.0,506.0)
+:Sending Touch (ACTION_UP): 0:(662.7582,531.87244)
+:Sending Touch (ACTION_DOWN): 0:(495.0,566.0)
+:Sending Touch (ACTION_UP): 0:(510.60867,570.6478)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(689.0,644.0)
+:Sending Touch (ACTION_UP): 0:(690.12836,614.1741)
+:Sending Touch (ACTION_DOWN): 0:(1410.0,276.0)
+:Sending Touch (ACTION_UP): 0:(1408.0591,264.7004)
+:Sending Touch (ACTION_DOWN): 0:(282.0,959.0)
+    //[calendar_time:2021-08-04 00:57:34.554  system_uptime:8466777]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(284.01984,964.31976)
+:Sending Touch (ACTION_DOWN): 0:(1683.0,126.0)
+:Sending Touch (ACTION_UP): 0:(1669.2936,40.093987)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1716.0,171.0)
+:Sending Touch (ACTION_UP): 0:(1688.8749,263.55865)
+:Sending Touch (ACTION_DOWN): 0:(168.0,372.0)
+:Sending Touch (ACTION_UP): 0:(162.33594,369.3631)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(920.0,340.0)
+:Sending Touch (ACTION_UP): 0:(942.29987,257.91412)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1697.0,382.0)
+:Sending Touch (ACTION_UP): 0:(1698.9836,372.83243)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1672.0,26.0)
+:Sending Touch (ACTION_UP): 0:(1654.4309,15.048824)
+:Sending Touch (ACTION_DOWN): 0:(789.0,293.0)
+    //[calendar_time:2021-08-04 00:57:44.243  system_uptime:8476466]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(798.67957,284.47305)
+:Sending Touch (ACTION_DOWN): 0:(1389.0,432.0)
+:Sending Touch (ACTION_UP): 0:(1388.6533,430.0741)
+:Sending Touch (ACTION_DOWN): 0:(1271.0,269.0)
+:Sending Touch (ACTION_UP): 0:(1266.7513,263.5887)
+:Sending Touch (ACTION_DOWN): 0:(1769.0,224.0)
+:Sending Touch (ACTION_UP): 0:(1769.5635,217.84848)
+:Sending Touch (ACTION_DOWN): 0:(896.0,884.0)
+:Sending Touch (ACTION_UP): 0:(898.26715,890.33344)
+:Sending Touch (ACTION_DOWN): 0:(494.0,246.0)
+:Sending Touch (ACTION_UP): 0:(493.78134,264.40546)
+:Sending Touch (ACTION_DOWN): 0:(748.0,981.0)
+:Sending Touch (ACTION_UP): 0:(666.1197,1051.106)
+:Sending Touch (ACTION_DOWN): 0:(1591.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(1580.76,1054.9851)
+:Sending Touch (ACTION_DOWN): 0:(351.0,460.0)
+:Sending Touch (ACTION_UP): 0:(370.05432,497.8717)
+:Sending Touch (ACTION_DOWN): 0:(528.0,237.0)
+:Sending Touch (ACTION_UP): 0:(475.0198,203.76518)
+:Sending Touch (ACTION_DOWN): 0:(1200.0,883.0)
+:Sending Touch (ACTION_UP): 0:(1113.6167,802.1125)
+:Sending Touch (ACTION_DOWN): 0:(1383.0,518.0)
+:Sending Touch (ACTION_UP): 0:(1449.152,461.95868)
+:Sending Touch (ACTION_DOWN): 0:(515.0,492.0)
+:Sending Touch (ACTION_UP): 0:(487.16837,454.89697)
+:Sending Touch (ACTION_DOWN): 0:(1208.0,738.0)
+:Sending Touch (ACTION_UP): 0:(1208.1138,741.0739)
+    //[calendar_time:2021-08-04 00:57:58.913  system_uptime:8491136]
+    // Sending event #800
+    //[calendar_time:2021-08-04 00:57:59.414  system_uptime:8491638]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(238.0,512.0)
+:Sending Touch (ACTION_UP): 0:(234.71516,510.76025)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,519.0)
+:Sending Touch (ACTION_UP): 0:(535.6166,508.42145)
+:Sending Touch (ACTION_DOWN): 0:(453.0,430.0)
+:Sending Touch (ACTION_UP): 0:(466.18893,415.35156)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.beatgame/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.beatgame/.AndroidLauncher } in package com.serwylo.beatgame
+:Sending Touch (ACTION_DOWN): 0:(668.0,695.0)
+:Sending Touch (ACTION_UP): 0:(671.32477,688.6812)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(663.0,154.0)
+:Sending Touch (ACTION_UP): 0:(646.784,202.20421)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2021-08-04 00:58:11.081  system_uptime:8503305]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(1417.0,332.0)
+:Sending Touch (ACTION_UP): 0:(1420.4219,331.38574)
+:Sending Touch (ACTION_DOWN): 0:(634.0,717.0)
+:Sending Touch (ACTION_UP): 0:(674.2435,719.8312)
+:Sending Touch (ACTION_DOWN): 0:(1747.0,934.0)
+:Sending Touch (ACTION_UP): 0:(1733.6237,953.5117)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(174.0,266.0)
+:Sending Touch (ACTION_UP): 0:(131.01102,280.07452)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=7 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=116338ms (0ms mobile, 0ms wifi, 116338ms not connected)
+// Monkey finished

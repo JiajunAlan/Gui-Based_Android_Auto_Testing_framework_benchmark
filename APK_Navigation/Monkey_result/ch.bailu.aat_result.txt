@@ -1,0 +1,250 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626394121391 count=1000
+:AllowPackage: ch.bailu.aat
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(237.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(336.3037,1243.3639)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(1030.9794,1767.9365)
+    // Allowing start of Intent { act=ch.bailu.aat.activities.PreferencesActivity cmp=ch.bailu.aat/.activities.PreferencesActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(357.0,207.0)
+:Sending Touch (ACTION_UP): 0:(356.92398,207.446)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(817.0,821.0)
+:Sending Touch (ACTION_UP): 0:(831.3552,817.9673)
+:Sending Touch (ACTION_DOWN): 0:(561.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(645.3452,1263.5653)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1637.0)
+:Sending Touch (ACTION_UP): 0:(387.86987,1674.8262)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2021-08-04 02:08:04.640  system_uptime:12696885]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(167.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(178.70209,1553.1986)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(74.0,181.0)
+:Sending Touch (ACTION_UP): 0:(57.401638,182.66907)
+    // activityResuming(ch.bailu.aat)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,157.0)
+:Sending Touch (ACTION_UP): 0:(1016.7275,157.23035)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(213.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(247.61594,1219.4149)
+    // Allowing start of Intent { act=ch.bailu.aat.activities.CockpitActivity cmp=ch.bailu.aat/.activities.CockpitActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(777.0,114.0)
+:Sending Touch (ACTION_UP): 0:(776.3741,98.132904)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,673.0)
+:Sending Touch (ACTION_UP): 0:(1008.99146,662.2495)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(401.34406,1229.548)
+:Sending Touch (ACTION_DOWN): 0:(712.0,289.0)
+:Sending Touch (ACTION_UP): 0:(633.71857,291.71844)
+:Sending Touch (ACTION_DOWN): 0:(611.0,75.0)
+:Sending Touch (ACTION_UP): 0:(556.442,126.314285)
+    //[calendar_time:2021-08-04 02:08:14.337  system_uptime:12706560]
+    // Sending event #200
+    //[calendar_time:2021-08-04 02:08:14.838  system_uptime:12707062]
+    // Sending event #200
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(872.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(840.0088,1590.0353)
+:Sending Touch (ACTION_DOWN): 0:(948.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(947.97894,1582.3561)
+:Sending Touch (ACTION_DOWN): 0:(602.0,538.0)
+:Sending Touch (ACTION_UP): 0:(596.912,524.9661)
+:Sending Touch (ACTION_DOWN): 0:(827.0,425.0)
+:Sending Touch (ACTION_UP): 0:(825.63776,420.90936)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(983.0,653.0)
+:Sending Touch (ACTION_UP): 0:(993.2639,612.1163)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1727.0)
+:Sending Touch (ACTION_UP): 0:(939.0984,1730.7657)
+:Sending Touch (ACTION_DOWN): 0:(947.0,952.0)
+:Sending Touch (ACTION_UP): 0:(945.6332,959.14355)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(793.4925,1786.3293)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1087.0)
+    //[calendar_time:2021-08-04 02:08:28.037  system_uptime:12720261]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(453.52335,1071.4227)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(514.80884,1475.4957)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(21.0,874.0)
+:Sending Touch (ACTION_UP): 0:(29.747017,873.3929)
+:Sending Touch (ACTION_DOWN): 0:(711.0,917.0)
+:Sending Touch (ACTION_UP): 0:(706.27826,919.2309)
+:Sending Touch (ACTION_DOWN): 0:(36.0,819.0)
+:Sending Touch (ACTION_UP): 0:(20.007477,814.9594)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(799.0,724.0)
+:Sending Touch (ACTION_UP): 0:(804.62805,723.3672)
+    // Allowing start of Intent { act=ch.bailu.aat.activities.NodeDetailActivity cmp=ch.bailu.aat/.activities.NodeDetailActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(381.0,104.0)
+:Sending Touch (ACTION_UP): 0:(381.01648,91.22659)
+:Sending Touch (ACTION_DOWN): 0:(711.0,424.0)
+:Sending Touch (ACTION_UP): 0:(738.2684,462.71347)
+:Sending Touch (ACTION_DOWN): 0:(806.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(814.3837,1231.6282)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(1002.4326,1695.5573)
+:Sending Touch (ACTION_DOWN): 0:(104.0,301.0)
+    //[calendar_time:2021-08-04 02:08:43.743  system_uptime:12735967]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(41.39491,197.96788)
+:Sending Touch (ACTION_DOWN): 0:(384.0,993.0)
+:Sending Touch (ACTION_UP): 0:(405.6652,969.2914)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(548.7301,1634.1361)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(857.0,289.0)
+:Sending Touch (ACTION_UP): 0:(878.8127,305.08823)
+:Sending Touch (ACTION_DOWN): 0:(704.0,818.0)
+:Sending Touch (ACTION_UP): 0:(715.2999,818.6697)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1382.0)
+:Sending Touch (ACTION_UP): 0:(276.09918,1388.3573)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1321.0)
+    //[calendar_time:2021-08-04 02:08:56.939  system_uptime:12749163]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(632.06824,1327.2524)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(847.0,1120.0)
+:Sending Touch (ACTION_UP): 0:(906.55566,1164.2274)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(905.0,276.0)
+:Sending Touch (ACTION_UP): 0:(907.60156,283.34518)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(63.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(63.711147,1206.1913)
+:Sending Touch (ACTION_DOWN): 0:(449.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(507.27142,1431.228)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-04 02:09:08.604  system_uptime:12760828]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(124.0,66.0)
+:Sending Touch (ACTION_UP): 0:(124.10511,67.03878)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,275.0)
+:Sending Touch (ACTION_UP): 0:(333.34946,262.90338)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(986.9906,1366.7848)
+:Sending Touch (ACTION_DOWN): 0:(565.0,481.0)
+:Sending Touch (ACTION_UP): 0:(523.46564,532.231)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(334.84714,1414.8302)
+:Sending Touch (ACTION_DOWN): 0:(440.0,156.0)
+:Sending Touch (ACTION_UP): 0:(430.3645,158.49358)
+:Sending Touch (ACTION_DOWN): 0:(159.0,4.0)
+:Sending Touch (ACTION_UP): 0:(163.96356,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2021-08-04 02:09:19.808  system_uptime:12772032]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(1079.736,1447.5618)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1103.705)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(302.0,901.0)
+:Sending Touch (ACTION_UP): 0:(295.3509,897.75995)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(592.0,980.0)
+:Sending Touch (ACTION_UP): 0:(596.6013,968.35626)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2021-08-04 02:09:29.467  system_uptime:12781691]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(675.0,738.0)
+:Sending Touch (ACTION_UP): 0:(686.1428,741.47424)
+:Sending Touch (ACTION_DOWN): 0:(658.0,920.0)
+:Sending Touch (ACTION_UP): 0:(656.9797,920.4942)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Touch (ACTION_DOWN): 0:(503.0,758.0)
+:Sending Touch (ACTION_UP): 0:(491.4485,756.5247)
+:Sending Touch (ACTION_DOWN): 0:(613.0,895.0)
+:Sending Touch (ACTION_UP): 0:(579.1395,856.2431)
+:Sending Touch (ACTION_DOWN): 0:(158.0,268.0)
+:Sending Touch (ACTION_UP): 0:(173.74867,221.51418)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.bailu.aat/.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.bailu.aat/.activities.MainActivity } in package ch.bailu.aat
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(771.0,236.0)
+:Sending Touch (ACTION_UP): 0:(770.81573,236.16913)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(895.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(896.85565,1529.6024)
+:Sending Touch (ACTION_DOWN): 0:(297.0,219.0)
+:Sending Touch (ACTION_UP): 0:(290.38278,221.94832)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(679.0,673.0)
+    //[calendar_time:2021-08-04 02:09:46.700  system_uptime:12798923]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(750.31396,735.97894)
+:Sending Touch (ACTION_DOWN): 0:(254.0,274.0)
+:Sending Touch (ACTION_UP): 0:(260.61124,231.03668)
+    // activityResuming(ch.bailu.aat)
+:Sending Touch (ACTION_DOWN): 0:(246.0,750.0)
+:Sending Touch (ACTION_UP): 0:(250.95845,736.17865)
+:Sending Touch (ACTION_DOWN): 0:(882.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(887.4627,1281.6246)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(815.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(831.12494,1565.8185)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,547.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=8 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=123398ms (0ms mobile, 0ms wifi, 123398ms not connected)
+// Monkey finished

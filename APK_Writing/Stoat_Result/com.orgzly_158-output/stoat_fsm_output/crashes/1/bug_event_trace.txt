@@ -1,0 +1,338 @@
+back@
+click(className='android.widget.CheckedTextView',instance='5')@Notebooks
+click(resource-id='com.orgzly:id/fab')@
+click(className='android.widget.Button',instance='0')@Cancel
+clickLong(resource-id='com.orgzly:id/activity_action_search')@
+clickLong(content-desc='Notebook last action')@
+clickLong(content-desc='Notebook modification time')@
+clickLong(className='android.widget.TextView',instance='2')@Getting Started with Orgzly
+click(content-desc='Open drawer')@
+clickLong(content-desc='More options')@
+clickLong(content-desc='Notebook last action')@
+click(resource-id='com.orgzly:id/books_context_menu_force_load')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='com.orgzly:id/activity_action_search')@
+click(resource-id='com.orgzly:id/item_head_bullet')@
+click(resource-id='com.orgzly:id/activity_action_search')@
+click(resource-id='com.orgzly:id/search_close_btn')@
+clickLong(className='android.widget.TextView',instance='17')@You can keep notebooks synced with a directory on your mobile device, SD card or Dropbox.
+click(className='android.widget.TextView',instance='7')@–
+click(resource-id='com.orgzly:id/activity_action_search')@
+clickLong(resource-id='com.orgzly:id/books_options_menu_item_cycle_visibility')@
+click(resource-id='com.orgzly:id/activity_action_search')@
+clickLong(className='android.widget.TextView',instance='1')@Notes
+click(className='android.widget.TextView',instance='3')@Search
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Delete
+click(className='android.widget.Button',instance='1')@Delete
+click(resource-id='com.orgzly:id/activity_action_search')@
+click(className='android.widget.TextView',instance='2')@+
+click(className='android.widget.TextView',instance='3')@Syncing
+click(content-desc='Open drawer')@
+clickLong(resource-id='com.orgzly:id/done')@
+click(content-desc='Close drawer')@
+clickLong(className='android.widget.TextView',instance='1')@Getting Started with Orgzly
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Paste note
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='8')@+
+click(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+click(resource-id='com.orgzly:id/fab')@
+edit(resource-id='com.orgzly:id/value')@Property value
+edit(resource-id='com.orgzly:id/name')@Property name
+click(className='android.widget.ImageView',instance='2')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Metadata
+click(className='android.widget.TextView',instance='2')@Show selected
+clickLong(content-desc='More options')@
+edit(resource-id='com.orgzly:id/fragment_note_title')@Title
+edit(resource-id='com.orgzly:id/body_edit')@Content
+edit(resource-id='com.orgzly:id/fragment_note_title')@test
+click(className='android.widget.TextView',instance='1')@Getting Started with Orgzly
+click(className='android.widget.TextView',instance='2')@Metadata
+click(resource-id='com.orgzly:id/fragment_note_tags_button')@
+click(resource-id='com.orgzly:id/done')@
+click(className='android.widget.TextView',instance='5')@Notebooks can be saved as plain-text files
+click(resource-id='com.orgzly:id/done')@
+click(className='android.widget.TextView',instance='13')@–
+clickLong(className='android.widget.TextView',instance='3')@Syncing
+clickLong(className='android.widget.TextView',instance='13')@12st
+clickLong(resource-id='com.orgzly:id/bottom_action_bar_schedule')@
+click(resource-id='com.orgzly:id/bottom_action_bar_schedule')@
+click(resource-id='com.orgzly:id/delay_used_checkbox')@
+click(className='android.widget.Button',instance='8')@Cancel
+click(resource-id='com.orgzly:id/books_options_menu_item_cycle_visibility')@
+clickLong(className='android.widget.TextView',instance='10')@–
+scroll(direction='up')@
+clickLong(content-desc='More options')@
+click(resource-id='com.orgzly:id/action_mode_close_button')@
+click(resource-id='com.orgzly:id/fab')@
+edit(resource-id='com.orgzly:id/fragment_note_tags')@tag tag
+click(className='android.widget.TextView',instance='3')@State
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='com.orgzly:id/fragment_note_state_remove')@
+click(resource-id='com.orgzly:id/fragment_note_metadata_header_up_icon')@
+click(resource-id='com.orgzly:id/fragment_note_metadata_header_down_icon')@
+edit(resource-id='com.orgzly:id/body_edit')@Content
+click(className='android.widget.TextView',instance='4')@Scheduled time
+click(className='android.widget.Button',instance='8')@Cancel
+edit(resource-id='com.orgzly:id/body_edit')@test
+edit(resource-id='com.orgzly:id/fragment_note_tags')@12
+click(resource-id='com.orgzly:id/fragment_note_scheduled_remove')@
+edit(resource-id='com.orgzly:id/fragment_note_tags')@1test
+clickLong(resource-id='com.orgzly:id/done')@
+edit(resource-id='com.orgzly:id/fragment_note_tags')@testt
+click(resource-id='com.orgzly:id/done')@
+edit(resource-id='com.orgzly:id/fragment_note_tags')@12stt
+clickLong(className='android.widget.TextView',instance='1')@Getting Started with Orgzly
+click(className='android.widget.TextView',instance='4')@Scheduled time
+click(className='android.widget.Button',instance='3')@Next Week
+click(resource-id='com.orgzly:id/end_time_used_checkbox')@
+click(className='android.widget.Button',instance='2')@Tomorrow
+click(className='android.widget.Button',instance='6')@.+1w
+scroll(direction='up')@
+clickLong(className='android.widget.Button',instance='3')@Month
+clickLong(className='android.widget.Button',instance='1')@2
+edit(resource-id='android:id/numberpicker_input')@+
+click(className='android.widget.Button',instance='1')@1
+click(className='android.widget.Button',instance='1')@2
+clickLong(className='android.widget.Button',instance='3')@Week
+click(className='android.widget.Button',instance='2')@3
+edit(resource-id='android:id/numberpicker_input')@
+edit(resource-id='android:id/numberpicker_input')@3
+click(className='android.widget.Button',instance='3')@Day
+click(className='android.widget.Button',instance='2')@4
+click(className='android.widget.Button',instance='6')@OK
+click(className='android.widget.Button',instance='1')@Today
+click(resource-id='com.orgzly:id/repeater_used_checkbox')@
+click(className='android.widget.Button',instance='10')@Set
+clickLong(resource-id='com.orgzly:id/done')@
+click(className='android.widget.TextView',instance='4')@Thu, Aug 19
+click(className='android.widget.Button',instance='0')@Thu, Aug 19
+clickLong(className='android.widget.Button',instance='4')@2020
+clickLong(className='android.widget.Button',instance='2')@18
+scroll(direction='up')@
+clickLong(className='android.widget.Button',instance='3')@19
+edit(resource-id='android:id/numberpicker_input')@Jun
+clickLong(className='android.widget.Button',instance='0')@May
+clickLong(className='android.widget.Button',instance='5')@2021
+clickLong(className='android.widget.Button',instance='5')@2022
+click(className='android.widget.Button',instance='0')@Sep
+edit(resource-id='android:id/numberpicker_input')@19
+click(className='android.widget.Button',instance='6')@Done
+click(className='android.widget.Button',instance='9')@Clear
+click(content-desc='Open drawer')@
+click(content-desc='Close drawer')@
+click(resource-id='com.orgzly:id/fab')@
+click(content-desc='Open drawer')@
+clickLong(resource-id='com.orgzly:id/done')@
+click(content-desc='Close drawer')@
+click(resource-id='com.orgzly:id/close')@
+click(className='android.widget.TextView',instance='9')@To Do
+click(resource-id='com.orgzly:id/done')@
+click(className='android.widget.TextView',instance='5')@Next 3 days
+clickLong(resource-id='com.orgzly:id/close')@
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@Next 3 days
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@.it.done s.ge.today ad.3
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@test 3 days
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@testdone s.ge.today ad.3
+click(resource-id='com.orgzly:id/close')@
+click(className='android.widget.TextView',instance='3')@Agenda
+click(resource-id='com.orgzly:id/done')@
+clickLong(className='android.widget.TextView',instance='9')@To Do
+click(resource-id='com.orgzly:id/saved_searches_help')@
+click(resource-id='com.orgzly:id/saved_searches_cab_move_up')@
+clickLong(className='android.widget.TextView',instance='9')@Scheduled
+click(className='android.widget.TextView',instance='7')@Next 3 days
+clickLong(className='android.widget.TextView',instance='5')@To Do
+click(className='android.widget.TextView',instance='8')@.it.done s.ge.today ad.3
+click(className='android.widget.TextView',instance='10')@s.today .it.done
+clickLong(resource-id='com.orgzly:id/saved_searches_help')@
+clickLong(className='android.widget.TextView',instance='6')@i.todo
+clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_up')@
+clickLong(className='android.widget.TextView',instance='10')@s.today .it.done
+click(className='android.widget.TextView',instance='4')@.it.done ad.7
+click(className='android.widget.TextView',instance='9')@Scheduled
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='6')@i.todo
+click(resource-id='com.orgzly:id/action_mode_close_button')@
+click(className='android.widget.TextView',instance='5')@To Do
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@i.todo
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@To Do
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@testdo
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@12 Do
+click(content-desc='Open drawer')@
+click(className='android.widget.CheckedTextView',instance='5')@Notebooks
+clickLong(className='android.widget.TextView',instance='7')@–
+click(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(className='android.widget.TextView',instance='6')@+
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(className='android.widget.TextView',instance='13')@–
+click(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(className='android.widget.TextView',instance='15')@–
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+click(className='android.widget.TextView',instance='8')@+
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(className='android.widget.TextView',instance='6')@Files are in the format used by “Org mode”.
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Refile
+click(resource-id='com.orgzly:id/item_refile_button')@
+click(resource-id='com.orgzly:id/item_head_bullet')@
+click(resource-id='com.orgzly:id/item_head_bullet')@
+clickLong(className='android.widget.TextView',instance='10')@Files are in the format used by “Org mode”.
+click(resource-id='com.orgzly:id/book_cab_cut')@
+click(className='android.widget.TextView',instance='7')@12
+edit(resource-id='com.orgzly:id/value')@Property value
+click(resource-id='com.orgzly:id/delete')@
+edit(resource-id='com.orgzly:id/fragment_note_title')@12st
+edit(resource-id='com.orgzly:id/name')@Property name
+edit(resource-id='com.orgzly:id/name')@12
+edit(resource-id='com.orgzly:id/name')@Property name
+edit(resource-id='com.orgzly:id/value')@Property value
+edit(resource-id='com.orgzly:id/value')@12
+edit(resource-id='com.orgzly:id/value')@1test
+edit(resource-id='com.orgzly:id/body_edit')@12
+edit(resource-id='com.orgzly:id/value')@testt
+edit(resource-id='com.orgzly:id/body_edit')@1test
+click(resource-id='com.orgzly:id/delete')@
+click(content-desc='Open drawer')@
+edit(resource-id='com.orgzly:id/body_edit')@12est
+click(className='android.widget.CheckedTextView',instance='6')@Getting Started with Orgzly
+click(className='android.widget.TextView',instance='5')@+
+clickLong(resource-id='com.orgzly:id/bottom_action_bar_schedule')@
+click(className='android.widget.TextView',instance='10')@Notebooks can be saved as plain-text files
+clickLong(resource-id='com.orgzly:id/book_cab_copy')@
+click(className='android.widget.TextView',instance='11')@Files are in the format used by “Org mode”.
+edit(resource-id='com.orgzly:id/fragment_note_title')@Notebooks can be saved as plain-text files
+edit(resource-id='com.orgzly:id/body_edit')@Files are in the format used by “Org mode”.
+edit(resource-id='com.orgzly:id/fragment_note_title')@testbooks can be saved as plain-text files
+edit(resource-id='com.orgzly:id/body_edit')@tests are in the format used by “Org mode”.
+edit(resource-id='com.orgzly:id/fragment_note_title')@12stbooks can be saved as plain-text files
+click(content-desc='Open drawer')@
+clickLong(resource-id='com.orgzly:id/sync_button_icon')@
+click(className='android.widget.Button',instance='0')@Copy
+click(className='android.widget.CheckedTextView',instance='0')@Searches
+clickLong(className='android.widget.TextView',instance='4')@.it.done ad.7
+clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_down')@
+clickLong(className='android.widget.TextView',instance='3')@Agenda
+clickLong(className='android.widget.TextView',instance='7')@Next 3 days
+click(resource-id='com.orgzly:id/saved_searches_cab_move_down')@
+click(className='android.widget.TextView',instance='7')@Scheduled
+click(className='android.widget.TextView',instance='9')@Next 3 days
+clickLong(className='android.widget.TextView',instance='7')@Scheduled
+click(className='android.widget.TextView',instance='10')@.it.done s.ge.today ad.3
+clickLong(resource-id='com.orgzly:id/done')@
+click(content-desc='Open drawer')@
+click(className='android.widget.CheckedTextView',instance='1')@Agenda
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Sync
+click(resource-id='com.orgzly:id/activity_action_search')@
+click(content-desc='Collapse')@
+clickLong(resource-id='com.orgzly:id/activity_action_search')@
+click(content-desc='Open drawer')@
+click(content-desc='Close drawer')@
+clickLong(className='android.widget.TextView',instance='9')@Next 3 days
+clickLong(className='android.widget.TextView',instance='8')@s.today .it.done
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Delete
+click(resource-id='com.orgzly:id/fab')@
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@Name
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@Query
+edit(resource-id='com.orgzly:id/fragment_saved_search_name')@12
+edit(resource-id='com.orgzly:id/fragment_saved_search_query')@test
+click(content-desc='Open drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Searches
+click(resource-id='com.orgzly:id/activity_action_search')@
+clickLong(content-desc='More options')@
+clickLong(className='android.widget.TextView',instance='4')@i.todo
+clickLong(className='android.widget.TextView',instance='3')@To Do
+edit(resource-id='com.orgzly:id/search_src_text')@Search notes
+clickLong(className='android.widget.TextView',instance='2')@.it.done ad.7
+clickLong(resource-id='com.orgzly:id/saved_searches_cab_move_up')@
+click(className='android.widget.TextView',instance='1')@Agenda
+click(resource-id='com.orgzly:id/saved_searches_help')@
+keyevent_back@
+click(resource-id='com.orgzly:id/activity_action_search')@
+click(resource-id='com.orgzly:id/fab')@
+click(content-desc='Open drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@To Do
+click(content-desc='Open drawer')@
+click(className='android.widget.Button',instance='0')@Repositories
+click(className='android.widget.Button',instance='0')@WebDAV
+clickLong(resource-id='com.orgzly:id/done')@
+click(resource-id='com.orgzly:id/done')@
+click(className='android.widget.Button',instance='1')@Test connection
+edit(resource-id='com.orgzly:id/activity_repo_webdav_password')@Password
+click(content-desc='Navigate up')@
+back@
+click(content-desc='Open drawer')@
+click(resource-id='com.orgzly:id/sync_button_icon')@
+click(content-desc='Open drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Notebooks
+clickLong(className='android.widget.TextView',instance='10')@Notebooks can be saved as plain-text files
+click(resource-id='com.orgzly:id/bottom_action_bar_new')@
+click(resource-id='com.orgzly:id/icon')@
+click(resource-id='com.orgzly:id/done')@
+clickLong(resource-id='com.orgzly:id/done')@
+clickLong(className='android.widget.TextView',instance='1')@Getting Started with Orgzly
+clickLong(resource-id='com.orgzly:id/item_head_bullet')@
+click(className='android.widget.TextView',instance='6')@–
+clickLong(className='android.widget.TextView',instance='5')@+
+clickLong(className='android.widget.TextView',instance='5')@You can keep notebooks synced with a directory on your mobile device, SD card or Dropbox.
+click(resource-id='com.orgzly:id/book_cab_cut')@
+clickLong(className='android.widget.TextView',instance='6')@–
+clickLong(className='android.widget.TextView',instance='8')@–
+click(className='android.widget.TextView',instance='4')@12st 1
+clickLong(className='android.widget.TextView',instance='1')@Getting Started with Orgzly
+clickLong(className='android.widget.TextView',instance='5')@12
+click(className='android.widget.TextView',instance='7')@Notebooks can be saved as plain-text files 1
+click(className='android.widget.TextView',instance='4')@12st
+clickLong(resource-id='com.orgzly:id/book_cab_copy')@
+clickLong(resource-id='com.orgzly:id/bottom_action_bar_new')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Move
+click(resource-id='com.orgzly:id/bottom_action_bar_schedule')@
+click(className='android.widget.Button',instance='7')@-1d
+click(className='android.widget.Button',instance='5')@OK
+click(resource-id='com.orgzly:id/time_used_checkbox')@
+click(className='android.widget.Button',instance='4')@PM
+click(className='android.widget.Button',instance='1')@2
+clickLong(className='android.widget.Button',instance='2')@31
+scroll(direction='down')@
+click(className='android.widget.Button',instance='3')@32
+clickLong(className='android.widget.Button',instance='0')@3
+click(className='android.widget.Button',instance='3')@33
+click(className='android.widget.Button',instance='5')@Done
+clickLong(className='android.widget.Button',instance='4')@PM
+clickLong(className='android.widget.Button',instance='3')@33
+edit(resource-id='android:id/numberpicker_input')@PM
+clickLong(className='android.widget.Button',instance='3')@34
+clickLong(className='android.widget.Button',instance='1')@2
+edit(resource-id='android:id/numberpicker_input')@34
+clickLong(className='android.widget.Button',instance='0')@1
+click(className='android.widget.Button',instance='3')@35
+clickLong(className='android.widget.Button',instance='4')@AM
+edit(resource-id='android:id/numberpicker_input')@35
+clickLong(className='android.widget.Button',instance='3')@36
+scroll(direction='up')@
+click(className='android.widget.Button',instance='3')@37
+click(className='android.widget.Button',instance='0')@10
+click(className='android.widget.Button',instance='2')@36
+click(className='android.widget.Button',instance='2')@35
+clickLong(className='android.widget.Button',instance='2')@34
+clickLong(className='android.widget.Button',instance='3')@35
+click(className='android.widget.Button',instance='2')@34
+click(className='android.widget.Button',instance='1')@11
+click(className='android.widget.Button',instance='2')@33
+clickLong(className='android.widget.Button',instance='1')@12
+edit(resource-id='android:id/numberpicker_input')@AM
+click(className='android.widget.Button',instance='1')@1
+clickLong(className='android.widget.Button',instance='2')@32
+click(className='android.widget.Button',instance='0')@12
+clickLong(className='android.widget.Button',instance='1')@1
+edit(resource-id='android:id/numberpicker_input')@1
+click(className='android.widget.Button',instance='2')@31
+clickLong(className='android.widget.Button',instance='0')@12

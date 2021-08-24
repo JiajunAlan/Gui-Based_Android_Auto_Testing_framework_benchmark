@@ -1,0 +1,6 @@
+    2026@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2027@click(resource-id='com.stypox.mastercom_workbook:id/selectYearAction'):android.widget.TextView@""
+    2028@clickLong(resource-id='com.stypox.mastercom_workbook:id/selectYearAction'):android.widget.TextView@""
+    2029@click(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction'):android.widget.TextView@""
+    2030@clickLong(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction'):android.widget.TextView@""
+    2031@back

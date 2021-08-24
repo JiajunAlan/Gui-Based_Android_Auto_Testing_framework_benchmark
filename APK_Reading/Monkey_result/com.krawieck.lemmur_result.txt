@@ -1,0 +1,1365 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626400586945 count=1000
+:AllowPackage: com.krawieck.lemmur
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 8873)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 8888)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 8906)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(29.0,831.0)
+:Sending Touch (ACTION_UP): 0:(31.513376,834.42145)
+:Sending Touch (ACTION_DOWN): 0:(67.0,710.0)
+:Sending Touch (ACTION_UP): 0:(87.76733,683.5857)
+:Sending Touch (ACTION_DOWN): 0:(51.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(37.994827,1286.4353)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 8944)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 8960)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 8975)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9008)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9023)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9039)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,580.0)
+:Sending Touch (ACTION_UP): 0:(716.125,655.18274)
+:Sending Touch (ACTION_DOWN): 0:(36.0,483.0)
+:Sending Touch (ACTION_UP): 0:(35.44512,475.97925)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(455.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(454.15515,1687.9355)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    //[calendar_time:2021-08-04 03:53:07.018  system_uptime:18999262]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(849.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(856.0249,1035.5515)
+:Sending Touch (ACTION_DOWN): 0:(402.0,480.0)
+:Sending Touch (ACTION_UP): 0:(397.74658,499.6298)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(351.0,849.0)
+:Sending Touch (ACTION_UP): 0:(492.9862,812.1933)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9068)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9083)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9101)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(418.0,490.0)
+:Sending Touch (ACTION_UP): 0:(431.62265,493.8328)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(577.8138,1174.271)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,678.0)
+:Sending Touch (ACTION_UP): 0:(192.41211,723.98145)
+:Sending Touch (ACTION_DOWN): 0:(218.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(176.23026,995.8652)
+:Sending Touch (ACTION_DOWN): 0:(284.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(288.50018,1158.9318)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2021-08-04 03:53:16.186  system_uptime:19008410]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(657.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(635.4395,1150.6489)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(958.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(954.80115,1174.1599)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2021-08-04 03:53:28.122  system_uptime:19020345]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(61.0,507.0)
+:Sending Touch (ACTION_UP): 0:(52.21506,498.97266)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(816.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(819.8773,1123.6735)
+:Sending Touch (ACTION_DOWN): 0:(500.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(493.52557,1163.9292)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(622.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(621.29504,1108.8302)
+:Sending Touch (ACTION_DOWN): 0:(326.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(339.52448,1665.705)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9221)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9236)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9254)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(268.0,121.0)
+:Sending Touch (ACTION_UP): 0:(271.12424,127.45416)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(310.0,785.0)
+:Sending Touch (ACTION_UP): 0:(349.8355,790.91)
+:Sending Touch (ACTION_DOWN): 0:(138.0,23.0)
+:Sending Touch (ACTION_UP): 0:(158.79443,23.6175)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(467.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(468.47745,1089.988)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9282)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9297)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9313)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(154.0,222.0)
+:Sending Touch (ACTION_UP): 0:(26.530277,185.78908)
+    //[calendar_time:2021-08-04 03:53:43.428  system_uptime:19035651]
+    // Sending event #400
+    //[calendar_time:2021-08-04 03:53:43.929  system_uptime:19036152]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(965.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(967.043,1018.34607)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(144.0,650.0)
+:Sending Touch (ACTION_UP): 0:(142.27446,637.598)
+:Sending Touch (ACTION_DOWN): 0:(256.0,201.0)
+:Sending Touch (ACTION_UP): 0:(250.03061,200.72943)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(563.0,1546.0)
+:Sending Touch (ACTION_UP): 0:(562.3162,1548.8123)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9358)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9373)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9391)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(308.0,711.0)
+:Sending Touch (ACTION_UP): 0:(278.07632,691.7718)
+:Sending Touch (ACTION_DOWN): 0:(250.0,664.0)
+:Sending Touch (ACTION_UP): 0:(224.02838,676.92017)
+:Sending Touch (ACTION_DOWN): 0:(518.0,86.0)
+:Sending Touch (ACTION_UP): 0:(513.9631,87.03085)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2021-08-04 03:53:56.123  system_uptime:19048347]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(249.0,167.0)
+:Sending Touch (ACTION_UP): 0:(246.9279,165.26752)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(1009.80615,1011.22284)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(689.0,683.0)
+:Sending Touch (ACTION_UP): 0:(705.27966,681.40875)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.providers.downloads.ui/.DownloadList } in package com.android.providers.downloads.ui
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(428.0,326.0)
+:Sending Touch (ACTION_UP): 0:(446.41983,303.22086)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1358.0)
+:Sending Touch (ACTION_UP): 0:(507.9247,1322.0631)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+:Sending Touch (ACTION_DOWN): 0:(182.0,1361.0)
+:Sending Touch (ACTION_UP): 0:(162.88243,1323.0961)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2021-08-04 03:54:03.825  system_uptime:19056048]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(735.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(683.9442,1730.5145)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(484.0,162.0)
+:Sending Touch (ACTION_UP): 0:(466.90933,164.99744)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(436.0,187.0)
+:Sending Touch (ACTION_UP): 0:(499.98755,166.88896)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(142.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(62.02823,1676.7999)
+:Sending Touch (ACTION_DOWN): 0:(814.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(859.2033,1657.5581)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(293.0,1345.0)
+:Sending Touch (ACTION_UP): 0:(276.74973,1346.3162)
+:Sending Touch (ACTION_DOWN): 0:(580.0,1437.0)
+:Sending Touch (ACTION_UP): 0:(590.5063,1439.9868)
+:Sending Touch (ACTION_DOWN): 0:(285.0,581.0)
+:Sending Touch (ACTION_UP): 0:(277.06024,575.5951)
+:Sending Touch (ACTION_DOWN): 0:(890.0,962.0)
+:Sending Touch (ACTION_UP): 0:(878.75433,859.6647)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,580.0)
+:Sending Touch (ACTION_UP): 0:(1039.6405,574.35425)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1036.0)
+    //[calendar_time:2021-08-04 03:54:16.055  system_uptime:19068278]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(911.2925,1076.9755)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(882.0,934.0)
+:Sending Touch (ACTION_UP): 0:(835.55,964.9817)
+:Sending Touch (ACTION_DOWN): 0:(382.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(382.44733,1161.9856)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(800.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(808.3371,1536.2195)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(992.0,706.0)
+:Sending Touch (ACTION_UP): 0:(960.8848,654.1122)
+:Sending Touch (ACTION_DOWN): 0:(793.0,8.0)
+:Sending Touch (ACTION_UP): 0:(799.8089,50.588566)
+:Sending Touch (ACTION_DOWN): 0:(465.0,1263.0)
+:Sending Touch (ACTION_UP): 0:(468.01627,1245.941)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    //[calendar_time:2021-08-04 03:54:27.296  system_uptime:19079519]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(739.0,534.0)
+:Sending Touch (ACTION_UP): 0:(769.801,478.02725)
+:Sending Touch (ACTION_DOWN): 0:(907.0,513.0)
+:Sending Touch (ACTION_UP): 0:(893.6515,478.02985)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1596.0)
+:Sending Touch (ACTION_UP): 0:(445.35858,1594.674)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(367.0,1189.0)
+:Sending Touch (ACTION_UP): 0:(374.7975,1181.9163)
+:Sending Touch (ACTION_DOWN): 0:(265.0,526.0)
+:Sending Touch (ACTION_UP): 0:(241.44402,528.52374)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(863.0,747.0)
+:Sending Touch (ACTION_UP): 0:(865.14276,749.85236)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(871.31525,1469.3572)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.krawieck.lemmur/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.krawieck.lemmur/.MainActivity } in package com.krawieck.lemmur
+// CRASH: com.krawieck.lemmur (pid 9545)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9560)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.krawieck.lemmur (pid 9578)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.krawieck.lemmur-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.krawieck.lemmur-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(741.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(739.09766,1150.5673)
+:Sending Touch (ACTION_DOWN): 0:(841.0,805.0)
+:Sending Touch (ACTION_UP): 0:(842.8966,806.3567)
+:Sending Touch (ACTION_DOWN): 0:(419.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(444.0087,1121.6539)
+:Sending Touch (ACTION_DOWN): 0:(70.0,1044.0)
+    //[calendar_time:2021-08-04 03:54:38.461  system_uptime:19090685]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(69.564255,1057.9417)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(805.0,545.0)
+:Sending Touch (ACTION_UP): 0:(809.3079,552.2075)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(849.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(803.69806,1214.4722)
+:Sending Touch (ACTION_DOWN): 0:(857.0,329.0)
+:Sending Touch (ACTION_UP): 0:(911.18805,390.4242)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(419.71625,1369.0048)
+:Sending Touch (ACTION_DOWN): 0:(496.0,833.0)
+:Sending Touch (ACTION_UP): 0:(467.27682,786.96014)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClock } in package com.android.deskclock
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(990.86035,1168.0505)
+:Sending Touch (ACTION_DOWN): 0:(994.0,586.0)
+:Sending Touch (ACTION_UP): 0:(998.51355,588.1174)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=14 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=115587ms (0ms mobile, 0ms wifi, 115587ms not connected)
+// Monkey finished

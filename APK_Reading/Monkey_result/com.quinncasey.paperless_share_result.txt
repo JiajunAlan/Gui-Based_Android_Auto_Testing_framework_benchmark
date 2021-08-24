@@ -1,0 +1,1651 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626401074711 count=1000
+:AllowPackage: com.quinncasey.paperless_share
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10571)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10588)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10604)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(1015.0,250.0)
+:Sending Touch (ACTION_UP): 0:(1041.2559,226.50772)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10621)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10637)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10652)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(929.0,1758.0)
+:Sending Touch (ACTION_UP): 0:(931.2971,1765.5394)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(60.417454,1248.0095)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10681)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10696)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10713)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(192.0,216.0)
+:Sending Touch (ACTION_UP): 0:(223.91472,223.45209)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,810.0)
+:Sending Touch (ACTION_UP): 0:(1006.86646,810.8376)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(682.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(696.3955,1401.5789)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10739)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10754)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10770)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(761.0,958.0)
+:Sending Touch (ACTION_UP): 0:(747.2735,956.9041)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(382.0,168.0)
+:Sending Touch (ACTION_UP): 0:(388.36224,173.18715)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,779.0)
+:Sending Touch (ACTION_UP): 0:(985.87384,740.2647)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(216.46654,1231.107)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,1499.0)
+    //[calendar_time:2021-08-04 04:00:59.015  system_uptime:19471259]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(1080.0,1513.9545)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(630.0,550.0)
+:Sending Touch (ACTION_UP): 0:(629.98627,534.8251)
+:Sending Touch (ACTION_DOWN): 0:(533.0,941.0)
+:Sending Touch (ACTION_UP): 0:(561.91345,914.9051)
+:Sending Touch (ACTION_DOWN): 0:(173.0,728.0)
+:Sending Touch (ACTION_UP): 0:(155.32109,642.70685)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10826)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10841)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10859)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10879)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10894)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10910)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 10930)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10945)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 10961)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1062.0,98.0)
+:Sending Touch (ACTION_UP): 0:(1059.7543,98.800125)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(27.0,475.0)
+:Sending Touch (ACTION_UP): 0:(0.0,373.02643)
+:Sending Touch (ACTION_DOWN): 0:(554.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(565.68665,1707.8232)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(51.0,590.0)
+:Sending Touch (ACTION_UP): 0:(54.37664,594.9022)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.customlocale2/.CustomLocaleActivity } in package com.android.customlocale2
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2021-08-04 04:01:09.239  system_uptime:19481462]
+    // Sending event #200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1671.0)
+:Sending Touch (ACTION_UP): 0:(200.17766,1680.43)
+:Sending Touch (ACTION_DOWN): 0:(115.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(129.42694,1455.8606)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(622.6598,1342.9692)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(230.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(218.77979,1090.9005)
+:Sending Touch (ACTION_DOWN): 0:(789.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(805.9805,1663.4775)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,673.0)
+:Sending Touch (ACTION_UP): 0:(1023.69904,651.33704)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(718.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(701.3626,1397.5682)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,287.0)
+:Sending Touch (ACTION_UP): 0:(622.5978,282.78955)
+:Sending Touch (ACTION_DOWN): 0:(863.0,9.0)
+:Sending Touch (ACTION_UP): 0:(847.12854,0.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(594.01117,1217.104)
+    //[calendar_time:2021-08-04 04:01:21.464  system_uptime:19493687]
+    // Sending event #300
+    //[calendar_time:2021-08-04 04:01:21.966  system_uptime:19494190]
+    // Sending event #300
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(770.0,912.0)
+:Sending Touch (ACTION_UP): 0:(769.9304,907.93585)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(406.0,446.0)
+:Sending Touch (ACTION_UP): 0:(410.1033,439.8228)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(544.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(540.56036,1676.7382)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(439.11682,1400.7941)
+:Sending Touch (ACTION_DOWN): 0:(834.0,863.0)
+:Sending Touch (ACTION_UP): 0:(833.6993,872.9989)
+:Sending Touch (ACTION_DOWN): 0:(65.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(54.829765,1771.2552)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(216.43909,1133.0696)
+    //[calendar_time:2021-08-04 04:01:31.219  system_uptime:19503443]
+    // Sending event #400
+    //[calendar_time:2021-08-04 04:01:31.722  system_uptime:19503946]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(614.0,827.0)
+:Sending Touch (ACTION_UP): 0:(593.2629,824.0734)
+:Sending Touch (ACTION_DOWN): 0:(745.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(740.1526,1745.1372)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(841.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(832.245,1687.0298)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,591.0)
+:Sending Touch (ACTION_UP): 0:(668.2597,573.90344)
+:Sending Touch (ACTION_DOWN): 0:(598.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(600.24713,1139.3794)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(469.2876,1306.411)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(85.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(88.934875,1619.4905)
+:Sending Touch (ACTION_DOWN): 0:(417.0,1251.0)
+:Sending Touch (ACTION_UP): 0:(415.84937,1268.1233)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,360.0)
+:Sending Touch (ACTION_UP): 0:(1021.27014,352.03)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2021-08-04 04:01:51.040  system_uptime:19523264]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(903.0,575.0)
+:Sending Touch (ACTION_UP): 0:(902.3642,572.039)
+:Sending Touch (ACTION_DOWN): 0:(972.0,7.0)
+:Sending Touch (ACTION_UP): 0:(965.9329,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(663.234,1412.1139)
+:Sending Touch (ACTION_DOWN): 0:(606.0,295.0)
+:Sending Touch (ACTION_UP): 0:(608.9321,303.7246)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(915.22034,1789.8691)
+:Sending Touch (ACTION_DOWN): 0:(94.0,842.0)
+:Sending Touch (ACTION_UP): 0:(111.98155,830.4959)
+:Sending Touch (ACTION_DOWN): 0:(488.0,695.0)
+:Sending Touch (ACTION_UP): 0:(464.1197,741.6754)
+:Sending Touch (ACTION_DOWN): 0:(920.0,422.0)
+:Sending Touch (ACTION_UP): 0:(912.57166,422.59357)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,105.0)
+:Sending Touch (ACTION_UP): 0:(1063.2783,105.55098)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(449.0,782.0)
+:Sending Touch (ACTION_UP): 0:(427.46655,781.71606)
+    //[calendar_time:2021-08-04 04:02:00.731  system_uptime:19532956]
+    // Sending event #600
+    //[calendar_time:2021-08-04 04:02:01.233  system_uptime:19533457]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(399.0,72.0)
+:Sending Touch (ACTION_UP): 0:(454.4131,192.28915)
+:Sending Touch (ACTION_DOWN): 0:(82.0,644.0)
+:Sending Touch (ACTION_UP): 0:(30.044437,648.75995)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 11139)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11158)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11176)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(680.0,1475.0)
+:Sending Touch (ACTION_UP): 0:(674.53577,1473.365)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2021-08-04 04:02:09.929  system_uptime:19542152]
+    // Sending event #700
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.googlequicksearchbox/.VoiceSearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(386.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(433.81802,1288.3633)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(26.0,160.0)
+:Sending Touch (ACTION_UP): 0:(0.0,165.3734)
+:Sending Touch (ACTION_DOWN): 0:(283.0,512.0)
+:Sending Touch (ACTION_UP): 0:(295.6439,581.59814)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(702.0,26.0)
+:Sending Touch (ACTION_UP): 0:(710.8317,35.78801)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 11211)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11226)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11245)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2021-08-04 04:02:20.202  system_uptime:19552426]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(1066.9049,1412.1897)
+:Sending Touch (ACTION_DOWN): 0:(808.0,921.0)
+:Sending Touch (ACTION_UP): 0:(712.7188,798.5325)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(196.0,546.0)
+:Sending Touch (ACTION_UP): 0:(197.5375,553.4356)
+:Sending Touch (ACTION_DOWN): 0:(909.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(909.06775,1365.6857)
+:Sending Touch (ACTION_DOWN): 0:(751.0,946.0)
+:Sending Touch (ACTION_UP): 0:(726.53174,980.126)
+    //[calendar_time:2021-08-04 04:02:31.893  system_uptime:19564117]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(145.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(161.71979,1769.9518)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(249.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(251.86234,1100.8184)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(509.11224,1476.3958)
+:Sending Touch (ACTION_DOWN): 0:(839.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(826.83746,1756.6652)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,1626.0)
+:Sending Touch (ACTION_UP): 0:(415.62997,1625.8424)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(465.0,263.0)
+:Sending Touch (ACTION_UP): 0:(454.9469,259.8683)
+:Sending Touch (ACTION_DOWN): 0:(308.0,362.0)
+:Sending Touch (ACTION_UP): 0:(303.91592,373.9359)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(1047.7751,1506.7607)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1355.0)
+:Sending Touch (ACTION_UP): 0:(898.7956,1356.6093)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(233.0,321.0)
+:Sending Touch (ACTION_UP): 0:(219.74962,324.39197)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(139.96011,1488.9081)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.quinncasey.paperless_share/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.quinncasey.paperless_share/.MainActivity } in package com.quinncasey.paperless_share
+// CRASH: com.quinncasey.paperless_share (pid 11350)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11366)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.quinncasey.paperless_share (pid 11383)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.quinncasey.paperless_share/com.quinncasey.paperless_share.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.a()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.o()
+// 	at io.flutter.embedding.android.f.a()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.quinncasey.paperless_share-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.quinncasey.paperless_share-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=10 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=123412ms (0ms mobile, 0ms wifi, 123412ms not connected)
+// Monkey finished

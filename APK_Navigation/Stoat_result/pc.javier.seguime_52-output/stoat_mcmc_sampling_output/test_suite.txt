@@ -1,0 +1,311 @@
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='9'):android.widget.CheckedTextView@"Make a Donation :)"
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(resource-id='pc.javier.seguime:id/boton_aceptar'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Block"
+click(className='android.widget.CheckedTextView',instance='9'):android.widget.CheckedTextView@"Make a Donation :)"
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Login"
+edit(resource-id='pc.javier.seguime:id/sesion_servidor'):android.widget.EditText@"http://seguime.atwebpages.com/servicio.php"
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+menu
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Login"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+menu
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"58"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"20"
+edit(resource-id='pc.javier.seguime:id/temporizador_mensaje_alerta'):android.widget.EditText@"12sthis time you may need help, contact me urgently"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"30"
+edit(resource-id='pc.javier.seguime:id/temporizador_sms'):android.widget.EditText@"12"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"58"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"42"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"0"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"7"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"11"
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"56"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"Start"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"40"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"24"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"12"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"11"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"35"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"57"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"54"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"40"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"0"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"2"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"35"
+edit(resource-id='pc.javier.seguime:id/temporizador_sms'):android.widget.EditText@""
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+menu
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"Start"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"20"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"35"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"1"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"54"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"0"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"40"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"20"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"36"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"43"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"40"
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+menu
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"39"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"4"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"5"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"42"
+edit(resource-id='pc.javier.seguime:id/temporizador_sms'):android.widget.EditText@"12"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"2"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"0"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"12"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"40"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"55"
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Login"
+back
+menu
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+menu
+click(className='android.widget.CheckedTextView',instance='8'):android.widget.CheckedTextView@"Help"
+scroll(direction='down')
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='7'):android.widget.CheckedTextView@"Register Version"
+edit(resource-id='pc.javier.seguime:id/clave_nombre'):android.widget.EditText@""
+edit(resource-id='pc.javier.seguime:id/clave_clave'):android.widget.EditText@""
+back
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='9'):android.widget.CheckedTextView@"Make a Donation :)"
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Block"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(resource-id='pc.javier.seguime:id/boton_aceptar'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+menu
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(className='android.widget.ToggleButton',instance='1'):android.widget.ToggleButton@"OFF"
+click(className='android.widget.ToggleButton',instance='1'):android.widget.ToggleButton@"OFF"
+click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"ON"
+click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"ON"
+click(className='android.widget.ToggleButton',instance='1'):android.widget.ToggleButton@"OFF"
+click(resource-id='pc.javier.seguime:id/boton_aceptar'):android.widget.ImageButton@""
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Image Logs"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/registros_menu_borrar'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Image Logs"
+clickLong(resource-id='pc.javier.seguime:id/registros_menu_borrar'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+back
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+menu
+click(className='android.widget.CheckedTextView',instance='8'):android.widget.CheckedTextView@"Help"
+back
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Block"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"ON"
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+clickLong(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(className='android.widget.ImageButton',instance='0'):android.widget.ImageButton@""
+menu
+scroll(direction='down')
+click(className='android.widget.CheckedTextView',instance='9'):android.widget.CheckedTextView@"Make a Donation :)"
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Login"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Image Logs"
+clickLong(resource-id='pc.javier.seguime:id/registros_menu_borrar'):android.widget.TextView@""
+click(resource-id='pc.javier.seguime:id/princ_iconotemporizador'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+click(className='android.widget.CheckedTextView',instance='6'):android.widget.CheckedTextView@"Block"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Panic button"
+click(className='android.widget.ImageButton',instance='0'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Seguime"
+click(resource-id='pc.javier.seguime:id/princ_iconoseguime'):android.widget.ImageView@""
+click(resource-id='pc.javier.seguime:id/menu_principal'):android.widget.TextView@""
+scroll(direction='down')
+**
+click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+scroll(direction='up')
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Countdown"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"57"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"40"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"1"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"54"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"55"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"13"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"42"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"Start"
+clickLong(resource-id='pc.javier.seguime:id/menu_contactos'):android.widget.TextView@""
+edit(resource-id='pc.javier.seguime:id/temporizador_sms'):android.widget.EditText@"12"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"20"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"53"
+**
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"¡Seguime!"
+back
+**

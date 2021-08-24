@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,764][1053,1095]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,764][1053,1095]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,764][1053,1095]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,764][1032,1095]">
+          <node index="0" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,764][1032,945]">
+            <node index="0" text="" resource-id="android:id/scrollView" class="android.widget.ScrollView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,785][1011,945]">
+              <node index="0" text='Delete this file?&#10;"sample_3GPP.3gp.zip"' resource-id="android:id/message" class="android.widget.TextView" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,785][1011,945]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,945][1032,1095]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,948][1011,1074]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,948][538,1074]" />
+              <node index="1" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="com.foobnix.pro.pdf.reader" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[541,948][1011,1074]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

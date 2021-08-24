@@ -1,0 +1,17 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/ActivityThread(23224): Performing pause of activity that is not resumed: {org.billthefarmer.diary/org.billthefarmer.diary.Diary}
+E/ActivityThread(23224): java.lang.RuntimeException: Performing pause of activity that is not resumed: {org.billthefarmer.diary/org.billthefarmer.diary.Diary}
+E/ActivityThread(23224): 	at android.app.ActivityThread.performPauseActivity(ActivityThread.java:3029)
+E/ActivityThread(23224): 	at android.app.ActivityThread.performPauseActivity(ActivityThread.java:3017)
+E/ActivityThread(23224): 	at android.app.ActivityThread.handlePauseActivity(ActivityThread.java:2995)
+E/ActivityThread(23224): 	at android.app.ActivityThread.access$1000(ActivityThread.java:135)
+E/ActivityThread(23224): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1207)
+E/ActivityThread(23224): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/ActivityThread(23224): 	at android.os.Looper.loop(Looper.java:136)
+E/ActivityThread(23224): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/ActivityThread(23224): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/ActivityThread(23224): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/ActivityThread(23224): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/ActivityThread(23224): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/ActivityThread(23224): 	at dalvik.system.NativeStart.main(Native Method)

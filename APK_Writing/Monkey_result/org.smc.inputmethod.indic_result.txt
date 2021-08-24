@@ -1,0 +1,251 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626406855082 count=1000
+:AllowPackage: org.smc.inputmethod.indic
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.smc.inputmethod.indic/.setup.SetupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.smc.inputmethod.indic/.setup.SetupActivity } in package org.smc.inputmethod.indic
+    // Allowing start of Intent { cmp=org.smc.inputmethod.indic/.setup.SetupWizardActivity } in package org.smc.inputmethod.indic
+    // activityResuming(org.smc.inputmethod.indic)
+:Sending Touch (ACTION_DOWN): 0:(931.0,647.0)
+:Sending Touch (ACTION_UP): 0:(940.46655,636.8525)
+:Sending Touch (ACTION_DOWN): 0:(384.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(334.45404,1067.2024)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(837.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(878.1277,1641.8726)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(60.089054,1210.062)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(219.73639,1568.6782)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(580.0859,1366.3826)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(400.0,56.0)
+    //[calendar_time:2021-08-04 05:53:29.350  system_uptime:26221589]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(394.2873,62.1453)
+:Sending Touch (ACTION_DOWN): 0:(781.0,230.0)
+:Sending Touch (ACTION_UP): 0:(788.4387,217.68016)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,867.0)
+:Sending Touch (ACTION_UP): 0:(90.00353,843.1949)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(379.26953,1758.7057)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(894.0,761.0)
+:Sending Touch (ACTION_UP): 0:(923.6264,767.80774)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    //[calendar_time:2021-08-04 05:53:42.561  system_uptime:26234785]
+    // Sending event #200
+    //[calendar_time:2021-08-04 05:53:43.062  system_uptime:26235286]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(248.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(260.3789,1704.861)
+:Sending Touch (ACTION_DOWN): 0:(37.0,403.0)
+:Sending Touch (ACTION_UP): 0:(29.087322,404.33307)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1616.0)
+:Sending Touch (ACTION_UP): 0:(668.2581,1511.139)
+:Sending Touch (ACTION_DOWN): 0:(999.0,696.0)
+:Sending Touch (ACTION_UP): 0:(999.2026,707.24866)
+:Sending Touch (ACTION_DOWN): 0:(263.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(263.89035,1063.3792)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(945.0,714.0)
+:Sending Touch (ACTION_UP): 0:(958.0157,716.2382)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(937.6061,1297.1981)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(189.0,844.0)
+:Sending Touch (ACTION_UP): 0:(185.4715,842.10156)
+:Sending Touch (ACTION_DOWN): 0:(191.0,704.0)
+:Sending Touch (ACTION_UP): 0:(170.86592,685.9295)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2021-08-04 05:53:52.264  system_uptime:26244488]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(413.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(353.64188,927.0391)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(474.4635,1202.0834)
+:Sending Touch (ACTION_DOWN): 0:(253.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(267.29425,1775.2705)
+:Sending Touch (ACTION_DOWN): 0:(793.0,663.0)
+:Sending Touch (ACTION_UP): 0:(795.3706,664.43884)
+:Sending Touch (ACTION_DOWN): 0:(286.0,1301.0)
+:Sending Touch (ACTION_UP): 0:(217.04303,1329.0712)
+:Sending Touch (ACTION_DOWN): 0:(478.0,836.0)
+:Sending Touch (ACTION_UP): 0:(473.51862,830.37195)
+:Sending Touch (ACTION_DOWN): 0:(215.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(301.87167,1602.7758)
+:Sending Touch (ACTION_DOWN): 0:(745.0,405.0)
+:Sending Touch (ACTION_UP): 0:(646.1973,416.25217)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    //[calendar_time:2021-08-04 05:54:03.461  system_uptime:26255684]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(425.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(435.00922,1530.2461)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(157.0,171.0)
+:Sending Touch (ACTION_UP): 0:(181.74574,156.72865)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(475.0,286.0)
+:Sending Touch (ACTION_UP): 0:(502.22998,274.9061)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2021-08-04 05:54:13.211  system_uptime:26265435]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.smc.inputmethod.indic/.setup.SetupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.smc.inputmethod.indic/.setup.SetupActivity } in package org.smc.inputmethod.indic
+    // Allowing start of Intent { cmp=org.smc.inputmethod.indic/.setup.SetupWizardActivity } in package org.smc.inputmethod.indic
+    // activityResuming(org.smc.inputmethod.indic)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(747.5957,1176.7506)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(79.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(85.76169,1783.1787)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(219.0,446.0)
+:Sending Touch (ACTION_UP): 0:(226.30692,447.3471)
+:Sending Touch (ACTION_DOWN): 0:(150.0,800.0)
+:Sending Touch (ACTION_UP): 0:(136.48112,792.85785)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.smc.inputmethod.indic/.setup.SetupActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.smc.inputmethod.indic/.setup.SetupActivity } in package org.smc.inputmethod.indic
+    // Allowing start of Intent { cmp=org.smc.inputmethod.indic/.setup.SetupWizardActivity } in package org.smc.inputmethod.indic
+    // activityResuming(org.smc.inputmethod.indic)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1730.0)
+    //[calendar_time:2021-08-04 05:54:24.955  system_uptime:26277179]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(831.5735,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,325.0)
+:Sending Touch (ACTION_UP): 0:(645.1793,326.64407)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(94.0,887.0)
+:Sending Touch (ACTION_UP): 0:(95.93605,888.803)
+:Sending Touch (ACTION_DOWN): 0:(598.0,425.0)
+:Sending Touch (ACTION_UP): 0:(582.36566,432.15894)
+:Sending Touch (ACTION_DOWN): 0:(219.0,406.0)
+:Sending Touch (ACTION_UP): 0:(236.02194,403.8265)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(237.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(242.6273,1016.825)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(916.0,231.0)
+:Sending Touch (ACTION_UP): 0:(915.19025,228.45088)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2021-08-04 05:54:36.133  system_uptime:26288356]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(922.0,667.0)
+:Sending Touch (ACTION_UP): 0:(866.7784,668.34393)
+:Sending Touch (ACTION_DOWN): 0:(43.0,281.0)
+:Sending Touch (ACTION_UP): 0:(47.077744,281.42987)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1750.0)
+:Sending Touch (ACTION_UP): 0:(94.27151,1720.2919)
+:Sending Touch (ACTION_DOWN): 0:(393.0,335.0)
+:Sending Touch (ACTION_UP): 0:(344.388,368.13467)
+:Sending Touch (ACTION_DOWN): 0:(744.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(730.72815,1465.1461)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(467.0,48.0)
+:Sending Touch (ACTION_UP): 0:(452.18185,49.54279)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,156.0)
+:Sending Touch (ACTION_UP): 0:(1042.0939,137.69858)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(239.73854,1545.8047)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2021-08-04 05:54:47.341  system_uptime:26299564]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(636.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(644.7157,1281.2495)
+:Sending Touch (ACTION_DOWN): 0:(159.0,1409.0)
+:Sending Touch (ACTION_UP): 0:(174.48813,1428.4977)
+:Sending Touch (ACTION_DOWN): 0:(727.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(748.47736,1477.4812)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(94.0,442.0)
+:Sending Touch (ACTION_UP): 0:(99.3397,458.39612)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,158.0)
+:Sending Touch (ACTION_UP): 0:(614.5529,169.53972)
+:Sending Touch (ACTION_DOWN): 0:(224.0,427.0)
+:Sending Touch (ACTION_UP): 0:(224.94255,414.71817)
+:Sending Touch (ACTION_DOWN): 0:(352.0,280.0)
+:Sending Touch (ACTION_UP): 0:(343.63092,283.33646)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(798.0,45.0)
+:Sending Touch (ACTION_UP): 0:(808.7757,39.297787)
+:Sending Touch (ACTION_DOWN): 0:(634.0,311.0)
+:Sending Touch (ACTION_UP): 0:(639.4818,325.5085)
+:Sending Touch (ACTION_DOWN): 0:(722.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(648.1103,974.359)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,803.0)
+:Sending Touch (ACTION_UP): 0:(1072.8888,817.1899)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2021-08-04 05:54:59.075  system_uptime:26311298]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(406.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(397.0752,1552.9728)
+:Sending Touch (ACTION_DOWN): 0:(851.0,634.0)
+:Sending Touch (ACTION_UP): 0:(773.89575,560.9892)
+:Sending Touch (ACTION_DOWN): 0:(553.0,854.0)
+:Sending Touch (ACTION_UP): 0:(550.009,847.4374)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(75.873116,1618.7927)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cat=[android.intent.category.DEFAULT] cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(708.0,958.0)
+:Sending Touch (ACTION_UP): 0:(694.3974,960.8151)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(486.80014,1725.6342)
+:Sending Touch (ACTION_DOWN): 0:(586.0,106.0)
+:Sending Touch (ACTION_UP): 0:(586.763,121.45367)
+:Sending Touch (ACTION_DOWN): 0:(138.0,667.0)
+:Sending Touch (ACTION_UP): 0:(180.29625,732.35767)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(1002.51514,1482.4955)
+:Sending Touch (ACTION_DOWN): 0:(756.0,925.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=113607ms (0ms mobile, 0ms wifi, 113607ms not connected)
+// Monkey finished

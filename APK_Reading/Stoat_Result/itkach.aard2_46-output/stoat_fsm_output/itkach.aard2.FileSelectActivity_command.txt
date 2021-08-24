@@ -1,0 +1,9 @@
+    320@click(resource-id='android:id/up'):android.widget.ImageView@""
+    321@click(resource-id='android:id/home'):android.widget.ImageView@""
+    322@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Select Dictionary File"
+    352@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"/storage/sdcard/Alarms"
+    324@click(resource-id='itkach.aard2:id/action_goto_parent_dir'):android.widget.TextView@""
+    325@clickLong(resource-id='itkach.aard2:id/action_goto_parent_dir'):android.widget.TextView@""
+    326@click(resource-id='itkach.aard2:id/action_reload_directory'):android.widget.TextView@""
+    327@clickLong(resource-id='itkach.aard2:id/action_reload_directory'):android.widget.TextView@""
+    348@back

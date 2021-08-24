@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BT_UUID">fc0ebdde–e425–4123–92a8–17bd8a90a769</string>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="about">حول</string>
+    <string name="aggressive_computer">حاسوب عدواني (هجمومي)</string>
+    <string name="app_name">Open Chaos Chess</string>
+    <string name="background_color">لون الخلفية</string>
+    <string name="bar_color">لون الشريط</string>
+    <string name="bloodthirst">تعطش الدماء</string>
+    <string name="bloodthirst_notification">تعطش الدماء تبدل في الدور التالي</string>
+    <string name="bloodthirst_toggle_cancelled">وضع تعطش الدماء الغي</string>
+    <string name="bloodthirsty_by_default">تعطش الدماء بشكل افتراضي</string>
+    <string name="board_color_1">لون اللوح الأساسي</string>
+    <string name="board_color_2">لون اللوح الثانوي</string>
+    <string name="cant_move_that_bruh">ليس بامكانك تحريك هذه القطعة!</string>
+    <string name="check_invites">التحقق من الدعوات</string>
+    <string name="chess960">Chess960 mode</string>
+    <string name="color_save_failed">فشل حفظ الالوان</string>
+    <string name="colors_saved">تم حفظ الألوان</string>
+    <string name="computer_points">نقاط الحاسوب:</string>
+    <string name="contact">"فيسبوك: Noah James Stanford
+تويتر: @CorruptedArk
+GitHub: CorruptedArk
+
+موقعي: corruptedark.wordpress.com
+
+بريدي الالكتروني: noahstandingford@gmail.com
+
+"</string>
+    <string name="create_game">ارسال دعوة</string>
+    <string name="credits">"النسخة v%1$s مصنوعة من قبل نواة ستانفورد (CorruptedArk) 
+ بالأصل ل CIS 175 Fall 2016 at MCCC as Chaos Chess 
+ الشكر لسايمون بيسوتتو (Pes8) على اداة اختيار الالوان 
+ الشكر لجوناس لوي (Jonas Lowe) لفكرة اعدادات الالوان 
+ Credit for Chess960 mode, Queens Attack Handicap, Smart Computer, and other small changes goes to egorguslyan on GitHub 
+ الشكر ل LibreHacker على GitHub من أجل الترجمة الروسية 
+ الشكر ل Lian C.Bagett/RedstickleDE على GitHub من أجل الترجمة الألمانية 
+ الشكر ل berkaygunduzz على GitHub من أجل الترجمة التركية 
+ Credit for Arabic translations and a quality of life improvement on captures goes to Vulldozer on GitHub 
+ Credit for Spanish translations goes to sguinetti on GitHub 
+ Credit for Indonesian translations goes to the7thNightmare on GitHub 
+ الفكرة لوضع تعطش الدماء اقترحت من قبل czarkoff على GitHub 
+ وضع تعطش الدماء بشكل افتراضي اقترح من قبل itsanogo على GitHub 
+ وضع الحاسوب العدواني اقترح من قبل vi على GitHub"</string>
+    <string name="descript">"Open Chaos Chess هي نسخة مفتوحة المصدر من لعبة Chaos Chess. 
+ هي نوع من الشطرنج حيث بإمكانك اختيار القطعة التي ترغب بتحريكها، لكن الحركة تكون عشوائية. لهذا السبب لا يمكن الفوز بكش الملك، عوضا عن ذلك، يجب اخراج جميع قطع عدوك. ارجو ان تحظى بوقت ممتع. 
+
+Open Chaos Chess حقوق الطبع © 2019 Noah Stanford 
+ هذا البرنامج لا بأتي مع ايه كفالة! 
+ هذا البرنامج مجاني ويسمح اعادة نشره, مع اتباع بعض الشروط والقوانين 
+For the full GNU General Public License visit: https://www.gnu.org/licenses/gpl-3.0.txt 
+ 
+بالطبيعة، لا تنحاز القطعة عند الهجوم. لكن عند تشغيل وضع تعطش الدماء القطع سوف تهاجم كلما تتاح اليها الفرصة"</string>
+    <string name="enable_handicap">تشغيل وضع الاعاقة</string>
+    <string name="export_file">احفظ الى ملف</string>
+    <string name="game_over_bruh">انتهت اللعبة!</string>
+    <string name="gameplay_settings_file">gameplaysettings.txt</string>
+    <string name="host_game">استضافة لعبة جماعية</string>
+    <string name="host_status">حالة المستضيف:</string>
+    <string name="import_file">استرد من ملف</string>
+    <string name="issues">المشاكل</string>
+    <string name="issues_url">https://github.com/CorruptedArk/open-chaos-chess/issues</string>
+    <string name="join_game">دخول لعبة جماعية</string>
+    <string name="knights_only">فرسان فقط؟</string>
+    <string name="move_second">Move second (Solo)</string>
+    <string name="multiplayer_guide">اذا لم تقم بالاقتران مع جهاز العدو، اذهب الى اعدادات البلوتوث وافعل ذلك الان!</string>
+    <string name="new_game">لعبة جديدة</string>
+    <string name="new_slogan">"أنت تختار القطعة، ليس الحركة
+الان مع المزيد من الحرية!"</string>
+    <string name="noice">ممتاز!</string>
+    <string name="not_your_turn_stupid">انه ليس دورك الان!</string>
+    <string name="opponent_points">نقاط العدو:</string>
+    <string name="paired_devices">الاجهزة المقترنة:</string>
+    <string name="piece_color">لون القطعة</string>
+    <string name="play">لعب فردي</string>
+    <string name="player_points">نقاط اللاعب:</string>
+    <string name="plus_one">+1</string>
+    <string name="queensAttack">Queens attack</string>
+    <string name="quick_match">مباراة سريعة</string>
+    <string name="quit">اغلاق</string>
+    <string name="save_colors">حفظ الالوان</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="secondary_color">اللون الثانوي</string>
+    <string name="secret_hello">انا لا أدري كيف وصلت الى هنا، لكن بما أنك موجود، هل اخبرتني عن اسمك؟</string>
+    <string name="selection_color">لون الاختيار</string>
+    <string name="set_to_defaults">اعادة الألوان الافتراضية</string>
+    <string name="setting_applied_on_new_game">تتطق الاعدادات الدور التالي</string>
+    <string name="settings">اعدادات</string>
+    <string name="settings_file">settings.txt</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="slogan">أنت تختار القطعة، لكن ليس الحركة</string>
+    <string name="smartComputer">Smart computer</string>
+    <string name="solo">فردي</string>
+    <string name="start_host">بدأ الاستضافة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_host">ايقاق الاستضافة</string>
+    <string name="text_color">لون النص</string>
+    <string name="that_sucks">يا للأسف، هذا محزن!</string>
+    <string name="tied_bro">لقد تعادلت!</string>
+    <string name="versus">ضد</string>
+    <string name="wait_for_move">انتظر حتى انتهاء القطعة من التحرك</string>
+    <string name="you_lost">للأسف، لقد خسرت!</string>
+    <string name="you_won">يا للروعة! لقد فزت!</string>
+    <string name="your_points">نقاطك:</string>
+</resources>

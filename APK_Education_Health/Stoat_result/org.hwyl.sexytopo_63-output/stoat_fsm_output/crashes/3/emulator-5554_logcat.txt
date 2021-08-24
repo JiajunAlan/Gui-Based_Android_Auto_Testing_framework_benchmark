@@ -1,0 +1,83 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/WindowManager( 7497): 
+E/WindowManager( 7497): android.view.WindowLeaked: Activity org.hwyl.sexytopo.control.activity.DeviceActivity has leaked window android.widget.LinearLayout{9d38bbf0 V.E..... ......I. 0,0-345,127} that was originally added here
+E/WindowManager( 7497): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager( 7497): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager( 7497): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 7497): 	at androidx.appcompat.widget.TooltipPopup.show(TooltipPopup.java:87)
+E/WindowManager( 7497): 	at androidx.appcompat.widget.TooltipCompatHandler.show(TooltipCompatHandler.java:174)
+E/WindowManager( 7497): 	at androidx.appcompat.widget.TooltipCompatHandler.onLongClick(TooltipCompatHandler.java:123)
+E/WindowManager( 7497): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager( 7497): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager( 7497): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager( 7497): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager( 7497): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager( 7497): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager( 7497): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager( 7497): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager( 7497): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager( 7497): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager( 7497): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 8961): FATAL EXCEPTION: main
+E/AndroidRuntime( 8961): Process: org.hwyl.sexytopo, PID: 8961
+E/AndroidRuntime( 8961): java.lang.IllegalStateException: Could not execute method for android:onClick
+E/AndroidRuntime( 8961): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:414)
+E/AndroidRuntime( 8961): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 8961): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 8961): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 8961): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 8961): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 8961): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 8961): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 8961): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 8961): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 8961): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 8961): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 8961): Caused by: java.lang.reflect.InvocationTargetException
+E/AndroidRuntime( 8961): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 8961): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 8961): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:409)
+E/AndroidRuntime( 8961): 	... 11 more
+E/AndroidRuntime( 8961): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 8961): 	at org.hwyl.sexytopo.control.activity.DeviceActivity.requestPair(DeviceActivity.java:214)
+E/AndroidRuntime( 8961): 	... 14 more
+***********
+package name: org.hwyl.sexytopo
+app code version: 1.6.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 799429 Realtime: 799429
+
+** MEMINFO in pid 8961 [org.hwyl.sexytopo] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4993     4956        0        0    11620     8748      563
+  Dalvik Heap    16686    16444        0        0    19224    16037     3187
+ Dalvik Other     2226     2064        0        0                           
+        Stack      112      112        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1601      528      104        0                           
+    .apk mmap      206        0       24        0                           
+    .ttf mmap      115        0       92        0                           
+    .dex mmap     2806      172     2048        0                           
+   Other mmap       63        4       28        0                           
+      Unknown       76       76        0        0                           
+        TOTAL    28888    24356     2300        0    30844    24785     3750
+ 
+ Objects
+               Views:      126         ViewRootImpl:        4
+         AppContexts:        6           Activities:        3
+              Assets:        2        AssetManagers:        2
+       Local Binders:       17        Proxy Binders:       24
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

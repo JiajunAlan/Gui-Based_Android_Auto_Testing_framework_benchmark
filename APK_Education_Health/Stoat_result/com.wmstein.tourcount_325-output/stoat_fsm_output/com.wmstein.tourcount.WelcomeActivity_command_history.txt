@@ -1,0 +1,17 @@
+    3@back
+    2@menu
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    21@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Counting"
+    21@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Counting"
+    12@click(resource-id='com.wmstein.tourcount:id/viewCounts'):android.widget.TextView@""
+    16@click(resource-id='com.wmstein.tourcount:id/menu_list_item'):android.widget.TextView@""
+    5566@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Export Basic DB"
+    23@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Show Results"
+    18@click(resource-id='com.wmstein.tourcount:id/editMetaButton'):android.widget.ImageButton@""
+    15@clickLong(resource-id='com.wmstein.tourcount:id/viewSpecies'):android.widget.TextView@""
+    22@click(resource-id='com.wmstein.tourcount:id/viewSpeciesButton'):android.widget.ImageButton@""
+    17@clickLong(resource-id='com.wmstein.tourcount:id/menu_list_item'):android.widget.TextView@""
+    5561@click(resource-id='com.wmstein.tourcount:id/icon'):android.widget.ImageView@""
+    19@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Prepare Recording"
+    14@click(resource-id='com.wmstein.tourcount:id/viewSpecies'):android.widget.TextView@""
+    10@click(resource-id='com.wmstein.tourcount:id/editMeta'):android.widget.TextView@""

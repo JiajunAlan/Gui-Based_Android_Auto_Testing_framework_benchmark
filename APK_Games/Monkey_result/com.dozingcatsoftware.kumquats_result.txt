@@ -1,0 +1,682 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626387929986 count=1000
+:AllowPackage: com.dozingcatsoftware.kumquats
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+// CRASH: com.dozingcatsoftware.kumquats (pid 12499)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12514)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12532)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Touch (ACTION_DOWN): 0:(1038.0,1673.0)
+:Sending Touch (ACTION_UP): 0:(1036.551,1668.7906)
+:Sending Touch (ACTION_DOWN): 0:(879.0,676.0)
+:Sending Touch (ACTION_UP): 0:(864.3566,678.6395)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(186.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(186.01605,1253.2976)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(1019.9217,1015.0336)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(463.23032,1303.5371)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(861.0,1246.0)
+:Sending Touch (ACTION_UP): 0:(863.22925,1233.0405)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(632.0,535.0)
+:Sending Touch (ACTION_UP): 0:(625.45,545.42865)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+// CRASH: com.dozingcatsoftware.kumquats (pid 12591)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12606)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12624)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(74.0,1439.0)
+    //[calendar_time:2021-08-04 00:29:46.861  system_uptime:6799104]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(74.706314,1395.2014)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(681.10925,1675.4315)
+:Sending Touch (ACTION_DOWN): 0:(902.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(899.5279,1236.3949)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(281.0,998.0)
+:Sending Touch (ACTION_UP): 0:(433.92395,933.5222)
+:Sending Touch (ACTION_DOWN): 0:(278.0,792.0)
+:Sending Touch (ACTION_UP): 0:(278.46826,787.50354)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,387.0)
+:Sending Touch (ACTION_UP): 0:(223.3969,385.0225)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(330.0,431.0)
+:Sending Touch (ACTION_UP): 0:(364.7494,406.8334)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(983.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(1012.64996,1645.9731)
+:Sending Touch (ACTION_DOWN): 0:(38.0,814.0)
+:Sending Touch (ACTION_UP): 0:(38.541935,826.23663)
+    //[calendar_time:2021-08-04 00:29:58.549  system_uptime:6810773]
+    // Sending event #200
+    //[calendar_time:2021-08-04 00:29:59.050  system_uptime:6811274]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(700.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(704.51605,1435.7512)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(853.0,70.0)
+:Sending Touch (ACTION_UP): 0:(845.14386,54.526337)
+:Sending Touch (ACTION_DOWN): 0:(744.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(762.3366,1519.5735)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(980.2504,1196.5737)
+:Sending Touch (ACTION_DOWN): 0:(885.0,1622.0)
+:Sending Touch (ACTION_UP): 0:(893.03094,1606.7408)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(68.0,689.0)
+:Sending Touch (ACTION_UP): 0:(68.94227,690.9083)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(390.0667,1238.5913)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 00:30:13.743  system_uptime:6825967]
+    // Sending event #300
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(327.0,595.0)
+:Sending Touch (ACTION_UP): 0:(321.2423,603.40656)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+// CRASH: com.dozingcatsoftware.kumquats (pid 12715)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12730)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+// CRASH: com.dozingcatsoftware.kumquats (pid 12748)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at io.flutter.embedding.engine.g.c.c()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.engine.a.<init>()
+// 	at io.flutter.embedding.android.f.B()
+// 	at io.flutter.embedding.android.f.k()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+// 	at java.util.concurrent.FutureTask.get(FutureTask.java:163)
+// 	... 20 more
+// Caused by: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.dozingcatsoftware.kumquats-1.apk"],nativeLibraryDirectories=[/data/app-lib/com.dozingcatsoftware.kumquats-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.FlutterJNI.loadLibrary()
+// 	at io.flutter.embedding.engine.g.c$a.a()
+// 	at io.flutter.embedding.engine.g.c$a.call()
+// 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+// 	at java.lang.Thread.run(Thread.java:841)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(1047.8486,1640.0964)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(363.13174,1484.6414)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,19.0)
+:Sending Touch (ACTION_UP): 0:(1021.2997,0.0)
+:Sending Touch (ACTION_DOWN): 0:(886.0,617.0)
+:Sending Touch (ACTION_UP): 0:(789.31903,565.634)
+:Sending Touch (ACTION_DOWN): 0:(199.0,298.0)
+:Sending Touch (ACTION_UP): 0:(180.75232,309.4004)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2021-08-04 00:30:27.495  system_uptime:6839719]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(738.0,778.0)
+:Sending Touch (ACTION_UP): 0:(631.9495,828.8087)
+:Sending Touch (ACTION_DOWN): 0:(376.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(321.02847,1412.586)
+:Sending Touch (ACTION_DOWN): 0:(350.0,1244.0)
+:Sending Touch (ACTION_UP): 0:(357.17517,1247.3082)
+:Sending Touch (ACTION_DOWN): 0:(970.0,743.0)
+:Sending Touch (ACTION_UP): 0:(975.2107,742.9417)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(529.0,596.0)
+:Sending Touch (ACTION_UP): 0:(512.1447,603.9033)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(1073.7523,1142.7437)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(845.0,1744.0)
+:Sending Touch (ACTION_UP): 0:(840.53046,1751.5598)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2021-08-04 00:30:41.360  system_uptime:6853584]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(849.0,250.0)
+:Sending Touch (ACTION_UP): 0:(891.30597,278.2271)
+:Sending Touch (ACTION_DOWN): 0:(356.0,265.0)
+:Sending Touch (ACTION_UP): 0:(362.12598,261.65408)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(487.0,63.0)
+:Sending Touch (ACTION_UP): 0:(491.00262,69.6962)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(180.60873,1626.3175)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(339.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(324.92963,1200.6759)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(679.0,349.0)
+:Sending Touch (ACTION_UP): 0:(672.93555,350.23907)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2021-08-04 00:30:49.035  system_uptime:6861258]
+    // Sending event #600
+    //[calendar_time:2021-08-04 00:30:49.535  system_uptime:6861759]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.android.settings/.SubSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(116.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(123.04887,1294.2979)
+:Sending Touch (ACTION_DOWN): 0:(599.0,927.0)
+:Sending Touch (ACTION_UP): 0:(597.12555,926.1652)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1078.0)
+:Sending Touch (ACTION_UP): 0:(711.6678,1088.1696)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(202.0,658.0)
+    //[calendar_time:2021-08-04 00:30:59.695  system_uptime:6871919]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(205.89658,727.72736)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(39.0,198.0)
+:Sending Touch (ACTION_UP): 0:(59.53782,198.88)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(885.0,141.0)
+:Sending Touch (ACTION_UP): 0:(884.064,143.46144)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,50.0)
+:Sending Touch (ACTION_UP): 0:(196.12773,55.42884)
+:Sending Touch (ACTION_DOWN): 0:(513.0,120.0)
+:Sending Touch (ACTION_UP): 0:(592.2686,132.04027)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(474.0,312.0)
+:Sending Touch (ACTION_UP): 0:(464.22028,309.81818)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1791.0)
+:Sending Touch (ACTION_UP): 0:(215.9214,1792.4336)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2021-08-04 00:31:11.368  system_uptime:6883592]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(422.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(424.3906,1335.3898)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(390.99454,1503.0332)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1522.0)
+:Sending Touch (ACTION_UP): 0:(961.3173,1538.4397)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(368.0,452.0)
+:Sending Touch (ACTION_UP): 0:(322.6715,473.76443)
+:Sending Touch (ACTION_DOWN): 0:(192.0,315.0)
+:Sending Touch (ACTION_UP): 0:(185.31969,305.08823)
+:Sending Touch (ACTION_DOWN): 0:(903.0,228.0)
+:Sending Touch (ACTION_UP): 0:(911.7143,240.85103)
+:Sending Touch (ACTION_DOWN): 0:(577.0,317.0)
+:Sending Touch (ACTION_UP): 0:(593.203,287.42422)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(990.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(976.1594,988.6501)
+:Sending Touch (ACTION_DOWN): 0:(789.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(799.28,1702.1803)
+:Sending Touch (ACTION_DOWN): 0:(696.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(670.2876,1741.8907)
+:Sending Touch (ACTION_DOWN): 0:(111.0,52.0)
+    //[calendar_time:2021-08-04 00:31:27.075  system_uptime:6899299]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(181.35167,49.43112)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(973.6161,1245.4077)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,794.0)
+:Sending Touch (ACTION_UP): 0:(656.2124,765.47614)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(281.0,398.0)
+:Sending Touch (ACTION_UP): 0:(291.4096,400.43842)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(1059.2874,1279.2727)
+:Sending Touch (ACTION_DOWN): 0:(691.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(674.49615,1198.6926)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(250.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(249.44748,1102.9451)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=4 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=126717ms (0ms mobile, 0ms wifi, 126717ms not connected)
+// Monkey finished

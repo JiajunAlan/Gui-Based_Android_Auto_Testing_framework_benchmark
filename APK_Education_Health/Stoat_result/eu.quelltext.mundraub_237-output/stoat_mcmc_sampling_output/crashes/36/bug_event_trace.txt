@@ -1,0 +1,2 @@
+['adb', '-s', 'emulator-5554', 'shell', 'am', 'start', '-n', 'eu.quelltext.mundraub/eu.quelltext.mundraub.activities.map.TestFruitRadarActivity']@
+click(className='android.widget.Button',instance='0')@no

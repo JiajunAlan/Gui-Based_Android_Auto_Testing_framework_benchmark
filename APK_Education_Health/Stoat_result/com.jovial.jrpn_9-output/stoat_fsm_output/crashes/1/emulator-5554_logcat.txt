@@ -1,0 +1,2049 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(31069): FATAL EXCEPTION: main
+E/AndroidRuntime(31069): Process: com.jovial.jrpn, PID: 31069
+E/AndroidRuntime(31069): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonE'
+E/AndroidRuntime(31069): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31069): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31069): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31069): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31069): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31069): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31069): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31069): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31069): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31069): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31069): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31069): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31069): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31069): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31069): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31069): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31069): 	... 11 more
+E/AndroidRuntime(31184): FATAL EXCEPTION: main
+E/AndroidRuntime(31184): Process: com.jovial.jrpn, PID: 31184
+E/AndroidRuntime(31184): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRS'
+E/AndroidRuntime(31184): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31184): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31184): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31184): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31184): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31184): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31184): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31184): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31184): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31184): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31184): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31184): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31184): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31184): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31184): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31184): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31184): 	... 11 more
+E/AndroidRuntime(31279): FATAL EXCEPTION: main
+E/AndroidRuntime(31279): Process: com.jovial.jrpn, PID: 31279
+E/AndroidRuntime(31279): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRol'
+E/AndroidRuntime(31279): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31279): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31279): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31279): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31279): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31279): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31279): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31279): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31279): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31279): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31279): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31279): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31279): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31279): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31279): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31279): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31279): 	... 11 more
+E/AndroidRuntime(31381): FATAL EXCEPTION: main
+E/AndroidRuntime(31381): Process: com.jovial.jrpn, PID: 31381
+E/AndroidRuntime(31381): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton1'
+E/AndroidRuntime(31381): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31381): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31381): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31381): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31381): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31381): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31381): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31381): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31381): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31381): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31381): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31381): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31381): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31381): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31381): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31381): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31381): 	... 11 more
+E/AndroidRuntime(31446): FATAL EXCEPTION: main
+E/AndroidRuntime(31446): Process: com.jovial.jrpn, PID: 31446
+E/AndroidRuntime(31446): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton8'
+E/AndroidRuntime(31446): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31446): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31446): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31446): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31446): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31446): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31446): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31446): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31446): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31446): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31446): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31446): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31446): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31446): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31446): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31446): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31446): 	... 11 more
+E/AndroidRuntime(31525): FATAL EXCEPTION: main
+E/AndroidRuntime(31525): Process: com.jovial.jrpn, PID: 31525
+E/AndroidRuntime(31525): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRCL'
+E/AndroidRuntime(31525): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31525): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31525): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31525): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31525): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31525): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31525): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31525): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31525): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31525): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31525): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31525): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31525): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31525): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31525): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31525): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31525): 	... 11 more
+E/AndroidRuntime(31613): FATAL EXCEPTION: main
+E/AndroidRuntime(31613): Process: com.jovial.jrpn, PID: 31613
+E/AndroidRuntime(31613): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonEnter with id 'GButtonEnt'
+E/AndroidRuntime(31613): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31613): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31613): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31613): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31613): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31613): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31613): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31613): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31613): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31613): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31613): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31613): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31613): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31613): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31613): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31613): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31613): 	... 11 more
+E/AndroidRuntime(31677): FATAL EXCEPTION: main
+E/AndroidRuntime(31677): Process: com.jovial.jrpn, PID: 31677
+E/AndroidRuntime(31677): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton6'
+E/AndroidRuntime(31677): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31677): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31677): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31677): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31677): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31677): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31677): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31677): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31677): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31677): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31677): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31677): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31677): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31677): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31677): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31677): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31677): 	... 11 more
+E/AndroidRuntime(31743): FATAL EXCEPTION: main
+E/AndroidRuntime(31743): Process: com.jovial.jrpn, PID: 31743
+E/AndroidRuntime(31743): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonSST'
+E/AndroidRuntime(31743): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31743): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31743): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31743): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31743): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31743): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31743): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31743): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31743): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31743): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31743): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31743): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31743): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31743): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31743): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31743): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31743): 	... 11 more
+E/AndroidRuntime(31808): FATAL EXCEPTION: main
+E/AndroidRuntime(31808): Process: com.jovial.jrpn, PID: 31808
+E/AndroidRuntime(31808): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton3'
+E/AndroidRuntime(31808): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31808): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31808): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31808): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31808): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31808): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31808): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31808): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31808): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31808): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31808): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31808): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31808): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31808): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31808): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31808): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31808): 	... 11 more
+E/AndroidRuntime(31875): FATAL EXCEPTION: main
+E/AndroidRuntime(31875): Process: com.jovial.jrpn, PID: 31875
+E/AndroidRuntime(31875): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton2'
+E/AndroidRuntime(31875): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31875): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31875): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31875): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31875): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31875): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31875): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31875): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31875): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31875): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31875): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31875): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31875): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31875): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31875): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31875): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31875): 	... 11 more
+E/AndroidRuntime(31941): FATAL EXCEPTION: main
+E/AndroidRuntime(31941): Process: com.jovial.jrpn, PID: 31941
+E/AndroidRuntime(31941): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonD'
+E/AndroidRuntime(31941): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(31941): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(31941): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(31941): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(31941): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(31941): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(31941): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(31941): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(31941): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(31941): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(31941): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(31941): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(31941): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(31941): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(31941): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(31941): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(31941): 	... 11 more
+E/AndroidRuntime(32005): FATAL EXCEPTION: main
+E/AndroidRuntime(32005): Process: com.jovial.jrpn, PID: 32005
+E/AndroidRuntime(32005): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonPls'
+E/AndroidRuntime(32005): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32005): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32005): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32005): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32005): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32005): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32005): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32005): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32005): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32005): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32005): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32005): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32005): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32005): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32005): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32005): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32005): 	... 11 more
+E/AndroidRuntime(32071): FATAL EXCEPTION: main
+E/AndroidRuntime(32071): Process: com.jovial.jrpn, PID: 32071
+E/AndroidRuntime(32071): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDp'
+E/AndroidRuntime(32071): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32071): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32071): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32071): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32071): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32071): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32071): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32071): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32071): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32071): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32071): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32071): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32071): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32071): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32071): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32071): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32071): 	... 11 more
+E/AndroidRuntime(32135): FATAL EXCEPTION: main
+E/AndroidRuntime(32135): Process: com.jovial.jrpn, PID: 32135
+E/AndroidRuntime(32135): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMul'
+E/AndroidRuntime(32135): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32135): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32135): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32135): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32135): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32135): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32135): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32135): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32135): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32135): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32135): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32135): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32135): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32135): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32135): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32135): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32135): 	... 11 more
+E/AndroidRuntime(32201): FATAL EXCEPTION: main
+E/AndroidRuntime(32201): Process: com.jovial.jrpn, PID: 32201
+E/AndroidRuntime(32201): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonShift with id 'GButtonGKey'
+E/AndroidRuntime(32201): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32201): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32201): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32201): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32201): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32201): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32201): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32201): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32201): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32201): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32201): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32201): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32201): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32201): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32201): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32201): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32201): 	... 11 more
+E/ActivityManager( 1569): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1569): PID: 1762
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1569): Load: 0.17 / 0.19 / 0.18
+E/ActivityManager( 1569): CPU usage from 29127ms to 0ms ago:
+E/ActivityManager( 1569):   0.2% 1569/system_server: 0.1% user + 0.1% kernel / faults: 17 minor
+E/ActivityManager( 1569):   0.1% 31019/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569):   0% 1144/surfaceflinger: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1762/com.google.android.gms.persistent: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 2048/com.google.android.gms: 0% user + 0% kernel / faults: 9 minor
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): CPU usage from 880ms to 1383ms later:
+E/ActivityManager( 1569):   2% 1569/system_server: 2% user + 0% kernel
+E/ActivityManager( 1569):   1.7% 1762/com.google.android.gms.persistent: 0% user + 1.7% kernel
+E/ActivityManager( 1569): 0.9% TOTAL: 0% user + 0.9% kernel
+E/ActivityManager( 1569): ANR in com.android.systemui
+E/ActivityManager( 1569): PID: 1643
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.22 / 0.2 / 0.19
+E/ActivityManager( 1569): CPU usage from 7124ms to 0ms ago:
+E/ActivityManager( 1569):   1.9% 1569/system_server: 1.5% user + 0.4% kernel / faults: 513 minor
+E/ActivityManager( 1569):   0% 1142/debuggerd: 0% user + 0% kernel / faults: 3529 minor 13 major
+E/ActivityManager( 1569):   0% 1643/com.android.systemui: 0% user + 0% kernel / faults: 56 minor
+E/ActivityManager( 1569):   0% 1781/com.android.phone: 0% user + 0% kernel / faults: 93 minor
+E/ActivityManager( 1569):   0% 17952/kworker/0:2: 0% user + 0% kernel
+E/ActivityManager( 1569):   0.1% 31019/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569):   0% 31096/logcat: 0% user + 0% kernel
+E/ActivityManager( 1569): 1.8% TOTAL: 0.9% user + 0.6% kernel + 0.2% iowait
+E/ActivityManager( 1569): CPU usage from 452ms to 957ms later:
+E/ActivityManager( 1569):   1.9% 1569/system_server: 1.9% user + 0% kernel / faults: 2 minor
+E/ActivityManager( 1569): 1.9% TOTAL: 1.9% user + 0% kernel
+E/ActivityManager( 1569): ANR in com.android.launcher
+E/ActivityManager( 1569): PID: 1923
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.24 / 0.2 / 0.19
+E/ActivityManager( 1569): CPU usage from 10010ms to 0ms ago:
+E/ActivityManager( 1569):   0.1% 31019/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569):   0% 1569/system_server: 0% user + 0% kernel / faults: 10 minor
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): CPU usage from 1272ms to 1777ms later:
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): ANR in com.android.phone
+E/ActivityManager( 1569): PID: 1781
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=com.android.internal.telephony.data-stall flg=0x14 (has extras) }
+E/ActivityManager( 1569): Load: 0.05 / 0.15 / 0.17
+E/ActivityManager( 1569): CPU usage from 52902ms to 0ms ago:
+E/ActivityManager( 1569):   0.1% 31019/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1569/system_server: 0% user + 0% kernel / faults: 6 minor
+E/ActivityManager( 1569):   0% 17952/kworker/0:2: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 20714/kworker/1:1: 0% user + 0% kernel
+E/ActivityManager( 1569):  +0% 32258/zygote: 0% user + 0% kernel
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): CPU usage from 766ms to 1270ms later:
+E/ActivityManager( 1569):   1.9% 31019/com.github.uiautomator: 1.9% user + 0% kernel
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/AndroidRuntime(32460): FATAL EXCEPTION: main
+E/AndroidRuntime(32460): Process: com.jovial.jrpn, PID: 32460
+E/AndroidRuntime(32460): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonSqrt with id 'GButtonOCT'
+E/AndroidRuntime(32460): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32460): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32460): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32460): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32460): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32460): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32460): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32460): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32460): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32460): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32460): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32460): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32460): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32460): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32460): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32460): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32460): 	... 11 more
+E/AndroidRuntime(32619): FATAL EXCEPTION: main
+E/AndroidRuntime(32619): Process: com.jovial.jrpn, PID: 32619
+E/AndroidRuntime(32619): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton0'
+E/AndroidRuntime(32619): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32619): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32619): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32619): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32619): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32619): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32619): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32619): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32619): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32619): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32619): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32619): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32619): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32619): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32619): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32619): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32619): 	... 11 more
+E/AndroidRuntime(32724): FATAL EXCEPTION: main
+E/AndroidRuntime(32724): Process: com.jovial.jrpn, PID: 32724
+E/AndroidRuntime(32724): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDiv'
+E/AndroidRuntime(32724): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(32724): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(32724): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(32724): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(32724): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(32724): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(32724): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(32724): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(32724): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(32724): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(32724): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(32724): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(32724): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(32724): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(32724): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(32724): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(32724): 	... 11 more
+E/AndroidRuntime(  318): FATAL EXCEPTION: main
+E/AndroidRuntime(  318): Process: com.jovial.jrpn, PID: 318
+E/AndroidRuntime(  318): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonXY'
+E/AndroidRuntime(  318): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  318): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  318): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  318): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  318): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  318): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  318): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  318): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  318): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  318): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  318): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  318): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  318): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  318): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  318): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  318): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  318): 	... 11 more
+E/AndroidRuntime(  389): FATAL EXCEPTION: main
+E/AndroidRuntime(  389): Process: com.jovial.jrpn, PID: 389
+E/AndroidRuntime(  389): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonOn'
+E/AndroidRuntime(  389): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  389): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  389): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  389): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  389): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  389): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  389): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  389): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  389): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  389): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  389): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  389): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  389): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  389): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  389): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  389): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  389): 	... 11 more
+E/AndroidRuntime(  459): FATAL EXCEPTION: main
+E/AndroidRuntime(  459): Process: com.jovial.jrpn, PID: 459
+E/AndroidRuntime(  459): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonSTO'
+E/AndroidRuntime(  459): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  459): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  459): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  459): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  459): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  459): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  459): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  459): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  459): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  459): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  459): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  459): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  459): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  459): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  459): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  459): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  459): 	... 11 more
+E/AndroidRuntime(  530): FATAL EXCEPTION: main
+E/AndroidRuntime(  530): Process: com.jovial.jrpn, PID: 530
+E/AndroidRuntime(  530): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton5'
+E/AndroidRuntime(  530): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  530): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  530): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  530): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  530): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  530): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  530): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  530): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  530): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  530): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  530): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  530): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  530): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  530): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  530): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  530): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  530): 	... 11 more
+E/AndroidRuntime(  597): FATAL EXCEPTION: main
+E/AndroidRuntime(  597): Process: com.jovial.jrpn, PID: 597
+E/AndroidRuntime(  597): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonF'
+E/AndroidRuntime(  597): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  597): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  597): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  597): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  597): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  597): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  597): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  597): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  597): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  597): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  597): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  597): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  597): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  597): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  597): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  597): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  597): 	... 11 more
+E/AndroidRuntime(  662): FATAL EXCEPTION: main
+E/AndroidRuntime(  662): Process: com.jovial.jrpn, PID: 662
+E/AndroidRuntime(  662): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton7'
+E/AndroidRuntime(  662): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  662): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  662): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  662): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  662): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  662): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  662): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  662): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  662): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  662): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  662): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  662): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  662): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  662): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  662): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  662): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  662): 	... 11 more
+E/AndroidRuntime(  731): FATAL EXCEPTION: main
+E/AndroidRuntime(  731): Process: com.jovial.jrpn, PID: 731
+E/AndroidRuntime(  731): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDEC'
+E/AndroidRuntime(  731): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  731): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  731): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  731): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  731): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  731): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  731): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  731): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  731): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  731): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  731): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  731): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  731): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  731): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  731): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  731): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  731): 	... 11 more
+E/AndroidRuntime(  796): FATAL EXCEPTION: main
+E/AndroidRuntime(  796): Process: com.jovial.jrpn, PID: 796
+E/AndroidRuntime(  796): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonB'
+E/AndroidRuntime(  796): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  796): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  796): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  796): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  796): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  796): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  796): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  796): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  796): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  796): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  796): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  796): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  796): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  796): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  796): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  796): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  796): 	... 11 more
+E/AndroidRuntime(  862): FATAL EXCEPTION: main
+E/AndroidRuntime(  862): Process: com.jovial.jrpn, PID: 862
+E/AndroidRuntime(  862): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonShift with id 'GButtonFKey'
+E/AndroidRuntime(  862): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  862): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  862): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  862): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  862): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  862): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  862): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  862): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  862): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  862): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  862): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  862): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  862): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  862): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  862): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  862): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  862): 	... 11 more
+E/AndroidRuntime(  936): FATAL EXCEPTION: main
+E/AndroidRuntime(  936): Process: com.jovial.jrpn, PID: 936
+E/AndroidRuntime(  936): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonGTO'
+E/AndroidRuntime(  936): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime(  936): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime(  936): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime(  936): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime(  936): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime(  936): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(  936): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(  936): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(  936): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(  936): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(  936): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(  936): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(  936): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime(  936): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime(  936): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime(  936): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime(  936): 	... 11 more
+E/AndroidRuntime( 1007): FATAL EXCEPTION: main
+E/AndroidRuntime( 1007): Process: com.jovial.jrpn, PID: 1007
+E/AndroidRuntime( 1007): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBSP'
+E/AndroidRuntime( 1007): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1007): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1007): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1007): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1007): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1007): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1007): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1007): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1007): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1007): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1007): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1007): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1007): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1007): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1007): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1007): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1007): 	... 11 more
+E/AndroidRuntime( 1074): FATAL EXCEPTION: main
+E/AndroidRuntime( 1074): Process: com.jovial.jrpn, PID: 1074
+E/AndroidRuntime( 1074): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton9'
+E/AndroidRuntime( 1074): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1074): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1074): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1074): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1074): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1074): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1074): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1074): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1074): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1074): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1074): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1074): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1074): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1074): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1074): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1074): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1074): 	... 11 more
+E/AndroidRuntime( 1161): FATAL EXCEPTION: main
+E/AndroidRuntime( 1161): Process: com.jovial.jrpn, PID: 1161
+E/AndroidRuntime( 1161): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonA'
+E/AndroidRuntime( 1161): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1161): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1161): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1161): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1161): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1161): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1161): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1161): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1161): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1161): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1161): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1161): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1161): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1161): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1161): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1161): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1161): 	... 11 more
+E/AndroidRuntime( 1233): FATAL EXCEPTION: main
+E/AndroidRuntime( 1233): Process: com.jovial.jrpn, PID: 1233
+E/AndroidRuntime( 1233): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMin'
+E/AndroidRuntime( 1233): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1233): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1233): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1233): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1233): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1233): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1233): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1233): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1233): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1233): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1233): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1233): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1233): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1233): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1233): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1233): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1233): 	... 11 more
+E/AndroidRuntime( 1300): FATAL EXCEPTION: main
+E/AndroidRuntime( 1300): Process: com.jovial.jrpn, PID: 1300
+E/AndroidRuntime( 1300): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonCHS'
+E/AndroidRuntime( 1300): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1300): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1300): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1300): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1300): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1300): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1300): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1300): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1300): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1300): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1300): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1300): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1300): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1300): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1300): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1300): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1300): 	... 11 more
+E/AndroidRuntime( 1380): FATAL EXCEPTION: main
+E/AndroidRuntime( 1380): Process: com.jovial.jrpn, PID: 1380
+E/AndroidRuntime( 1380): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBIN'
+E/AndroidRuntime( 1380): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1380): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1380): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1380): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1380): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1380): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1380): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1380): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1380): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1380): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1380): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1380): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1380): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1380): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1380): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1380): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1380): 	... 11 more
+E/ActivityManager( 1569): ANR in com.android.systemui
+E/ActivityManager( 1569): PID: 32272
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.1 / 0.2 / 0.2
+E/ActivityManager( 1569): CPU usage from 4999ms to -1561ms ago:
+E/ActivityManager( 1569):   1% 1569/system_server: 0.5% user + 0.5% kernel / faults: 299 minor
+E/ActivityManager( 1569):   0% 1142/debuggerd: 0% user + 0% kernel / faults: 3464 minor
+E/ActivityManager( 1569):   0% 32286/com.android.phone: 0% user + 0% kernel / faults: 103 minor
+E/ActivityManager( 1569):   0% 3/ksoftirqd/0: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1144/surfaceflinger: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 2048/com.google.android.gms: 0% user + 0% kernel / faults: 21 minor
+E/ActivityManager( 1569):   0% 31096/logcat: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 32272/com.android.systemui: 0% user + 0% kernel / faults: 68 minor
+E/ActivityManager( 1569):   0.1% 32405/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569): 0.9% TOTAL: 0.6% user + 0.3% kernel + 0% iowait
+E/ActivityManager( 1569): CPU usage from 1053ms to 1559ms later:
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1569): PID: 32258
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1569): Load: 0.09 / 0.2 / 0.2
+E/ActivityManager( 1569): CPU usage from 4183ms to -1415ms ago:
+E/ActivityManager( 1569):   1.4% 1569/system_server: 0.5% user + 0.8% kernel / faults: 151 minor
+E/ActivityManager( 1569):   0.4% 1142/debuggerd: 0.3% user + 0% kernel / faults: 3464 minor
+E/ActivityManager( 1569):   0% 8/rcu_preempt: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 2048/com.google.android.gms: 0% user + 0% kernel / faults: 21 minor
+E/ActivityManager( 1569):   0.1% 32258/zygote: 0.1% user + 0% kernel / faults: 84 minor
+E/ActivityManager( 1569):   0% 32286/com.android.phone: 0% user + 0% kernel / faults: 4 minor
+E/ActivityManager( 1569):   0.1% 32405/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569): 1% TOTAL: 0.5% user + 0.5% kernel
+E/ActivityManager( 1569): CPU usage from 907ms to 1413ms later:
+E/ActivityManager( 1569):   1.8% 8/rcu_preempt: 0% user + 1.8% kernel
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): ANR in com.android.launcher
+E/ActivityManager( 1569): PID: 32528
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.04 / 0.17 / 0.19
+E/ActivityManager( 1569): CPU usage from 10001ms to 0ms ago:
+E/ActivityManager( 1569):   0% 1155/adbd: 0% user + 0% kernel / faults: 552 minor
+E/ActivityManager( 1569):   0% 1569/system_server: 0% user + 0% kernel / faults: 3 minor
+E/ActivityManager( 1569):   0% 16/kworker/u4:1: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1125/kworker/0:1H: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1156/logcat: 0% user + 0% kernel
+E/ActivityManager( 1569):   0.1% 32405/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569):  +0% 1427/sh: 0% user + 0% kernel
+E/ActivityManager( 1569):  +0% 1429/app_process: 0% user + 0% kernel
+E/ActivityManager( 1569): 0.4% TOTAL: 0.1% user + 0.2% kernel
+E/ActivityManager( 1569): CPU usage from 1159ms to 1663ms later:
+E/ActivityManager( 1569):   1.9% 1569/system_server: 0% user + 1.9% kernel / faults: 2 minor
+E/ActivityManager( 1569): 0.9% TOTAL: 0% user + 0.9% kernel
+E/ActivityManager( 1569): ANR in com.android.phone
+E/ActivityManager( 1569): PID: 32286
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=com.android.internal.telephony.data-stall flg=0x14 (has extras) }
+E/ActivityManager( 1569): Load: 0.01 / 0.13 / 0.17
+E/ActivityManager( 1569): CPU usage from 4070ms to -1602ms ago:
+E/ActivityManager( 1569):   0.6% 1569/system_server: 0.5% user + 0% kernel / faults: 135 minor
+E/ActivityManager( 1569):   0% 1142/debuggerd: 0% user + 0% kernel / faults: 3464 minor
+E/ActivityManager( 1569):   0% 31096/logcat: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 8/rcu_preempt: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1744/sdcard: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 17952/kworker/0:2: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 32272/com.android.systemui: 0% user + 0% kernel / faults: 1 minor
+E/ActivityManager( 1569):   0% 32286/com.android.phone: 0% user + 0% kernel
+E/ActivityManager( 1569):   0.1% 32405/com.github.uiautomator: 0.1% user + 0% kernel
+E/ActivityManager( 1569): 1.2% TOTAL: 0.8% user + 0.2% kernel + 0% softirq
+E/ActivityManager( 1569): CPU usage from 1096ms to 1600ms later:
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/AndroidRuntime( 1543): FATAL EXCEPTION: main
+E/AndroidRuntime( 1543): Process: com.jovial.jrpn, PID: 1543
+E/AndroidRuntime( 1543): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonC'
+E/AndroidRuntime( 1543): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1543): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1543): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1543): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1543): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1543): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1543): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1543): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1543): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1543): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1543): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1543): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1543): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1543): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1543): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1543): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1543): 	... 11 more
+E/AndroidRuntime( 1683): FATAL EXCEPTION: main
+E/AndroidRuntime( 1683): Process: com.jovial.jrpn, PID: 1683
+E/AndroidRuntime( 1683): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonHEX'
+E/AndroidRuntime( 1683): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1683): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1683): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1683): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1683): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1683): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1683): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1683): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1683): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1683): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1683): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1683): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1683): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1683): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1683): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1683): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1683): 	... 11 more
+E/AndroidRuntime( 1765): FATAL EXCEPTION: main
+E/AndroidRuntime( 1765): Process: com.jovial.jrpn, PID: 1765
+E/AndroidRuntime( 1765): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton4'
+E/AndroidRuntime( 1765): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1765): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1765): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1765): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1765): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1765): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1765): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1765): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1765): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1765): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1765): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1765): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1765): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1765): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1765): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1765): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1765): 	... 11 more
+E/AndroidRuntime( 1862): FATAL EXCEPTION: main
+E/AndroidRuntime( 1862): Process: com.jovial.jrpn, PID: 1862
+E/AndroidRuntime( 1862): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonGSB'
+E/AndroidRuntime( 1862): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1862): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1862): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1862): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1862): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1862): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1862): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1862): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1862): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1862): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1862): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1862): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1862): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1862): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1862): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1862): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1862): 	... 11 more
+E/AndroidRuntime( 1954): FATAL EXCEPTION: main
+E/AndroidRuntime( 1954): Process: com.jovial.jrpn, PID: 1954
+E/AndroidRuntime( 1954): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonCHS'
+E/AndroidRuntime( 1954): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 1954): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 1954): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 1954): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 1954): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 1954): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 1954): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 1954): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 1954): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 1954): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 1954): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 1954): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 1954): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 1954): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 1954): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 1954): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 1954): 	... 11 more
+E/AndroidRuntime( 2228): FATAL EXCEPTION: main
+E/AndroidRuntime( 2228): Process: com.jovial.jrpn, PID: 2228
+E/AndroidRuntime( 2228): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRCL'
+E/AndroidRuntime( 2228): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2228): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2228): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2228): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2228): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2228): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2228): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2228): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2228): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2228): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2228): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2228): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2228): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2228): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2228): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2228): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2228): 	... 11 more
+E/AndroidRuntime( 2326): FATAL EXCEPTION: main
+E/AndroidRuntime( 2326): Process: com.jovial.jrpn, PID: 2326
+E/AndroidRuntime( 2326): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton4'
+E/AndroidRuntime( 2326): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2326): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2326): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2326): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2326): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2326): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2326): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2326): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2326): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2326): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2326): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2326): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2326): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2326): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2326): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2326): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2326): 	... 11 more
+E/AndroidRuntime( 2418): FATAL EXCEPTION: main
+E/AndroidRuntime( 2418): Process: com.jovial.jrpn, PID: 2418
+E/AndroidRuntime( 2418): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDiv'
+E/AndroidRuntime( 2418): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2418): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2418): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2418): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2418): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2418): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2418): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2418): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2418): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2418): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2418): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2418): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2418): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2418): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2418): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2418): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2418): 	... 11 more
+E/AndroidRuntime( 2489): FATAL EXCEPTION: main
+E/AndroidRuntime( 2489): Process: com.jovial.jrpn, PID: 2489
+E/AndroidRuntime( 2489): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonGTO'
+E/AndroidRuntime( 2489): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2489): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2489): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2489): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2489): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2489): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2489): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2489): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2489): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2489): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2489): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2489): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2489): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2489): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2489): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2489): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2489): 	... 11 more
+E/AndroidRuntime( 2556): FATAL EXCEPTION: main
+E/AndroidRuntime( 2556): Process: com.jovial.jrpn, PID: 2556
+E/AndroidRuntime( 2556): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonA'
+E/AndroidRuntime( 2556): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2556): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2556): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2556): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2556): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2556): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2556): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2556): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2556): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2556): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2556): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2556): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2556): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2556): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2556): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2556): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2556): 	... 11 more
+E/AndroidRuntime( 2621): FATAL EXCEPTION: main
+E/AndroidRuntime( 2621): Process: com.jovial.jrpn, PID: 2621
+E/AndroidRuntime( 2621): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDEC'
+E/AndroidRuntime( 2621): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2621): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2621): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2621): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2621): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2621): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2621): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2621): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2621): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2621): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2621): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2621): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2621): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2621): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2621): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2621): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2621): 	... 11 more
+E/AndroidRuntime( 2699): FATAL EXCEPTION: main
+E/AndroidRuntime( 2699): Process: com.jovial.jrpn, PID: 2699
+E/AndroidRuntime( 2699): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonD'
+E/AndroidRuntime( 2699): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2699): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2699): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2699): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2699): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2699): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2699): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2699): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2699): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2699): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2699): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2699): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2699): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2699): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2699): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2699): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2699): 	... 11 more
+E/AndroidRuntime( 2765): FATAL EXCEPTION: main
+E/AndroidRuntime( 2765): Process: com.jovial.jrpn, PID: 2765
+E/AndroidRuntime( 2765): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton2'
+E/AndroidRuntime( 2765): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2765): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2765): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2765): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2765): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2765): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2765): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2765): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2765): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2765): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2765): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2765): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2765): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2765): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2765): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2765): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2765): 	... 11 more
+E/AndroidRuntime( 2831): FATAL EXCEPTION: main
+E/AndroidRuntime( 2831): Process: com.jovial.jrpn, PID: 2831
+E/AndroidRuntime( 2831): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonC'
+E/AndroidRuntime( 2831): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2831): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2831): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2831): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2831): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2831): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2831): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2831): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2831): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2831): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2831): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2831): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2831): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2831): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2831): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2831): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2831): 	... 11 more
+E/AndroidRuntime( 2905): FATAL EXCEPTION: main
+E/AndroidRuntime( 2905): Process: com.jovial.jrpn, PID: 2905
+E/AndroidRuntime( 2905): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton5'
+E/AndroidRuntime( 2905): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2905): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2905): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2905): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2905): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2905): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2905): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2905): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2905): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2905): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2905): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2905): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2905): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2905): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2905): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2905): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2905): 	... 11 more
+E/AndroidRuntime( 2973): FATAL EXCEPTION: main
+E/AndroidRuntime( 2973): Process: com.jovial.jrpn, PID: 2973
+E/AndroidRuntime( 2973): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBIN'
+E/AndroidRuntime( 2973): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 2973): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 2973): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 2973): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 2973): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 2973): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 2973): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 2973): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 2973): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 2973): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 2973): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 2973): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 2973): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 2973): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 2973): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 2973): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 2973): 	... 11 more
+E/AndroidRuntime( 3042): FATAL EXCEPTION: main
+E/AndroidRuntime( 3042): Process: com.jovial.jrpn, PID: 3042
+E/AndroidRuntime( 3042): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonShift with id 'GButtonGKey'
+E/AndroidRuntime( 3042): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3042): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3042): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3042): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3042): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3042): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3042): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3042): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3042): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3042): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3042): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3042): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3042): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3042): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3042): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3042): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3042): 	... 11 more
+E/AndroidRuntime( 3108): FATAL EXCEPTION: main
+E/AndroidRuntime( 3108): Process: com.jovial.jrpn, PID: 3108
+E/AndroidRuntime( 3108): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRol'
+E/AndroidRuntime( 3108): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3108): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3108): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3108): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3108): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3108): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3108): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3108): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3108): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3108): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3108): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3108): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3108): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3108): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3108): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3108): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3108): 	... 11 more
+E/AndroidRuntime( 3172): FATAL EXCEPTION: main
+E/AndroidRuntime( 3172): Process: com.jovial.jrpn, PID: 3172
+E/AndroidRuntime( 3172): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton3'
+E/AndroidRuntime( 3172): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3172): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3172): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3172): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3172): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3172): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3172): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3172): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3172): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3172): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3172): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3172): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3172): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3172): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3172): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3172): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3172): 	... 11 more
+E/AndroidRuntime( 3238): FATAL EXCEPTION: main
+E/AndroidRuntime( 3238): Process: com.jovial.jrpn, PID: 3238
+E/AndroidRuntime( 3238): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMin'
+E/AndroidRuntime( 3238): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3238): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3238): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3238): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3238): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3238): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3238): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3238): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3238): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3238): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3238): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3238): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3238): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3238): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3238): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3238): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3238): 	... 11 more
+E/AndroidRuntime( 3307): FATAL EXCEPTION: main
+E/AndroidRuntime( 3307): Process: com.jovial.jrpn, PID: 3307
+E/AndroidRuntime( 3307): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonE'
+E/AndroidRuntime( 3307): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3307): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3307): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3307): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3307): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3307): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3307): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3307): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3307): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3307): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3307): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3307): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3307): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3307): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3307): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3307): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3307): 	... 11 more
+E/AndroidRuntime( 3371): FATAL EXCEPTION: main
+E/AndroidRuntime( 3371): Process: com.jovial.jrpn, PID: 3371
+E/AndroidRuntime( 3371): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRS'
+E/AndroidRuntime( 3371): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3371): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3371): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3371): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3371): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3371): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3371): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3371): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3371): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3371): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3371): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3371): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3371): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3371): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3371): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3371): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3371): 	... 11 more
+E/AndroidRuntime( 3437): FATAL EXCEPTION: main
+E/AndroidRuntime( 3437): Process: com.jovial.jrpn, PID: 3437
+E/AndroidRuntime( 3437): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonSTO'
+E/AndroidRuntime( 3437): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3437): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3437): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3437): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3437): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3437): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3437): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3437): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3437): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3437): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3437): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3437): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3437): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3437): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3437): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3437): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3437): 	... 11 more
+E/ActivityManager( 1569): ANR in com.android.launcher
+E/ActivityManager( 1569): PID: 32528
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.02 / 0.09 / 0.14
+E/ActivityManager( 1569): CPU usage from 10004ms to 0ms ago:
+E/ActivityManager( 1569):   0% 1155/adbd: 0% user + 0% kernel / faults: 544 minor
+E/ActivityManager( 1569):   0.1% 1497/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 1569/system_server: 0% user + 0% kernel
+E/ActivityManager( 1569):  +0% 3481/sh: 0% user + 0% kernel
+E/ActivityManager( 1569):  +0% 3483/app_process: 0% user + 0% kernel
+E/ActivityManager( 1569): 0.3% TOTAL: 0.2% user + 0.1% kernel
+E/ActivityManager( 1569): CPU usage from 807ms to 1310ms later:
+E/ActivityManager( 1569):   2% 1569/system_server: 0% user + 2% kernel
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/AndroidRuntime( 3596): FATAL EXCEPTION: main
+E/AndroidRuntime( 3596): Process: com.jovial.jrpn, PID: 3596
+E/AndroidRuntime( 3596): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMul'
+E/AndroidRuntime( 3596): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3596): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3596): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3596): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3596): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3596): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3596): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3596): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3596): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3596): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3596): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3596): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3596): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3596): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3596): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3596): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3596): 	... 11 more
+E/AndroidRuntime( 3720): FATAL EXCEPTION: main
+E/AndroidRuntime( 3720): Process: com.jovial.jrpn, PID: 3720
+E/AndroidRuntime( 3720): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonPls'
+E/AndroidRuntime( 3720): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3720): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3720): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3720): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3720): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3720): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3720): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3720): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3720): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3720): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3720): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3720): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3720): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3720): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3720): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3720): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3720): 	... 11 more
+E/AndroidRuntime( 3787): FATAL EXCEPTION: main
+E/AndroidRuntime( 3787): Process: com.jovial.jrpn, PID: 3787
+E/AndroidRuntime( 3787): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton7'
+E/AndroidRuntime( 3787): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3787): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3787): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3787): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3787): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3787): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3787): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3787): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3787): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3787): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3787): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3787): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3787): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3787): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3787): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3787): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3787): 	... 11 more
+E/AndroidRuntime( 3916): FATAL EXCEPTION: main
+E/AndroidRuntime( 3916): Process: com.jovial.jrpn, PID: 3916
+E/AndroidRuntime( 3916): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonShift with id 'GButtonFKey'
+E/AndroidRuntime( 3916): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3916): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3916): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3916): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3916): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3916): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3916): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3916): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3916): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3916): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3916): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3916): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3916): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3916): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3916): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3916): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3916): 	... 11 more
+E/AndroidRuntime( 3982): FATAL EXCEPTION: main
+E/AndroidRuntime( 3982): Process: com.jovial.jrpn, PID: 3982
+E/AndroidRuntime( 3982): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonDp'
+E/AndroidRuntime( 3982): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 3982): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3982): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3982): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3982): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3982): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3982): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3982): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3982): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3982): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3982): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3982): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3982): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 3982): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 3982): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 3982): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 3982): 	... 11 more
+E/AndroidRuntime( 4046): FATAL EXCEPTION: main
+E/AndroidRuntime( 4046): Process: com.jovial.jrpn, PID: 4046
+E/AndroidRuntime( 4046): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBSP'
+E/AndroidRuntime( 4046): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4046): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4046): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4046): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4046): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4046): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4046): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4046): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4046): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4046): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4046): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4046): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4046): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4046): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4046): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4046): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4046): 	... 11 more
+E/AndroidRuntime( 4113): FATAL EXCEPTION: main
+E/AndroidRuntime( 4113): Process: com.jovial.jrpn, PID: 4113
+E/AndroidRuntime( 4113): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton0'
+E/AndroidRuntime( 4113): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4113): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4113): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4113): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4113): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4113): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4113): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4113): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4113): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4113): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4113): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4113): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4113): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4113): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4113): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4113): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4113): 	... 11 more
+E/AndroidRuntime( 4177): FATAL EXCEPTION: main
+E/AndroidRuntime( 4177): Process: com.jovial.jrpn, PID: 4177
+E/AndroidRuntime( 4177): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonB'
+E/AndroidRuntime( 4177): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4177): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4177): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4177): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4177): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4177): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4177): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4177): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4177): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4177): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4177): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4177): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4177): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4177): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4177): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4177): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4177): 	... 11 more
+E/AndroidRuntime( 4243): FATAL EXCEPTION: main
+E/AndroidRuntime( 4243): Process: com.jovial.jrpn, PID: 4243
+E/AndroidRuntime( 4243): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton9'
+E/AndroidRuntime( 4243): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4243): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4243): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4243): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4243): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4243): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4243): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4243): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4243): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4243): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4243): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4243): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4243): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4243): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4243): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4243): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4243): 	... 11 more
+E/AndroidRuntime( 4310): FATAL EXCEPTION: main
+E/AndroidRuntime( 4310): Process: com.jovial.jrpn, PID: 4310
+E/AndroidRuntime( 4310): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton6'
+E/AndroidRuntime( 4310): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4310): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4310): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4310): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4310): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4310): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4310): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4310): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4310): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4310): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4310): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4310): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4310): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4310): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4310): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4310): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4310): 	... 11 more
+E/AndroidRuntime( 4375): FATAL EXCEPTION: main
+E/AndroidRuntime( 4375): Process: com.jovial.jrpn, PID: 4375
+E/AndroidRuntime( 4375): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonF'
+E/AndroidRuntime( 4375): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4375): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4375): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4375): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4375): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4375): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4375): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4375): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4375): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4375): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4375): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4375): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4375): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4375): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4375): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4375): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4375): 	... 11 more
+E/AndroidRuntime( 4439): FATAL EXCEPTION: main
+E/AndroidRuntime( 4439): Process: com.jovial.jrpn, PID: 4439
+E/AndroidRuntime( 4439): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonGSB'
+E/AndroidRuntime( 4439): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4439): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4439): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4439): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4439): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4439): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4439): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4439): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4439): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4439): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4439): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4439): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4439): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4439): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4439): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4439): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4439): 	... 11 more
+E/AndroidRuntime( 4505): FATAL EXCEPTION: main
+E/AndroidRuntime( 4505): Process: com.jovial.jrpn, PID: 4505
+E/AndroidRuntime( 4505): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton1'
+E/AndroidRuntime( 4505): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4505): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4505): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4505): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4505): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4505): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4505): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4505): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4505): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4505): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4505): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4505): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4505): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4505): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4505): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4505): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4505): 	... 11 more
+E/AndroidRuntime( 4569): FATAL EXCEPTION: main
+E/AndroidRuntime( 4569): Process: com.jovial.jrpn, PID: 4569
+E/AndroidRuntime( 4569): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonXY'
+E/AndroidRuntime( 4569): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4569): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4569): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4569): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4569): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4569): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4569): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4569): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4569): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4569): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4569): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4569): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4569): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4569): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4569): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4569): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4569): 	... 11 more
+E/AndroidRuntime( 4633): FATAL EXCEPTION: main
+E/AndroidRuntime( 4633): Process: com.jovial.jrpn, PID: 4633
+E/AndroidRuntime( 4633): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonOn'
+E/AndroidRuntime( 4633): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4633): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4633): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4633): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4633): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4633): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4633): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4633): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4633): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4633): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4633): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4633): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4633): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4633): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4633): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4633): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4633): 	... 11 more
+E/AndroidRuntime( 4697): FATAL EXCEPTION: main
+E/AndroidRuntime( 4697): Process: com.jovial.jrpn, PID: 4697
+E/AndroidRuntime( 4697): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonHEX'
+E/AndroidRuntime( 4697): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4697): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4697): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4697): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4697): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4697): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4697): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4697): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4697): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4697): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4697): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4697): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4697): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4697): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4697): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4697): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4697): 	... 11 more
+E/AndroidRuntime( 4761): FATAL EXCEPTION: main
+E/AndroidRuntime( 4761): Process: com.jovial.jrpn, PID: 4761
+E/AndroidRuntime( 4761): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton8'
+E/AndroidRuntime( 4761): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4761): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4761): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4761): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4761): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4761): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4761): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4761): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4761): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4761): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4761): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4761): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4761): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4761): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4761): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4761): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4761): 	... 11 more
+E/ActivityManager( 1569): ANR in com.android.launcher
+E/ActivityManager( 1569): PID: 3702
+E/ActivityManager( 1569): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1569): Load: 0.03 / 0.1 / 0.13
+E/ActivityManager( 1569): CPU usage from 13260ms to 0ms ago:
+E/ActivityManager( 1569):   0.1% 1569/system_server: 0.1% user + 0% kernel
+E/ActivityManager( 1569):   0.1% 3552/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1569):   0% 20714/kworker/1:1: 0% user + 0% kernel
+E/ActivityManager( 1569): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1569): CPU usage from 1082ms to 1593ms later:
+E/ActivityManager( 1569): 0.9% TOTAL: 0% user + 0.9% kernel
+E/AndroidRuntime( 4920): FATAL EXCEPTION: main
+E/AndroidRuntime( 4920): Process: com.jovial.jrpn, PID: 4920
+E/AndroidRuntime( 4920): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonSST'
+E/AndroidRuntime( 4920): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 4920): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 4920): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 4920): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 4920): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 4920): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4920): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4920): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4920): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4920): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4920): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4920): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4920): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 4920): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 4920): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 4920): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 4920): 	... 11 more
+E/AndroidRuntime( 5003): FATAL EXCEPTION: main
+E/AndroidRuntime( 5003): Process: com.jovial.jrpn, PID: 5003
+E/AndroidRuntime( 5003): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonSqrt with id 'GButtonOCT'
+E/AndroidRuntime( 5003): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5003): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5003): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5003): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5003): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5003): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5003): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5003): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5003): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5003): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5003): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5003): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5003): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5003): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5003): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5003): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5003): 	... 11 more
+E/AndroidRuntime( 5070): FATAL EXCEPTION: main
+E/AndroidRuntime( 5070): Process: com.jovial.jrpn, PID: 5070
+E/AndroidRuntime( 5070): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonEnter with id 'GButtonEnt'
+E/AndroidRuntime( 5070): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5070): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5070): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5070): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5070): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5070): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5070): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5070): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5070): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5070): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5070): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5070): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5070): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5070): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5070): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5070): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5070): 	... 11 more
+E/AndroidRuntime( 5135): FATAL EXCEPTION: main
+E/AndroidRuntime( 5135): Process: com.jovial.jrpn, PID: 5135
+E/AndroidRuntime( 5135): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton2'
+E/AndroidRuntime( 5135): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5135): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5135): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5135): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5135): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5135): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5135): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5135): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5135): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5135): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5135): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5135): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5135): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5135): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5135): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5135): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5135): 	... 11 more
+E/AndroidRuntime( 5789): FATAL EXCEPTION: main
+E/AndroidRuntime( 5789): Process: com.jovial.jrpn, PID: 5789
+E/AndroidRuntime( 5789): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton8'
+E/AndroidRuntime( 5789): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5789): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5789): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5789): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5789): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5789): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5789): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5789): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5789): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5789): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5789): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5789): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5789): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5789): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5789): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5789): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5789): 	... 11 more
+E/AndroidRuntime( 5866): FATAL EXCEPTION: main
+E/AndroidRuntime( 5866): Process: com.jovial.jrpn, PID: 5866
+E/AndroidRuntime( 5866): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonBIN'
+E/AndroidRuntime( 5866): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5866): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5866): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5866): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5866): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5866): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5866): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5866): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5866): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5866): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5866): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5866): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5866): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5866): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5866): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5866): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5866): 	... 11 more
+E/AndroidRuntime( 5942): FATAL EXCEPTION: main
+E/AndroidRuntime( 5942): Process: com.jovial.jrpn, PID: 5942
+E/AndroidRuntime( 5942): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton6'
+E/AndroidRuntime( 5942): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 5942): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 5942): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 5942): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 5942): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 5942): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 5942): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 5942): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 5942): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 5942): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 5942): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 5942): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 5942): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 5942): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 5942): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 5942): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 5942): 	... 11 more
+E/AndroidRuntime( 6006): FATAL EXCEPTION: main
+E/AndroidRuntime( 6006): Process: com.jovial.jrpn, PID: 6006
+E/AndroidRuntime( 6006): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMul'
+E/AndroidRuntime( 6006): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6006): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6006): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6006): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6006): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6006): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6006): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6006): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6006): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6006): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6006): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6006): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6006): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6006): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6006): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6006): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6006): 	... 11 more
+E/AndroidRuntime( 6072): FATAL EXCEPTION: main
+E/AndroidRuntime( 6072): Process: com.jovial.jrpn, PID: 6072
+E/AndroidRuntime( 6072): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton4'
+E/AndroidRuntime( 6072): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6072): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6072): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6072): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6072): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6072): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6072): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6072): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6072): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6072): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6072): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6072): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6072): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6072): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6072): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6072): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6072): 	... 11 more
+E/AndroidRuntime( 6139): FATAL EXCEPTION: main
+E/AndroidRuntime( 6139): Process: com.jovial.jrpn, PID: 6139
+E/AndroidRuntime( 6139): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonSTO'
+E/AndroidRuntime( 6139): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6139): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6139): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6139): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6139): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6139): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6139): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6139): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6139): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6139): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6139): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6139): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6139): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6139): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6139): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6139): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6139): 	... 11 more
+E/AndroidRuntime( 6217): FATAL EXCEPTION: main
+E/AndroidRuntime( 6217): Process: com.jovial.jrpn, PID: 6217
+E/AndroidRuntime( 6217): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRCL'
+E/AndroidRuntime( 6217): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6217): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6217): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6217): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6217): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6217): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6217): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6217): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6217): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6217): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6217): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6217): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6217): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6217): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6217): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6217): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6217): 	... 11 more
+E/AndroidRuntime( 6283): FATAL EXCEPTION: main
+E/AndroidRuntime( 6283): Process: com.jovial.jrpn, PID: 6283
+E/AndroidRuntime( 6283): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonShift with id 'GButtonFKey'
+E/AndroidRuntime( 6283): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6283): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6283): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6283): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6283): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6283): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6283): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6283): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6283): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6283): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6283): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6283): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6283): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6283): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6283): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6283): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6283): 	... 11 more
+E/AndroidRuntime( 6359): FATAL EXCEPTION: main
+E/AndroidRuntime( 6359): Process: com.jovial.jrpn, PID: 6359
+E/AndroidRuntime( 6359): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton1'
+E/AndroidRuntime( 6359): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6359): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6359): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6359): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6359): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6359): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6359): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6359): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6359): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6359): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6359): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6359): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6359): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6359): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6359): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6359): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6359): 	... 11 more
+E/AndroidRuntime( 6424): FATAL EXCEPTION: main
+E/AndroidRuntime( 6424): Process: com.jovial.jrpn, PID: 6424
+E/AndroidRuntime( 6424): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonMin'
+E/AndroidRuntime( 6424): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6424): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6424): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6424): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6424): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6424): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6424): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6424): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6424): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6424): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6424): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6424): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6424): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6424): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6424): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6424): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6424): 	... 11 more
+E/AndroidRuntime( 6488): FATAL EXCEPTION: main
+E/AndroidRuntime( 6488): Process: com.jovial.jrpn, PID: 6488
+E/AndroidRuntime( 6488): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonEnter with id 'GButtonEnt'
+E/AndroidRuntime( 6488): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6488): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6488): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6488): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6488): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6488): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6488): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6488): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6488): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6488): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6488): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6488): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6488): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6488): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6488): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6488): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6488): 	... 11 more
+E/AndroidRuntime( 6553): FATAL EXCEPTION: main
+E/AndroidRuntime( 6553): Process: com.jovial.jrpn, PID: 6553
+E/AndroidRuntime( 6553): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonF'
+E/AndroidRuntime( 6553): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6553): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6553): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6553): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6553): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6553): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6553): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6553): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6553): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6553): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6553): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6553): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6553): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6553): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6553): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6553): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6553): 	... 11 more
+E/AndroidRuntime( 6619): FATAL EXCEPTION: main
+E/AndroidRuntime( 6619): Process: com.jovial.jrpn, PID: 6619
+E/AndroidRuntime( 6619): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButton3'
+E/AndroidRuntime( 6619): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6619): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6619): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6619): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6619): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6619): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6619): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6619): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6619): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6619): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6619): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6619): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6619): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6619): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6619): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6619): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6619): 	... 11 more
+E/AndroidRuntime( 6685): FATAL EXCEPTION: main
+E/AndroidRuntime( 6685): Process: com.jovial.jrpn, PID: 6685
+E/AndroidRuntime( 6685): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonHEX'
+E/AndroidRuntime( 6685): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6685): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6685): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6685): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6685): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6685): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6685): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6685): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6685): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6685): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6685): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6685): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6685): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6685): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6685): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6685): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6685): 	... 11 more
+E/AndroidRuntime( 6751): FATAL EXCEPTION: main
+E/AndroidRuntime( 6751): Process: com.jovial.jrpn, PID: 6751
+E/AndroidRuntime( 6751): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButton with id 'GButtonRS'
+E/AndroidRuntime( 6751): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6751): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6751): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6751): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6751): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6751): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6751): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6751): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6751): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6751): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6751): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6751): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6751): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6751): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6751): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6751): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6751): 	... 11 more
+E/AndroidRuntime( 6815): FATAL EXCEPTION: main
+E/AndroidRuntime( 6815): Process: com.jovial.jrpn, PID: 6815
+E/AndroidRuntime( 6815): java.lang.IllegalStateException: Could not find a method GButton_Click(View) in the activity class android.support.v7.widget.TintContextWrapper for onClick handler on view class com.jovial.jrpn.GButtonSqrt with id 'GButtonOCT'
+E/AndroidRuntime( 6815): 	at android.view.View$1.onClick(View.java:3810)
+E/AndroidRuntime( 6815): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 6815): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 6815): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 6815): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 6815): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6815): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6815): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6815): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6815): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6815): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6815): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 6815): Caused by: java.lang.NoSuchMethodException: GButton_Click [class android.view.View]
+E/AndroidRuntime( 6815): 	at java.lang.Class.getConstructorOrMethod(Class.java:472)
+E/AndroidRuntime( 6815): 	at java.lang.Class.getMethod(Class.java:857)
+E/AndroidRuntime( 6815): 	at android.view.View$1.onClick(View.java:3803)
+E/AndroidRuntime( 6815): 	... 11 more

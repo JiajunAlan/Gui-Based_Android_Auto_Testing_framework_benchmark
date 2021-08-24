@@ -1,0 +1,12 @@
+    11561@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    11562@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    11563@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    11576@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Polar calculations"
+    11577@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Orthogonal calculations"
+    11578@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Intersections"
+    11579@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Surfaces"
+    11580@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Various"
+    11581@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Mathematics"
+    11564@back
+    11565@scroll(direction='down')
+    11566@scroll(direction='up')

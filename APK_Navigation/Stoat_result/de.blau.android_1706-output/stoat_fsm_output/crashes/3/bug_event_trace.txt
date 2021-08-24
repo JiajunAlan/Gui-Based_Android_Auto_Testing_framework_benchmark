@@ -1,0 +1,276 @@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@No
+click(resource-id='de.blau.android:id/menu_tools')@
+click(className='android.widget.TextView',instance='4')@Reset OAuth
+click(resource-id='de.blau.android:id/menu_config')@
+click(className='android.widget.TextView',instance='16')@Load, save and delete opening hours templates
+edit(resource-id='de.blau.android:id/template_name')@Weekdays
+click(className='android.widget.Button',instance='0')@Delete
+clickLong(className='android.widget.TextView',instance='5')@All
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='1')@Opening hours
+edit(resource-id='de.blau.android:id/template_name')@Weekdays with lunch break
+click(className='android.widget.TextView',instance='5')@Opening hours
+click(className='android.widget.TextView',instance='2')@Collection times
+click(className='android.widget.TextView',instance='7')@Any
+click(className='android.widget.TextView',instance='1')@Afghanistan
+click(className='android.widget.TextView',instance='5')@Collection times
+click(className='android.widget.TextView',instance='0')@Opening hours
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='5')@Lit
+clickLong(className='android.widget.TextView',instance='7')@Afghanistan
+click(className='android.widget.TextView',instance='10')@Armenia
+click(resource-id='de.blau.android:id/is_default')@
+click(className='android.widget.TextView',instance='4')@Supervised
+edit(resource-id='de.blau.android:id/template_name')@12ekdays with lunch break
+edit(resource-id='de.blau.android:id/template_object')@
+click(className='android.widget.Button',instance='2')@Save
+click(className='android.widget.Button',instance='0')@No
+click(className='android.widget.Button',instance='0')@Done
+click(className='android.widget.TextView',instance='8')@Prevent screen from turning off to save power.
+click(className='android.widget.TextView',instance='14')@Validator settings
+clickLong(content-desc='Help')@
+click(className='android.widget.TextView',instance='4')@Connected node tolerance
+back@
+click(className='android.widget.TextView',instance='4')@Connected node tolerance
+click(className='android.widget.Button',instance='3')@OK
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='12')@Presets
+click(className='android.widget.TextView',instance='2')@Built-in preset
+click(resource-id='de.blau.android:id/listItemCheckBox')@
+clickLong(className='android.widget.TextView',instance='4')@Add preset
+back@
+clickLong(className='android.widget.TextView',instance='2')@Built-in preset
+click(className='android.widget.TextView',instance='1')@Update preset
+click(className='android.widget.Button',instance='0')@OK
+click(content-desc='Help')@
+scroll(direction='down')@
+click(resource-id='de.blau.android:id/help_menu_forward')@
+clickLong(resource-id='de.blau.android:id/help_menu_back')@
+clickLong(resource-id='de.blau.android:id/help_menu_forward')@
+scroll(direction='up')@
+click(resource-id='de.blau.android:id/help_menu_back')@
+click(resource-id='de.blau.android:id/listItemMenu')@
+click(className='android.widget.TextView',instance='0')@Edit
+click(className='android.widget.Button',instance='1')@OK
+clickLong(resource-id='de.blau.android:id/listItemText2')@
+click(className='android.widget.TextView',instance='2')@Move up
+clickLong(content-desc='Help')@
+click(className='android.widget.TextView',instance='4')@Add preset
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='de.blau.android:id/listItemText2')@
+clickLong(resource-id='de.blau.android:id/listItemMenu')@
+click(className='android.widget.TextView',instance='3')@Move down
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@Custom layers
+click(className='android.widget.Button',instance='0')@Done
+click(className='android.widget.TextView',instance='13')@Add and enable JOSM compatible presets
+click(content-desc='Navigate up')@
+click(content-desc='Help')@
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='23')@New Note selection
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='9')@Relation selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='6')@Property editor
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='26')@15.1 Release notes
+click(content-desc='OK')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='18')@GPS sources
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='4')@Main map display
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='18')@GPS sources
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='8')@Way selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='14')@Advanced preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='13')@Preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='24')@Voice commands
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='16')@Aligning background imagery
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='16')@Aligning background imagery
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@Tag filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='18')@GPS sources
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='18')@GPS sources
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@Opening hours
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@Opening hours
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='6')@Property editor
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='8')@Way selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='25')@15.2 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='9')@Relation selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@Opening hours
+click(content-desc='OK')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@Opening hours
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='8')@Way selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='27')@15.0 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='12')@Adding way nodes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='14')@Advanced preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='3')@Introduction
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='17')@Conflict resolution
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='27')@15.0 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='7')@Node selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='21')@Preset filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='18')@GPS sources
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='26')@15.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='21')@Preset filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='6')@Property editor
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@Tag filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='19')@Keyboard
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='10')@Multiselect
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='7')@Node selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='19')@Keyboard
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='26')@15.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@Tag filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='14')@Advanced preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='4')@Main map display
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='19')@Keyboard
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='11')@Creating new objects
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='13')@Preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@Tag filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='8')@Way selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='3')@Introduction
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='10')@Multiselect
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='12')@Adding way nodes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='19')@Keyboard
+click(content-desc='OK')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='28')@14.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='8')@Way selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='7')@Node selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@Tag filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='17')@Conflict resolution
+click(content-desc='OK')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='12')@14.1 Release notes
+click(content-desc='OK')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='13')@14.0 Release notes
+click(content-desc='OK')@
+scroll(direction='up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='14')@Advanced preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='5')@Simple actions
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='11')@Creating new objects
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='15')@Presets
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='13')@Preferences
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='25')@15.2 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='17')@Conflict resolution
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='21')@Preset filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='10')@Multiselect
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='16')@Aligning background imagery
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@Opening hours
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='28')@14.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='3')@Introduction
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='21')@Preset filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='21')@Preset filter
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='28')@14.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='24')@Voice commands
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='10')@Multiselect
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='24')@Voice commands
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='7')@Node selected
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='23')@New Note selection
+click(content-desc='OK')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='24')@0.9.9 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='17')@12.0 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='7')@New Note selection
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='13')@14.0 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='16')@12.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='22')@10.1 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='20')@11.0 Release notes
+click(content-desc='OK')@
+click(className='android.widget.TextView',instance='24')@0.9.9 Release notes
+click(content-desc='OK')@
+scroll(direction='up')@

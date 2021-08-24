@@ -1,0 +1,386 @@
+click(className='android.widget.Button',instance='0')@Skip
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@100+10*x
+menu@
+click(className='android.widget.TextView',instance='3')@Change history
+back@
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@55*y
+clickLong(className='android.widget.TextView',instance='5')@E
+back@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@0-2,9
+scroll(direction='down')@
+menu@
+click(className='android.widget.TextView',instance='1')@S
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@10
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@53
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@12*y
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12
+click(className='android.widget.Button',instance='1')@View
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='9')@Share
+click(className='android.widget.TextView',instance='5')@Export format
+back@
+click(className='android.widget.TextView',instance='6')@GPX
+click(className='android.widget.TextView',instance='10')@Enable this if you want to share the results via messenger or email instead of viewing them on your phone.
+click(content-desc='Navigate up')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@12st
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@23.456
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test9
+clickLong(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+click(className='android.widget.TextView',instance='2')@N
+click(className='android.widget.TextView',instance='1')@S
+click(className='android.widget.TextView',instance='2')@S
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12.456
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test10
+click(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+clickLong(className='android.widget.TextView',instance='2')@N
+menu@
+click(className='android.widget.TextView',instance='1')@S
+clickLong(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+click(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='0')@E
+click(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='1')@m
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test10*x
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test56
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@3-9#3
+click(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@129#3
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st56
+click(className='android.widget.Button',instance='0')@Reset
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@First Steps
+click(content-desc='Navigate up')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@0-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test0
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@12st0
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test0
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st0
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@Help
+scroll(direction='up')@
+scroll(direction='down')@
+back@
+clickLong(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='1')@W
+click(className='android.widget.TextView',instance='5')@W
+click(className='android.widget.TextView',instance='0')@E
+clickLong(content-desc='More options')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test
+clickLong(className='android.widget.TextView',instance='2')@N
+back@
+scroll(direction='up')@
+menu@
+click(className='android.widget.TextView',instance='1')@S
+clickLong(className='android.widget.TextView',instance='2')@S
+menu@
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test0
+click(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='1')@W
+clickLong(className='android.widget.TextView',instance='5')@W
+click(className='android.widget.TextView',instance='0')@E
+click(className='android.widget.TextView',instance='2')@N
+back@
+click(className='android.widget.Button',instance='0')@Reset
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@0-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12
+clickLong(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@
+clickLong(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='1')@m
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@
+click(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+click(className='android.widget.Button',instance='1')@View
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test0
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test
+click(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+clickLong(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='1')@m
+scroll(direction='down')@
+menu@
+click(className='android.widget.TextView',instance='1')@S
+click(className='android.widget.TextView',instance='2')@S
+menu@
+click(className='android.widget.TextView',instance='1')@S
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st0
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test20
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test20
+clickLong(className='android.widget.TextView',instance='2')@S
+menu@
+click(className='android.widget.TextView',instance='0')@N
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@About
+back@
+click(className='android.widget.Button',instance='0')@Reset
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@
+click(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@
+click(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+clickLong(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='1')@W
+clickLong(className='android.widget.TextView',instance='5')@W
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12
+clickLong(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+clickLong(className='android.widget.TextView',instance='2')@N
+back@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='1')@S
+click(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='1')@m
+click(className='android.widget.TextView',instance='2')@S
+back@
+clickLong(className='android.widget.TextView',instance='2')@S
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@0
+clickLong(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+click(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='0')@ft
+clickLong(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='1')@m
+click(className='android.widget.Button',instance='1')@View
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@0-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@129
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test29
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test0
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test29
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@12st29
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='1')@S
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@12st29
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st0
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test20
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@12st29
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test20
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@12st20
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@12st29
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test29
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='7')@Use MIME type
+click(className='android.widget.TextView',instance='1')@Quick settings
+click(className='android.widget.TextView',instance='2')@Use with
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='8')@Disable this if Android does not offer your favorite app for viewing the waypoints. Be aware that Android may offer many other apps then which are not really useful.
+click(className='android.widget.TextView',instance='4')@Expert settings
+click(className='android.widget.TextView',instance='2')@Use with
+click(className='android.widget.CheckedTextView',instance='0')@Locus Map
+click(className='android.widget.TextView',instance='3')@Locus Map
+click(className='android.widget.CheckedTextView',instance='2')@expert settings
+click(className='android.widget.TextView',instance='6')@KMZ
+click(className='android.widget.CheckedTextView',instance='1')@KML
+click(className='android.widget.TextView',instance='3')@expert settings
+click(className='android.widget.TextView',instance='9')@Share
+click(className='android.widget.TextView',instance='4')@Expert settings
+click(className='android.widget.TextView',instance='10')@Enable this if you want to share the results via messenger or email instead of viewing them on your phone.
+click(className='android.widget.TextView',instance='8')@Disable this if Android does not offer your favorite app for viewing the waypoints. Be aware that Android may offer many other apps then which are not really useful.
+click(className='android.widget.TextView',instance='5')@Export format
+click(className='android.widget.TextView',instance='6')@GPX
+click(content-desc='Navigate up')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@12st
+click(className='android.widget.Button',instance='0')@Reset
+click(className='android.widget.TextView',instance='2')@N
+click(className='android.widget.TextView',instance='1')@S
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@About
+scroll(direction='down')@
+scroll(direction='up')@
+click(content-desc='Navigate up')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@
+click(className='android.widget.TextView',instance='2')@S
+back@
+click(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st12
+clickLong(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+clickLong(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='1')@m
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@0-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test-9
+clickLong(className='android.widget.TextView',instance='2')@N
+menu@
+click(className='android.widget.TextView',instance='1')@S
+clickLong(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12st
+clickLong(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='1')@W
+click(className='android.widget.TextView',instance='5')@W
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@0
+scroll(direction='down')@
+menu@
+click(className='android.widget.TextView',instance='1')@S
+clickLong(className='android.widget.TextView',instance='2')@S
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test
+click(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='1')@m
+click(className='android.widget.Button',instance='1')@View
+click(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test0
+click(className='android.widget.TextView',instance='2')@N
+back@
+click(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='1')@W
+clickLong(className='android.widget.TextView',instance='5')@W
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st12
+click(className='android.widget.Button',instance='0')@Reset
+click(className='android.widget.TextView',instance='2')@N
+click(className='android.widget.TextView',instance='1')@S
+scroll(direction='up')@
+menu@
+click(className='android.widget.TextView',instance='0')@N
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@0-9
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@129
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test29
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test
+clickLong(content-desc='More options')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@12st
+click(className='android.widget.Button',instance='1')@View
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesEastFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/xValues')@test29
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/azimuthFormula')@test20
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@First Steps
+back@
+click(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='0')@ft
+click(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='0')@ft
+clickLong(className='android.widget.TextView',instance='11')@ft
+click(className='android.widget.TextView',instance='1')@m
+clickLong(className='android.widget.TextView',instance='11')@m
+click(className='android.widget.TextView',instance='1')@m
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesEastFormula')@test
+clickLong(className='android.widget.TextView',instance='5')@E
+click(className='android.widget.TextView',instance='0')@E
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@0
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st120
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test120
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@test
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@test120
+edit(resource-id='com.github.siggel.coordinatejoker:id/degreesNorthFormula')@12st
+edit(resource-id='com.github.siggel.coordinatejoker:id/distanceFormula')@12st120
+clickLong(className='android.widget.TextView',instance='2')@N
+back@
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@test12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test12
+clickLong(className='android.widget.TextView',instance='8')@An explanation for the above selection is given here.
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='1')@S
+edit(resource-id='com.github.siggel.coordinatejoker:id/minutesNorthFormula')@12st12
+edit(resource-id='com.github.siggel.coordinatejoker:id/yValues')@test12

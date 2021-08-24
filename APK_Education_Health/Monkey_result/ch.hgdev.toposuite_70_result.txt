@@ -1,0 +1,236 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626368217075 count=1000
+:AllowPackage: ch.hgdev.toposuite
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+:Sending Touch (ACTION_DOWN): 0:(125.0,683.0)
+:Sending Touch (ACTION_UP): 0:(125.52753,681.20197)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,975.0)
+:Sending Touch (ACTION_UP): 0:(516.01807,972.4973)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Allowing start of Intent { cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+:Sending Touch (ACTION_DOWN): 0:(825.0,469.0)
+:Sending Touch (ACTION_UP): 0:(815.4589,474.00766)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://toposuite.hgdev.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(778.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(781.8447,1518.8955)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.cf-geo.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2021-08-03 18:59:54.826  system_uptime:2409646]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(736.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(751.5838,1641.3125)
+:Sending Touch (ACTION_DOWN): 0:(904.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(940.5067,1475.7968)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.vd.ch/oit cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(283.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(277.36905,1420.3472)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(555.0,91.0)
+:Sending Touch (ACTION_UP): 0:(526.42694,85.592804)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(152.4074,1038.0673)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(242.0,342.0)
+:Sending Touch (ACTION_UP): 0:(240.81369,338.9027)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(335.0,629.0)
+:Sending Touch (ACTION_UP): 0:(330.7262,642.3271)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+:Sending Touch (ACTION_DOWN): 0:(606.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(609.5033,1251.253)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+    //[calendar_time:2021-08-03 19:00:07.685  system_uptime:2422485]
+    // Sending event #200
+    //[calendar_time:2021-08-03 19:00:08.191  system_uptime:2422992]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1749.0)
+:Sending Touch (ACTION_UP): 0:(796.3592,1718.7697)
+:Sending Touch (ACTION_DOWN): 0:(865.0,936.0)
+:Sending Touch (ACTION_UP): 0:(841.9768,884.06085)
+:Sending Touch (ACTION_DOWN): 0:(470.0,523.0)
+:Sending Touch (ACTION_UP): 0:(456.14316,525.1575)
+:Sending Touch (ACTION_DOWN): 0:(243.0,116.0)
+:Sending Touch (ACTION_UP): 0:(242.5356,111.252075)
+:Sending Touch (ACTION_DOWN): 0:(58.0,133.0)
+:Sending Touch (ACTION_UP): 0:(30.93811,194.41187)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(437.4793,1687.7272)
+:Sending Touch (ACTION_DOWN): 0:(375.0,194.0)
+:Sending Touch (ACTION_UP): 0:(373.84634,200.29579)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,18.0)
+:Sending Touch (ACTION_UP): 0:(1025.3969,64.52086)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,1.0)
+:Sending Touch (ACTION_UP): 0:(1030.8085,0.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1131.0)
+:Sending Touch (ACTION_UP): 0:(760.9195,1146.039)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+    //[calendar_time:2021-08-03 19:00:21.441  system_uptime:2436241]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(893.0,417.0)
+:Sending Touch (ACTION_UP): 0:(893.5242,408.719)
+:Sending Touch (ACTION_DOWN): 0:(731.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(733.4064,1291.5515)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(123.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(134.3314,1307.1826)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(170.0,559.0)
+:Sending Touch (ACTION_UP): 0:(166.95659,558.08936)
+:Sending Touch (ACTION_DOWN): 0:(212.0,417.0)
+:Sending Touch (ACTION_UP): 0:(216.55408,402.06226)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2021-08-03 19:00:29.733  system_uptime:2444534]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(93.0,368.0)
+:Sending Touch (ACTION_UP): 0:(84.94967,366.64392)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,840.0)
+:Sending Touch (ACTION_UP): 0:(1012.9067,842.51056)
+:Sending Touch (ACTION_DOWN): 0:(875.0,452.0)
+:Sending Touch (ACTION_UP): 0:(878.7524,445.4304)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(747.0,569.0)
+:Sending Touch (ACTION_UP): 0:(661.1579,538.10126)
+:Sending Touch (ACTION_DOWN): 0:(632.0,538.0)
+:Sending Touch (ACTION_UP): 0:(592.2545,537.2518)
+:Sending Touch (ACTION_DOWN): 0:(471.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(471.4041,1150.9048)
+    //[calendar_time:2021-08-03 19:00:43.562  system_uptime:2458363]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(784.0,35.0)
+:Sending Touch (ACTION_UP): 0:(742.77277,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.cepm.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(154.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(145.64104,1011.4705)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.cpln.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.epcasion.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(439.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(447.82092,1553.3091)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.vd.ch/oit cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(111.0,994.0)
+:Sending Touch (ACTION_UP): 0:(97.53932,994.095)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2021-08-03 19:00:58.438  system_uptime:2473238]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(858.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(860.60724,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=mailto:xxxxxxxxx@xxxxx.xx cmp=com.android.email/.activity.ComposeActivityEmail } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(170.0,775.0)
+:Sending Touch (ACTION_UP): 0:(288.55417,679.5902)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2021-08-03 19:01:05.623  system_uptime:2480423]
+    // Sending event #700
+    //[calendar_time:2021-08-03 19:01:06.125  system_uptime:2480925]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1297.0)
+:Sending Touch (ACTION_UP): 0:(525.9617,1297.5194)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(208.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(197.77199,1679.7864)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1286.0)
+:Sending Touch (ACTION_UP): 0:(739.86456,1276.9678)
+:Sending Touch (ACTION_DOWN): 0:(781.0,216.0)
+:Sending Touch (ACTION_UP): 0:(624.0097,151.70184)
+:Sending Touch (ACTION_DOWN): 0:(16.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(28.392424,1386.976)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://toposuite.hgdev.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    //[calendar_time:2021-08-03 19:01:16.524  system_uptime:2491324]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(406.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(376.40616,1768.475)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(264.0,528.0)
+:Sending Touch (ACTION_UP): 0:(257.87558,529.30084)
+:Sending Touch (ACTION_DOWN): 0:(301.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(306.34192,1139.8776)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://toposuite.hgdev.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(747.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(739.48755,1549.6525)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2021-08-03 19:01:25.726  system_uptime:2500527]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(394.0,174.0)
+:Sending Touch (ACTION_UP): 0:(393.1341,170.64828)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.cpln.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.cpln.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(2.0,400.0)
+:Sending Touch (ACTION_UP): 0:(2.2506757,406.81238)
+:Sending Touch (ACTION_DOWN): 0:(128.0,839.0)
+:Sending Touch (ACTION_UP): 0:(145.49283,745.07416)
+:Sending Touch (ACTION_DOWN): 0:(101.0,347.0)
+:Sending Touch (ACTION_UP): 0:(93.42773,362.00424)
+:Sending Touch (ACTION_DOWN): 0:(532.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(462.17813,1144.808)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(100.3977,1368.1472)
+:Sending Touch (ACTION_DOWN): 0:(849.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(802.84125,1268.3341)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://www.pro-geo.ch/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ch.hgdev.toposuite/.entry.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ch.hgdev.toposuite/.entry.MainActivity } in package ch.hgdev.toposuite
+:Sending Touch (ACTION_DOWN): 0:(833.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(834.3711,1047.5135)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=116229ms (0ms mobile, 0ms wifi, 116229ms not connected)
+// Monkey finished

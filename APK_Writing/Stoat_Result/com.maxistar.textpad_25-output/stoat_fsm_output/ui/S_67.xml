@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,503][1053,1357]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,503][1053,1357]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,503][1053,1357]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,503][1032,1357]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,503][1032,697]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,524][969,692]">
+              <node index="0" text="Choose a font color" resource-id="android:id/alertTitle" class="android.widget.TextView" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,569][969,647]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,692][1011,697]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/customPanel" class="android.widget.FrameLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,697][1032,1207]">
+            <node index="0" text="" resource-id="android:id/custom" class="android.widget.FrameLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,697][1011,1207]">
+              <node index="0" text="" resource-id="com.maxistar.textpad:id/colormap" class="android.widget.ImageView" package="com.maxistar.textpad" content-desc="Choose a color" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,697][1011,1207]" />
+            </node>
+          </node>
+          <node index="2" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,1207][1032,1357]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1210][1011,1336]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1210][538,1336]" />
+              <node index="1" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="com.maxistar.textpad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[541,1210][1011,1336]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

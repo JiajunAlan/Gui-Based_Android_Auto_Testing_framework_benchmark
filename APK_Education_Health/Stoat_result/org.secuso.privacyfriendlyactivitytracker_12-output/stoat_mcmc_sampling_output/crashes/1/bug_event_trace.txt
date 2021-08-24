@@ -1,0 +1,13 @@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='1')@Week
+click(className='android.widget.CheckedTextView',instance='2')@Distance Measurement
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Running
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(className='android.widget.TextView',instance='3')@15. - 21. August
+click(className='android.widget.Button',instance='0')@Jul
+clickLong(className='android.widget.Button',instance='1')@18
+scroll(direction='up')@

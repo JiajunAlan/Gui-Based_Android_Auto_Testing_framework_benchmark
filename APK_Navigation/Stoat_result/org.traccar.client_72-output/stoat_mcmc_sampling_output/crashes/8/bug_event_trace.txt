@@ -1,0 +1,7 @@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='4')@Device identifier
+click(className='android.widget.TextView',instance='17')@Buffering off
+click(className='android.widget.TextView',instance='3')@Service running
+click(className='android.widget.TextView',instance='2')@Service status
+click(className='android.widget.TextView',instance='5')@12st50
+back@

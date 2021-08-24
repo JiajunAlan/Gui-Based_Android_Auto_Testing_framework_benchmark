@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[450,0][1080,798]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,21][1059,777]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,21][1059,147]">
+        <node index="0" text="File" resource-id="android:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,58][1017,109]" />
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,147][1059,273]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,147][1059,273]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,181][1017,238]">
+            <node index="0" text="Open Existing State…" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,181][1017,238]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,273][1059,399]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,273][1059,399]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,307][1017,364]">
+            <node index="0" text="Save State" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,307][1017,364]" />
+          </node>
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,399][1059,525]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,399][1059,525]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,433][1017,490]">
+            <node index="0" text="Save State As…" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,433][1017,490]" />
+          </node>
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,525][1059,651]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,525][1059,651]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,559][1017,616]">
+            <node index="0" text="Copy State to Clipboard" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,559][1017,616]" />
+          </node>
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,651][1059,777]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[471,651][1059,777]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,685][1017,742]">
+            <node index="0" text="Paste State from Clipboard" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,685][1017,742]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

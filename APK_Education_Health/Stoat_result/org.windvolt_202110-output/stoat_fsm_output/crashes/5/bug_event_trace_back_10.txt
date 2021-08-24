@@ -1,0 +1,10 @@
+click(resource-id='org.windvolt:id/open_page0')@
+back@
+click(resource-id='org.windvolt:id/action_open_devices')@
+click(resource-id='org.windvolt:id/device_share')@
+click(resource-id='org.windvolt:id/device_add')@
+click(className='android.widget.Button',instance='1')@okay
+click(content-desc='101')@
+click(className='android.widget.Button',instance='1')@okay
+click(resource-id='org.windvolt:id/device_remove')@
+click(className='android.widget.Button',instance='1')@entfernen

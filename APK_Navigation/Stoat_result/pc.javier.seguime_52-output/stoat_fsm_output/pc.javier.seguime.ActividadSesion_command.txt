@@ -1,0 +1,13 @@
+    51@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1683@edit(resource-id='pc.javier.seguime:id/sesion_servidor'):android.widget.EditText@"test://seguime.atwebpages.com/servicio.php"
+    53@edit(resource-id='pc.javier.seguime:id/sesion_usuario'):android.widget.EditText@""
+    54@edit(resource-id='pc.javier.seguime:id/sesion_clave'):android.widget.EditText@""
+    1716@edit(resource-id='pc.javier.seguime:id/sesion_claverepetida'):android.widget.EditText@""
+    7314@click(className='android.widget.ToggleButton',instance='0'):android.widget.ToggleButton@"OFF"
+    1718@click(resource-id='pc.javier.seguime:id/sesion_radio_iniciar'):android.widget.RadioButton@"Login"
+    1719@click(resource-id='pc.javier.seguime:id/sesion_radio_registro'):android.widget.RadioButton@"Register"
+    7339@click(className='android.widget.Button',instance='0'):android.widget.Button@"Register"
+    7340@click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"
+    60@back
+    1721@scroll(direction='down')
+    1722@scroll(direction='up')

@@ -1,0 +1,66 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/SQLiteDatabase( 6298): Failed to open database '/storage/sdcard/Android/data/de.blau.android/files/databases/osmaptilefscache_db.db'.
+E/SQLiteDatabase( 6298): android.database.sqlite.SQLiteCantOpenDatabaseException: unknown error (code 14): Could not open database
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnection.nativeOpen(Native Method)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:209)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:804)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:789)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+E/SQLiteDatabase( 6298): 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:669)
+E/SQLiteDatabase( 6298): 	at de.blau.android.services.MapTileProviderService.onCreate(MapTileProviderService.java:15)
+E/SQLiteDatabase( 6298): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2572)
+E/SQLiteDatabase( 6298): 	at android.app.ActivityThread.access$1800(ActivityThread.java:135)
+E/SQLiteDatabase( 6298): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+E/SQLiteDatabase( 6298): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/SQLiteDatabase( 6298): 	at android.os.Looper.loop(Looper.java:136)
+E/SQLiteDatabase( 6298): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/SQLiteDatabase( 6298): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SQLiteDatabase( 6298): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SQLiteDatabase( 6298): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/SQLiteDatabase( 6298): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/SQLiteDatabase( 6298): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: de.blau.android
+app code version: 15.2.4.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 676542 Realtime: 676542
+
+** MEMINFO in pid 6236 [de.blau.android] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     6257     6224        0        0    10520     9002     1517
+  Dalvik Heap    41587    41468        0        0    43716    40439     3277
+ Dalvik Other     4476     4348        0        0                           
+        Stack      184      184        0        0                           
+    Other dev       40        0       40        0                           
+     .so mmap     1709      548      104        0                           
+    .jar mmap        3        0        0        0                           
+    .apk mmap      619        0      164        0                           
+    .ttf mmap      170        0      164        0                           
+    .dex mmap     3381      220     1004        0                           
+   Other mmap       52        4        4        0                           
+      Unknown      100      100        0        0                           
+        TOTAL    58578    53096     1480        0    54236    49441     4794
+ 
+ Objects
+               Views:      301         ViewRootImpl:        3
+         AppContexts:        5           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       22        Proxy Binders:       23
+    Death Recipients:        1
+     OpenSSL Sockets:        2
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:       62
+ 
+***********

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="org.windvolt:id/action_bar_root" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.view.View" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,161]">
+                <node index="0" text="" resource-id="org.windvolt:id/toolbar" class="android.view.View" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,161]">
+                  <node index="0" text="windvolt" resource-id="" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,78][242,149]" />
+                  <node index="1" text="" resource-id="" class="androidx.appcompat.widget.LinearLayoutCompat" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[975,66][1080,161]">
+                    <node index="0" text="" resource-id="" class="android.widget.ImageView" package="org.windvolt" content-desc="More options" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[975,66][1080,161]" />
+                  </node>
+                </node>
+              </node>
+              <node index="1" text="" resource-id="org.windvolt:id/navigation" class="android.view.View" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,161][1080,1794]">
+                <node index="0" text="" resource-id="org.windvolt:id/nav_host_fragment" class="android.widget.FrameLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,161][1080,1794]">
+                  <node index="0" text="" resource-id="" class="android.view.View" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,161][1080,1794]">
+                    <node index="0" text="" resource-id="org.windvolt:id/page3_fragment" class="android.view.View" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[529,477][551,1479]">
+                      <node index="0" text="Community" resource-id="org.windvolt:id/community_title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[529,498][551,1457]" />
+                      <node index="1" text="" resource-id="org.windvolt:id/community_scroll" class="android.widget.ScrollView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[529,1457][551,1479]" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

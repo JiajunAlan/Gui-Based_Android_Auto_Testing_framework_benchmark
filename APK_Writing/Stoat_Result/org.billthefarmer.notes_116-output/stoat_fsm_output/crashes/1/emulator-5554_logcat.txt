@@ -1,0 +1,65 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/WindowManager( 5579): 
+E/WindowManager( 5579): android.view.WindowLeaked: Activity org.billthefarmer.notes.Editor has leaked window com.android.internal.policy.impl.PhoneWindow$DecorView{9d538860 V.E..... R.....I. 0,0-1026,512} that was originally added here
+E/WindowManager( 5579): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager( 5579): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager( 5579): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 5579): 	at android.app.Dialog.show(Dialog.java:286)
+E/WindowManager( 5579): 	at android.app.AlertDialog$Builder.show(AlertDialog.java:951)
+E/WindowManager( 5579): 	at org.billthefarmer.notes.Editor.alertDialog(Editor.java:319)
+E/WindowManager( 5579): 	at org.billthefarmer.notes.Editor.onBackPressed(Editor.java:232)
+E/WindowManager( 5579): 	at org.billthefarmer.notes.Editor.onOptionsItemSelected(Editor.java:213)
+E/WindowManager( 5579): 	at android.app.Activity.onMenuItemSelected(Activity.java:2600)
+E/WindowManager( 5579): 	at com.android.internal.widget.ActionBarView$3.onClick(ActionBarView.java:167)
+E/WindowManager( 5579): 	at android.view.View.performClick(View.java:4438)
+E/WindowManager( 5579): 	at android.view.View$PerformClick.run(View.java:18422)
+E/WindowManager( 5579): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager( 5579): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager( 5579): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager( 5579): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager( 5579): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager( 5579): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager( 5579): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager( 5579): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager( 5579): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: org.billthefarmer.notes
+app code version: 1.16
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 959641 Realtime: 959641
+
+** MEMINFO in pid 5579 [org.billthefarmer.notes] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     6498     6464        0        0    11584    10409      290
+  Dalvik Heap     6624     6460        0        0    11624     8600     3024
+ Dalvik Other     1712     1564        0        0                           
+        Stack      288      288        0        0                           
+       Ashmem    12352    12352        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     8078      680      104        0                           
+    .apk mmap      120        0        0        0                           
+    .ttf mmap      157        0       36        0                           
+    .dex mmap     1009       60      248        0                           
+   Other mmap      538        4        4        0                           
+      Unknown     1928     1928        0        0                           
+        TOTAL    39308    29800      396        0    23208    19009     3314
+ 
+ Objects
+               Views:      349         ViewRootImpl:       11
+         AppContexts:        6           Activities:        3
+              Assets:        2        AssetManagers:        2
+       Local Binders:       29        Proxy Binders:       54
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

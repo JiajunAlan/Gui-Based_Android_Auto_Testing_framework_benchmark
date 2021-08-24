@@ -1,0 +1,55 @@
+
+[ERROR] // CRASH  : com.wmstein.transektcount (pid 4954) (elapsed nanos  : 1166878103001)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : android.database.CursorIndexOutOfBoundsException
+[ERROR] // Long Msg  : android.database.CursorIndexOutOfBoundsException: Index 0 requested, with a size of 0
+[ERROR] // java.lang.IllegalStateException: Could not execute method for android:onClick
+// 	at b.b.c.v$a.onClick(:2)
+// 	at android.view.View.performClick(View.java:4756)
+// 	at android.view.View$PerformClick.run(View.java:19749)
+// 	at android.os.Handler.handleCallback(Handler.java:739)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: java.lang.reflect.InvocationTargetException
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	... 11 more
+// Caused by: android.database.CursorIndexOutOfBoundsException: Index 0 requested, with a size of 0
+// 	at android.database.AbstractCursor.checkPosition(AbstractCursor.java:426)
+// 	at android.database.AbstractWindowedCursor.checkPosition(AbstractWindowedCursor.java:136)
+// 	at android.database.AbstractWindowedCursor.getInt(AbstractWindowedCursor.java:68)
+// 	at c.c.b.q0.k.b()
+// 	at c.c.b.q0.k.e()
+// 	at com.wmstein.transektcount.EditSectionActivity.z(:1)
+// 	at com.wmstein.transektcount.EditSectionActivity.saveAndExit()
+// 	... 13 more
+//
+app_crashcom.wmstein.transektcount_2021-08-19_08_22_03.378_.txt:
+[ERROR] // CRASH  : com.wmstein.transektcount (pid 5396) (elapsed nanos  : 1167080515867)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : java.lang.NullPointerException
+[ERROR] // Long Msg  : java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Spinner.setSelection(int)' on a null object reference
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.wmstein.transektcount/com.wmstein.transektcount.CountingLActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Spinner.setSelection(int)' on a null object reference
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Spinner.setSelection(int)' on a null object reference
+// 	at com.wmstein.transektcount.CountingLActivity.onCreate(:2)
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+//

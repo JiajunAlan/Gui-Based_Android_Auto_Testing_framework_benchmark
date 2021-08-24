@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[523,0][1080,546]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,21][1059,525]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,21][1059,147]">
+        <node index="0" text="Help" resource-id="android:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,58][1017,109]" />
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,147][1059,273]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,147][1059,273]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,181][1017,238]">
+            <node index="0" text="Online User's Guide…" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,181][1017,238]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,273][1059,399]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,273][1059,399]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,307][1017,364]">
+            <node index="0" text="Back Panel…" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,307][1017,364]" />
+          </node>
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,399][1059,525]">
+        <node index="0" text="" resource-id="com.jovial.jrpn:id/content" class="android.widget.LinearLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,399][1059,525]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,433][1017,490]">
+            <node index="0" text="About…" resource-id="com.jovial.jrpn:id/title" class="android.widget.TextView" package="com.jovial.jrpn" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,433][1017,490]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

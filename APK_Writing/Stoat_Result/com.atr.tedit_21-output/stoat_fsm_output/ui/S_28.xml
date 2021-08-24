@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,846][1053,1014]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,846][1053,1014]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,846][1053,1014]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,846][1032,1014]">
+          <node index="0" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,846][1032,1014]">
+            <node index="0" text="" resource-id="android:id/select_dialog_listview" class="android.widget.ListView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,867][1011,993]">
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,867][1011,993]">
+                <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,898][969,961]">
+                  <node index="0" text="Delete" resource-id="android:id/title" class="android.widget.TextView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,898][969,961]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

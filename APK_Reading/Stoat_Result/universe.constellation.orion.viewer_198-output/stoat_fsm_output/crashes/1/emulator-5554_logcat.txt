@@ -1,0 +1,80 @@
+--------- beginning of /dev/log/main
+E/WindowManager( 8467): 
+E/WindowManager( 8467): android.view.WindowLeaked: Activity universe.constellation.orion.viewer.filemanager.OrionFileManagerActivity has leaked window android.widget.LinearLayout{9d3570e0 V.E..... ......I. 0,0-188,127} that was originally added here
+E/WindowManager( 8467): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager( 8467): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager( 8467): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 8467): 	at androidx.appcompat.widget.TooltipPopup.show(TooltipPopup.java:86)
+E/WindowManager( 8467): 	at androidx.appcompat.widget.TooltipCompatHandler.show(TooltipCompatHandler.java:174)
+E/WindowManager( 8467): 	at androidx.appcompat.widget.TooltipCompatHandler.onLongClick(TooltipCompatHandler.java:123)
+E/WindowManager( 8467): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager( 8467): 	at android.widget.TextView.performLongClick(TextView.java:8357)
+E/WindowManager( 8467): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager( 8467): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager( 8467): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager( 8467): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager( 8467): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager( 8467): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager( 8467): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager( 8467): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager( 8467): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager( 8467): 	at dalvik.system.NativeStart.main(Native Method)
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 8602): FATAL EXCEPTION: main
+E/AndroidRuntime( 8602): Process: universe.constellation.orion.viewer, PID: 8602
+E/AndroidRuntime( 8602): java.lang.UnsatisfiedLinkError: Couldn't load mupdf_java32 from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/universe.constellation.orion.viewer-2.apk"],nativeLibraryDirectories=[/data/app-lib/universe.constellation.orion.viewer-2, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime( 8602): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime( 8602): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime( 8602): 	at com.artifex.mupdf.fitz.Context.init(Context.java:30)
+E/AndroidRuntime( 8602): 	at com.artifex.mupdf.fitz.Context.<clinit>(Context.java:16)
+E/AndroidRuntime( 8602): 	at com.artifex.mupdf.fitz.Document.<clinit>(Document.java:6)
+E/AndroidRuntime( 8602): 	at com.artifex.mupdf.viewer.MuPDFCore.<init>(MuPDFCore.java:35)
+E/AndroidRuntime( 8602): 	at universe.constellation.orion.viewer.pdf.PdfDocument.<init>(PdfDocument.kt:34)
+E/AndroidRuntime( 8602): 	at universe.constellation.orion.viewer.FileUtil.openFile(FileUtil.kt:27)
+E/AndroidRuntime( 8602): 	at universe.constellation.orion.viewer.OrionViewerActivity$openFile$1$newDocument$1.invokeSuspend(OrionViewerActivity.kt:309)
+E/AndroidRuntime( 8602): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+E/AndroidRuntime( 8602): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+E/AndroidRuntime( 8602): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+E/AndroidRuntime( 8602): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+E/AndroidRuntime( 8602): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+E/AndroidRuntime( 8602): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+***********
+package name: universe.constellation.orion.viewer
+app code version: 0.81.2
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 1620169 Realtime: 1620169
+
+** MEMINFO in pid 8602 [universe.constellation.orion.viewer] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4087     4052        0        0     8508     8070      437
+  Dalvik Heap    10851    10676        0        0    13156    12347      809
+ Dalvik Other     2533     2372        0        0                           
+        Stack      100      100        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1188      524       16        0                           
+    .jar mmap        5        0        0        0                           
+    .apk mmap      260        0       84        0                           
+    .ttf mmap        6        0        4        0                           
+    .dex mmap     4143      176     3540        0                           
+   Other mmap        8        4        0        0                           
+      Unknown       72       72        0        0                           
+        TOTAL    23257    17976     3648        0    21664    20417     1246
+ 
+ Objects
+               Views:      214         ViewRootImpl:        2
+         AppContexts:        4           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       18
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

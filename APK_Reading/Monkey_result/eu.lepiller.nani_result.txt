@@ -1,0 +1,244 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626401298941 count=1000
+:AllowPackage: eu.lepiller.nani
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(701.1445,1367.1914)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=eu.lepiller.nani/.SettingsActivity } in package eu.lepiller.nani
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(737.0,360.0)
+:Sending Touch (ACTION_UP): 0:(732.7636,361.13733)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(367.74982,1410.8937)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(807.0,152.0)
+    //[calendar_time:2021-08-04 04:11:19.831  system_uptime:20092071]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(872.5349,182.40599)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(740.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(798.6989,1031.5612)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(397.0,621.0)
+:Sending Touch (ACTION_UP): 0:(441.82025,621.7362)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(575.0,1562.0)
+:Sending Touch (ACTION_UP): 0:(569.7343,1566.7363)
+:Sending Touch (ACTION_DOWN): 0:(564.0,1103.0)
+:Sending Touch (ACTION_UP): 0:(547.46625,1157.3156)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2021-08-04 04:11:27.028  system_uptime:20099252]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(806.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(781.5184,1144.4355)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(487.0,890.0)
+:Sending Touch (ACTION_UP): 0:(475.83514,900.2158)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,82.0)
+:Sending Touch (ACTION_UP): 0:(519.84344,90.22846)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(466.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(434.18802,1731.23)
+:Sending Touch (ACTION_DOWN): 0:(275.0,290.0)
+:Sending Touch (ACTION_UP): 0:(175.93602,358.70837)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,1662.0)
+    //[calendar_time:2021-08-04 04:11:35.206  system_uptime:20107429]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(1080.0,1686.4031)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(1024.0,670.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,660.558)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // activityResuming(eu.lepiller.nani)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(33.0,144.0)
+:Sending Touch (ACTION_UP): 0:(11.697609,160.65404)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(777.82776,1116.4149)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    // Allowing start of Intent { cmp=eu.lepiller.nani/.HelpActivity } in package eu.lepiller.nani
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(307.0,24.0)
+:Sending Touch (ACTION_UP): 0:(348.40826,94.61401)
+:Sending Touch (ACTION_DOWN): 0:(50.0,915.0)
+:Sending Touch (ACTION_UP): 0:(15.704289,929.82666)
+:Sending Touch (ACTION_DOWN): 0:(433.0,389.0)
+    //[calendar_time:2021-08-04 04:11:46.907  system_uptime:20119130]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(462.5372,435.3371)
+    // Allowing start of Intent { cmp=eu.lepiller.nani/.HelpPitchActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(1075.0,578.0)
+:Sending Touch (ACTION_UP): 0:(1068.4661,579.9188)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1786.0)
+:Sending Touch (ACTION_UP): 0:(231.49579,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    // activityResuming(eu.lepiller.nani)
+    // Allowing start of Intent { cmp=eu.lepiller.nani/.HelpActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(947.0,311.0)
+:Sending Touch (ACTION_UP): 0:(988.12836,326.02414)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(56.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(200.03879,1222.2122)
+    // activityResuming(eu.lepiller.nani)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(124.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(125.04283,1172.2767)
+:Sending Touch (ACTION_DOWN): 0:(195.0,206.0)
+:Sending Touch (ACTION_UP): 0:(193.71834,210.22292)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(932.0,442.0)
+:Sending Touch (ACTION_UP): 0:(906.73956,471.53003)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1479.0)
+    //[calendar_time:2021-08-04 04:11:58.654  system_uptime:20130878]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(567.12384,1534.2794)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,419.0)
+:Sending Touch (ACTION_UP): 0:(1066.8384,406.83774)
+:Sending Touch (ACTION_DOWN): 0:(387.0,565.0)
+:Sending Touch (ACTION_UP): 0:(342.94696,503.80112)
+:Sending Touch (ACTION_DOWN): 0:(547.0,610.0)
+:Sending Touch (ACTION_UP): 0:(564.1753,607.85693)
+:Sending Touch (ACTION_DOWN): 0:(672.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(656.187,1756.1252)
+:Sending Touch (ACTION_DOWN): 0:(646.0,663.0)
+:Sending Touch (ACTION_UP): 0:(685.49506,731.4325)
+:Sending Touch (ACTION_DOWN): 0:(419.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(455.51456,1229.8771)
+:Sending Touch (ACTION_DOWN): 0:(156.0,720.0)
+:Sending Touch (ACTION_UP): 0:(162.11212,721.70325)
+:Sending Touch (ACTION_DOWN): 0:(974.0,254.0)
+:Sending Touch (ACTION_UP): 0:(964.095,254.48001)
+:Sending Touch (ACTION_DOWN): 0:(798.0,1299.0)
+:Sending Touch (ACTION_UP): 0:(776.515,1295.5236)
+:Sending Touch (ACTION_DOWN): 0:(302.0,728.0)
+:Sending Touch (ACTION_UP): 0:(290.53867,726.33795)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(155.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(255.57022,1268.6517)
+:Sending Touch (ACTION_DOWN): 0:(34.0,241.0)
+:Sending Touch (ACTION_UP): 0:(49.70261,229.05775)
+    //[calendar_time:2021-08-04 04:12:15.547  system_uptime:20147771]
+    // Sending event #600
+    //[calendar_time:2021-08-04 04:12:16.049  system_uptime:20148273]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1624.0)
+:Sending Touch (ACTION_UP): 0:(257.38522,1637.0228)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(931.74756,1162.3248)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(546.0,85.0)
+:Sending Touch (ACTION_UP): 0:(548.483,98.94982)
+:Sending Touch (ACTION_DOWN): 0:(733.0,81.0)
+:Sending Touch (ACTION_UP): 0:(735.08905,82.846214)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=eu.lepiller.nani/.DictionaryActivity } in package eu.lepiller.nani
+    // activityResuming(eu.lepiller.nani)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    //[calendar_time:2021-08-04 04:12:25.257  system_uptime:20157481]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(422.0,773.0)
+:Sending Touch (ACTION_UP): 0:(423.42496,773.32)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(759.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(760.15515,1563.0223)
+:Sending Touch (ACTION_DOWN): 0:(314.0,612.0)
+:Sending Touch (ACTION_UP): 0:(311.364,602.4135)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(231.32373,1433.5869)
+:Sending Touch (ACTION_DOWN): 0:(77.0,382.0)
+:Sending Touch (ACTION_UP): 0:(125.324066,318.18427)
+:Sending Touch (ACTION_DOWN): 0:(452.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(375.06638,1687.3794)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(140.0,611.0)
+:Sending Touch (ACTION_UP): 0:(125.92411,620.7501)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2021-08-04 04:12:35.414  system_uptime:20167637]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=eu.lepiller.nani/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=eu.lepiller.nani/.MainActivity } in package eu.lepiller.nani
+:Sending Touch (ACTION_DOWN): 0:(598.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(596.6261,1134.6218)
+:Sending Touch (ACTION_DOWN): 0:(597.0,986.0)
+:Sending Touch (ACTION_UP): 0:(600.9967,986.6861)
+:Sending Touch (ACTION_DOWN): 0:(723.0,501.0)
+:Sending Touch (ACTION_UP): 0:(824.39374,579.20526)
+:Sending Touch (ACTION_DOWN): 0:(272.0,760.0)
+:Sending Touch (ACTION_UP): 0:(261.33728,767.55615)
+:Sending Touch (ACTION_DOWN): 0:(901.0,664.0)
+:Sending Touch (ACTION_UP): 0:(902.3857,707.8403)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(27.0,533.0)
+:Sending Touch (ACTION_UP): 0:(0.0,500.70444)
+:Sending Touch (ACTION_DOWN): 0:(642.0,444.0)
+:Sending Touch (ACTION_UP): 0:(584.82794,374.4648)
+:Sending Touch (ACTION_DOWN): 0:(690.0,750.0)
+:Sending Touch (ACTION_UP): 0:(697.4567,733.61475)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2021-08-04 04:12:45.087  system_uptime:20177310]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(102.28155,1230.1681)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(401.15656,1384.7186)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(780.0,248.0)
+:Sending Touch (ACTION_UP): 0:(781.4826,230.49463)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(0.0,380.0)
+:Sending Touch (ACTION_UP): 0:(0.0,469.9271)
+:Sending Touch (ACTION_DOWN): 0:(954.0,949.0)
+:Sending Touch (ACTION_UP): 0:(955.396,946.9891)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(889.0,142.0)
+:Sending Touch (ACTION_UP): 0:(949.88403,76.015945)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=5 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=104163ms (0ms mobile, 0ms wifi, 104163ms not connected)
+// Monkey finished

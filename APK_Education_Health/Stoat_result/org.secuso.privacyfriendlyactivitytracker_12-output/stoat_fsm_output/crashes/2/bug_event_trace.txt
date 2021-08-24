@@ -1,0 +1,132 @@
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='0')@Walking
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Help
+click(className='android.widget.TextView',instance='4')@Walking Modes
+click(className='android.widget.TextView',instance='3')@Motivation alert
+click(className='android.widget.TextView',instance='2')@Notification
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='5')@Motivation alert
+click(className='android.widget.TextView',instance='4')@You can disable all notifications in system preferences.
+click(className='android.widget.TextView',instance='6')@Walking Modes
+click(className='android.widget.TextView',instance='7')@Training Sessions
+click(className='android.widget.TextView',instance='3')@The permanent notification is necessary to keep the step counter alive in background. The content of the notification can be chosen in the settings.
+click(className='android.widget.TextView',instance='1')@Overview
+click(className='android.widget.TextView',instance='9')@Training Sessions
+click(className='android.widget.TextView',instance='8')@Walking Modes
+click(className='android.widget.TextView',instance='7')@Motivation alert
+scroll(direction='down')@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='3')@Walking Modes
+click(className='android.widget.TextView',instance='3')@17. August
+clickLong(className='android.widget.Button',instance='3')@18
+click(className='android.widget.Button',instance='1')@16
+edit(resource-id='android:id/numberpicker_input')@Aug
+edit(resource-id='android:id/numberpicker_input')@S
+edit(resource-id='android:id/numberpicker_input')@
+keyevent_back@
+click(className='android.widget.TextView',instance='2')@Month
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+scroll(direction='up')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+click(className='android.widget.TextView',instance='0')@Day
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='5')@About
+click(className='android.widget.TextView',instance='11')@SECUSO-Website
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(className='android.widget.TextView',instance='3')@17. August
+click(className='android.widget.Button',instance='3')@18
+click(className='android.widget.Button',instance='0')@Jul
+clickLong(className='android.widget.Button',instance='1')@18
+click(className='android.widget.Button',instance='2')@Done
+clickLong(className='android.widget.TextView',instance='1')@Week
+back@
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Settings
+click(className='android.widget.TextView',instance='1')@General
+back@
+click(className='android.widget.TextView',instance='2')@Notifications
+click(content-desc='Navigate up')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='13')@On some devices the processor falls asleep and prevents counting steps. Enable this to keep the processor awake while counting steps - this may drain your battery!
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.normal
+click(className='android.widget.CheckedTextView',instance='6')@very low
+click(className='android.widget.TextView',instance='2')@The app counts your steps in background.
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.very low
+click(className='android.widget.CheckedTextView',instance='2')@high
+click(className='android.widget.TextView',instance='10')@Unit of energy
+click(className='android.widget.CheckedTextView',instance='1')@joules
+click(className='android.widget.TextView',instance='12')@Keep processor awake
+click(className='android.widget.TextView',instance='5')@Sensitivity
+click(className='android.widget.CheckedTextView',instance='3')@normal
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='7')@Steps before counting starts
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='11')@joules
+click(className='android.widget.CheckedTextView',instance='0')@calories
+click(className='android.widget.TextView',instance='11')@calories
+click(className='android.widget.CheckedTextView',instance='1')@joules
+click(className='android.widget.TextView',instance='4')@Some phones have built-in step counting hardware. This can reduce battery usage and increase precision. However, it does not work reliably on all devices with our app. Disable if steps are not counted.
+click(className='android.widget.TextView',instance='9')@kilometers
+click(className='android.widget.CheckedTextView',instance='0')@kilometers
+click(className='android.widget.TextView',instance='8')@Unit of length
+click(className='android.widget.CheckedTextView',instance='1')@miles
+click(className='android.widget.TextView',instance='1')@Permanent step counter
+click(className='android.widget.TextView',instance='9')@miles
+click(className='android.widget.CheckedTextView',instance='0')@kilometers
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='8')@Personalization
+click(className='android.widget.TextView',instance='1')@On some devices the processor falls asleep and prevents counting steps. Enable this to keep the processor awake while counting steps - this may drain your battery!
+click(className='android.widget.TextView',instance='5')@The app shows your current velocity in daily report. Access to your location is required to calculate the exact velocity.
+click(className='android.widget.TextView',instance='6')@Export data
+click(className='android.widget.TextView',instance='9')@Personal daily step goal
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@For better results during training mode keep processor awake. If app should keep the processor awake at any time this is automatically the case.
+click(className='android.widget.TextView',instance='2')@Wake lock during training
+click(className='android.widget.TextView',instance='13')@65.0
+edit(resource-id='android:id/edit')@65.0
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+clickLong(className='android.widget.TextView',instance='2')@Week
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(content-desc='Open navigation drawer')@
+click(content-desc='Close navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Settings
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='5')@Sensitivity
+click(className='android.widget.CheckedTextView',instance='4')@low
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.low
+click(className='android.widget.CheckedTextView',instance='0')@very high
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.very high
+click(className='android.widget.CheckedTextView',instance='5')@lower
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.lower
+click(className='android.widget.CheckedTextView',instance='1')@higher
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.higher
+click(className='android.widget.CheckedTextView',instance='2')@high
+click(className='android.widget.TextView',instance='6')@The app uses the accelerometer of your device. To optimize the step detection adjust the sensitivity, please.high
+click(className='android.widget.CheckedTextView',instance='5')@lower
+click(content-desc='Navigate up')@
+click(resource-id='android:id/icon')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='10')@10000
+edit(resource-id='android:id/edit')@10000
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

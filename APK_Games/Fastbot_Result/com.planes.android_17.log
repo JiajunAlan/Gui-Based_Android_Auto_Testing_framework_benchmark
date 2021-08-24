@@ -1,0 +1,21 @@
+[1629393549237] New action: g0a1069@BACKg0s13@com.planes.android.PlanesAndroidActivity@761314119[priority=6][throttle=200][]
+[1629393549238] *** Inject event ***
+[1629393549239] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629393549243] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629393549245] Sleep for 0 ms
+[1629393549246] Sleep for 700 ms
+[1629393549947] Events injected : 1336
+[1629393549947] // Monkey is over!
+[1629393549947] :Sending rotation degree : 0, persist : false
+[1629393549976] Total app activities:
+[1629393549977]    1 com.planes.android.OptionsActivity
+[1629393549977]    2 com.planes.android.PlanesAndroidActivity
+[1629393549977] Explored app activities:
+[1629393549977]    1 com.planes.android.OptionsActivity
+[1629393549977]    2 com.planes.android.PlanesAndroidActivity
+[1629393549977] Acitity of Coverage: 100.0%
+[1629393549977] Activity of Times:
+[1629393549977] com.planes.android.OptionsActivity     38
+[1629393549978] com.planes.android.PlanesAndroidActivity    104
+:Dropped : keys=0 pointers=10 trackballs=0 flips=0 rotations=0
+[1629393549995] // Monkey finished

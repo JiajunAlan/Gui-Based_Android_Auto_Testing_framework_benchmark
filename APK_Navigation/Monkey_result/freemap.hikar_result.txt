@@ -1,0 +1,269 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626397225771 count=1000
+:AllowPackage: freemap.hikar
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(265.0,411.0)
+:Sending Touch (ACTION_UP): 0:(253.19838,405.15094)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1645.0,855.0)
+:Sending Touch (ACTION_UP): 0:(1592.15,754.2319)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,704.0)
+:Sending Touch (ACTION_UP): 0:(849.03143,707.25775)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(847.0,929.0)
+:Sending Touch (ACTION_UP): 0:(844.89905,935.9054)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(353.0,78.0)
+:Sending Touch (ACTION_UP): 0:(308.69974,111.17938)
+:Sending Touch (ACTION_DOWN): 0:(1475.0,618.0)
+:Sending Touch (ACTION_UP): 0:(1546.7421,695.8462)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2021-08-04 02:58:45.138  system_uptime:15737375]
+    // Sending event #100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(1420.0,686.0)
+:Sending Touch (ACTION_UP): 0:(1421.8839,694.92773)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1573.0,450.0)
+:Sending Touch (ACTION_UP): 0:(1595.3868,473.8707)
+:Sending Touch (ACTION_DOWN): 0:(682.0,276.0)
+:Sending Touch (ACTION_UP): 0:(751.60706,374.63013)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(957.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(974.2754,1028.9521)
+:Sending Touch (ACTION_DOWN): 0:(1352.0,762.0)
+:Sending Touch (ACTION_UP): 0:(1336.0549,761.8292)
+:Sending Touch (ACTION_DOWN): 0:(1406.0,464.0)
+:Sending Touch (ACTION_UP): 0:(1388.1322,558.77905)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2021-08-04 02:58:57.973  system_uptime:15750197]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(1645.0,935.0)
+:Sending Touch (ACTION_UP): 0:(1625.7269,936.34326)
+:Sending Touch (ACTION_DOWN): 0:(1046.0,873.0)
+:Sending Touch (ACTION_UP): 0:(1049.0887,869.64886)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1046.0,800.0)
+:Sending Touch (ACTION_UP): 0:(1039.3806,781.5694)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(953.0,430.0)
+:Sending Touch (ACTION_UP): 0:(951.4961,437.63254)
+:Sending Touch (ACTION_DOWN): 0:(711.0,761.0)
+:Sending Touch (ACTION_UP): 0:(618.01404,867.1784)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(272.0,682.0)
+:Sending Touch (ACTION_UP): 0:(261.68488,684.8748)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2021-08-04 02:59:08.683  system_uptime:15760906]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1316.0,220.0)
+:Sending Touch (ACTION_UP): 0:(1316.7859,228.32999)
+:Sending Touch (ACTION_DOWN): 0:(1444.0,840.0)
+:Sending Touch (ACTION_UP): 0:(1459.6531,844.96027)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(23.0,134.0)
+:Sending Touch (ACTION_UP): 0:(27.652313,174.42635)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 02:59:19.436  system_uptime:15771659]
+    // Sending event #400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(514.0,628.0)
+:Sending Touch (ACTION_UP): 0:(462.23325,550.86725)
+:Sending Touch (ACTION_DOWN): 0:(1518.0,235.0)
+:Sending Touch (ACTION_UP): 0:(1519.096,236.29782)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1510.0,6.0)
+:Sending Touch (ACTION_UP): 0:(1508.886,5.888089)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,37.0)
+:Sending Touch (ACTION_UP): 0:(1043.5676,36.847954)
+:Sending Touch (ACTION_DOWN): 0:(384.0,562.0)
+:Sending Touch (ACTION_UP): 0:(382.86285,569.219)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(617.0,276.0)
+:Sending Touch (ACTION_UP): 0:(618.4217,275.00296)
+:Sending Touch (ACTION_DOWN): 0:(779.0,179.0)
+:Sending Touch (ACTION_UP): 0:(796.6941,157.08784)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(778.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(782.95593,1000.03656)
+:Sending Touch (ACTION_DOWN): 0:(1793.0,100.0)
+:Sending Touch (ACTION_UP): 0:(1798.7203,111.86653)
+:Sending Touch (ACTION_DOWN): 0:(1262.0,384.0)
+:Sending Touch (ACTION_UP): 0:(1263.2407,376.30103)
+    // Allowing start of Intent { cmp=freemap.hikar/.ui.AddNoticeboardActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(1389.0,399.0)
+:Sending Touch (ACTION_UP): 0:(1486.7081,438.65845)
+    //[calendar_time:2021-08-04 02:59:32.677  system_uptime:15784901]
+    // Sending event #500
+    //[calendar_time:2021-08-04 02:59:33.179  system_uptime:15785403]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,899.0)
+:Sending Touch (ACTION_UP): 0:(1043.5258,867.0147)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(355.0,354.0)
+:Sending Touch (ACTION_UP): 0:(345.81024,348.32028)
+:Sending Touch (ACTION_DOWN): 0:(1602.0,551.0)
+:Sending Touch (ACTION_UP): 0:(1633.376,544.21185)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(836.0,725.0)
+:Sending Touch (ACTION_UP): 0:(881.7281,694.6893)
+:Sending Touch (ACTION_DOWN): 0:(661.0,169.0)
+:Sending Touch (ACTION_UP): 0:(661.4547,184.92778)
+:Sending Touch (ACTION_DOWN): 0:(1163.0,962.0)
+:Sending Touch (ACTION_UP): 0:(1105.9878,941.27075)
+    // activityResuming(freemap.hikar)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=freemap.hikar/.ui.LocationPickerActivity } in package freemap.hikar
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2021-08-04 02:59:43.851  system_uptime:15796075]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(716.0,810.0)
+:Sending Touch (ACTION_UP): 0:(698.6242,803.66846)
+:Sending Touch (ACTION_DOWN): 0:(158.0,395.0)
+:Sending Touch (ACTION_UP): 0:(157.2767,398.3766)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1788.0,231.0)
+:Sending Touch (ACTION_UP): 0:(1810.0,221.00238)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(1709.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(1704.3325,1061.4304)
+    // activityResuming(freemap.hikar)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(745.0,84.0)
+:Sending Touch (ACTION_UP): 0:(755.2385,84.80895)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2021-08-04 02:59:52.114  system_uptime:15804338]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1533.0,924.0)
+:Sending Touch (ACTION_UP): 0:(1529.9757,923.9544)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,939.0)
+:Sending Touch (ACTION_UP): 0:(1071.6718,954.5198)
+:Sending Touch (ACTION_DOWN): 0:(154.0,165.0)
+:Sending Touch (ACTION_UP): 0:(124.03223,144.13976)
+:Sending Touch (ACTION_DOWN): 0:(1704.0,128.0)
+:Sending Touch (ACTION_UP): 0:(1659.3347,198.1813)
+:Sending Touch (ACTION_DOWN): 0:(138.0,417.0)
+:Sending Touch (ACTION_UP): 0:(141.33344,412.29614)
+:Sending Touch (ACTION_DOWN): 0:(567.0,211.0)
+:Sending Touch (ACTION_UP): 0:(566.763,230.48885)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(913.0,719.0)
+:Sending Touch (ACTION_UP): 0:(932.25433,710.50116)
+:Sending Touch (ACTION_DOWN): 0:(1763.0,330.0)
+:Sending Touch (ACTION_UP): 0:(1760.9075,314.7138)
+:Sending Touch (ACTION_DOWN): 0:(1245.0,386.0)
+:Sending Touch (ACTION_UP): 0:(1258.4537,386.2626)
+    // Allowing start of Intent { cmp=freemap.hikar/.ui.AddNoticeboardActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(1507.0,444.0)
+:Sending Touch (ACTION_UP): 0:(1487.5114,447.18524)
+:Sending Touch (ACTION_DOWN): 0:(1321.0,509.0)
+:Sending Touch (ACTION_UP): 0:(1304.7189,511.08386)
+:Sending Touch (ACTION_DOWN): 0:(159.0,687.0)
+:Sending Touch (ACTION_UP): 0:(136.06252,765.21454)
+    //[calendar_time:2021-08-04 03:00:09.453  system_uptime:15821676]
+    // Sending event #800
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // activityResuming(freemap.hikar)
+:Sending Touch (ACTION_DOWN): 0:(703.0,486.0)
+:Sending Touch (ACTION_UP): 0:(694.3792,474.55002)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1574.0,404.0)
+:Sending Touch (ACTION_UP): 0:(1566.61,425.79868)
+:Sending Touch (ACTION_DOWN): 0:(1451.0,250.0)
+:Sending Touch (ACTION_UP): 0:(1451.205,246.43323)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1757.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(1758.2909,1072.1415)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1497.0,144.0)
+:Sending Touch (ACTION_UP): 0:(1497.7128,147.5295)
+    // Allowing start of Intent { cmp=freemap.hikar/.ui.LocationPickerActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(959.0,674.0)
+:Sending Touch (ACTION_UP): 0:(841.1179,787.1098)
+:Sending Touch (ACTION_DOWN): 0:(1513.0,466.0)
+:Sending Touch (ACTION_UP): 0:(1510.6643,476.2316)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(166.56625,1023.8627)
+    // activityResuming(freemap.hikar)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,58.0)
+:Sending Touch (ACTION_UP): 0:(1062.9146,21.345516)
+:Sending Touch (ACTION_DOWN): 0:(657.0,374.0)
+:Sending Touch (ACTION_UP): 0:(661.9157,375.04178)
+:Sending Touch (ACTION_DOWN): 0:(414.0,400.0)
+:Sending Touch (ACTION_UP): 0:(406.58224,399.87384)
+:Sending Touch (ACTION_DOWN): 0:(1217.0,640.0)
+:Sending Touch (ACTION_UP): 0:(1228.626,630.8525)
+    //[calendar_time:2021-08-04 03:00:23.742  system_uptime:15835965]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(1153.0,183.0)
+:Sending Touch (ACTION_UP): 0:(1191.0001,79.333984)
+:Sending Touch (ACTION_DOWN): 0:(591.0,424.0)
+:Sending Touch (ACTION_UP): 0:(587.48724,422.10138)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(399.0,512.0)
+:Sending Touch (ACTION_UP): 0:(400.37277,497.97052)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=freemap.hikar/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=freemap.hikar/.MainActivity } in package freemap.hikar
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(177.0,900.0)
+:Sending Touch (ACTION_UP): 0:(164.27608,898.32574)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(724.3292,1053.727)
+:Sending Touch (ACTION_DOWN): 0:(1516.0,572.0)
+:Sending Touch (ACTION_UP): 0:(1499.1859,571.3256)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(101.0,745.0)
+:Sending Touch (ACTION_UP): 0:(116.34629,747.34174)
+    // Allowing start of Intent { cmp=freemap.hikar/.ui.SearchPoiActivity } in package freemap.hikar
+:Sending Touch (ACTION_DOWN): 0:(177.0,974.0)
+:Sending Touch (ACTION_UP): 0:(145.65788,1010.30194)
+:Sending Touch (ACTION_DOWN): 0:(802.0,693.0)
+:Sending Touch (ACTION_UP): 0:(816.3734,694.3322)
+:Sending Touch (ACTION_DOWN): 0:(1413.0,546.0)
+:Sending Touch (ACTION_UP): 0:(1424.6147,559.5945)
+:Sending Touch (ACTION_DOWN): 0:(437.0,279.0)
+:Sending Touch (ACTION_UP): 0:(440.71854,273.27402)
+:Sending Touch (ACTION_DOWN): 0:(1683.0,82.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=124210ms (0ms mobile, 0ms wifi, 124210ms not connected)
+// Monkey finished

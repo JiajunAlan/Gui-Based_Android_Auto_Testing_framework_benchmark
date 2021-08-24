@@ -1,0 +1,9 @@
+back@
+menu@
+click(className='android.widget.Button',instance='0')@OK
+click(resource-id='com.wmstein.tourcount:id/editMeta')@
+edit(resource-id='com.wmstein.tourcount:id/widgetWind2')@
+click(content-desc='Navigate up')@
+click(resource-id='com.wmstein.tourcount:id/editMeta')@
+edit(resource-id='com.wmstein.tourcount:id/widgetWind2')@
+edit(resource-id='com.wmstein.tourcount:id/widgetCo2')@12

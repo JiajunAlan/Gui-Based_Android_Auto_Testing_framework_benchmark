@@ -1,0 +1,10 @@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Instrument
+click(className='android.widget.TextView',instance='0')@Instrument
+click(className='android.widget.TextView',instance='1')@Connect…
+click(className='android.widget.Button',instance='1')@Unpair
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='1')@New Survey
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='0')@Pair

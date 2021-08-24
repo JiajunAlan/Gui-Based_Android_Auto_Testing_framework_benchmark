@@ -1,0 +1,10 @@
+    4442@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    4443@click(content-desc='More options'):android.widget.ImageView@""
+    4444@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4445@click(resource-id='dev.corruptedark.openchaoschess:id/achievement_item_image'):android.widget.ImageView@""
+    4446@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Informed Player"
+    4447@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Opened the "About" page. Thanks for caring. I hope it was worth the read."
+    4448@click(resource-id='dev.corruptedark.openchaoschess:id/achievement_item_image'):android.widget.ImageView@""
+    4449@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Horsing Around"
+    4450@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Accessed the Knights Only mode. Good luck finishing a match."
+    4451@back

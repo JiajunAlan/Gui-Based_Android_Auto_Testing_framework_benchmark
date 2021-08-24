@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BT_UUID">fc0ebdde–e425–4123–92a8–17bd8a90a769</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about">Подробнее</string>
+    <string name="aggressive_computer">Агрессивный компьютер</string>
+    <string name="app_name">Открытые Хаотичные Шахматы</string>
+    <string name="background_color">Цвет Фона:</string>
+    <string name="bar_color">Цвет Бара:</string>
+    <string name="bloodthirst">Решительность</string>
+    <string name="bloodthirst_notification">Решительность появится в новой игре</string>
+    <string name="bloodthirst_toggle_cancelled">Решительность выключена</string>
+    <string name="bloodthirsty_by_default">Решительные фигуры</string>
+    <string name="board_color_1">Первый цвет поля:</string>
+    <string name="board_color_2">Второй цвет поля:</string>
+    <string name="cant_move_that_bruh">Не могу двигаться так, бро!</string>
+    <string name="check_invites">Посмотреть Приглашения</string>
+    <string name="chess960">Шахматы Фишера</string>
+    <string name="color_save_failed">Не удалось сохранить цвета</string>
+    <string name="colors_saved">Цвета сохранены</string>
+    <string name="computer_points">Очки Компьютера:</string>
+    <string name="contact">"Facebook: Noah James Stanford
+Twitter: @CorruptedArk
+GitHub: CorruptedArk
+
+My Website: corruptedark.wordpress.com
+
+Email: noahstandingford@gmail.com
+
+"</string>
+    <string name="create_game">Отправить Приглашение</string>
+    <string name="credits">"v%1$s by Noah Stanford (aka CorruptedArk) 
+ originally for CIS 175 Fall 2016 at MCCC as Chaos Chess 
+ Credit for the color picker dialog goes to Simone Pessotto (aka Pes8) 
+ Credit for the idea of color settings goes to Jonas Lowe 
+ Credit for Chess960 mode, Queens Attack Handicap, Smart Computer, and other small changes goes to egorguslyan on GitHub 
+ Credit for Russian translations goes to LibreHacker on GitHub 
+ Credit for German translations goes to Lian C. Begett/RedsickleDE on GitHub 
+ Credit for Turkish translations goes to berkaygunduzz on GitHub 
+ Credit for Arabic translations and a quality of life improvement on captures goes to Vulldozer on GitHub 
+ Credit for Spanish translations goes to sguinetti on GitHub 
+ Credit for Indonesian translations goes to the7thNightmare on GitHub 
+ The concept for Bloodthirst was suggested by czarkoff on GitHub 
+ The Bloodthirst by default toggle was suggested by itsanogo on GitHub 
+ The aggressive computer option was suggested by vi on GitHub"</string>
+    <string name="descript">"Open Chaos Chess is a free as in speech version of Chaos Chess. Chaos Chess is a variation of chess where you can pick the piece that moves, but the moves are random. As such, you no longer win by checkmates. Instead, you win by eliminating your opponent's pieces. Have fun, and may the RNG be ever in your favor. 
+
+Open Chaos Chess Copyright © 2019 Noah Stanford 
+This program comes with ABSOLUTELY NO WARRANTY. 
+This is free software, and you are welcome to redistribute it under certain conditions. 
+For the full GNU General Public License visit: https://www.gnu.org/licenses/gpl-3.0.txt 
+ 
+By default, pieces have no bias to attack. However, while Bloodthirst is active, pieces will always attack if possible."</string>
+    <string name="enable_handicap">Усложнить игру</string>
+    <string name="export_file">Экспортировать из Файла</string>
+    <string name="game_over_bruh">Игра окончена, бро!</string>
+    <string name="gameplay_settings_file">gameplaysettings.txt</string>
+    <string name="host_game">Создать Игру</string>
+    <string name="host_status">Статус Хоста:</string>
+    <string name="import_file">Импортировать Из Файла</string>
+    <string name="issues">Вопросы</string>
+    <string name="issues_url">https://github.com/CorruptedArk/open-chaos-chess/issues</string>
+    <string name="join_game">Войти в Игру</string>
+    <string name="knights_only">На конях</string>
+    <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__btnSelectColor">Выбрать</string>
+    <string name="materialcolorpicker__descLib">Material Color Picker Dialog</string>
+    <string name="materialcolorpicker__errHex">Неверный HEX код цвета</string>
+    <string name="materialcolorpicker__inputColor">Цвет:</string>
+    <string name="move_second">Move second (Solo)</string>
+    <string name="multiplayer_guide">Нужно произвести сопряжение с устройством оппонента до начала подключения.</string>
+    <string name="new_game">Новая Игра</string>
+    <string name="new_slogan">"Выбирай фигуру, а не ход
+Теперь с большей свободой!"</string>
+    <string name="noice">Круть!</string>
+    <string name="not_your_turn_stupid">Не твоя очередь, бро!</string>
+    <string name="opponent_points">Очки Оппонента:</string>
+    <string name="paired_devices">Подключенные Устройства:</string>
+    <string name="piece_color">Цвет фигур:</string>
+    <string name="play">Одиночная Игра</string>
+    <string name="player_points">Очки Игрока:</string>
+    <string name="plus_one">+1</string>
+    <string name="queensAttack">Атака ферзей</string>
+    <string name="quick_match">Быстрый Матч</string>
+    <string name="quit">Выход</string>
+    <string name="save_colors">Сохранить Цвета</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="secondary_color">Вторичный Цвет:</string>
+    <string name="secret_hello">Привет, я не знаю, как ты сюда попал. Но если ты всё ещё здесь, могу ли я спросить твоё имя?</string>
+    <string name="selection_color">Выбор Цвета:</string>
+    <string name="set_to_defaults">Установить по умолчанию</string>
+    <string name="setting_applied_on_new_game">Настройки применятся к новой игре</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_file">settings.txt</string>
+    <string name="sign_out">Выйти</string>
+    <string name="slogan">Выбирай фигуру, а не ход</string>
+    <string name="smartComputer">Умный компьютер</string>
+    <string name="solo">Одиночная</string>
+    <string name="start_host">Начать Хост</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_host">Остановить Хост</string>
+    <string name="text_color">Цвет Текста:</string>
+    <string name="that_sucks">Оу блин чувак, вот отстой!</string>
+    <string name="tied_bro">АУЧ, ТЫ СЛОМАЛ ИГРУ!</string>
+    <string name="versus">Против</string>
+    <string name="wait_for_move">Дождись окончания хода</string>
+    <string name="you_lost">Вот чёрт чувак, ты проиграл!</string>
+    <string name="you_won">Круть чувак! Ты победил!</string>
+    <string name="your_points">Твои Очки:</string>
+</resources>

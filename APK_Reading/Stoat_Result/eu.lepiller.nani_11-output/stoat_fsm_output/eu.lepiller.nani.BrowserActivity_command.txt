@@ -1,0 +1,6 @@
+    107@click(resource-id='com.android.browser:id/lock'):android.widget.ImageView@""
+    108@click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+    109@edit(resource-id='com.android.browser:id/url'):android.widget.EditText@"https://framagit.org/nani-project/nani-app"
+    110@click(resource-id='com.android.browser:id/tab_switcher'):android.widget.ImageButton@""
+    111@click(resource-id='com.android.browser:id/more'):android.widget.ImageButton@""
+    112@back

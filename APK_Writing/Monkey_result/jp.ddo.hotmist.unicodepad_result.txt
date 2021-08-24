@@ -1,0 +1,263 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626405870188 count=1000
+:AllowPackage: jp.ddo.hotmist.unicodepad
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=jp.ddo.hotmist.unicodepad/.UnicodeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=jp.ddo.hotmist.unicodepad/.UnicodeActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(595.0,641.0)
+:Sending Touch (ACTION_UP): 0:(608.32825,638.9813)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(573.4359,1136.2086)
+:Sending Touch (ACTION_DOWN): 0:(772.0,256.0)
+:Sending Touch (ACTION_UP): 0:(749.36926,265.69965)
+    // Allowing start of Intent { cmp=jp.ddo.hotmist.unicodepad/.SettingActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(98.0,446.0)
+:Sending Touch (ACTION_UP): 0:(115.035225,439.63422)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,150.0)
+:Sending Touch (ACTION_UP): 0:(1034.3195,145.08965)
+:Sending Touch (ACTION_DOWN): 0:(756.0,523.0)
+:Sending Touch (ACTION_UP): 0:(756.06244,532.0716)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.google.com/get/noto/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(236.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(241.27243,1170.8492)
+    // Allowing start of Intent { cmp=jp.ddo.hotmist.unicodepad/.TabsActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(217.0,643.0)
+:Sending Touch (ACTION_UP): 0:(195.17645,625.22406)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(681.0,485.0)
+:Sending Touch (ACTION_UP): 0:(732.39954,541.7792)
+:Sending Touch (ACTION_DOWN): 0:(741.0,306.0)
+:Sending Touch (ACTION_UP): 0:(753.9957,301.36395)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(260.40482,1421.5247)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2021-08-04 05:26:55.520  system_uptime:24627760]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(999.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(991.4108,1612.8444)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=jp.ddo.hotmist.unicodepad/.UnicodeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=jp.ddo.hotmist.unicodepad/.UnicodeActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(361.0,274.0)
+:Sending Touch (ACTION_UP): 0:(359.37213,290.4384)
+:Sending Touch (ACTION_DOWN): 0:(759.0,926.0)
+:Sending Touch (ACTION_UP): 0:(749.5518,936.20703)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(722.65063,1144.8181)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(541.0,62.0)
+:Sending Touch (ACTION_UP): 0:(539.40295,0.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,362.0)
+:Sending Touch (ACTION_UP): 0:(756.6495,408.45462)
+:Sending Touch (ACTION_DOWN): 0:(387.0,594.0)
+:Sending Touch (ACTION_UP): 0:(391.05673,603.97174)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2021-08-04 05:27:10.783  system_uptime:24643007]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(743.0,496.0)
+:Sending Touch (ACTION_UP): 0:(742.3785,486.3628)
+    // activityResuming(jp.ddo.hotmist.unicodepad)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1569.0)
+:Sending Touch (ACTION_UP): 0:(225.18547,1569.2758)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(219.0,759.0)
+:Sending Touch (ACTION_UP): 0:(215.87775,759.8763)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(778.4836,1299.8188)
+:Sending Touch (ACTION_DOWN): 0:(489.0,484.0)
+:Sending Touch (ACTION_UP): 0:(492.6919,487.01358)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(485.0228,1642.4624)
+:Sending Touch (ACTION_DOWN): 0:(817.0,582.0)
+:Sending Touch (ACTION_UP): 0:(817.0164,570.67926)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1.0)
+:Sending Touch (ACTION_UP): 0:(859.68384,8.841959)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 05:27:24.037  system_uptime:24656261]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(577.05206,1173.1393)
+:Sending Touch (ACTION_DOWN): 0:(871.0,1127.0)
+:Sending Touch (ACTION_UP): 0:(909.48895,1097.5184)
+:Sending Touch (ACTION_DOWN): 0:(1014.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(1016.02594,1318.9214)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://github.com/Ryosuke839/UnicodePad cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://unicode.org/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://unicode.org/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1668.0)
+:Sending Touch (ACTION_UP): 0:(1014.5231,1672.082)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://unicode.org/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(632.37103,1367.0242)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://github.com/Ryosuke839/UnicodePad cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2021-08-04 05:27:33.409  system_uptime:24665633]
+    // Sending event #400
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(391.0,281.0)
+:Sending Touch (ACTION_UP): 0:(393.2651,290.35083)
+:Sending Touch (ACTION_DOWN): 0:(513.0,628.0)
+:Sending Touch (ACTION_UP): 0:(587.57715,597.13806)
+:Sending Touch (ACTION_DOWN): 0:(456.0,830.0)
+:Sending Touch (ACTION_UP): 0:(439.9543,830.15906)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(275.44492,1153.9409)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(589.0,881.0)
+:Sending Touch (ACTION_UP): 0:(577.4394,925.50635)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1431.0)
+:Sending Touch (ACTION_UP): 0:(439.1352,1425.229)
+    //[calendar_time:2021-08-04 05:27:43.071  system_uptime:24675294]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(51.0,1357.0)
+:Sending Touch (ACTION_UP): 0:(55.21428,1352.2026)
+:Sending Touch (ACTION_DOWN): 0:(787.0,195.0)
+:Sending Touch (ACTION_UP): 0:(730.6056,226.22227)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(153.636,1167.3865)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(88.0,757.0)
+:Sending Touch (ACTION_UP): 0:(0.38277912,716.57074)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(272.46222,1474.0032)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=jp.ddo.hotmist.unicodepad/.UnicodeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=jp.ddo.hotmist.unicodepad/.UnicodeActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(60.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(95.61738,1713.3008)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(774.0,823.0)
+:Sending Touch (ACTION_UP): 0:(793.1847,833.67615)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(1043.4056,1499.1704)
+:Sending Touch (ACTION_DOWN): 0:(912.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(1020.456,1565.0079)
+    //[calendar_time:2021-08-04 05:27:55.268  system_uptime:24687492]
+    // Sending event #600
+    //[calendar_time:2021-08-04 05:27:55.770  system_uptime:24687993]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(892.0,445.0)
+:Sending Touch (ACTION_UP): 0:(914.375,335.68674)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(760.0,655.0)
+:Sending Touch (ACTION_UP): 0:(751.14294,673.6558)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.google.com/get/noto/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=jp.ddo.hotmist.unicodepad/.UnicodeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=jp.ddo.hotmist.unicodepad/.UnicodeActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    // Allowing start of Intent { cmp=jp.ddo.hotmist.unicodepad/.TabsActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(791.0,55.0)
+:Sending Touch (ACTION_UP): 0:(773.1066,54.214264)
+:Sending Touch (ACTION_DOWN): 0:(1009.0,1548.0)
+:Sending Touch (ACTION_UP): 0:(999.23474,1543.0278)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,371.0)
+:Sending Touch (ACTION_UP): 0:(1022.3253,372.51508)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,1649.0)
+:Sending Touch (ACTION_UP): 0:(1052.6228,1646.2122)
+:Sending Touch (ACTION_DOWN): 0:(336.0,491.0)
+:Sending Touch (ACTION_UP): 0:(326.61353,493.80408)
+:Sending Touch (ACTION_DOWN): 0:(888.0,996.0)
+    //[calendar_time:2021-08-04 05:28:09.036  system_uptime:24701260]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(885.70166,1001.38007)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    // activityResuming(jp.ddo.hotmist.unicodepad)
+    // Allowing start of Intent { cmp=jp.ddo.hotmist.unicodepad/.TabsActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(512.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(502.6416,1671.0054)
+:Sending Touch (ACTION_DOWN): 0:(413.0,767.0)
+:Sending Touch (ACTION_UP): 0:(413.29013,778.6494)
+:Sending Touch (ACTION_DOWN): 0:(858.0,987.0)
+:Sending Touch (ACTION_UP): 0:(859.6817,985.64624)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(980.0,191.0)
+:Sending Touch (ACTION_UP): 0:(971.79034,198.3589)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(1027.9833,1041.1726)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,53.0)
+:Sending Touch (ACTION_UP): 0:(1049.9719,79.838295)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,799.0)
+    //[calendar_time:2021-08-04 05:28:19.227  system_uptime:24711451]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(493.95346,750.4935)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(56.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1585.2504)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=jp.ddo.hotmist.unicodepad/.UnicodeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=jp.ddo.hotmist.unicodepad/.UnicodeActivity } in package jp.ddo.hotmist.unicodepad
+:Sending Touch (ACTION_DOWN): 0:(565.0,900.0)
+:Sending Touch (ACTION_UP): 0:(551.9997,884.03925)
+:Sending Touch (ACTION_DOWN): 0:(96.0,51.0)
+:Sending Touch (ACTION_UP): 0:(91.94252,66.02324)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(547.9161,1341.5596)
+:Sending Touch (ACTION_DOWN): 0:(94.0,347.0)
+:Sending Touch (ACTION_UP): 0:(86.910065,359.69797)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,116.0)
+:Sending Touch (ACTION_UP): 0:(241.35281,126.854774)
+:Sending Touch (ACTION_DOWN): 0:(977.0,303.0)
+:Sending Touch (ACTION_UP): 0:(983.65607,302.18552)
+:Sending Touch (ACTION_DOWN): 0:(898.0,681.0)
+    //[calendar_time:2021-08-04 05:28:29.909  system_uptime:24722132]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(962.00494,739.44244)
+:Sending Touch (ACTION_DOWN): 0:(226.0,356.0)
+:Sending Touch (ACTION_UP): 0:(222.46623,351.2468)
+:Sending Touch (ACTION_DOWN): 0:(163.0,523.0)
+:Sending Touch (ACTION_UP): 0:(172.25073,522.21893)
+:Sending Touch (ACTION_DOWN): 0:(821.0,94.0)
+:Sending Touch (ACTION_UP): 0:(786.4604,83.87898)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=4 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=122493ms (0ms mobile, 0ms wifi, 122493ms not connected)
+// Monkey finished

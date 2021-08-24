@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[523,171][1080,984]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,192][1059,963]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,192][1059,318]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,223][1017,286]">
+          <node index="0" text="About XSkat" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,223][1017,286]" />
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,321][1059,447]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,352][1017,415]">
+          <node index="0" text="Options" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,352][1017,415]" />
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,450][1059,576]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,481][1017,544]">
+          <node index="0" text="Last trick" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,481][1017,544]" />
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,579][1059,705]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,610][1017,673]">
+          <node index="0" text="Sort normally" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,610][1017,673]" />
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,708][1059,834]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,739][1017,802]">
+          <node index="0" text="List" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,739][1017,802]" />
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,837][1059,963]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,868][1017,931]">
+          <node index="0" text="Statistics" resource-id="android:id/title" class="android.widget.TextView" package="de.xskat" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[586,868][1017,931]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

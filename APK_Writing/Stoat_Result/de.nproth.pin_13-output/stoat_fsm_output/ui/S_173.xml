@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+        <node index="0" text="" resource-id="de.nproth.pin:id/action_bar_root" class="android.widget.LinearLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+              <node index="0" text="" resource-id="de.nproth.pin:id/snooze_duration_slider" class="android.view.View" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,1436][316,1793]" />
+              <node NAF="true" index="1" text="" resource-id="de.nproth.pin:id/note_pin_background" class="android.widget.ImageButton" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[996,1531][1059,1594]" />
+              <node index="2" text="testt" resource-id="de.nproth.pin:id/note_input_field" class="android.widget.EditText" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[21,1668][1059,1773]" />
+              <node index="3" text="0:30" resource-id="de.nproth.pin:id/snooze_duration_button" class="android.widget.Button" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[63,1541][210,1688]" />
+              <node NAF="true" index="4" text="" resource-id="de.nproth.pin:id/note_save_button" class="android.widget.ImageButton" package="de.nproth.pin" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[891,1594][1038,1741]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

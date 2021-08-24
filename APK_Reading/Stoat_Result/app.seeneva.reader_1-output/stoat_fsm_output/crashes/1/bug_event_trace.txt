@@ -1,0 +1,121 @@
+back@
+keyevent_back@
+menu@
+click(resource-id='app.seeneva.reader:id/icon')@
+clickLong(className='android.widget.TextView',instance='2')@Library
+click(resource-id='app.seeneva.reader:id/add')@
+click(className='android.widget.TextView',instance='2')@Link
+keyevent_back@
+edit(resource-id='app.seeneva.reader:id/search_src_text')@ Title
+clickLong(className='android.widget.TextView',instance='3')@About
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='8')@License
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+menu@
+scroll(direction='down')@
+scroll(direction='up')@
+back@
+click(resource-id='app.seeneva.reader:id/icon')@
+click(resource-id='app.seeneva.reader:id/search_close_btn')@
+clickLong(resource-id='app.seeneva.reader:id/add')@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='3')@About
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='8')@GNU GPLv3 or any later version
+menu@
+scroll(direction='up')@
+clickLong(className='android.widget.TextView',instance='14')@About
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='3')@Website
+keyevent_back@
+click(resource-id='app.seeneva.reader:id/icon')@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+clickLong(className='android.widget.TextView',instance='1')@Library
+click(className='android.widget.TextView',instance='2')@About
+click(className='android.widget.TextView',instance='7')@License
+scroll(direction='up')@
+click(resource-id='app.seeneva.reader:id/iconView')@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@About
+clickLong(className='android.widget.TextView',instance='12')@Library
+click(resource-id='app.seeneva.reader:id/iconView')@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='9')@GNU GPLv3 or any later version
+scroll(direction='up')@
+keyevent_back@
+click(resource-id='app.seeneva.reader:id/add')@
+click(className='android.widget.TextView',instance='0')@Import
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@About
+click(resource-id='app.seeneva.reader:id/iconView')@
+keyevent_back@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+clickLong(className='android.widget.TextView',instance='2')@Library
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='3')@About
+scroll(direction='up')@
+click(resource-id='app.seeneva.reader:id/iconView')@
+keyevent_back@
+clickLong(resource-id='app.seeneva.reader:id/add')@
+clickLong(className='android.widget.TextView',instance='3')@About
+edit(resource-id='app.seeneva.reader:id/search_src_text')@ Title
+click(resource-id='app.seeneva.reader:id/icon')@
+click(resource-id='app.seeneva.reader:id/search_close_btn')@
+click(resource-id='app.seeneva.reader:id/add')@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@About
+clickLong(className='android.widget.TextView',instance='13')@About
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='10')@Third-party libraries
+click(className='android.widget.TextView',instance='8')@Homepage
+back@
+click(className='android.widget.TextView',instance='14')@0.9.2
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@21.3.6528147
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='1')@Version
+click(content-desc='Navigate up')@
+click(resource-id='app.seeneva.reader:id/iconView')@
+keyevent_back@
+edit(resource-id='app.seeneva.reader:id/search_src_text')@ Title
+menu@
+click(resource-id='app.seeneva.reader:id/icon')@
+clickLong(resource-id='app.seeneva.reader:id/add')@
+click(className='android.widget.TextView',instance='3')@A comic book will be added without copying. But if you delete the application with which it was opened, then the comic book will become inaccessible for reading.
+keyevent_back@
+clickLong(className='android.widget.TextView',instance='2')@Library
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(resource-id='app.seeneva.reader:id/search_close_btn')@
+clickLong(className='android.widget.TextView',instance='3')@About
+back@
+keyevent_back@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='6')@Source code
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.TextView',instance='12')@Library
+click(resource-id='app.seeneva.reader:id/add')@
+click(className='android.widget.TextView',instance='0')@Import
+keyevent_back@
+click(resource-id='app.seeneva.reader:id/search_close_btn')@
+click(resource-id='app.seeneva.reader:id/icon')@
+clickLong(className='android.widget.TextView',instance='2')@Library
+clickLong(resource-id='app.seeneva.reader:id/add')@
+clickLong(className='android.widget.TextView',instance='3')@About
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+back@
+keyevent_back@
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+edit(resource-id='app.seeneva.reader:id/search_src_text')@ Title
+menu@
+click(className='android.widget.TextView',instance='3')@About
+clickLong(resource-id='app.seeneva.reader:id/icon')@
+click(className='android.widget.TextView',instance='7')@View app repository

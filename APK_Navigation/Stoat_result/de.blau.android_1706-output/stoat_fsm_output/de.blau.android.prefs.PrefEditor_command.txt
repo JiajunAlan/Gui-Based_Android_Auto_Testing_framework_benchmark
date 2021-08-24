@@ -1,0 +1,21 @@
+    18523@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    18524@click(content-desc='Help'):android.widget.TextView@""
+    18525@clickLong(content-desc='Help'):android.widget.TextView@""
+    18526@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Data style"
+    18644@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Default"
+    18528@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Custom layers"
+    18529@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Configure layers not in the default configuration."
+    18530@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Keep screen on"
+    18531@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Prevent screen from turning off to save power."
+    18532@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    18533@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Large node drag area"
+    18534@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Provide large area for dragging nodes."
+    18535@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    18536@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Presets"
+    18537@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Add and enable JOSM compatible presets"
+    18538@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Validator settings"
+    18539@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"Opening hours templates"
+    18540@click(className='android.widget.TextView',instance='16'):android.widget.TextView@"Load, save and delete opening hours templates"
+    18541@back
+    18542@scroll(direction='down')
+    18543@scroll(direction='up')

@@ -1,0 +1,14 @@
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    41@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Wähle einen Ort"
+    42@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    941@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    43@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    44@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    45@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    46@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    47@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    10@menu
+    11@back
+    50@scroll(direction='down')
+    51@scroll(direction='up')

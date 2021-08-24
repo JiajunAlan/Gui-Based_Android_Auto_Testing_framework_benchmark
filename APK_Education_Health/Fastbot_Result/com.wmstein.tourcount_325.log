@@ -1,0 +1,36 @@
+[1629375038482] Events injected : 1837
+[1629375038482] // Monkey is over!
+[1629375038482] :Sending rotation degree : 0, persist : false
+[1629375038509] Total app activities:
+[1629375038509]    1 com.wmstein.tourcount.CountingLActivity
+[1629375038509]    2 com.wmstein.tourcount.AddSpeciesActivity
+[1629375038509]    3 com.wmstein.tourcount.SettingsActivity
+[1629375038509]    4 com.wmstein.filechooser.AdvFileChooser
+[1629375038509]    5 com.wmstein.tourcount.EditMetaActivity
+[1629375038509]    6 com.wmstein.tourcount.ListSpeciesActivity
+[1629375038509]    7 com.wmstein.tourcount.WelcomeActivity
+[1629375038509]    8 com.wmstein.tourcount.EditIndividualActivity
+[1629375038509]    9 com.wmstein.tourcount.CountingActivity
+[1629375038509]   10 com.wmstein.tourcount.EditSpecListActivity
+[1629375038509]   11 com.wmstein.tourcount.CountOptionsActivity
+[1629375038510] Explored app activities:
+[1629375038510]    1 com.wmstein.tourcount.AddSpeciesActivity
+[1629375038510]    2 com.wmstein.tourcount.CountOptionsActivity
+[1629375038510]    3 com.wmstein.tourcount.CountingActivity
+[1629375038510]    4 com.wmstein.tourcount.EditIndividualActivity
+[1629375038510]    5 com.wmstein.tourcount.EditMetaActivity
+[1629375038510]    6 com.wmstein.tourcount.EditSpecListActivity
+[1629375038510]    7 com.wmstein.tourcount.ListSpeciesActivity
+[1629375038510]    8 com.wmstein.tourcount.WelcomeActivity
+[1629375038510] Acitity of Coverage: 72.72727%
+[1629375038510] Activity of Times:
+[1629375038510] com.wmstein.tourcount.AddSpeciesActivity      9
+[1629375038510] com.wmstein.tourcount.EditMetaActivity     41
+[1629375038510] com.wmstein.tourcount.WelcomeActivity     20
+[1629375038510] com.wmstein.tourcount.ListSpeciesActivity      5
+[1629375038510] com.wmstein.tourcount.EditIndividualActivity     34
+[1629375038510] com.wmstein.tourcount.CountingActivity     67
+[1629375038510] com.wmstein.tourcount.EditSpecListActivity     16
+[1629375038510] com.wmstein.tourcount.CountOptionsActivity      1
+:Dropped : keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+[1629375038526] // Monkey finished

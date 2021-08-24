@@ -1,0 +1,220 @@
+edit(resource-id='com.maxistar.textpad:id/editText1')@Type Something Here
+menu@
+click(resource-id='com.maxistar.textpad:id/icon')@
+menu@
+click(className='android.widget.Button',instance='0')@No
+back@
+keyevent_back@
+click(content-desc='More options')@
+click(resource-id='com.maxistar.textpad:id/icon')@
+clickLong(resource-id='com.maxistar.textpad:id/menu_document_search')@
+click(resource-id='com.maxistar.textpad:id/action_edit')@
+click(resource-id='com.maxistar.textpad:id/icon')@
+click(resource-id='com.maxistar.textpad:id/menu_document_search')@
+menu@
+click(resource-id='com.maxistar.textpad:id/icon')@
+click(content-desc='Collapse')@
+menu@
+click(className='android.widget.TextView',instance='5')@Exit
+keyevent_back@
+clickLong(resource-id='com.maxistar.textpad:id/action_edit')@
+clickLong(content-desc='More options')@
+menu@
+click(className='android.widget.TextView',instance='2')@Save
+keyevent_back@
+menu@
+click(resource-id='com.maxistar.textpad:id/icon')@
+click(resource-id='com.maxistar.textpad:id/menu_document_search')@
+edit(resource-id='com.maxistar.textpad:id/editText1')@Type Something Here
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='7')@Exit
+click(className='android.widget.Button',instance='1')@Yes
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='0')@New
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Save As
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='4')@Settings
+click(className='android.widget.TextView',instance='5')@Encoding
+back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='6')@Click to change encoding
+scroll(direction='up')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='1')@Open Last
+click(className='android.widget.TextView',instance='10')@Language
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Line Delimiters
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='12')@Font
+click(className='android.widget.CheckedTextView',instance='0')@Monospace
+click(className='android.widget.CheckedTextView',instance='2')@Sans Serif
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='4')@Use legacy file picker
+click(className='android.widget.TextView',instance='19')@Choose a background color
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='16')@Font Color
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='15')@Choose a font size
+click(className='android.widget.CheckedTextView',instance='1')@Serif
+click(className='android.widget.CheckedTextView',instance='0')@Extra Small
+click(className='android.widget.CheckedTextView',instance='4')@Huge
+click(className='android.widget.CheckedTextView',instance='3')@Large
+click(className='android.widget.CheckedTextView',instance='2')@Medium
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='14')@Font Size
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='18')@Background Color
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='9')@Appearance
+click(className='android.widget.TextView',instance='11')@сlick to change language of interface
+click(className='android.widget.CheckedTextView',instance='1')@English
+click(className='android.widget.TextView',instance='17')@Choose a font color
+back@
+click(className='android.widget.TextView',instance='8')@Line endings
+click(className='android.widget.CheckedTextView',instance='0')@default
+click(className='android.widget.TextView',instance='2')@To open last edited file
+click(className='android.widget.TextView',instance='0')@Main Settings
+click(className='android.widget.TextView',instance='3')@Legacy file picker
+click(className='android.widget.TextView',instance='20')@About
+click(className='android.widget.TextView',instance='13')@Choose a font type
+click(className='android.widget.CheckedTextView',instance='2')@Sans Serif
+click(className='android.widget.CheckedTextView',instance='1')@Serif
+click(className='android.widget.CheckedTextView',instance='0')@Monospace
+back@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='14')@Choose a background color
+back@
+click(className='android.widget.TextView',instance='0')@Encoding
+click(className='android.widget.CheckedTextView',instance='0')@UTF-8
+click(className='android.widget.TextView',instance='5')@Language
+click(className='android.widget.CheckedTextView',instance='3')@Portuguese
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='19')@Just a little FYI
+click(className='android.widget.Button',instance='0')@Continuar
+click(className='android.widget.TextView',instance='10')@Alterar tamanho da fonte
+click(className='android.widget.Button',instance='0')@Cancelar
+click(className='android.widget.TextView',instance='1')@Toque para alterar a codificação
+click(className='android.widget.CheckedTextView',instance='5')@windows-1254
+click(className='android.widget.TextView',instance='6')@Toque para alterar o idioma do aplicativo
+click(className='android.widget.CheckedTextView',instance='0')@System
+click(className='android.widget.TextView',instance='5')@Encoding
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='6')@cp851
+click(className='android.widget.TextView',instance='6')@Click to change encoding
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='2')@x-mac-greek
+click(className='android.widget.TextView',instance='6')@Click to change encoding
+click(className='android.widget.CheckedTextView',instance='9')@x-UTF32_OppositeEndian
+click(className='android.widget.TextView',instance='5')@Encoding
+click(className='android.widget.CheckedTextView',instance='7')@x-UTF16_OppositeEndian
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='10')@Choose a font size
+click(className='android.widget.CheckedTextView',instance='4')@Huge
+click(className='android.widget.CheckedTextView',instance='0')@Extra Small
+click(className='android.widget.CheckedTextView',instance='2')@Medium
+click(className='android.widget.CheckedTextView',instance='3')@Large
+click(className='android.widget.CheckedTextView',instance='1')@Serif
+click(className='android.widget.CheckedTextView',instance='3')@Large
+click(className='android.widget.CheckedTextView',instance='2')@Medium
+click(className='android.widget.CheckedTextView',instance='0')@Extra Small
+click(className='android.widget.CheckedTextView',instance='4')@Huge
+click(className='android.widget.CheckedTextView',instance='3')@Large
+click(className='android.widget.CheckedTextView',instance='0')@Extra Small
+click(className='android.widget.CheckedTextView',instance='4')@Huge
+click(className='android.widget.CheckedTextView',instance='2')@Medium
+click(className='android.widget.CheckedTextView',instance='1')@Serif
+back@
+click(className='android.widget.TextView',instance='1')@Click to change encoding
+click(className='android.widget.CheckedTextView',instance='10')@x-UTF32_PlatformEndian
+click(className='android.widget.TextView',instance='8')@Choose a font type
+click(className='android.widget.CheckedTextView',instance='0')@Monospace
+click(className='android.widget.CheckedTextView',instance='2')@Sans Serif
+click(className='android.widget.CheckedTextView',instance='0')@Monospace
+click(className='android.widget.CheckedTextView',instance='2')@Sans Serif
+click(className='android.widget.CheckedTextView',instance='0')@Monospace
+click(className='android.widget.CheckedTextView',instance='2')@Sans Serif
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='3')@Line endings
+click(className='android.widget.TextView',instance='9')@Font Size
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@Click to change encoding
+click(className='android.widget.CheckedTextView',instance='5')@x-UnicodeBig
+click(className='android.widget.TextView',instance='5')@Encoding
+click(className='android.widget.CheckedTextView',instance='1')@x-mac-cyrillic
+click(className='android.widget.TextView',instance='11')@сlick to change language of interface
+click(className='android.widget.CheckedTextView',instance='8')@Türk
+click(className='android.widget.TextView',instance='9')@Görünüm
+click(className='android.widget.TextView',instance='15')@Yazı boyutunu seçin
+click(className='android.widget.Button',instance='1')@Tamam
+click(className='android.widget.TextView',instance='18')@Arka plan Rengi
+click(className='android.widget.Button',instance='0')@İptal
+click(className='android.widget.TextView',instance='1')@Son Dosyayı Aç
+click(className='android.widget.TextView',instance='14')@Yazı Boyutu
+click(className='android.widget.Button',instance='1')@Tamam
+click(className='android.widget.TextView',instance='16')@Yazı Rengi
+click(className='android.widget.Button',instance='0')@İptal
+click(className='android.widget.TextView',instance='17')@Yazı rengini seçin
+click(className='android.widget.Button',instance='1')@Tamam
+click(className='android.widget.TextView',instance='12')@Yazı
+click(className='android.widget.Button',instance='0')@İptal
+click(className='android.widget.TextView',instance='20')@Hakkında
+click(className='android.widget.TextView',instance='11')@Arayüz dilini değiştirmek için tıklayın
+click(className='android.widget.CheckedTextView',instance='6')@Espanol
+click(className='android.widget.TextView',instance='10')@Idioma
+click(className='android.widget.CheckedTextView',instance='7')@Italiano
+click(className='android.widget.TextView',instance='9')@Aspetto
+click(className='android.widget.TextView',instance='15')@Scegli una dimensione del carattere
+click(className='android.widget.Button',instance='0')@Annulla
+click(className='android.widget.TextView',instance='8')@Fine linea
+click(className='android.widget.TextView',instance='19')@Scegli un colore di sfondo
+click(className='android.widget.Button',instance='0')@Annulla
+click(className='android.widget.TextView',instance='14')@Dimensione del font
+click(className='android.widget.Button',instance='0')@Annulla
+click(className='android.widget.TextView',instance='18')@Colore di sfondo
+click(className='android.widget.Button',instance='0')@Annulla
+click(className='android.widget.TextView',instance='13')@Scegli un tipo di carattere
+click(className='android.widget.Button',instance='0')@Annulla
+click(className='android.widget.TextView',instance='1')@Apri per ultimo
+click(className='android.widget.TextView',instance='3')@Selettore di file legacy
+click(className='android.widget.TextView',instance='0')@Impostazioni principali
+click(className='android.widget.TextView',instance='16')@Colore del carattere
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='4')@Usa il selettore di file legacy
+click(className='android.widget.TextView',instance='7')@Delimitatori di linea
+click(className='android.widget.TextView',instance='17')@Scegli un colore del carattere
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@Fai clic per modificare la codifica
+click(className='android.widget.CheckedTextView',instance='0')@x-mac-centraleurroman
+click(className='android.widget.CheckedTextView',instance='2')@Русский
+click(className='android.widget.TextView',instance='10')@Язык
+click(className='android.widget.CheckedTextView',instance='5')@العربية
+click(className='android.widget.TextView',instance='2')@لفتح آخر ملف تم تحريره
+click(className='android.widget.TextView',instance='5')@الترميز
+click(className='android.widget.CheckedTextView',instance='4')@x-MS950-HKSCS
+click(className='android.widget.TextView',instance='3')@محدد الملفات القديم
+click(className='android.widget.TextView',instance='6')@أنقر لتغيير الترميز
+click(className='android.widget.Button',instance='0')@إلغاء
+click(className='android.widget.TextView',instance='18')@لون الخلفية
+click(className='android.widget.Button',instance='0')@إلغاء
+click(className='android.widget.TextView',instance='9')@المظهر
+click(className='android.widget.TextView',instance='13')@إختار نوع الخط
+click(className='android.widget.Button',instance='1')@حسنا
+click(className='android.widget.TextView',instance='10')@اللغة
+click(className='android.widget.CheckedTextView',instance='4')@Deutsch
+click(className='android.widget.TextView',instance='15')@Wählen Sie eine Schriftgröße
+click(className='android.widget.Button',instance='0')@Stornieren
+click(className='android.widget.TextView',instance='1')@Letzte öffnen
+click(className='android.widget.TextView',instance='12')@Schriftart
+click(className='android.widget.Button',instance='0')@Stornieren
+click(className='android.widget.TextView',instance='11')@Klicken Sie auf, um die Sprache der Benutzeroberfläche zu ändern
+click(className='android.widget.CheckedTextView',instance='6')@Espanol
+click(className='android.widget.TextView',instance='9')@Apariencia
+click(className='android.widget.TextView',instance='7')@Delimitadores de línea
+click(className='android.widget.Button',instance='0')@Cancelar

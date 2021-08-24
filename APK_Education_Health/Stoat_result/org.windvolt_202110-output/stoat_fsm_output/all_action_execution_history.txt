@@ -1,0 +1,499 @@
+    11@back
+    12@keyevent_back
+    13@reset
+    10@menu
+    28@click(resource-id='org.windvolt:id/group_divider'):android.widget.ImageView@""
+    38@back
+    10@menu
+    32@click(resource-id='org.windvolt:id/group_divider'):android.widget.ImageView@""
+    38@back
+    50@scroll(direction='down')
+    47@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    93@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    95@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    96@back
+    92@click(content-desc='100'):android.widget.ImageView@""
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    94@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    153@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    92@click(content-desc='100'):android.widget.ImageView@""
+    117@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"Android SDK built for x86"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    95@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    260@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"1test"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    94@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    154@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    10@menu
+    379@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    6@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    38@back
+    43@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    42@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    46@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    30@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Ökonomie"
+    12@keyevent_back
+    13@reset
+    9@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    96@back
+    45@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    12@keyevent_back
+    13@reset
+    4@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    44@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    38@back
+    51@scroll(direction='up')
+    41@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Wähle einen Ort"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    33@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Einstellungen"
+    600@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Ortsdaten zeigen"
+    610@scroll(direction='down')
+    611@scroll(direction='up')
+    606@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Ortsdienste verwenden"
+    605@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    608@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    599@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    601@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"*Länge und Breite anzeigen."
+    604@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"*Ich interessiere mich für den Stromverbrauch meines Smartphones."
+    609@back
+    573@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"Wähle einen Ort"
+    765@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"12"
+    778@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"test2"
+    10@menu
+    31@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Fotos"
+    815@back
+    10@menu
+    34@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Geräte"
+    93@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    96@back
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    29@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Galerie"
+    38@back
+    10@menu
+    27@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"persönlich"
+    908@back
+    11@back
+    12@keyevent_back
+    13@reset
+    3@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Wähle einen Ort"
+    941@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    46@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    972@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Online-Modell nicht geladen"
+    12@keyevent_back
+    971@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    972@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Online-Modell nicht geladen"
+    12@keyevent_back
+    971@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    10@menu
+    25@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Nachrichten"
+    410@back
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    26@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Motivation"
+    1036@scroll(direction='up')
+    1035@scroll(direction='down')
+    1034@back
+    971@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    972@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Online-Modell nicht geladen"
+    12@keyevent_back
+    11@back
+    1075@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    38@back
+    1076@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    12@keyevent_back
+    13@reset
+    930@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    1078@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    93@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    95@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1151@click(content-desc='101'):android.widget.ImageView@""
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1153@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    154@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    379@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    934@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    1152@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1154@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1151@click(content-desc='101'):android.widget.ImageView@""
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1154@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1429@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1430@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    153@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1431@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1428@click(content-desc='102'):android.widget.ImageView@""
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1474@click(content-desc='103'):android.widget.ImageView@""
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1475@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1477@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    96@back
+    1476@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    153@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1475@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1474@click(content-desc='103'):android.widget.ImageView@""
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1477@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    260@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"1test"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    96@back
+    1428@click(content-desc='102'):android.widget.ImageView@""
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    96@back
+    1476@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    154@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    379@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    931@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    525@scroll(direction='down')
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    526@scroll(direction='up')
+    525@scroll(direction='down')
+    38@back
+    1081@scroll(direction='down')
+    1082@scroll(direction='up')
+    1074@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    1077@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    10@menu
+    35@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Über"
+    1979@back
+    971@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    972@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Online-Modell nicht geladen"
+    12@keyevent_back
+    11@back
+    1073@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    2014@click(className='android.widget.Button',instance='0'):android.widget.Button@"clear"
+    2018@click(className='android.widget.Button',instance='0'):android.widget.Button@"okay"
+    1072@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    2002@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 3m +0%"
+    2052@click(className='android.widget.Button',instance='1'):android.widget.Button@"exit"
+    2002@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 3m +0%"
+    2051@click(className='android.widget.Button',instance='0'):android.widget.Button@"clear"
+    2018@click(className='android.widget.Button',instance='0'):android.widget.Button@"okay"
+    1073@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    2051@click(className='android.widget.Button',instance='0'):android.widget.Button@"clear"
+    2018@click(className='android.widget.Button',instance='0'):android.widget.Button@"okay"
+    1072@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    1082@scroll(direction='up')
+    1081@scroll(direction='down')
+    1075@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    38@back
+    1077@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    11@back
+    2188@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 0m 100%"
+    2015@click(className='android.widget.Button',instance='1'):android.widget.Button@"exit"
+    1074@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    41@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Wähle einen Ort"
+    573@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"Wähle einen Ort"
+    2251@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"test"
+    51@scroll(direction='up')
+    50@scroll(direction='down')
+    43@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    941@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    2251@edit(resource-id='org.windvolt:id/location_chooser'):android.widget.EditText@"test"
+    42@click(resource-id='org.windvolt:id/recommendation_symbol'):android.widget.ImageView@""
+    47@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    92@click(content-desc='100'):android.widget.ImageView@""
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1428@click(content-desc='102'):android.widget.ImageView@""
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    260@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"1test"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1475@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1477@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    96@back
+    1151@click(content-desc='101'):android.widget.ImageView@""
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    96@back
+    1476@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    153@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1474@click(content-desc='103'):android.widget.ImageView@""
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    92@click(content-desc='100'):android.widget.ImageView@""
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1476@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    154@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    12@keyevent_back
+    13@reset
+    929@click(resource-id='org.windvolt:id/services_open'):android.widget.ImageButton@""
+    2015@click(className='android.widget.Button',instance='1'):android.widget.Button@"exit"
+    1902@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 2m +0%"
+    2014@click(className='android.widget.Button',instance='0'):android.widget.Button@"clear"
+    2018@click(className='android.widget.Button',instance='0'):android.widget.Button@"okay"
+    1078@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    1428@click(content-desc='102'):android.widget.ImageView@""
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    96@back
+    1475@click(resource-id='org.windvolt:id/device_share'):android.widget.ImageButton@""
+    1474@click(content-desc='103'):android.widget.ImageView@""
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1477@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1151@click(content-desc='101'):android.widget.ImageView@""
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    260@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"1test"
+    270@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12est"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    96@back
+    1428@click(content-desc='102'):android.widget.ImageView@""
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    1225@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@""
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    1476@click(resource-id='org.windvolt:id/device_remove'):android.widget.ImageButton@""
+    154@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    379@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    927@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 0m 100%"
+    2015@click(className='android.widget.Button',instance='1'):android.widget.Button@"exit"
+    2188@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"battery: 0m 100%"
+    2014@click(className='android.widget.Button',instance='0'):android.widget.Button@"clear"
+    2018@click(className='android.widget.Button',instance='0'):android.widget.Button@"okay"
+    1076@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    12@keyevent_back
+    13@reset
+    932@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    12@keyevent_back
+    13@reset
+    933@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    33@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Einstellungen"
+    603@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Batteriestatus zeigen"
+    602@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    598@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"*Sprache wählen."
+    607@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"*Durch die Verwendung von Ortsdiensten gibst Du Daten preis."
+    597@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Deutsch"
+    610@scroll(direction='down')
+    637@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Ich teile meine Gerätedaten und verbessere damit die Empfehlungen."
+    630@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Batteriestatus zeigen"
+    639@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Empfehlungen erhalten"
+    640@click(className='android.widget.TextView',instance='15'):android.widget.TextView@"Ich will benachrichtigt werden wenn sich das Laden lohnt."
+    631@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"*Ich interessiere mich für den Stromverbrauch meines Smartphones."
+    641@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    628@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"*Länge und Breite anzeigen."
+    638@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    636@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Community beitreten"
+    635@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    627@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Ortsdaten zeigen"
+    633@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Ortsdienste verwenden"
+    632@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    634@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"*Durch die Verwendung von Ortsdiensten gibst Du Daten preis."
+    637@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Ich teile meine Gerätedaten und verbessere damit die Empfehlungen."
+    638@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    641@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    611@scroll(direction='up')
+    606@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Ortsdienste verwenden"
+    599@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    597@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Deutsch"
+    598@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"*Sprache wählen."
+    601@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"*Länge und Breite anzeigen."
+    604@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"*Ich interessiere mich für den Stromverbrauch meines Smartphones."
+    602@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    603@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Batteriestatus zeigen"
+    600@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Ortsdaten zeigen"
+    609@back
+    972@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Online-Modell nicht geladen"
+    12@keyevent_back
+    971@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    27@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"persönlich"
+    907@click(resource-id='org.windvolt:id/record_add'):android.widget.ImageButton@""
+    4147@click(resource-id='org.windvolt:id/symbol_chooser'):android.widget.Button@""
+    4145@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"https://"
+    4146@edit(resource-id='org.windvolt:id/symbol_edit'):android.widget.EditText@"1"
+    4157@click(className='android.widget.Button',instance='1'):android.widget.Button@"abbrechen"
+    905@click(resource-id='org.windvolt:id/record_share'):android.widget.ImageButton@""
+    906@click(resource-id='org.windvolt:id/record_remove'):android.widget.ImageButton@""
+    4144@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    4198@click(className='android.widget.Button',instance='1'):android.widget.Button@"entfernen"
+    379@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    30@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Ökonomie"
+    12@keyevent_back
+    13@reset
+    5@click(resource-id='org.windvolt:id/open_page0'):android.widget.ImageButton@""
+    410@back
+    44@click(resource-id='org.windvolt:id/open_page1'):android.widget.ImageButton@""
+    38@back
+    45@click(resource-id='org.windvolt:id/open_page2'):android.widget.ImageButton@""
+    12@keyevent_back
+    13@reset
+    8@click(resource-id='org.windvolt:id/open_page3'):android.widget.ImageButton@""
+    11@back
+    47@click(resource-id='org.windvolt:id/action_open_devices'):android.widget.ImageButton@""
+    1151@click(content-desc='101'):android.widget.ImageView@""
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"
+    103@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"11"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    109@click(className='android.widget.Button',instance='0'):android.widget.Button@"abbrechen"
+    1474@click(content-desc='103'):android.widget.ImageView@""
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    2764@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12st"
+    1294@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"test"
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    211@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"12"
+    1215@edit(resource-id='org.windvolt:id/content_edit'):android.widget.EditText@"1"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    104@click(resource-id='org.windvolt:id/type_mobile'):android.widget.RadioButton@"Mobile Phone (11Wh)"
+    110@click(className='android.widget.Button',instance='1'):android.widget.Button@"okay"
+    92@click(content-desc='100'):android.widget.ImageView@""
+    175@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testoid SDK built for x86"
+    2400@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stoid SDK built for x86"
+    96@back
+    1477@click(resource-id='org.windvolt:id/device_add'):android.widget.ImageButton@""
+    108@click(resource-id='org.windvolt:id/type_other'):android.widget.RadioButton@"other"
+    102@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@""
+    156@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12"
+    260@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"1test"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    107@click(resource-id='org.windvolt:id/type_household'):android.widget.RadioButton@"household (30Wh)"
+    310@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"testt"
+    1729@edit(resource-id='org.windvolt:id/position_input'):android.widget.EditText@"12stt"
+    106@click(resource-id='org.windvolt:id/type_ecar'):android.widget.RadioButton@"eCar (24000Wh)"
+    105@click(resource-id='org.windvolt:id/type_ebike'):android.widget.RadioButton@"eBike (3600Wh)"

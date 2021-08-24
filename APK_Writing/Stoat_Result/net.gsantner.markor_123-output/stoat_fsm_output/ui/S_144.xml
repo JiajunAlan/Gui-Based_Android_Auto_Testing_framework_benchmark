@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,696][1053,1164]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,1122]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,1122]">
+        <node index="0" text="" resource-id="net.gsantner.markor:id/action_bar_root" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,1122]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,1122]">
+            <node index="0" text="" resource-id="net.gsantner.markor:id/parentPanel" class="android.support.v7.widget.LinearLayoutCompat" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,1122]">
+              <node index="0" text="" resource-id="net.gsantner.markor:id/topPanel" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,848]">
+                <node index="0" text="" resource-id="net.gsantner.markor:id/title_template" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,738][1011,848]">
+                  <node index="0" text="Additional contexts and projects" resource-id="net.gsantner.markor:id/alertTitle" class="android.widget.TextView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[132,785][948,848]" />
+                </node>
+              </node>
+              <node index="1" text="" resource-id="net.gsantner.markor:id/customPanel" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,848][1011,974]">
+                <node index="0" text="" resource-id="net.gsantner.markor:id/custom" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,848][1011,966]">
+                  <node index="0" text="" resource-id="" class="android.widget.ScrollView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,848][1011,966]">
+                    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[132,848][948,966]">
+                      <node index="0" text="12usic +video @home @shop" resource-id="android:id/edit" class="android.widget.EditText" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[122,848][958,966]" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node index="2" text="" resource-id="net.gsantner.markor:id/buttonPanel" class="android.widget.ScrollView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,974][1011,1122]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,974][1011,1122]">
+                  <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[609,985][811,1111]" />
+                  <node index="1" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[811,985][979,1111]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

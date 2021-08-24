@@ -1,0 +1,8 @@
+    852@click(resource-id='android:id/home'):android.widget.ImageView@""
+    853@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"All items"
+    854@click(resource-id='com.gimranov.zandy.app:id/do_sort'):android.widget.TextView@""
+    855@clickLong(resource-id='com.gimranov.zandy.app:id/do_sort'):android.widget.TextView@""
+    856@click(resource-id='com.gimranov.zandy.app:id/do_search'):android.widget.TextView@""
+    857@clickLong(resource-id='com.gimranov.zandy.app:id/do_search'):android.widget.TextView@""
+    858@click(content-desc='More options'):android.widget.ImageButton@""
+    859@back

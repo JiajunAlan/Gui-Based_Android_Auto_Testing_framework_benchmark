@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.emmanuelmess.itsdicey:id/action_bar_root" class="android.widget.LinearLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.view.View" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+                <node index="0" text="" resource-id="com.emmanuelmess.itsdicey:id/toolbar" class="android.view.View" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+                  <node index="0" text="Its Dicey!" resource-id="" class="android.widget.TextView" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,104][261,175]" />
+                </node>
+              </node>
+              <node index="1" text="" resource-id="" class="android.view.View" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+                <node index="0" text="" resource-id="com.emmanuelmess.itsdicey:id/diceView" class="android.view.View" package="com.emmanuelmess.itsdicey" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

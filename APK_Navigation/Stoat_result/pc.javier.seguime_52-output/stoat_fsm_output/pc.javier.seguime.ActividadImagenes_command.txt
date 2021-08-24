@@ -1,0 +1,4 @@
+    661@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    662@click(resource-id='pc.javier.seguime:id/registros_menu_borrar'):android.widget.TextView@""
+    663@clickLong(resource-id='pc.javier.seguime:id/registros_menu_borrar'):android.widget.TextView@""
+    664@back

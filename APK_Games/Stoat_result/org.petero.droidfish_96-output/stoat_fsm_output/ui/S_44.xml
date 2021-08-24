@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,695][1053,1165]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,695][1053,1165]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,695][1053,1165]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,695][1032,1165]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,695][1032,889]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,716][969,884]">
+              <node index="0" text="Select Chess Engine" resource-id="android:id/alertTitle" class="android.widget.TextView" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,761][969,839]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,884][1011,889]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,889][1032,1165]">
+            <node index="0" text="" resource-id="android:id/select_dialog_listview" class="android.widget.ListView" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,889][1011,1144]">
+              <node index="0" text="Stockfish" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="org.petero.droidfish" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,889][1011,1015]" />
+              <node index="1" text="CuckooChess" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="org.petero.droidfish" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1018][1011,1144]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

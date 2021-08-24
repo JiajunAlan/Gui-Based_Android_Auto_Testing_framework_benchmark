@@ -1,0 +1,393 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626392787379 count=1000
+:AllowPackage: ml.vivekthazhathattil.chalachithram
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(872.0,375.0)
+:Sending Touch (ACTION_UP): 0:(853.81555,416.66934)
+:Sending Touch (ACTION_DOWN): 0:(571.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(564.2414,1698.3126)
+:Sending Touch (ACTION_DOWN): 0:(246.0,976.0)
+:Sending Touch (ACTION_UP): 0:(227.98024,990.83453)
+:Sending Touch (ACTION_DOWN): 0:(534.0,803.0)
+:Sending Touch (ACTION_UP): 0:(533.77325,786.2006)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Touch (ACTION_DOWN): 0:(490.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(484.82196,1422.6538)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(61.0,478.0)
+:Sending Touch (ACTION_UP): 0:(48.055176,465.59973)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(421.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(420.74094,1763.7656)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,911.0)
+:Sending Touch (ACTION_UP): 0:(1004.86206,908.2394)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2021-08-04 01:42:27.427  system_uptime:11159669]
+    // Sending event #100
+    //[calendar_time:2021-08-04 01:42:27.949  system_uptime:11160173]
+    // Sending event #100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(428.0,165.0)
+:Sending Touch (ACTION_UP): 0:(424.7142,151.67368)
+:Sending Touch (ACTION_DOWN): 0:(268.0,224.0)
+:Sending Touch (ACTION_UP): 0:(283.50464,219.16725)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,861.0)
+:Sending Touch (ACTION_UP): 0:(324.51996,781.7651)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2021-08-04 01:42:38.105  system_uptime:11170328]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(634.0,907.0)
+:Sending Touch (ACTION_UP): 0:(634.0938,907.52203)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(971.0,503.0)
+:Sending Touch (ACTION_UP): 0:(957.9918,515.4163)
+:Sending Touch (ACTION_DOWN): 0:(600.0,189.0)
+:Sending Touch (ACTION_UP): 0:(592.25977,189.54712)
+:Sending Touch (ACTION_DOWN): 0:(381.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(395.1645,1262.9736)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(826.9398,1198.7632)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(687.9211,994.6448)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,553.0)
+:Sending Touch (ACTION_UP): 0:(1020.73834,555.1618)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(188.0,503.0)
+:Sending Touch (ACTION_UP): 0:(153.35788,563.814)
+:Sending Touch (ACTION_DOWN): 0:(815.0,428.0)
+:Sending Touch (ACTION_UP): 0:(810.387,409.6911)
+:Sending Touch (ACTION_DOWN): 0:(874.0,619.0)
+:Sending Touch (ACTION_UP): 0:(879.919,619.3694)
+:Sending Touch (ACTION_DOWN): 0:(432.0,262.0)
+:Sending Touch (ACTION_UP): 0:(431.5563,259.71463)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(1042.6157,1513.976)
+:Sending Touch (ACTION_DOWN): 0:(287.0,669.0)
+:Sending Touch (ACTION_UP): 0:(286.48953,666.5909)
+:Sending Touch (ACTION_DOWN): 0:(288.0,337.0)
+:Sending Touch (ACTION_UP): 0:(296.0621,336.84872)
+    //[calendar_time:2021-08-04 01:42:51.311  system_uptime:11183535]
+    // Sending event #300
+    //[calendar_time:2021-08-04 01:42:51.812  system_uptime:11184036]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(791.0,68.0)
+:Sending Touch (ACTION_UP): 0:(787.0336,68.13453)
+:Sending Touch (ACTION_DOWN): 0:(166.0,404.0)
+:Sending Touch (ACTION_UP): 0:(153.68034,396.34732)
+:Sending Touch (ACTION_DOWN): 0:(824.0,39.0)
+:Sending Touch (ACTION_UP): 0:(879.48615,35.318474)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(27.982878,1393.393)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1025.0,735.0)
+:Sending Touch (ACTION_UP): 0:(1013.1305,730.0927)
+:Sending Touch (ACTION_DOWN): 0:(183.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(194.68135,1325.7559)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2021-08-04 01:42:59.207  system_uptime:11191430]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(312.0,169.0)
+:Sending Touch (ACTION_UP): 0:(307.47076,166.5079)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(1043.6061,1702.9344)
+:Sending Touch (ACTION_DOWN): 0:(2.0,320.0)
+:Sending Touch (ACTION_UP): 0:(0.0,306.8458)
+:Sending Touch (ACTION_DOWN): 0:(478.0,904.0)
+:Sending Touch (ACTION_UP): 0:(482.6454,907.5113)
+:Sending Touch (ACTION_DOWN): 0:(202.0,480.0)
+:Sending Touch (ACTION_UP): 0:(195.92754,479.69827)
+:Sending Touch (ACTION_DOWN): 0:(783.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(765.099,1142.621)
+:Sending Touch (ACTION_DOWN): 0:(803.0,76.0)
+:Sending Touch (ACTION_UP): 0:(803.3099,74.02842)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2021-08-04 01:43:08.898  system_uptime:11201122]
+    // Sending event #500
+    //[calendar_time:2021-08-04 01:43:09.400  system_uptime:11201624]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(358.0,958.0)
+:Sending Touch (ACTION_UP): 0:(359.13852,938.9303)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(222.76025,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(436.00647,1755.5753)
+:Sending Touch (ACTION_DOWN): 0:(883.0,151.0)
+:Sending Touch (ACTION_UP): 0:(880.8508,148.47157)
+:Sending Touch (ACTION_DOWN): 0:(784.0,11.0)
+:Sending Touch (ACTION_UP): 0:(781.22107,17.180822)
+:Sending Touch (ACTION_DOWN): 0:(240.0,645.0)
+:Sending Touch (ACTION_UP): 0:(249.70122,699.21436)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,725.0)
+:Sending Touch (ACTION_UP): 0:(182.71262,705.3022)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(417.331,1707.3234)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,899.0)
+:Sending Touch (ACTION_UP): 0:(1017.4157,897.6575)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2021-08-04 01:43:21.044  system_uptime:11213268]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(983.9868,1379.0114)
+:Sending Touch (ACTION_DOWN): 0:(105.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(122.27117,1608.4844)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+// CRASH: ml.vivekthazhathattil.chalachithram (pid 21510)
+// Short Msg: java.lang.IllegalArgumentException
+// Long Msg: java.lang.IllegalArgumentException: navigation destination ml.vivekthazhathattil.chalachithram:id/action_menu_to_game_mode is unknown to this NavController
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.IllegalArgumentException: navigation destination ml.vivekthazhathattil.chalachithram:id/action_menu_to_game_mode is unknown to this NavController
+// 	at androidx.navigation.NavController.b(:11)
+// 	at ml.vivekthazhathattil.chalachithram.menu$a.onClick()
+// 	at android.view.View.performClick(View.java:4438)
+// 	at android.view.View.onKeyUp(View.java:8241)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2664)
+// 	at android.view.View.dispatchKeyEvent(View.java:7665)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1408)
+// 	at com.android.internal.policy.impl.PhoneWindow$DecorView.superDispatchKeyEvent(PhoneWindow.java:2035)
+// 	at com.android.internal.policy.impl.PhoneWindow.superDispatchKeyEvent(PhoneWindow.java:1505)
+// 	at b.h.l.c.a(:3)
+// 	at b.h.d.d.dispatchKeyEvent(:2)
+// 	at b.b.k.h.dispatchKeyEvent()
+// 	at b.b.k.k$e.dispatchKeyEvent(:1)
+// 	at b.b.o.h.dispatchKeyEvent()
+// 	at com.android.internal.policy.impl.PhoneWindow$DecorView.dispatchKeyEvent(PhoneWindow.java:1962)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:3852)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3826)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3525)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3582)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3426)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3399)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3449)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3418)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3558)
+// 	at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:3718)
+// 	at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2010)
+// 	at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1704)
+// 	at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1695)
+// 	at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:1987)
+// 	at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:138)
+// 	at android.os.Looper.loop(Looper.java:123)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(245.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(209.94418,1427.9666)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(896.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(859.0374,1772.9641)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(847.7964,1301.7555)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(294.18655,1615.899)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(611.6744,1009.3044)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(512.70856,1139.211)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Touch (ACTION_DOWN): 0:(468.0,422.0)
+    //[calendar_time:2021-08-04 01:43:28.228  system_uptime:11220452]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(419.83246,473.46887)
+:Sending Touch (ACTION_DOWN): 0:(61.0,998.0)
+:Sending Touch (ACTION_UP): 0:(47.369232,1001.1632)
+:Sending Touch (ACTION_DOWN): 0:(138.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(147.81134,1392.1543)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+// CRASH: ml.vivekthazhathattil.chalachithram (pid 21668)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #17: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// android.view.InflateException: Binary XML file line #101: Error inflating class ImageButton
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:714)
+// 	at android.view.LayoutInflater.rInflate(LayoutInflater.java:756)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+// 	at android.view.LayoutInflater.inflate(LayoutInflater.java:397)
+// 	at ml.vivekthazhathattil.chalachithram.game_mode.a()
+// 	at androidx.fragment.app.Fragment.b()
+// 	at b.k.d.r.a(:88)
+// 	at b.k.d.r.a()
+// 	at b.k.d.r.a(:38)
+// 	at b.k.d.r.c()
+// 	at b.k.d.r.d()
+// 	at b.k.d.r$d.run()
+// 	at android.os.Handler.handleCallback(Handler.java:733)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/abc_vector_test.xml from drawable resource ID #0x7f07005c
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.TypedArray.getDrawable(TypedArray.java:602)
+// 	at android.widget.ImageView.<init>(ImageView.java:129)
+// 	at android.widget.ImageButton.<init>(ImageButton.java:87)
+// 	at b.b.p.l.<init>()
+// 	at b.b.p.l.<init>()
+// 	at androidx.appcompat.app.AppCompatViewInflater.createImageButton()
+// 	at androidx.appcompat.app.AppCompatViewInflater.createView()
+// 	at b.b.k.k.onCreateView(:3)
+// 	at android.view.LayoutInflater$FactoryMerger.onCreateView(LayoutInflater.java:172)
+// 	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:685)
+// 	... 20 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #17: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 30 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(275.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(321.1162,1047.8926)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(561.0,18.0)
+:Sending Touch (ACTION_UP): 0:(557.0179,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(170.0,366.0)
+:Sending Touch (ACTION_UP): 0:(185.3891,372.89008)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2021-08-04 01:43:42.224  system_uptime:11234447]
+    // Sending event #800
+    //[calendar_time:2021-08-04 01:43:42.727  system_uptime:11234951]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(163.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(172.67911,1089.544)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1631.0)
+:Sending Touch (ACTION_UP): 0:(278.44504,1645.148)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1461.0)
+:Sending Touch (ACTION_UP): 0:(234.6134,1449.8091)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(503.0,922.0)
+:Sending Touch (ACTION_UP): 0:(509.6274,925.8531)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,825.0)
+:Sending Touch (ACTION_UP): 0:(1013.6848,829.5655)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(274.0,465.0)
+:Sending Touch (ACTION_UP): 0:(272.67532,465.11014)
+:Sending Touch (ACTION_DOWN): 0:(468.0,272.0)
+:Sending Touch (ACTION_UP): 0:(471.6386,283.10187)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(81.0,662.0)
+:Sending Touch (ACTION_UP): 0:(0.0,729.5464)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2021-08-04 01:43:54.098  system_uptime:11246322]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(382.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(385.3349,1211.5948)
+:Sending Touch (ACTION_DOWN): 0:(74.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(71.913765,1655.2975)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1624.0)
+:Sending Touch (ACTION_UP): 0:(94.52711,1609.7299)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ml.vivekthazhathattil.chalachithram/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ml.vivekthazhathattil.chalachithram/.MainActivity } in package ml.vivekthazhathattil.chalachithram
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(826.0,945.0)
+:Sending Touch (ACTION_UP): 0:(858.71643,852.30927)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(838.07965,1686.594)
+:Sending Touch (ACTION_DOWN): 0:(742.0,383.0)
+:Sending Touch (ACTION_UP): 0:(749.9658,377.95538)
+:Sending Touch (ACTION_DOWN): 0:(528.0,669.0)
+:Sending Touch (ACTION_UP): 0:(521.25745,657.39136)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(370.42892,1056.4049)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(782.0657,1687.7686)
+:Sending Touch (ACTION_DOWN): 0:(571.0,174.0)
+:Sending Touch (ACTION_UP): 0:(565.4717,183.81995)
+:Sending Touch (ACTION_DOWN): 0:(324.0,782.0)
+:Sending Touch (ACTION_UP): 0:(311.73962,785.6004)
+:Sending Touch (ACTION_DOWN): 0:(10.0,1579.0)
+:Sending Touch (ACTION_UP): 0:(15.325179,1579.9203)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1422.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=15 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114802ms (0ms mobile, 0ms wifi, 114802ms not connected)
+// Monkey finished

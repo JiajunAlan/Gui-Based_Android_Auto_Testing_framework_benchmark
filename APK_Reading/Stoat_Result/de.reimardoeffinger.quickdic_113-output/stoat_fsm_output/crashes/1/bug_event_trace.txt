@@ -1,0 +1,41 @@
+clickLong(className='android.widget.TextView',instance='2')@English
+menu@
+click(className='android.widget.TextView',instance='0')@Sort dictionaries
+click(content-desc='French')@
+click(className='android.widget.Button',instance='4')@19.9MB
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Sort dictionaries
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='14')@English-Afrikaans
+click(className='android.widget.TextView',instance='6')@French
+clickLong(content-desc='Portuguese')@
+click(className='android.widget.TextView',instance='8')@00
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@-
+scroll(direction='down')@
+back@
+click(className='android.widget.TextView',instance='16')@1ª3ªp.s.
+scroll(direction='up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='11')@10
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(content-desc='More options')@
+back@
+scroll(direction='down')@
+click(resource-id='de.reimardoeffinger.quickdic:id/languageButton')@
+click(content-desc='Portuguese')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@
+scroll(direction='down')@
+clickLong(resource-id='de.reimardoeffinger.quickdic:id/floatSwapButton')@

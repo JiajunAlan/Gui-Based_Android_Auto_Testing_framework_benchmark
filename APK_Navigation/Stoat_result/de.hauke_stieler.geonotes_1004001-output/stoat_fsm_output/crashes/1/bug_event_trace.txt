@@ -1,0 +1,93 @@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='0')@List of notes
+click(content-desc='Navigate up')@
+back@
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+click(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+click(content-desc='Navigate up')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+back@
+clickLong(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+menu@
+click(className='android.widget.TextView',instance='0')@List of notes
+back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+clickLong(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@1.0
+click(className='android.widget.Button',instance='0')@Feeback
+keyevent_back@
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@1.
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@1
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@12
+back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+menu@
+click(className='android.widget.TextView',instance='0')@List of notes
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+clickLong(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+clickLong(content-desc='More options')@
+menu@
+click(className='android.widget.TextView',instance='0')@List of notes
+back@
+click(content-desc='More options')@
+back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+menu@
+click(className='android.widget.TextView',instance='1')@Settings
+click(className='android.widget.Button',instance='0')@Feeback
+keyevent_back@
+click(content-desc='Navigate up')@
+back@
+keyevent_back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+clickLong(content-desc='More options')@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+clickLong(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_gps_follow')@
+click(content-desc='More options')@
+menu@
+click(className='android.widget.TextView',instance='3')@© OpenStreetMap contributors
+keyevent_back@
+clickLong(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+click(resource-id='de.hauke_stieler.geonotes:id/toolbar_btn_export')@
+keyevent_back@
+back@
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='1')@Settings
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@1.0
+edit(resource-id='de.hauke_stieler.geonotes:id/settings_scale_input')@120
+click(content-desc='Navigate up')@

@@ -1,0 +1,77 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 8578): FATAL EXCEPTION: main
+E/AndroidRuntime( 8578): Process: org.traffxml.roadeagle, PID: 8578
+E/AndroidRuntime( 8578): java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime( 8578): 	at java.text.SimpleDateFormat.validatePatternCharacter(SimpleDateFormat.java:314)
+E/AndroidRuntime( 8578): 	at java.text.SimpleDateFormat.validatePattern(SimpleDateFormat.java:296)
+E/AndroidRuntime( 8578): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:356)
+E/AndroidRuntime( 8578): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:249)
+E/AndroidRuntime( 8578): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.startLog(RoadEagleApplication.java:122)
+E/AndroidRuntime( 8578): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.onSharedPreferenceChanged(RoadEagleApplication.java:71)
+E/AndroidRuntime( 8578): 	at android.app.SharedPreferencesImpl$EditorImpl.notifyListeners(SharedPreferencesImpl.java:475)
+E/AndroidRuntime( 8578): 	at android.app.SharedPreferencesImpl$EditorImpl.apply(SharedPreferencesImpl.java:385)
+E/AndroidRuntime( 8578): 	at android.support.v4.content.EditorCompatGingerbread.apply(EditorCompatGingerbread.java:25)
+E/AndroidRuntime( 8578): 	at android.support.v4.content.SharedPreferencesCompat$EditorCompat$EditorHelperApi9Impl.apply(SharedPreferencesCompat.java:45)
+E/AndroidRuntime( 8578): 	at android.support.v4.content.SharedPreferencesCompat$EditorCompat.apply(SharedPreferencesCompat.java:67)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.Preference.tryCommit(Preference.java:1294)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.Preference.persistBoolean(Preference.java:1499)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.TwoStatePreference.setChecked(TwoStatePreference.java:79)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.TwoStatePreference.onClick(TwoStatePreference.java:64)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.Preference.performClick(Preference.java:938)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.Preference.performClick(Preference.java:924)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.CheckBoxPreference.performClick(CheckBoxPreference.java:88)
+E/AndroidRuntime( 8578): 	at android.support.v7.preference.Preference$1.onClick(Preference.java:136)
+E/AndroidRuntime( 8578): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 8578): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 8578): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 8578): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 8578): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 8578): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 8578): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 8578): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 8578): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 8578): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 8578): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: org.traffxml.roadeagle
+app code version: 1.0.5
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 7877220 Realtime: 7877220
+
+** MEMINFO in pid 8578 [org.traffxml.roadeagle] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4706     4668        0        0     8968     8748      219
+  Dalvik Heap     6503     6272        0        0     8736     7695     1041
+ Dalvik Other     2060     1892        0        0                           
+        Stack      116      116        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1315      540        0        0                           
+    .apk mmap      220        0       32        0                           
+    .ttf mmap       84        0       64        0                           
+    .dex mmap     2544       48     2056        0                           
+   Other mmap       18        4        0        0                           
+      Unknown       76       76        0        0                           
+        TOTAL    17646    13616     2156        0    17704    16443     1260
+ 
+ Objects
+               Views:      118         ViewRootImpl:        2
+         AppContexts:        4           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       12        Proxy Binders:       27
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      107
+  PAGECACHE_OVERFLOW:       24          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       56             66         4/21/5  /data/data/org.traffxml.roadeagle/databases/messagecache
+***********

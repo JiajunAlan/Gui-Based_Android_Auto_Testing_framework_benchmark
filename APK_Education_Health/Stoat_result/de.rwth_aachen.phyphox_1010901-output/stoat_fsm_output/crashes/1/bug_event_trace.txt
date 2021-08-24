@@ -1,0 +1,19 @@
+click(className='android.widget.TextView',instance='7')@Light
+click(className='android.widget.TextView',instance='4')@Illuminance
+click(resource-id='de.rwth_aachen.phyphox:id/playhint')@
+click(resource-id='de.rwth_aachen.phyphox:id/icon')@
+clickLong(className='android.widget.TextView',instance='8')@More tools
+clickLong(resource-id='de.rwth_aachen.phyphox:id/icon')@
+clickLong(resource-id='de.rwth_aachen.phyphox:id/action_clear')@
+click(content-desc='More options')@
+back@
+click(className='android.widget.TextView',instance='6')@Pan and zoom
+click(resource-id='de.rwth_aachen.phyphox:id/action_clear')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(content-desc='Navigate up')@
+click(className='android.widget.Button',instance='0')@Cancel
+scroll(direction='down')@
+click(resource-id='de.rwth_aachen.phyphox:id/action_pause')@
+clickLong(resource-id='de.rwth_aachen.phyphox:id/icon')@
+clickLong(resource-id='de.rwth_aachen.phyphox:id/icon')@
+click(resource-id='de.rwth_aachen.phyphox:id/graph_collapse_image')@

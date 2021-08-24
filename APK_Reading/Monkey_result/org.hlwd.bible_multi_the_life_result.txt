@@ -1,0 +1,919 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626402067500 count=1000
+:AllowPackage: org.hlwd.bible_multi_the_life
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hlwd.bible_multi_the_life/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15205)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15219)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15236)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(761.0,954.0)
+:Sending Touch (ACTION_UP): 0:(836.5821,878.1322)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(91.624084,1302.7871)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15271)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15287)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15302)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(472.0,362.0)
+:Sending Touch (ACTION_UP): 0:(456.233,344.31317)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15326)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15340)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15355)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15380)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15394)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15409)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2021-08-04 04:25:54.499  system_uptime:20966739]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(589.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(598.2376,1189.2977)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,416.0)
+:Sending Touch (ACTION_UP): 0:(209.14488,415.28918)
+:Sending Touch (ACTION_DOWN): 0:(138.0,136.0)
+:Sending Touch (ACTION_UP): 0:(139.36395,121.82263)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(363.0,1590.0)
+:Sending Touch (ACTION_UP): 0:(372.9558,1607.9083)
+:Sending Touch (ACTION_DOWN): 0:(12.0,926.0)
+:Sending Touch (ACTION_UP): 0:(11.985027,911.20215)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(915.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(910.2558,1051.8698)
+:Sending Touch (ACTION_DOWN): 0:(860.0,1412.0)
+:Sending Touch (ACTION_UP): 0:(859.75214,1409.277)
+:Sending Touch (ACTION_DOWN): 0:(693.0,1683.0)
+:Sending Touch (ACTION_UP): 0:(695.03156,1678.8308)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(192.0,952.0)
+:Sending Touch (ACTION_UP): 0:(179.82571,937.189)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(427.0,1528.0)
+    //[calendar_time:2021-08-04 04:26:09.234  system_uptime:20981458]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(451.10666,1596.9802)
+:Sending Touch (ACTION_DOWN): 0:(842.0,163.0)
+:Sending Touch (ACTION_UP): 0:(843.61194,163.25102)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,762.0)
+:Sending Touch (ACTION_UP): 0:(445.08792,717.08264)
+:Sending Touch (ACTION_DOWN): 0:(389.0,649.0)
+:Sending Touch (ACTION_UP): 0:(348.0787,650.4403)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(500.90723,1311.2617)
+:Sending Touch (ACTION_DOWN): 0:(397.0,423.0)
+:Sending Touch (ACTION_UP): 0:(362.3892,362.99075)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hlwd.bible_multi_the_life/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15496)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15510)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15526)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(917.0,10.0)
+:Sending Touch (ACTION_UP): 0:(918.1639,1.2547979)
+:Sending Touch (ACTION_DOWN): 0:(475.0,245.0)
+:Sending Touch (ACTION_UP): 0:(467.25275,246.7404)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(955.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(901.9167,1756.9589)
+:Sending Touch (ACTION_DOWN): 0:(946.0,1740.0)
+    //[calendar_time:2021-08-04 04:26:19.408  system_uptime:20991632]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(984.1109,1732.884)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hlwd.bible_multi_the_life/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15553)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15567)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15582)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(236.0,427.0)
+:Sending Touch (ACTION_UP): 0:(244.90674,423.15204)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(332.1918,1676.9736)
+:Sending Touch (ACTION_DOWN): 0:(208.0,318.0)
+:Sending Touch (ACTION_UP): 0:(177.26257,345.18698)
+:Sending Touch (ACTION_DOWN): 0:(185.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(183.27423,1127.5411)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(199.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(205.478,1037.4445)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(392.0,700.0)
+:Sending Touch (ACTION_UP): 0:(398.72177,701.8593)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.development_settings/android.app.AliasActivity } in package com.android.development_settings
+:Sending Touch (ACTION_DOWN): 0:(982.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(864.0603,1366.7969)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2021-08-04 04:26:28.081  system_uptime:21000305]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(733.0,417.0)
+:Sending Touch (ACTION_UP): 0:(755.394,432.8236)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(664.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(606.6178,1455.2277)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(145.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(157.87718,1706.7476)
+:Sending Touch (ACTION_DOWN): 0:(87.0,877.0)
+:Sending Touch (ACTION_UP): 0:(84.24185,888.4341)
+:Sending Touch (ACTION_DOWN): 0:(57.0,20.0)
+:Sending Touch (ACTION_UP): 0:(67.973495,33.449665)
+:Sending Touch (ACTION_DOWN): 0:(75.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(95.12755,1776.6342)
+    //[calendar_time:2021-08-04 04:26:40.281  system_uptime:21012504]
+    // Sending event #500
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(168.0,274.0)
+:Sending Touch (ACTION_UP): 0:(168.97302,285.56708)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hlwd.bible_multi_the_life/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15657)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15672)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15688)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(34.44968,1518.202)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(834.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(835.6918,1361.0413)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(377.0,292.0)
+:Sending Touch (ACTION_UP): 0:(311.41953,323.77747)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(754.52435,1746.6183)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,216.0)
+:Sending Touch (ACTION_UP): 0:(626.9399,199.5035)
+:Sending Touch (ACTION_DOWN): 0:(465.0,127.0)
+:Sending Touch (ACTION_UP): 0:(458.16534,122.3171)
+:Sending Touch (ACTION_DOWN): 0:(446.0,1399.0)
+:Sending Touch (ACTION_UP): 0:(443.79526,1403.3112)
+:Sending Touch (ACTION_DOWN): 0:(201.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(201.91472,1686.9679)
+:Sending Touch (ACTION_DOWN): 0:(353.0,840.0)
+:Sending Touch (ACTION_UP): 0:(306.66684,877.8726)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(262.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(217.62192,1208.4255)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2021-08-04 04:26:55.022  system_uptime:21027245]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(33.0,1652.0)
+:Sending Touch (ACTION_UP): 0:(26.278324,1655.5239)
+:Sending Touch (ACTION_DOWN): 0:(891.0,51.0)
+:Sending Touch (ACTION_UP): 0:(890.6813,48.153893)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(531.0,764.0)
+:Sending Touch (ACTION_UP): 0:(536.0875,743.60675)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(1069.5764,1202.1696)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(227.47652,1593.3784)
+:Sending Touch (ACTION_DOWN): 0:(849.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(864.79443,1052.9932)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1470.0)
+:Sending Touch (ACTION_UP): 0:(290.18546,1482.2323)
+:Sending Touch (ACTION_DOWN): 0:(562.0,408.0)
+:Sending Touch (ACTION_UP): 0:(578.0712,440.38712)
+:Sending Touch (ACTION_DOWN): 0:(41.0,1180.0)
+:Sending Touch (ACTION_UP): 0:(38.942112,1182.2008)
+:Sending Touch (ACTION_DOWN): 0:(318.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(309.63165,1269.4441)
+    //[calendar_time:2021-08-04 04:27:06.304  system_uptime:21038528]
+    // Sending event #700
+    //[calendar_time:2021-08-04 04:27:06.807  system_uptime:21039031]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(273.0,549.0)
+:Sending Touch (ACTION_UP): 0:(276.4094,559.5454)
+:Sending Touch (ACTION_DOWN): 0:(691.0,228.0)
+:Sending Touch (ACTION_UP): 0:(681.3133,217.63403)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(6.0,290.0)
+:Sending Touch (ACTION_UP): 0:(6.749532,304.5313)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(582.0,854.0)
+:Sending Touch (ACTION_UP): 0:(592.66437,849.7497)
+:Sending Touch (ACTION_DOWN): 0:(147.0,15.0)
+:Sending Touch (ACTION_UP): 0:(126.39859,19.795837)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(841.0234,1520.013)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2021-08-04 04:27:19.024  system_uptime:21051248]
+    // Sending event #800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(948.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(999.35754,1459.2112)
+:Sending Touch (ACTION_DOWN): 0:(387.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(290.8332,1034.1868)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(415.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(404.8336,1090.7325)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,550.0)
+:Sending Touch (ACTION_UP): 0:(99.9321,535.36804)
+:Sending Touch (ACTION_DOWN): 0:(442.0,251.0)
+:Sending Touch (ACTION_UP): 0:(423.47388,249.15286)
+:Sending Touch (ACTION_DOWN): 0:(682.0,507.0)
+:Sending Touch (ACTION_UP): 0:(661.86945,515.9459)
+:Sending Touch (ACTION_DOWN): 0:(732.0,867.0)
+:Sending Touch (ACTION_UP): 0:(729.7879,863.1773)
+:Sending Touch (ACTION_DOWN): 0:(750.0,461.0)
+:Sending Touch (ACTION_UP): 0:(750.3267,468.59894)
+:Sending Touch (ACTION_DOWN): 0:(877.0,710.0)
+:Sending Touch (ACTION_UP): 0:(873.69885,711.0624)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(843.0,1684.0)
+:Sending Touch (ACTION_UP): 0:(836.5035,1686.278)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    //[calendar_time:2021-08-04 04:27:31.205  system_uptime:21063428]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(11.0,978.0)
+:Sending Touch (ACTION_UP): 0:(10.140051,962.9419)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(502.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(510.44498,1520.818)
+:Sending Touch (ACTION_DOWN): 0:(584.0,302.0)
+:Sending Touch (ACTION_UP): 0:(573.15674,299.62567)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,9.0)
+:Sending Touch (ACTION_UP): 0:(172.24596,0.0)
+:Sending Touch (ACTION_DOWN): 0:(634.0,201.0)
+:Sending Touch (ACTION_UP): 0:(637.2137,221.09505)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(905.0,52.0)
+:Sending Touch (ACTION_UP): 0:(826.5757,60.300957)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1706.0)
+:Sending Touch (ACTION_UP): 0:(455.66898,1707.4304)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hlwd.bible_multi_the_life/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hlwd.bible_multi_the_life/.MainActivity } in package org.hlwd.bible_multi_the_life
+// CRASH: org.hlwd.bible_multi_the_life (pid 15844)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15858)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: org.hlwd.bible_multi_the_life (pid 15875)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/org.hlwd.bible_multi_the_life-1.apk"],nativeLibraryDirectories=[/data/app-lib/org.hlwd.bible_multi_the_life-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(345.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(340.086,1333.5356)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(21.0,147.0)
+:Sending Touch (ACTION_UP): 0:(20.226429,150.24054)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=121326ms (0ms mobile, 0ms wifi, 121326ms not connected)
+// Monkey finished

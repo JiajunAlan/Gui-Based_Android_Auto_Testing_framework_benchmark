@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="1">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[446,356][1363,724]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[446,356][1363,724]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[446,356][1363,724]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[446,356][1363,724]">
+          <node index="0" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[454,380][1360,532]">
+            <node index="0" text="" resource-id="android:id/scrollView" class="android.widget.ScrollView" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[487,406][1327,532]">
+              <node index="0" text="Can't play this video." resource-id="android:id/message" class="android.widget.TextView" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[524,411][1301,500]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[454,532][1360,716]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[487,532][1327,675]">
+              <node index="2" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="com.android.gallery" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[699,543][1114,669]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

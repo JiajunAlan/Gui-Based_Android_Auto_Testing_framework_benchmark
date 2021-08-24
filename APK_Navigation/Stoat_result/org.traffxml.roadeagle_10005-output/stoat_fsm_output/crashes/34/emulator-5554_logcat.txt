@@ -1,0 +1,26 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(11191): FATAL EXCEPTION: main
+E/AndroidRuntime(11191): Process: org.traffxml.roadeagle, PID: 11191
+E/AndroidRuntime(11191): java.lang.RuntimeException: Unable to create application org.traffxml.roadeagle.android.core.RoadEagleApplication: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime(11191): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4347)
+E/AndroidRuntime(11191): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(11191): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(11191): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(11191): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(11191): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(11191): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(11191): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(11191): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(11191): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(11191): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(11191): Caused by: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime(11191): 	at java.text.SimpleDateFormat.validatePatternCharacter(SimpleDateFormat.java:314)
+E/AndroidRuntime(11191): 	at java.text.SimpleDateFormat.validatePattern(SimpleDateFormat.java:296)
+E/AndroidRuntime(11191): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:356)
+E/AndroidRuntime(11191): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:249)
+E/AndroidRuntime(11191): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.startLog(RoadEagleApplication.java:122)
+E/AndroidRuntime(11191): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.onCreate(RoadEagleApplication.java:63)
+E/AndroidRuntime(11191): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(11191): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(11191): 	... 10 more

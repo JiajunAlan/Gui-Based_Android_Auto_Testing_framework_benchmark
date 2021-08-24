@@ -1,0 +1,8 @@
+    141@scroll(direction='down')
+    142@scroll(direction='up')
+    140@back
+    139@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    139@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    142@scroll(direction='up')
+    141@scroll(direction='down')
+    140@back

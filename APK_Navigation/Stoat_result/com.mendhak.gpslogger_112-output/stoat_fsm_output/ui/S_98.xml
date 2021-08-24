@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,649][1006,1210]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,649][1006,1210]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,649][1006,1210]">
+        <node index="0" text="" resource-id="" class="android.view.View" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,649][1006,1210]">
+          <node index="0" text="" resource-id="com.mendhak.gpslogger:id/md_titleFrame" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,649][1006,815]">
+            <node index="0" text="Invalid settings" resource-id="com.mendhak.gpslogger:id/md_title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[137,712][943,783]" />
+          </node>
+          <node index="1" text="" resource-id="com.mendhak.gpslogger:id/md_contentScrollView" class="android.widget.ScrollView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,815][1006,1042]">
+            <node index="0" text="Some of your settings are invalid. Please ensure that you have filled out all relevant fields." resource-id="com.mendhak.gpslogger:id/md_content" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[74,836][1006,1021]" />
+          </node>
+          <node index="2" text="OK" resource-id="com.mendhak.gpslogger:id/md_buttonDefaultPositive" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[785,1063][974,1189]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

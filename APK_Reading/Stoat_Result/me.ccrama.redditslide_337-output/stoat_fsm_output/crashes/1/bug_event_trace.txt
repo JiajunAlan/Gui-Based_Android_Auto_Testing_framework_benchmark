@@ -1,0 +1,178 @@
+click(className='android.widget.Button',instance='1')@Yes
+back@
+click(className='android.widget.TextView',instance='0')@Get started
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='4')@Done
+click(content-desc='More options')@
+back@
+click(content-desc='Open')@
+clickLong(className='android.widget.TextView',instance='5')@announcements
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+clickLong(className='android.widget.TextView',instance='3')@art
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+click(className='android.widget.Button',instance='0')@OK
+click(content-desc='Open')@
+click(className='android.widget.ImageView',instance='10')@
+clickLong(className='android.widget.TextView',instance='6')@art
+click(resource-id='me.ccrama.redditslide:id/headerflip')@
+clickLong(resource-id='me.ccrama.redditslide:id/action_shadowbox')@
+clickLong(className='android.widget.TextView',instance='7')@askreddit
+click(className='android.widget.TextView',instance='4')@all
+click(className='android.widget.TextView',instance='7')@askreddit
+click(content-desc='Open')@
+clickLong(content-desc='More options')@
+click(className='android.widget.ImageView',instance='1')@
+click(className='android.widget.TextView',instance='7')@Subreddit content filter
+click(className='android.widget.CheckedTextView',instance='4')@Links
+click(className='android.widget.CheckedTextView',instance='0')@Images
+click(className='android.widget.CheckedTextView',instance='5')@Selftext
+click(className='android.widget.CheckedTextView',instance='6')@NSFW content
+click(className='android.widget.CheckedTextView',instance='2')@GIFs
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@aww
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='8')@Cache comments
+click(className='android.widget.CheckedTextView',instance='0')@GIFs
+click(className='android.widget.Button',instance='0')@Save
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(className='android.widget.Button',instance='1')@Yes
+back@
+clickLong(resource-id='me.ccrama.redditslide:id/action_sort')@
+clickLong(className='android.widget.TextView',instance='3')@frontpage
+click(className='android.widget.TextView',instance='6')@art
+clickLong(resource-id='me.ccrama.redditslide:id/action_sort')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='6')@askscience
+clickLong(resource-id='me.ccrama.redditslide:id/action_shadowbox')@
+clickLong(className='android.widget.TextView',instance='5')@askscience
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='3')@art
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+click(resource-id='me.ccrama.redditslide:id/action_shadowbox')@
+click(resource-id='me.ccrama.redditslide:id/action_sort')@
+click(className='android.widget.TextView',instance='4')@Controversial
+click(className='android.widget.TextView',instance='1')@24 hours
+clickLong(className='android.widget.TextView',instance='3')@announcements
+click(className='android.widget.TextView',instance='5')@askreddit
+click(className='android.widget.TextView',instance='3')@announcements
+clickLong(className='android.widget.TextView',instance='5')@announcements
+clickLong(className='android.widget.TextView',instance='4')@all
+clickLong(className='android.widget.TextView',instance='3')@frontpage
+click(className='android.widget.TextView',instance='4')@all
+click(className='android.widget.TextView',instance='3')@frontpage
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='5')@announcements
+clickLong(className='android.widget.TextView',instance='6')@art
+clickLong(className='android.widget.TextView',instance='7')@askreddit
+click(className='android.widget.TextView',instance='6')@art
+clickLong(className='android.widget.TextView',instance='6')@askscience
+clickLong(className='android.widget.TextView',instance='4')@art
+clickLong(className='android.widget.TextView',instance='5')@askreddit
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Gallery mode
+click(content-desc='Open')@
+click(content-desc='Close')@
+clickLong(className='android.widget.TextView',instance='18')@diy
+click(className='android.widget.Button',instance='0')@No
+clickLong(content-desc='More options')@
+click(className='android.widget.Button',instance='0')@No
+click(className='android.widget.TextView',instance='7')@askreddit
+click(className='android.widget.Button',instance='0')@No
+click(resource-id='me.ccrama.redditslide:id/action_shadowbox')@
+click(className='android.widget.Button',instance='0')@No
+click(className='android.widget.Button',instance='1')@Yes
+back@
+clickLong(className='android.widget.TextView',instance='4')@all
+click(resource-id='me.ccrama.redditslide:id/action_sort')@
+click(className='android.widget.TextView',instance='1')@New
+click(content-desc='Open')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='12')@Settings
+click(className='android.widget.Button',instance='0')@No
+click(content-desc='Open')@
+click(className='android.widget.Button',instance='1')@Yes
+back@
+click(className='android.widget.TextView',instance='9')@Add an account
+click(className='android.widget.Button',instance='0')@No
+clickLong(className='android.widget.TextView',instance='5')@announcements
+click(className='android.widget.Button',instance='0')@No
+clickLong(className='android.widget.TextView',instance='6')@art
+back@
+click(content-desc='Open')@
+click(className='android.widget.TextView',instance='11')@Go to profile
+edit(resource-id='android:id/input')@Enter username
+click(className='android.widget.TextView',instance='2')@Go to user
+edit(resource-id='android:id/input')@12
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='17')@askreddit
+click(className='android.widget.TextView',instance='4')@art
+click(content-desc='Open')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='11')@Settings
+back@
+click(className='android.widget.ImageView',instance='6')@
+click(className='android.widget.Button',instance='0')@No
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+click(content-desc='Open')@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(content-desc='Open')@
+click(className='android.widget.Button',instance='1')@Yes
+back@
+click(className='android.widget.ImageView',instance='7')@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+clickLong(className='android.widget.TextView',instance='5')@announcements
+click(className='android.widget.Button',instance='1')@Yes
+back@
+clickLong(className='android.widget.TextView',instance='6')@art
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+click(content-desc='Open')@
+clickLong(className='android.widget.TextView',instance='16')@art
+back@
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.Button',instance='0')@No
+click(content-desc='Open')@
+click(className='android.widget.Button',instance='0')@No
+clickLong(className='android.widget.TextView',instance='5')@announcements
+click(className='android.widget.Button',instance='1')@Yes
+back@
+click(content-desc='Open')@
+click(content-desc='Close')@
+click(className='android.widget.TextView',instance='13')@Go to profile
+click(className='android.widget.TextView',instance='1')@Cancel
+clickLong(className='android.widget.TextView',instance='17')@announcements
+click(className='android.widget.Button',instance='1')@Yes
+back@
+click(className='android.widget.Button',instance='0')@OK
+back@
+click(className='android.widget.TextView',instance='15')@frontpage
+click(resource-id='me.ccrama.redditslide:id/post_floating_action_button')@
+clickLong(className='android.widget.TextView',instance='6')@art
+click(resource-id='me.ccrama.redditslide:id/action_sort')@
+click(className='android.widget.TextView',instance='2')@Rising
+click(content-desc='Open')@
+click(content-desc='Close')@
+clickLong(className='android.widget.TextView',instance='14')@aww
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(content-desc='Open')@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+back@
+click(content-desc='Open')@
+click(resource-id='me.ccrama.redditslide:id/godown_settings')@
+click(className='android.widget.ImageView',instance='6')@
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.ImageView',instance='3')@
+click(className='android.widget.TextView',instance='10')@Manage offline content
+back@
+click(className='android.widget.TextView',instance='4')@Depth of comments to cache

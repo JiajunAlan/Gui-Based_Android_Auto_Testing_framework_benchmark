@@ -1,0 +1,10 @@
+    4329@click(resource-id='dev.corruptedark.openchaoschess:id/bar_color_button'):android.widget.ImageButton@""
+    4332@back
+    4334@scroll(direction='up')
+    4325@click(resource-id='dev.corruptedark.openchaoschess:id/chess960_toggle'):android.widget.CheckBox@"Chess960 mode"
+    4322@click(resource-id='dev.corruptedark.openchaoschess:id/aggressive_computer_toggle'):android.widget.CheckBox@"Aggressive computer"
+    4328@click(resource-id='dev.corruptedark.openchaoschess:id/background_color_button'):android.widget.ImageButton@""
+    4336@click(className='android.widget.Button',instance='0'):android.widget.Button@"Select"
+    4319@click(content-desc='More options'):android.widget.ImageView@""
+    4426@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Import From File"
+    4318@click(content-desc='Navigate up'):android.widget.ImageButton@""

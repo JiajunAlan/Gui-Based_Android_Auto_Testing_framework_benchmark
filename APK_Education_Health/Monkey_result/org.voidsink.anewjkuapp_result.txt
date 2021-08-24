@@ -1,0 +1,233 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626386717026 count=1000
+:AllowPackage: org.voidsink.anewjkuapp
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.voidsink.anewjkuapp/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.voidsink.anewjkuapp/.activity.MainActivity } in package org.voidsink.anewjkuapp
+    // Rejecting start of Intent { act=android.settings.ADD_ACCOUNT_SETTINGS cmp=com.android.settings/.accounts.AddAccountSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(461.0,1672.0)
+:Sending Touch (ACTION_UP): 0:(478.61615,1640.2098)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.voidsink.anewjkuapp/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.voidsink.anewjkuapp/.activity.MainActivity } in package org.voidsink.anewjkuapp
+:Sending Touch (ACTION_DOWN): 0:(301.0,223.0)
+:Sending Touch (ACTION_UP): 0:(311.7112,227.08282)
+    // Rejecting start of Intent { act=android.settings.ADD_ACCOUNT_SETTINGS cmp=com.android.settings/.accounts.AddAccountSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(174.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(187.19052,1126.5215)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2021-08-04 00:10:55.348  system_uptime:5667589]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(166.0,786.0)
+:Sending Touch (ACTION_UP): 0:(163.96599,794.8645)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(644.6191,1685.2123)
+:Sending Touch (ACTION_DOWN): 0:(853.0,1446.0)
+:Sending Touch (ACTION_UP): 0:(829.2637,1493.2091)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,592.0)
+:Sending Touch (ACTION_UP): 0:(1002.3222,588.4611)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1711.0)
+    //[calendar_time:2021-08-04 00:11:04.697  system_uptime:5676921]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(332.26437,1789.0597)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(641.01556,1463.1375)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(49.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(44.068287,1241.9921)
+:Sending Touch (ACTION_DOWN): 0:(464.0,575.0)
+:Sending Touch (ACTION_UP): 0:(447.4731,566.84753)
+:Sending Touch (ACTION_DOWN): 0:(415.0,43.0)
+:Sending Touch (ACTION_UP): 0:(417.55295,59.1257)
+:Sending Touch (ACTION_DOWN): 0:(936.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(964.01416,1415.7303)
+:Sending Touch (ACTION_DOWN): 0:(964.0,828.0)
+:Sending Touch (ACTION_UP): 0:(964.1042,827.43256)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(133.59326,1095.5024)
+:Sending Touch (ACTION_DOWN): 0:(773.0,178.0)
+:Sending Touch (ACTION_UP): 0:(710.27374,232.25813)
+:Sending Touch (ACTION_DOWN): 0:(726.0,112.0)
+    //[calendar_time:2021-08-04 00:11:17.377  system_uptime:5689600]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(753.9984,128.08833)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(1041.0154,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(950.0,227.0)
+:Sending Touch (ACTION_UP): 0:(940.68066,225.02974)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1488.0)
+:Sending Touch (ACTION_UP): 0:(72.52144,1406.2877)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(936.96423,1043.0643)
+:Sending Touch (ACTION_DOWN): 0:(157.0,708.0)
+:Sending Touch (ACTION_UP): 0:(131.78094,724.9046)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(251.0,176.0)
+:Sending Touch (ACTION_UP): 0:(252.3208,175.22112)
+:Sending Touch (ACTION_DOWN): 0:(154.0,106.0)
+:Sending Touch (ACTION_UP): 0:(156.85083,108.10831)
+:Sending Touch (ACTION_DOWN): 0:(419.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(420.09872,1098.7964)
+:Sending Touch (ACTION_DOWN): 0:(660.0,450.0)
+:Sending Touch (ACTION_UP): 0:(647.7542,452.41742)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(144.0,946.0)
+:Sending Touch (ACTION_UP): 0:(154.04488,933.8565)
+:Sending Touch (ACTION_DOWN): 0:(244.0,534.0)
+:Sending Touch (ACTION_UP): 0:(235.60504,535.9903)
+    //[calendar_time:2021-08-04 00:11:29.508  system_uptime:5701731]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(84.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(81.8817,1760.7095)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.voidsink.anewjkuapp/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.voidsink.anewjkuapp/.activity.MainActivity } in package org.voidsink.anewjkuapp
+:Sending Touch (ACTION_DOWN): 0:(206.0,962.0)
+:Sending Touch (ACTION_UP): 0:(205.05348,964.6078)
+:Sending Touch (ACTION_DOWN): 0:(737.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(740.8039,1707.3767)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(678.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(683.18256,1538.0326)
+:Sending Touch (ACTION_DOWN): 0:(481.0,351.0)
+:Sending Touch (ACTION_UP): 0:(479.10928,351.02805)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(769.0,144.0)
+:Sending Touch (ACTION_UP): 0:(828.30786,103.17639)
+:Sending Touch (ACTION_DOWN): 0:(145.0,1651.0)
+:Sending Touch (ACTION_UP): 0:(141.95476,1651.0421)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(230.08131,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2021-08-04 00:11:43.864  system_uptime:5716087]
+    // Sending event #500
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,197.0)
+:Sending Touch (ACTION_UP): 0:(326.08002,193.99883)
+    // Rejecting start of Intent { act=android.settings.ADD_ACCOUNT_SETTINGS cmp=com.android.settings/.accounts.AddAccountSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(367.0,886.0)
+:Sending Touch (ACTION_UP): 0:(350.0396,939.3793)
+:Sending Touch (ACTION_DOWN): 0:(430.0,791.0)
+:Sending Touch (ACTION_UP): 0:(504.98618,721.3271)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(228.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(228.42754,1438.5452)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2021-08-04 00:11:50.634  system_uptime:5722857]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1075.0,764.0)
+:Sending Touch (ACTION_UP): 0:(1060.6383,771.1633)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(873.0,592.0)
+:Sending Touch (ACTION_UP): 0:(796.28735,686.14526)
+:Sending Touch (ACTION_DOWN): 0:(964.0,78.0)
+:Sending Touch (ACTION_UP): 0:(1001.41406,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(222.6497,1773.4951)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(986.0,315.0)
+:Sending Touch (ACTION_UP): 0:(990.6578,312.77997)
+    //[calendar_time:2021-08-04 00:12:01.324  system_uptime:5733547]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(130.0,1651.0)
+:Sending Touch (ACTION_UP): 0:(116.0738,1653.5692)
+:Sending Touch (ACTION_DOWN): 0:(234.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(230.26422,1627.0242)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,754.0)
+:Sending Touch (ACTION_UP): 0:(229.84969,775.4186)
+:Sending Touch (ACTION_DOWN): 0:(73.0,288.0)
+:Sending Touch (ACTION_UP): 0:(71.20154,289.59344)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.voidsink.anewjkuapp/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.voidsink.anewjkuapp/.activity.MainActivity } in package org.voidsink.anewjkuapp
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://oeh.jku.at/ cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2021-08-04 00:12:13.026  system_uptime:5745249]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(1070.0,662.0)
+:Sending Touch (ACTION_UP): 0:(1070.474,661.51154)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,163.0)
+:Sending Touch (ACTION_UP): 0:(378.1156,172.10039)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(296.07022,1190.658)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(768.41187,1524.4977)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(389.0,211.0)
+:Sending Touch (ACTION_UP): 0:(388.63428,214.55244)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 00:12:22.220  system_uptime:5754444]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(1012.0,45.0)
+:Sending Touch (ACTION_UP): 0:(934.3034,81.90562)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.voidsink.anewjkuapp/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.voidsink.anewjkuapp/.activity.MainActivity } in package org.voidsink.anewjkuapp
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(293.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(298.5068,1759.6971)
+    // Allowing start of Intent { cmp=org.voidsink.anewjkuapp/.activity.SettingsActivity } in package org.voidsink.anewjkuapp
+:Sending Touch (ACTION_DOWN): 0:(432.0,992.0)
+:Sending Touch (ACTION_UP): 0:(430.0777,991.54346)
+:Sending Touch (ACTION_DOWN): 0:(466.0,231.0)
+:Sending Touch (ACTION_UP): 0:(561.76965,335.59274)
+:Sending Touch (ACTION_DOWN): 0:(282.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(291.93677,1306.7323)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(872.0,385.0)
+:Sending Touch (ACTION_UP): 0:(869.44775,386.69504)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(472.09528,1738.1389)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,777.0)
+:Sending Touch (ACTION_UP): 0:(364.0288,778.68774)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=110123ms (0ms mobile, 0ms wifi, 110123ms not connected)
+// Monkey finished

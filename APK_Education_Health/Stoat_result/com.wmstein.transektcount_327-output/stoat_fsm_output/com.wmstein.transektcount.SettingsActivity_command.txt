@@ -1,0 +1,18 @@
+    62@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    63@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Background"
+    64@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Choose default or no background image."
+    65@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    66@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Sorting"
+    67@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Sort order of your section list."
+    68@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    69@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Sorting"
+    70@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Sort order of your species list."
+    71@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    72@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Note font"
+    73@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Select this option to increase the notes font size on the counting screen."
+    74@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    75@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Lefties"
+    76@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Show left-hander counting view."
+    83@back
+    84@scroll(direction='down')
+    85@scroll(direction='up')

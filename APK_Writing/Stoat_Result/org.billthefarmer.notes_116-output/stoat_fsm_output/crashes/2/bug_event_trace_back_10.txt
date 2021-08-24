@@ -1,0 +1,10 @@
+click(resource-id='org.billthefarmer.notes:id/accept')@
+click(resource-id='org.billthefarmer.notes:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit styles…
+edit(resource-id='org.billthefarmer.notes:id/text')@
+edit(resource-id='org.billthefarmer.notes:id/text')@12
+edit(resource-id='org.billthefarmer.notes:id/text')@1test
+edit(resource-id='org.billthefarmer.notes:id/text')@12est
+clickLong(resource-id='org.billthefarmer.notes:id/accept')@
+click(className='android.widget.TextView',instance='0')@styles.css

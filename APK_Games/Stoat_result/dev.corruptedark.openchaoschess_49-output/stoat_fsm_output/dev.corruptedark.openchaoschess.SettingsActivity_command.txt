@@ -1,0 +1,17 @@
+    4318@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    4319@click(content-desc='More options'):android.widget.ImageView@""
+    4320@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4321@click(resource-id='dev.corruptedark.openchaoschess:id/bloodthirst_default_toggle'):android.widget.CheckBox@"Bloodthirsty by default"
+    4322@click(resource-id='dev.corruptedark.openchaoschess:id/aggressive_computer_toggle'):android.widget.CheckBox@"Aggressive computer"
+    4323@click(resource-id='dev.corruptedark.openchaoschess:id/smartComputer_toggle'):android.widget.CheckBox@"Smart computer"
+    4324@click(resource-id='dev.corruptedark.openchaoschess:id/handicap_toggle'):android.widget.CheckBox@"Enable handicap"
+    4325@click(resource-id='dev.corruptedark.openchaoschess:id/chess960_toggle'):android.widget.CheckBox@"Chess960 mode"
+    4326@click(resource-id='dev.corruptedark.openchaoschess:id/queensAttack_toggle'):android.widget.CheckBox@"Queens attack"
+    4327@click(resource-id='dev.corruptedark.openchaoschess:id/move_second_toggle'):android.widget.CheckBox@"Move second (Solo)"
+    4328@click(resource-id='dev.corruptedark.openchaoschess:id/background_color_button'):android.widget.ImageButton@""
+    4329@click(resource-id='dev.corruptedark.openchaoschess:id/bar_color_button'):android.widget.ImageButton@""
+    4330@click(className='android.widget.Button',instance='0'):android.widget.Button@"Set to defaults"
+    4331@click(className='android.widget.Button',instance='1'):android.widget.Button@"Save Colors"
+    4332@back
+    4333@scroll(direction='down')
+    4334@scroll(direction='up')

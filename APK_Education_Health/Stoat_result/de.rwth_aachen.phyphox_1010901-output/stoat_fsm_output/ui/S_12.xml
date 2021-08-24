@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,751][1053,1109]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,1067]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,1067]">
+        <node index="0" text="" resource-id="de.rwth_aachen.phyphox:id/action_bar_root" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,1067]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,1067]">
+            <node index="0" text="" resource-id="de.rwth_aachen.phyphox:id/parentPanel" class="androidx.appcompat.widget.LinearLayoutCompat" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,1067]">
+              <node index="0" text="" resource-id="de.rwth_aachen.phyphox:id/contentPanel" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,919]">
+                <node index="0" text="" resource-id="de.rwth_aachen.phyphox:id/scrollView" class="android.widget.FrameLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,897]">
+                  <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,897]">
+                    <node index="0" text="" resource-id="de.rwth_aachen.phyphox:id/textSpacerNoTitle" class="android.view.View" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,793][1011,840]" />
+                    <node index="1" text="Clear recorded data?" resource-id="android:id/message" class="android.widget.TextView" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,840][1011,897]" />
+                  </node>
+                </node>
+              </node>
+              <node index="1" text="" resource-id="de.rwth_aachen.phyphox:id/buttonPanel" class="android.widget.ScrollView" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,919][1011,1067]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,919][1011,1067]">
+                  <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[451,930][672,1056]" />
+                  <node index="1" text="Clear data" resource-id="android:id/button1" class="android.widget.Button" package="de.rwth_aachen.phyphox" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[672,930][979,1056]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

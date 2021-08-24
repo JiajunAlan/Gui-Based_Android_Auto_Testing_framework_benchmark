@@ -1,0 +1,202 @@
+    16178@menu
+    16182@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"About"
+    16189@clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"- github/ojacquemart"
+    30@keyevent_back
+    16185@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16170@click(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16176@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    16171@clickLong(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16179@back
+    30@keyevent_back
+    31@reset
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16181@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Update stations list"
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16287@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Update done!"
+    16178@menu
+    16180@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    16325@scroll(direction='down')
+    16319@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Use GPS to locate your position"
+    16322@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"0 stations"
+    16323@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Last update: never"
+    16315@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Id"
+    16321@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Within 500m"
+    16324@back
+    16320@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Stations around me"
+    16398@click(className='android.widget.Button',instance='1'):android.widget.Button@"Ok"
+    16326@scroll(direction='up')
+    16316@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Address"
+    16318@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"GPS provider"
+    16317@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Update time"
+    16314@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16510@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"No location available"
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16215@click(resource-id='com.vlille.checker:id/list_search_field_clear'):android.widget.ImageButton@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16552@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"test"
+    16563@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12st"
+    16170@click(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16552@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"test"
+    16227@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16179@back
+    30@keyevent_back
+    31@reset
+    16177@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16176@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16171@clickLong(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16182@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"About"
+    16186@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"- twitter/ojacquemart"
+    30@keyevent_back
+    16188@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"- github/ojacquemart"
+    30@keyevent_back
+    16190@back
+    16178@menu
+    16180@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    16321@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Within 500m"
+    16397@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    16325@scroll(direction='down')
+    16337@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"4.5.0"
+    16314@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16176@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    16170@click(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16238@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16171@clickLong(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16845@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12"
+    16856@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"1test"
+    16867@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12est"
+    16878@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"testt"
+    16215@click(resource-id='com.vlille.checker:id/list_search_field_clear'):android.widget.ImageButton@""
+    16902@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"No result"
+    16179@back
+    30@keyevent_back
+    31@reset
+    16177@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16178@menu
+    16181@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Update stations list"
+    16287@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Update done!"
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16182@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"About"
+    16187@clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"- twitter/ojacquemart"
+    30@keyevent_back
+    16186@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"- twitter/ojacquemart"
+    30@keyevent_back
+    16190@back
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16178@menu
+    16181@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Update stations list"
+    16287@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Update done!"
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16171@clickLong(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16180@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    16324@back
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16170@click(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16238@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16552@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"test"
+    16563@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12st"
+    16215@click(resource-id='com.vlille.checker:id/list_search_field_clear'):android.widget.ImageButton@""
+    16902@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"No result"
+    16176@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16179@back
+    30@keyevent_back
+    31@reset
+    16177@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16178@menu
+    16180@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    16320@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Stations around me"
+    16397@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    16319@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Use GPS to locate your position"
+    16315@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Id"
+    16326@scroll(direction='up')
+    16317@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Update time"
+    16316@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Address"
+    16322@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"0 stations"
+    16323@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Last update: never"
+    16318@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"GPS provider"
+    16326@scroll(direction='up')
+    16324@back
+    16170@click(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16181@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Update stations list"
+    16177@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16287@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Update done!"
+    16171@clickLong(resource-id='com.vlille.checker:id/main_menu_refresh'):android.widget.TextView@""
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16227@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Initialization error. Retry with the "refresh button""
+    16215@click(resource-id='com.vlille.checker:id/list_search_field_clear'):android.widget.ImageButton@""
+    16178@menu
+    16182@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"About"
+    16189@clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"- github/ojacquemart"
+    30@keyevent_back
+    16185@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16176@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16552@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"test"
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16179@back
+    30@keyevent_back
+    31@reset
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16178@menu
+    16181@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Update stations list"
+    17601@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Update done!"
+    16237@click(resource-id='com.vlille.checker:id/maps_location_enable'):android.widget.ImageButton@""
+    16174@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    16215@click(resource-id='com.vlille.checker:id/list_search_field_clear'):android.widget.ImageButton@""
+    16214@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@""
+    16845@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12"
+    16845@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12"
+    16856@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"1test"
+    16878@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"testt"
+    16878@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"testt"
+    17708@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12stt"
+    17708@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12stt"
+    17708@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12stt"
+    16878@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"testt"
+    17708@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12stt"
+    16172@click(content-desc='More options'):android.widget.ImageView@""
+    16182@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"About"
+    16187@clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"- twitter/ojacquemart"
+    30@keyevent_back
+    16188@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"- github/ojacquemart"
+    30@keyevent_back
+    16188@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"- github/ojacquemart"
+    30@keyevent_back
+    16186@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"- twitter/ojacquemart"
+    30@keyevent_back
+    16185@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    17708@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"12stt"
+    16878@edit(resource-id='com.vlille.checker:id/list_search_field'):android.widget.EditText@"testt"
+    16175@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    16173@clickLong(content-desc='More options'):android.widget.ImageView@""
+    16180@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    16320@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Stations around me"
+    16398@click(className='android.widget.Button',instance='1'):android.widget.Button@"Ok"
+    16315@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Id"
+    16317@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Update time"
+    16319@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Use GPS to locate your position"
+    16316@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Address"
+    16321@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Within 500m"
+    16398@click(className='android.widget.Button',instance='1'):android.widget.Button@"Ok"
+    16323@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Last update: never"
+    16314@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16179@back
+    30@keyevent_back
+    31@reset

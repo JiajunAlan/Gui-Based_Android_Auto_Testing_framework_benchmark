@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,66][1059,1794]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,66][1059,260]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[84,87][996,255]">
+              <node index="0" text="App Info" resource-id="android:id/alertTitle" class="android.widget.TextView" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[84,132][996,210]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,255][1038,260]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/customPanel" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,260][1059,1644]">
+            <node index="0" text="" resource-id="android:id/custom" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,260][1038,1644]" />
+          </node>
+          <node index="2" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,1644][1059,1794]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,1647][1038,1773]">
+              <node index="0" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,1647][1038,1773]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

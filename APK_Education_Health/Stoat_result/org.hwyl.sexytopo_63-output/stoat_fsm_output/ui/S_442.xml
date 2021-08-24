@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1271]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1271]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,588][1053,1271]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,588][1032,1271]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,588][1032,782]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,609][969,777]">
+              <node index="0" text="Open Survey" resource-id="android:id/alertTitle" class="android.widget.TextView" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,654][969,732]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,777][1011,782]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,782][1032,1121]">
+            <node index="0" text="" resource-id="android:id/select_dialog_listview" class="android.widget.ListView" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,782][1011,1121]">
+              <node index="0" text="NewSurvey" resource-id="android:id/text1" class="android.widget.TextView" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,782][1011,950]" />
+              <node index="1" text="NewSurvey-1" resource-id="android:id/text1" class="android.widget.TextView" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,953][1011,1121]" />
+            </node>
+          </node>
+          <node index="2" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,1121][1032,1271]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1124][1011,1250]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="org.hwyl.sexytopo" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1124][1011,1250]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

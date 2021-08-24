@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="1">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1810,1080]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1810,1080]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1810,1080]">
+        <node index="0" text="" resource-id="freemap.hikar:id/decor_content_parent" class="android.view.View" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1810,1080]">
+          <node index="0" text="" resource-id="freemap.hikar:id/action_bar_container" class="android.widget.FrameLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1810,192]">
+            <node index="0" text="" resource-id="freemap.hikar:id/action_bar" class="android.view.View" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1810,192]">
+              <node index="0" text="Hikar" resource-id="" class="android.widget.TextView" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[42,103][129,154]" />
+              <node index="1" text="" resource-id="" class="androidx.appcompat.widget.LinearLayoutCompat" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[1663,66][1810,192]">
+                <node index="0" text="" resource-id="freemap.hikar:id/locationPickerSearch" class="android.widget.SearchView" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[1663,76][1810,181]">
+                  <node index="0" text="" resource-id="android:id/search_bar" class="android.widget.LinearLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[1663,76][1810,181]">
+                    <node index="0" text="" resource-id="android:id/search_button" class="android.widget.ImageView" package="freemap.hikar" content-desc="Search" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[1663,76][1810,181]" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,192][1810,1080]">
+            <node index="0" text="" resource-id="" class="android.view.View" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,192][1810,1080]">
+              <node index="0" text="" resource-id="freemap.hikar:id/poiListView" class="androidx.recyclerview.widget.RecyclerView" package="freemap.hikar" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,192][1810,1080]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

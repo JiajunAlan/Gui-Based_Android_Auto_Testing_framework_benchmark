@@ -1,0 +1,75 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 9920): FATAL EXCEPTION: main
+E/AndroidRuntime( 9920): Process: org.traffxml.roadeagle, PID: 9920
+E/AndroidRuntime( 9920): java.lang.RuntimeException: Unable to create application org.traffxml.roadeagle.android.core.RoadEagleApplication: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime( 9920): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4347)
+E/AndroidRuntime( 9920): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime( 9920): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime( 9920): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 9920): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 9920): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 9920): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 9920): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 9920): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 9920): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 9920): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 9920): Caused by: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime( 9920): 	at java.text.SimpleDateFormat.validatePatternCharacter(SimpleDateFormat.java:314)
+E/AndroidRuntime( 9920): 	at java.text.SimpleDateFormat.validatePattern(SimpleDateFormat.java:296)
+E/AndroidRuntime( 9920): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:356)
+E/AndroidRuntime( 9920): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:249)
+E/AndroidRuntime( 9920): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.startLog(RoadEagleApplication.java:122)
+E/AndroidRuntime( 9920): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.onCreate(RoadEagleApplication.java:63)
+E/AndroidRuntime( 9920): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime( 9920): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime( 9920): 	... 10 more
+E/WindowManager( 1567): Starting window AppWindowToken{9d223d00 token=Token{9d86f890 ActivityRecord{9d2239e8 u0 org.traffxml.roadeagle/.android.ui.MainActivity t429}}} timed out
+E/ActivityManager( 1567): ANR in com.android.systemui
+E/ActivityManager( 1567): PID: 1651
+E/ActivityManager( 1567): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1567): Load: 0.09 / 0.1 / 0.12
+E/ActivityManager( 1567): CPU usage from 10814ms to 0ms ago:
+E/ActivityManager( 1567):   0% 1567/system_server: 0% user + 0% kernel / faults: 1 minor
+E/ActivityManager( 1567):   0% 8167/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1567):   0% 8320/kworker/0:2: 0% user + 0% kernel
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): CPU usage from 1015ms to 1519ms later:
+E/ActivityManager( 1567):   2% 1567/system_server: 0% user + 2% kernel / faults: 1 minor
+E/ActivityManager( 1567):   1.9% 8167/com.github.uiautomator: 1.9% user + 0% kernel
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): ANR in com.android.launcher
+E/ActivityManager( 1567): PID: 1946
+E/ActivityManager( 1567): Reason: Broadcast of Intent { act=android.intent.action.TIME_TICK flg=0x50000014 (has extras) }
+E/ActivityManager( 1567): Load: 0.07 / 0.1 / 0.11
+E/ActivityManager( 1567): CPU usage from 10010ms to 0ms ago:
+E/ActivityManager( 1567):   0.3% 1144/surfaceflinger: 0% user + 0.3% kernel
+E/ActivityManager( 1567):   0.3% 1567/system_server: 0.2% user + 0% kernel / faults: 23 minor
+E/ActivityManager( 1567):   0.1% 8167/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1567):   0% 8/rcu_preempt: 0% user + 0% kernel
+E/ActivityManager( 1567):   0% 1154/adbd: 0% user + 0% kernel / faults: 23 minor
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): CPU usage from 1073ms to 1577ms later:
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1567): PID: 1776
+E/ActivityManager( 1567): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1567): Load: 0.06 / 0.09 / 0.11
+E/ActivityManager( 1567): CPU usage from 11661ms to 1651ms ago:
+E/ActivityManager( 1567):   0.3% 1144/surfaceflinger: 0% user + 0.3% kernel
+E/ActivityManager( 1567):   0.3% 1567/system_server: 0.2% user + 0% kernel / faults: 23 minor
+E/ActivityManager( 1567):   0.1% 8167/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1567):   0% 8/rcu_preempt: 0% user + 0% kernel
+E/ActivityManager( 1567):   0% 1154/adbd: 0% user + 0% kernel / faults: 23 minor
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): CPU usage from 894ms to 1398ms later:
+E/ActivityManager( 1567):   1.8% 3/ksoftirqd/0: 0% user + 1.8% kernel
+E/ActivityManager( 1567): 1.9% TOTAL: 0.9% user + 0.9% kernel
+***********
+package name: org.traffxml.roadeagle
+app code version: 1.0.5
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+No process found for: org.traffxml.roadeagle
+***********

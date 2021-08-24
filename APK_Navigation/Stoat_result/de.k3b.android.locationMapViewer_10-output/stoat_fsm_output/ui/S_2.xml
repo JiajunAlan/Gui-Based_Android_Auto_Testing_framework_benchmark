@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="de.k3b.android.locationMapViewer" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[392,171][1080,339]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="de.k3b.android.locationMapViewer" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[413,192][1059,318]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="de.k3b.android.locationMapViewer" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[413,192][1059,318]">
+        <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="de.k3b.android.locationMapViewer" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[455,223][1017,286]">
+          <node index="0" text="About LocationMapViewer" resource-id="android:id/title" class="android.widget.TextView" package="de.k3b.android.locationMapViewer" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[455,223][1017,286]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

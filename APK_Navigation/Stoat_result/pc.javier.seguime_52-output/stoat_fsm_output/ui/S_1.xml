@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="pc.javier.seguime:id/decor_content_parent" class="android.view.View" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="pc.javier.seguime:id/action_bar_container" class="android.widget.FrameLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+            <node index="0" text="" resource-id="pc.javier.seguime:id/action_bar" class="android.view.View" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+              <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="pc.javier.seguime" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][147,213]" />
+              <node index="1" text="Seguime" resource-id="" class="android.widget.TextView" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,104][396,175]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.view.View" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+              <node index="0" text="" resource-id="pc.javier.seguime:id/presentacion_contenido" class="android.widget.ViewAnimator" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,385][1080,1623]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[79,509][1001,1498]">
+                  <node index="0" text="" resource-id="" class="android.widget.ImageView" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[79,509][1001,1340]" />
+                  <node index="1" text="Find your device" resource-id="" class="android.widget.TextView" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[221,1340][858,1498]" />
+                </node>
+              </node>
+              <node NAF="true" index="1" text="" resource-id="pc.javier.seguime:id/presentacion_boton_anterior" class="android.widget.ImageView" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,938][131,1069]" />
+              <node NAF="true" index="2" text="" resource-id="pc.javier.seguime:id/presentacion_boton_siguiente" class="android.widget.ImageView" package="pc.javier.seguime" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[949,938][1080,1069]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

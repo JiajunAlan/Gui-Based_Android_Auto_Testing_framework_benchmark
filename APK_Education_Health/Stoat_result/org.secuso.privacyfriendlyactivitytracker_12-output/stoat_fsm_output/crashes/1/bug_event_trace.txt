@@ -1,0 +1,69 @@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+scroll(direction='up')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+clickLong(className='android.widget.TextView',instance='2')@Month
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(className='android.widget.TextView',instance='2')@Month
+clickLong(className='android.widget.TextView',instance='1')@Week
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(className='android.widget.TextView',instance='3')@August 21
+edit(resource-id='android:id/numberpicker_input')@2021
+click(className='android.widget.Button',instance='0')@Jul
+scroll(direction='down')@
+edit(resource-id='android:id/numberpicker_input')@17
+click(className='android.widget.Button',instance='1')@16
+click(className='android.widget.Button',instance='1')@18
+edit(resource-id='android:id/numberpicker_input')@Aug
+keyevent_back@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='3')@17. August
+click(className='android.widget.Button',instance='2')@16
+clickLong(className='android.widget.Button',instance='1')@18
+scroll(direction='up')@
+click(className='android.widget.Button',instance='2')@Done
+clickLong(className='android.widget.TextView',instance='0')@Day
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn')@
+click(className='android.widget.TextView',instance='1')@Week
+click(content-desc='Open navigation drawer')@
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='2')@Distance Measurement
+click(content-desc='More options')@
+back@
+clickLong(content-desc='More options')@
+click(content-desc='Navigate up')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(className='android.widget.TextView',instance='3')@17. August
+clickLong(className='android.widget.Button',instance='0')@Jul
+clickLong(className='android.widget.Button',instance='0')@Sep
+clickLong(className='android.widget.Button',instance='1')@16
+edit(resource-id='android:id/numberpicker_input')@17
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='1')@Running
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='1')@Week
+click(className='android.widget.CheckedTextView',instance='0')@Pedometer
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Distance Measurement
+click(className='android.widget.Button',instance='0')@Start distance measurement
+click(className='android.widget.Button',instance='0')@Stop distance measurement
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Walking
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='3')@17. August
+click(className='android.widget.Button',instance='1')@Sep
+scroll(direction='up')@
+click(className='android.widget.Button',instance='0')@Sep
+edit(resource-id='android:id/numberpicker_input')@2021
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(content-desc='Open navigation drawer')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/next_btn')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

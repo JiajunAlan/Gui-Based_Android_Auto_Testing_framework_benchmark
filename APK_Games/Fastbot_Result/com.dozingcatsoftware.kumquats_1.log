@@ -1,0 +1,1515 @@
+▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀
+▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░▌
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌     ▐░▌
+▐░▌          ▐░▌       ▐░▌          ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌
+▐░▌          ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌
+▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌     ▐░▌
+ ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀       ▀
+[1629391842823]  @Version : 2.2.1.0304.2039_git
+[1629391842842] // Monkey : seed=1629561050704 count=1000
+
+
+[1629391842842] // Valid Package: com.dozingcatsoftware.kumquats
+[1629391842842] // IncludeCategory : android.intent.category.LAUNCHER
+[1629391842842] // IncludeCategory : android.intent.category.MONKEY
+[1629391842848] // Selecting main activities from category android.intent.category.LAUNCHER
+[1629391842848] //   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+[1629391842848] //   - NOT USING main activity com.android.dialer.DialtactsActivity (from package com.android.dialer)
+[1629391842848] //   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+[1629391842848] //   - NOT USING main activity com.google.android.gms.app.settings.GoogleSettingsActivity (from package com.google.android.gms)
+[1629391842848] //   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+[1629391842848] //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+[1629391842849] //   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.google.android.calendar)
+[1629391842849] //   - NOT USING main activity com.android.deskclock.DeskClock (from package com.android.deskclock)
+[1629391842849] //   - NOT USING main activity com.android.camera.GalleryPicker (from package com.android.gallery)
+[1629391842849] //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+[1629391842849] //   - NOT USING main activity com.android.music.MusicBrowserActivity (from package com.android.music)
+[1629391842849] //   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+[1629391842849] //   - NOT USING main activity com.android.widgetpreview.WidgetPreviewActivity (from package com.android.widgetpreview)
+[1629391842849] //   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+[1629391842849] //   - NOT USING main activity com.android.customlocale2.CustomLocaleActivity (from package com.android.customlocale2)
+[1629391842849] //   - NOT USING main activity com.android.development.Development (from package com.android.development)
+[1629391842849] //   - NOT USING main activity android.app.AliasActivity (from package com.android.development_settings)
+[1629391842849] //   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+[1629391842849] //   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+[1629391842849] //   - NOT USING main activity com.google.android.gms.games.ui.destination.main.MainActivity (from package com.google.android.play.games)
+[1629391842849] //   - NOT USING main activity com.android.quicksearchbox.SearchActivity (from package com.android.quicksearchbox)
+[1629391842849] //   - NOT USING main activity com.android.speechrecorder.SpeechRecorderActivity (from package com.android.speechrecorder)
+[1629391842850] //   - NOT USING main activity com.DartChecker.MainActivity (from package com.DartChecker)
+[1629391842850] //   + Using main activity com.dozingcatsoftware.wordgrid.MainActivity (from package com.dozingcatsoftware.kumquats)
+[1629391842852] // Selecting main activities from category android.intent.category.MONKEY
+[1629391842852] //   - NOT USING main activity com.android.launcher2.Launcher (from package com.android.launcher)
+[1629391842852] //   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+[1629391842852] //   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+[1629391842852] //   - NOT USING main activity com.google.android.street.Street (from package com.google.android.street)
+[1629391845865] // Special Event:
+[1629391845866] // Black Widget:
+[1629391845881]
+
+[1629391845882] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629391845883] fastbot exec shell:
+[1629391845888] fastbot exec schema:
+[1629391845888] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629391845889]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629391845921] Sleep for 0 ms
+[1629391845930] : debug, currentActivity is com.dozingcatsoftware.wordgrid.MainActivity
+[1629391845931] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 7893) (elapsed nanos  : 6116246518087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 7919) (elapsed nanos  : 6116385167087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 7949) (elapsed nanos  : 6116544515087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_50_47.933_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_50_47.933_.txt status was 0
+Logcat_20210819125046.log:
+[WARNING] // Logcat_20210819125046.log status was 0
+[1629391869513] Encounter abort but we are in continuous mode.
+[1629391869513] Sleep for 0 ms
+[1629391869514] :schema :
+[1629391869515] Sleep for 0 ms
+[1629391869515] Sleep for 2000 ms
+[1629391871517] Sleep for 0 ms
+[1629391871517] Sleep for 500 ms
+[1629391872020] Sleep for 0 ms
+[1629391872021] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629391872029] :Sending rotation degree : 1, persist : false
+[1629391872059] Sleep for 0 ms
+[1629391872059] Sleep for 171 ms
+[1629391872234] Sleep for 0 ms
+[1629391872240] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629391872245] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629391872247] Sleep for 0 ms
+[1629391872248] Sleep for 107 ms
+[1629391872358] Sleep for 0 ms
+[1629391872359] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629391872362] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629391872367] Sleep for 0 ms
+[1629391872367] Sleep for 199 ms
+[1629391872567] Sleep for 0 ms
+[1629391872568] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391872571] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391872573] Sleep for 0 ms
+[1629391872573] Sleep for 236 ms
+[1629391872812] Sleep for 0 ms
+[1629391872814] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391872816] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391872819] Sleep for 0 ms
+[1629391872820] Sleep for 101 ms
+[1629391872924] Sleep for 0 ms
+[1629391872924] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391872926] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391872940] Sleep for 0 ms
+[1629391872941] Sleep for 285 ms
+[1629391873228] Sleep for 0 ms
+[1629391873229] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391873233] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391873254]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.widgetpreview/.WidgetPreviewActivity } in package com.android.widgetpreview
+[1629391873258] Sleep for 0 ms
+[1629391873259] Sleep for 280 ms
+[1629391873541] Sleep for 0 ms
+[1629391873542] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391873545] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391873547] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391873548] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391873549] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391873551] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391873553] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391873554] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391873555] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391873556] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391873558] Sleep for 256 ms
+[1629391873816] Sleep for 0 ms
+[1629391873817] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629391873822] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629391873830] Sleep for 0 ms
+[1629391873831] Sleep for 297 ms
+[1629391874129] Sleep for 0 ms
+[1629391874130] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629391874132] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629391874135] Sleep for 0 ms
+[1629391874137] Sleep for 500 ms
+[1629391874638] Sleep for 0 ms
+[1629391874639] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629391874642] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629391874647] Sleep for 0 ms
+[1629391874648] Sleep for 238 ms
+[1629391874888] Sleep for 0 ms
+[1629391874889] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391874891] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391874894] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391874896] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391874897] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391874899] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391874903] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391874905] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391874907] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391874910] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391874912] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629391874914] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629391874915] Sleep for 0 ms
+[1629391874916] Sleep for 135 ms
+[1629391874956]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629391875053] Sleep for 0 ms
+[1629391875055] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391875059] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391875061] Sleep for 0 ms
+[1629391875062] Sleep for 113 ms
+[1629391875177] Sleep for 0 ms
+[1629391875178] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391875181] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391875182] Sleep for 0 ms
+[1629391875183] Sleep for 176 ms
+[1629391875361] Sleep for 0 ms
+[1629391875362] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391875365] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391875370] Sleep for 0 ms
+[1629391875370] Sleep for 101 ms
+[1629391875474] Sleep for 0 ms
+[1629391875475] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391875478] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391875480] Sleep for 0 ms
+[1629391875481] Sleep for 137 ms
+[1629391875621] Sleep for 0 ms
+[1629391875622] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391875625] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391875628] Sleep for 0 ms
+[1629391875628] Sleep for 198 ms
+[1629391875830] Sleep for 0 ms
+[1629391875830] :Send Key (ACTION_DOWN): 219    // KEYCODE_ASSIST
+[1629391875834] :Send Key (ACTION_UP): 219    // KEYCODE_ASSIST
+[1629391875839] Sleep for 0 ms
+[1629391875840] Sleep for 274 ms
+[1629391876117] Sleep for 0 ms
+[1629391876118] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629391876121] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629391876124] Sleep for 0 ms
+[1629391876125] Sleep for 500 ms
+[1629391876628] Sleep for 0 ms
+[1629391876629] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629391876632] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629391876638] Sleep for 0 ms
+[1629391876639] Sleep for 210 ms
+[1629391876851] Sleep for 0 ms
+[1629391876852] :Sending Touch (ACTION_DOWN): 0:(976.0,1128.0)
+[1629391876856] :Sending Touch (ACTION_MOVE): 0:(964.2142,1125.5604)
+[1629391876858] Waiting Event for 28 milliseconds
+[1629391876887] Sleep for 0 ms
+[1629391876891] :Sending Touch (ACTION_MOVE): 0:(953.36127,1122.6465)
+[1629391876892] Waiting Event for 28 milliseconds
+[1629391876921] Sleep for 0 ms
+[1629391876923] :Sending Touch (ACTION_MOVE): 0:(942.68225,1120.0818)
+[1629391876927] Waiting Event for 28 milliseconds
+[1629391876957] Sleep for 0 ms
+[1629391876959] :Sending Touch (ACTION_MOVE): 0:(942.4352,1117.2262)
+[1629391876961] Waiting Event for 28 milliseconds
+[1629391876991] Sleep for 0 ms
+[1629391876994] :Sending Touch (ACTION_MOVE): 0:(937.89484,1110.5223)
+[1629391876995] Waiting Event for 28 milliseconds
+[1629391877025] Sleep for 0 ms
+[1629391877026] :Sending Touch (ACTION_UP): 0:(936.60657,1104.4797)
+[1629391877027] Sleep for 0 ms
+[1629391877028] Sleep for 252 ms
+[1629391877283] Sleep for 0 ms
+[1629391877284] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391877287] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391877288] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391877289] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391877291] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391877292] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391877294] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391877295] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391877296] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391877298] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391877299] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629391877300] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629391877301] Sleep for 0 ms
+[1629391877302] Sleep for 108 ms
+[1629391877412] Sleep for 0 ms
+[1629391877413] :Sending rotation degree : 0, persist : true
+[1629391877433] Sleep for 0 ms
+[1629391877434] Sleep for 106 ms
+[1629391877542] Sleep for 0 ms
+[1629391877542] Sleep for 0 ms
+[1629391877544] Sleep for 0 ms
+[1629391877544] :Sending rotation degree : 0, persist : false
+[1629391877560] Sleep for 0 ms
+[1629391877560] Sleep for 500 ms
+[1629391878063] Sleep for 0 ms
+[1629391878063] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629391878064] fastbot exec shell:
+[1629391878067] fastbot exec schema:
+[1629391878067] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629391878069]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629391878072] Sleep for 0 ms
+[1629391878073] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8307) (elapsed nanos  : 6148432882087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8334) (elapsed nanos  : 6148649590087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8363) (elapsed nanos  : 6148803763087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_51_20.074_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_51_20.074_.txt status was 0
+Logcat_20210819125118.log:
+[WARNING] // Logcat_20210819125118.log status was 0
+[1629391901731] Encounter abort but we are in continuous mode.
+[1629391901731] Sleep for 0 ms
+[1629391901731] :schema :
+[1629391901732] Sleep for 0 ms
+[1629391901733] Sleep for 2000 ms
+[1629391903736] Sleep for 0 ms
+[1629391903737] Sleep for 500 ms
+[1629391904240] Sleep for 0 ms
+[1629391904241] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629391904242] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391904245] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391904247]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.widgetpreview/.WidgetPreviewActivity } in package com.android.widgetpreview
+[1629391904249] Sleep for 0 ms
+[1629391904250] Sleep for 260 ms
+[1629391904512] Sleep for 0 ms
+[1629391904513] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391904516] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391904517]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.widgetpreview/.WidgetPreviewActivity } in package com.android.widgetpreview
+[1629391904519] Sleep for 0 ms
+[1629391904520] Sleep for 273 ms
+[1629391904796] Sleep for 0 ms
+[1629391904797] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391904800] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391904808] Sleep for 0 ms
+[1629391904808] Sleep for 166 ms
+[1629391904976] Sleep for 0 ms
+[1629391904978] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629391904981] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629391904986] Sleep for 0 ms
+[1629391904987] Sleep for 122 ms
+[1629391905113] Sleep for 0 ms
+[1629391905115] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391905118] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391905128] Sleep for 0 ms
+[1629391905130] Sleep for 255 ms
+[1629391905387] Sleep for 0 ms
+[1629391905387] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391905390] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391905391] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391905393]     //[calendar_time:2021-08-19 12:51:45.393  system_uptime:6175610]
+[1629391905394]     // Sending event #100
+[1629391905395] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391905397] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391905401] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391905405] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391905407] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391905408] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391905410] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391905413] Sleep for 234 ms
+[1629391905650] Sleep for 0 ms
+[1629391905651] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391905655] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391905658] Sleep for 0 ms
+[1629391905659] Sleep for 221 ms
+[1629391905882] Sleep for 0 ms
+[1629391905883] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629391905889] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629391905896] Sleep for 0 ms
+[1629391905896] Sleep for 149 ms
+[1629391906048] Sleep for 0 ms
+[1629391906049] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391906054] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391906057] Sleep for 0 ms
+[1629391906058] Sleep for 204 ms
+[1629391906266] Sleep for 0 ms
+[1629391906267] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391906271] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391906274] Sleep for 0 ms
+[1629391906274] Sleep for 156 ms
+[1629391906434] Sleep for 0 ms
+[1629391906435] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391906438] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391906440] Sleep for 0 ms
+[1629391906440] Sleep for 245 ms
+[1629391906689] Sleep for 0 ms
+[1629391906690] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391906692] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391906695] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391906697] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391906699] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391906701] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391906702] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391906710] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391906711] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391906712] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391906712] Sleep for 179 ms
+[1629391906895] Sleep for 0 ms
+[1629391906895] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629391906899] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629391906904] Sleep for 0 ms
+[1629391906904] Sleep for 500 ms
+[1629391907406] Sleep for 0 ms
+[1629391907407] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629391907410] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629391907413] Sleep for 0 ms
+[1629391907414] Sleep for 241 ms
+[1629391907652]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629391907658] Sleep for 0 ms
+[1629391907659] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391907661] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391907662] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391907665] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391907666] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391907667] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391907668] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391907670] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391907673] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391907675] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391907676] Sleep for 101 ms
+[1629391907780] Sleep for 0 ms
+[1629391907781] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629391907784] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629391907790] Sleep for 0 ms
+[1629391907791] Sleep for 158 ms
+[1629391907950] Sleep for 0 ms
+[1629391907951] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391907955] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391907958] Sleep for 0 ms
+[1629391907958] Sleep for 171 ms
+[1629391908132] Sleep for 0 ms
+[1629391908132] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391908136] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391908140] Sleep for 0 ms
+[1629391908140] Sleep for 153 ms
+[1629391908295] Sleep for 0 ms
+[1629391908295] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391908299] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391908302] Sleep for 0 ms
+[1629391908302] Sleep for 188 ms
+[1629391908494] Sleep for 0 ms
+[1629391908494] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391908499] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391908501] Sleep for 0 ms
+[1629391908501] Sleep for 213 ms
+[1629391908715] Sleep for 0 ms
+[1629391908716] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391908719] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391908720] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391908724] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391908727] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391908730] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391908733] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391908734] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391908735] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391908736] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391908738] Sleep for 160 ms
+[1629391908899] Sleep for 0 ms
+[1629391908900] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391908901] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391908906] Sleep for 0 ms
+[1629391908906] Sleep for 123 ms
+[1629391909032] Sleep for 0 ms
+[1629391909033] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391909036] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391909041] Sleep for 0 ms
+[1629391909041] Sleep for 152 ms
+[1629391909195] Sleep for 0 ms
+[1629391909196] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391909199] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391909202] Sleep for 0 ms
+[1629391909202] Sleep for 160 ms
+[1629391909365] Sleep for 0 ms
+[1629391909365] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391909368] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391909373] Sleep for 0 ms
+[1629391909373] Sleep for 232 ms
+[1629391909606] Sleep for 0 ms
+[1629391909607] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391909612] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391909617] Sleep for 0 ms
+[1629391909618] Sleep for 157 ms
+[1629391909778] Sleep for 0 ms
+[1629391909778] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629391909934] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629391909942] Sleep for 0 ms
+[1629391909942] Sleep for 225 ms
+[1629391910168] Sleep for 0 ms
+[1629391910169] Sleep for 0 ms
+[1629391910169] Sleep for 0 ms
+[1629391910170] :Sending rotation degree : 0, persist : false
+[1629391910208] Sleep for 0 ms
+[1629391910208] Sleep for 500 ms
+[1629391910710] Sleep for 0 ms
+[1629391910711] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629391910712] fastbot exec shell:
+[1629391910716] fastbot exec schema:
+[1629391910716] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629391910718]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629391910757] Sleep for 0 ms
+[1629391910757] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8722) (elapsed nanos  : 6181155254087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8749) (elapsed nanos  : 6181362581087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 8778) (elapsed nanos  : 6181478058087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_51_52.759_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_51_52.759_.txt status was 0
+Logcat_20210819125151.log:
+[WARNING] // Logcat_20210819125151.log status was 0
+[1629391935453] Encounter abort but we are in continuous mode.
+[1629391935454] Sleep for 0 ms
+[1629391935454] :schema :
+[1629391935455] Sleep for 0 ms
+[1629391935455] Sleep for 2000 ms
+[1629391937458] Sleep for 0 ms
+[1629391937458] Sleep for 500 ms
+[1629391937961] Sleep for 0 ms
+[1629391937962] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629391937964] :Send Key (ACTION_DOWN): 185    // KEYCODE_PROG_YELLOW
+[1629391937968] :Send Key (ACTION_UP): 185    // KEYCODE_PROG_YELLOW
+[1629391937971] Sleep for 0 ms
+[1629391937972] Sleep for 157 ms
+[1629391938131] Sleep for 0 ms
+[1629391938132] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391938135] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391938138] Sleep for 0 ms
+[1629391938139] Sleep for 234 ms
+[1629391938376] Sleep for 0 ms
+[1629391938377] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629391938380] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629391938381] Sleep for 0 ms
+[1629391938382] Sleep for 158 ms
+[1629391938543] Sleep for 0 ms
+[1629391938544] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629391938547] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629391938551] Sleep for 0 ms
+[1629391938551] Sleep for 185 ms
+[1629391938737] Sleep for 0 ms
+[1629391938738] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391938740] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391938743] Sleep for 0 ms
+[1629391938744] Sleep for 225 ms
+[1629391938971] Sleep for 0 ms
+[1629391938972] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391938978] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391938980] Sleep for 0 ms
+[1629391938980] Sleep for 259 ms
+[1629391939242] Sleep for 0 ms
+[1629391939242] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391939245] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391939247] Sleep for 0 ms
+[1629391939247] Sleep for 202 ms
+[1629391939452] Sleep for 0 ms
+[1629391939453] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391939456] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391939459] Sleep for 0 ms
+[1629391939459] Sleep for 126 ms
+[1629391939588] Sleep for 0 ms
+[1629391939589] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391939591] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391939595] Sleep for 0 ms
+[1629391939595] Sleep for 197 ms
+[1629391939795] Sleep for 0 ms
+[1629391939795] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629391939797] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629391939804] Sleep for 0 ms
+[1629391939806] Sleep for 210 ms
+[1629391940019] Sleep for 0 ms
+[1629391940019] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629391940022] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629391940025] Sleep for 0 ms
+[1629391940025] Sleep for 114 ms
+[1629391940144] Sleep for 0 ms
+[1629391940144] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391940147] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391940149]     //[calendar_time:2021-08-19 12:52:20.149  system_uptime:6210366]
+[1629391940149]     // Sending event #200
+[1629391940153] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391940155] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391940156] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391940157] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391940158] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391940160] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391940161] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391940161] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391940166] Sleep for 211 ms
+[1629391940380] Sleep for 0 ms
+[1629391940381] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629391940385] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629391940388] Sleep for 0 ms
+[1629391940395] Sleep for 500 ms
+[1629391940897] Sleep for 0 ms
+[1629391940898] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629391940904] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629391940915] Sleep for 0 ms
+[1629391940915] Sleep for 180 ms
+[1629391941097] Sleep for 0 ms
+[1629391941098] :Send Key (ACTION_DOWN): 137    // KEYCODE_F7
+[1629391941100] :Send Key (ACTION_UP): 137    // KEYCODE_F7
+[1629391941105] Sleep for 0 ms
+[1629391941106] Sleep for 174 ms
+[1629391941187]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629391941281] Sleep for 0 ms
+[1629391941282] :Send Key (ACTION_DOWN): 226    // KEYCODE_MEDIA_TOP_MENU
+[1629391941285] :Send Key (ACTION_UP): 226    // KEYCODE_MEDIA_TOP_MENU
+[1629391941291] Sleep for 0 ms
+[1629391941291] Sleep for 234 ms
+[1629391941527] Sleep for 0 ms
+[1629391941527] Sleep for 0 ms
+[1629391941529] Sleep for 0 ms
+[1629391941530] :Sending rotation degree : 0, persist : false
+[1629391941553] Sleep for 0 ms
+[1629391941554] Sleep for 500 ms
+[1629391942055] Sleep for 0 ms
+[1629391942056] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629391942056] fastbot exec shell:
+[1629391942059] fastbot exec schema:
+[1629391942059] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629391942061]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629391942064] Sleep for 0 ms
+[1629391942065] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9131) (elapsed nanos  : 6212452020087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9158) (elapsed nanos  : 6212681559087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9187) (elapsed nanos  : 6212822795087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_52_24.066_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_52_24.066_.txt status was 0
+Logcat_20210819125222.log:
+[WARNING] // Logcat_20210819125222.log status was 0
+[1629391966831] Encounter abort but we are in continuous mode.
+[1629391966832] Sleep for 0 ms
+[1629391966833] :schema :
+[1629391966833] Sleep for 0 ms
+[1629391966833] Sleep for 2000 ms
+[1629391968835] Sleep for 0 ms
+[1629391968835] Sleep for 500 ms
+[1629391969338] Sleep for 0 ms
+[1629391969339] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629391969341] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391969343] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391969346] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391969347] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391969348] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391969349] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391969351] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391969352] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629391969354] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391969355] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391969356] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629391969358] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629391969359] Sleep for 0 ms
+[1629391969359] Sleep for 247 ms
+[1629391969608] Sleep for 0 ms
+[1629391969608] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629391969612] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629391969615] Sleep for 0 ms
+[1629391969615] Sleep for 257 ms
+[1629391969874] Sleep for 0 ms
+[1629391969875] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629391969878] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629391969884] Sleep for 0 ms
+[1629391969885] Sleep for 230 ms
+[1629391970115] Sleep for 0 ms
+[1629391970116] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391970119] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391970132] Sleep for 0 ms
+[1629391970132] Sleep for 149 ms
+[1629391970285] Sleep for 0 ms
+[1629391970286] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391970289] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391970297] Sleep for 0 ms
+[1629391970298] Sleep for 137 ms
+[1629391970437] Sleep for 0 ms
+[1629391970438] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629391970440] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629391970443] Sleep for 0 ms
+[1629391970446] Sleep for 142 ms
+[1629391970589] Sleep for 0 ms
+[1629391970591] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391970593] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629391970594] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391970597] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391970600] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391970604] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391970606] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391970607] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629391970611] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391970614] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629391970617] Sleep for 258 ms
+[1629391970877] Sleep for 0 ms
+[1629391970877] :Sending Touch (ACTION_DOWN): 0:(440.0,507.0)
+[1629391970881] :Sending Touch (ACTION_MOVE): 0:(439.94727,506.69446)
+[1629391970884] Waiting Event for 20 milliseconds
+[1629391970905] Sleep for 0 ms
+[1629391970906] :Sending Touch (ACTION_MOVE): 0:(439.88455,506.28427)
+[1629391970908] Waiting Event for 20 milliseconds
+[1629391970930] Sleep for 0 ms
+[1629391970931] :Sending Touch (ACTION_MOVE): 0:(439.84326,506.2689)
+[1629391970934]     // Injection Failed com.android.commands.monkey.E@128a0821
+[1629391970935] Waiting Event for 20 milliseconds
+[1629391970956] Sleep for 0 ms
+[1629391970956] :Sending Touch (ACTION_MOVE): 0:(439.80307,505.9729)
+[1629391970957]     // Injection Failed com.android.commands.monkey.E@1dc5b446
+[1629391970958] Waiting Event for 20 milliseconds
+[1629391970979] Sleep for 0 ms
+[1629391970981] :Sending Touch (ACTION_MOVE): 0:(439.76675,505.88034)
+[1629391970984]     // Injection Failed com.android.commands.monkey.E@1e3f4607
+[1629391970985] Waiting Event for 20 milliseconds
+[1629391971006] Sleep for 0 ms
+[1629391971007] :Sending Touch (ACTION_MOVE): 0:(439.76166,505.63837)
+[1629391971008]     // Injection Failed com.android.commands.monkey.E@18b12334
+[1629391971009] Waiting Event for 20 milliseconds
+[1629391971032] Sleep for 0 ms
+[1629391971032] :Sending Touch (ACTION_MOVE): 0:(439.74704,505.13934)
+[1629391971035]     // Injection Failed com.android.commands.monkey.E@2a5e055d
+[1629391971036] Waiting Event for 20 milliseconds
+[1629391971058] Sleep for 0 ms
+[1629391971059] :Sending Touch (ACTION_MOVE): 0:(439.67105,504.939)
+[1629391971061]     // Injection Failed com.android.commands.monkey.E@3298ced2
+[1629391971062] Waiting Event for 20 milliseconds
+[1629391971084] Sleep for 0 ms
+[1629391971085] :Sending Touch (ACTION_UP): 0:(439.62335,504.38184)
+[1629391971087]     // Injection Failed com.android.commands.monkey.E@22803ba3
+[1629391971088] Sleep for 0 ms
+[1629391971089] Sleep for 210 ms
+[1629391971301] Sleep for 0 ms
+[1629391971302] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629391971305] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629391971310] Sleep for 0 ms
+[1629391971311] Sleep for 500 ms
+[1629391971813] Sleep for 0 ms
+[1629391971813] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629391971819] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629391971821] Sleep for 0 ms
+[1629391971822] Sleep for 202 ms
+[1629391972026] Sleep for 0 ms
+[1629391972026] :Sending rotation degree : 3, persist : false
+[1629391972070]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629391972125] Sleep for 0 ms
+[1629391972125] Sleep for 259 ms
+[1629391972386] Sleep for 0 ms
+[1629391972387] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391972461] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391972464] Sleep for 0 ms
+[1629391972464] Sleep for 150 ms
+[1629391972616] Sleep for 0 ms
+[1629391972618] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629391972620] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629391972626] Sleep for 0 ms
+[1629391972627] Sleep for 228 ms
+[1629391972857] Sleep for 0 ms
+[1629391972858] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629391972861] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629391972863] Sleep for 0 ms
+[1629391972864] Sleep for 218 ms
+[1629391973085] Sleep for 0 ms
+[1629391973086] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391973089] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391973093] Sleep for 0 ms
+[1629391973094] Sleep for 257 ms
+[1629391973121]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+[1629391973353] Sleep for 0 ms
+[1629391973353] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629391973356] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629391973359] Sleep for 0 ms
+[1629391973359] Sleep for 295 ms
+[1629391973656] Sleep for 0 ms
+[1629391973657] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391973661] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629391973663] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391973665] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629391973668] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391973670] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629391973671] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391973674] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629391973675] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629391973678] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629391973680] Sleep for 189 ms
+[1629391973871] Sleep for 0 ms
+[1629391973871] :Send Key (ACTION_DOWN): 81    // KEYCODE_PLUS
+[1629391974155] :Send Key (ACTION_UP): 81    // KEYCODE_PLUS
+[1629391974159] Sleep for 0 ms
+[1629391974159] Sleep for 288 ms
+[1629391974448] Sleep for 0 ms
+[1629391974449] Sleep for 0 ms
+[1629391974450] Sleep for 0 ms
+[1629391974451] :Sending rotation degree : 0, persist : false
+[1629391974496] Sleep for 0 ms
+[1629391974496] Sleep for 500 ms
+[1629391974999] Sleep for 0 ms
+[1629391975002] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629391975002] fastbot exec shell:
+[1629391975005] fastbot exec schema:
+[1629391975005] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629391975007]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629391975044] Sleep for 0 ms
+[1629391975049] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9541) (elapsed nanos  : 6245384696087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9568) (elapsed nanos  : 6245601233087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9598) (elapsed nanos  : 6245729377087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_52_57.051_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_52_57.051_.txt status was 0
+Logcat_20210819125255.log:
+[WARNING] // Logcat_20210819125255.log status was 0
+[1629391999768] Encounter abort but we are in continuous mode.
+[1629391999768] Sleep for 0 ms
+[1629391999769] :schema :
+[1629391999769] Sleep for 0 ms
+[1629391999769] Sleep for 2000 ms
+[1629392001771] Sleep for 0 ms
+[1629392001772] Sleep for 500 ms
+[1629392002276] Sleep for 0 ms
+[1629392002277] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629392002280] :Sending Touch (ACTION_DOWN): 0:(275.0,781.0)
+[1629392002282]     //[calendar_time:2021-08-19 12:53:22.282  system_uptime:6272499]
+[1629392002282]     // Sending event #300
+[1629392002283] Waiting Event for 514 milliseconds
+[1629392002798] Sleep for 0 ms
+[1629392002799] :Sending Touch (ACTION_UP): 0:(275.0,781.0)
+[1629392002801] Sleep for 0 ms
+[1629392002802] Sleep for 167 ms
+[1629392002970] Sleep for 0 ms
+[1629392002971] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629392002974] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629392002979] Sleep for 0 ms
+[1629392002979] Sleep for 270 ms
+[1629392003253] Sleep for 0 ms
+[1629392003255] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629392003257] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629392003259] Sleep for 0 ms
+[1629392003260] Sleep for 243 ms
+[1629392003506] Sleep for 0 ms
+[1629392003507] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629392003510] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629392003512] Sleep for 0 ms
+[1629392003512] Sleep for 254 ms
+[1629392003768] Sleep for 0 ms
+[1629392003769] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629392003771] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629392003773] Sleep for 0 ms
+[1629392003773] Sleep for 266 ms
+[1629392004041] Sleep for 0 ms
+[1629392004041] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629392004045] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629392004049] Sleep for 0 ms
+[1629392004050] Sleep for 111 ms
+[1629392004165] Sleep for 0 ms
+[1629392004167] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629392004169] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629392004171] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629392004172] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629392004174] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629392004175] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629392004177] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629392004178] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629392004179] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629392004180] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629392004182] Sleep for 149 ms
+[1629392004334] Sleep for 0 ms
+[1629392004335] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629392004338] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629392004341] Sleep for 0 ms
+[1629392004342] Sleep for 500 ms
+[1629392004843] Sleep for 0 ms
+[1629392004843] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629392004847] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629392004851] Sleep for 0 ms
+[1629392004852] Sleep for 266 ms
+[1629392005120] Sleep for 0 ms
+[1629392005120] Sleep for 0 ms
+[1629392005121] Sleep for 0 ms
+[1629392005121] :Sending rotation degree : 0, persist : false
+[1629392005136]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629392005151] Sleep for 0 ms
+[1629392005151] Sleep for 500 ms
+[1629392005653] Sleep for 0 ms
+[1629392005653] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629392005653] fastbot exec shell:
+[1629392005658] fastbot exec schema:
+[1629392005658] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity;end
+[1629392005659]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity } in package com.dozingcatsoftware.kumquats
+[1629392005698] Sleep for 0 ms
+[1629392005698] Sleep for 2000 ms
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9951) (elapsed nanos  : 6276033028087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 9978) (elapsed nanos  : 6276261507087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+[ERROR] // CRASH  : com.dozingcatsoftware.kumquats (pid 10007) (elapsed nanos  : 6276419193087)
+[ERROR] // Version  :
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dozingcatsoftware.kumquats/com.dozingcatsoftware.wordgrid.MainActivity}: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable-v21/launch_background.xml from drawable resource ID #0x7f040000
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 21 more
+//
+app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_53_27.700_.txt:
+[WARNING] // app_crashcom.dozingcatsoftware.kumquats_2021-08-19_12_53_27.700_.txt status was 0
+Logcat_20210819125326.log:
+[WARNING] // Logcat_20210819125326.log status was 0
+[1629392030409] Encounter abort but we are in continuous mode.
+[1629392030410] Sleep for 0 ms
+[1629392030410] Events injected : 328
+[1629392030410] // Monkey is over!
+[1629392030410] :Sending rotation degree : 0, persist : false
+[1629392030434] Total app activities:
+[1629392030434]    1 io.flutter.plugins.urllauncher.WebViewActivity
+[1629392030434]    2 com.dozingcatsoftware.wordgrid.MainActivity
+[1629392030434] Explored app activities:
+[1629392030434]    1 com.dozingcatsoftware.wordgrid.MainActivity
+[1629392030435] Acitity of Coverage: 50.0%
+[1629392030435] Activity of Times:
+:Dropped : keys=0 pointers=7 trackballs=0 flips=0 rotations=0
+[1629392030447] // App appears 18 crash, 0 anr, monkey using seed : 1629561050704

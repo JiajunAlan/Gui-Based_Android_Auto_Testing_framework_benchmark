@@ -1,0 +1,276 @@
+click(className='android.widget.Button',instance='1')@Yes
+menu@
+click(className='android.widget.Button',instance='0')@No
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@No
+clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_history')@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_share')@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy')@
+click(className='android.widget.TextView',instance='0')@No text could be recognized.
+clickLong(className='android.widget.TextView',instance='0')@No text could be recognized.
+menu@
+click(className='android.widget.TextView',instance='0')@No text could be recognized.
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy')@
+clickLong(className='android.widget.TextView',instance='0')@No text could be recognized.
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_share')@
+back@
+menu@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy')@
+menu@
+click(className='android.widget.TextView',instance='0')@No text could be recognized.
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_share')@
+back@
+clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_settings')@
+click(resource-id='io.github.subhamtyagi.ocr:id/action_settings')@
+click(className='android.widget.TextView',instance='14')@Image processing functions
+back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='0')@PSM_AUTO_OSD
+click(className='android.widget.TextView',instance='3')@Fast/Best/Standard
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='4')@Select Multiple languages
+click(className='android.widget.TextView',instance='5')@Training data in multiple languages
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='1')@Best
+click(className='android.widget.TextView',instance='7')@Language
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='2')@Arabic
+click(className='android.widget.TextView',instance='13')@Pre-process image for enhanced accuracy
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='9')@Yiddish
+click(className='android.widget.TextView',instance='12')@Pre-Process Image
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='10')@PSM_SPARSE_TEXT
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='2')@Standard
+click(className='android.widget.TextView',instance='2')@Select Tesseract Data type
+click(className='android.widget.CheckedTextView',instance='0')@Fast
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='2')@Standard
+click(resource-id='android:id/icon')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='0')@Fast
+scroll(direction='down')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='3')@PSM_SINGLE_BLOCK
+click(className='android.widget.TextView',instance='6')@Pre-process image for enhanced accuracy
+click(className='android.widget.TextView',instance='2')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='2')@PSM_SINGLE_BLOCK_VERT_TEXT
+click(className='android.widget.TextView',instance='10')@Save data
+click(className='android.widget.TextView',instance='11')@Save image and text after the app closes
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='9')@PSM_SPARSE_TEXT_OSD
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='6')@PSM_CIRCLE_WORD
+click(className='android.widget.TextView',instance='5')@Pre-Process Image
+click(className='android.widget.TextView',instance='8')@Functions related to image processing
+click(className='android.widget.TextView',instance='3')@Un-Sharp Masking
+click(className='android.widget.TextView',instance='6')@Performs locally-adaptive Otsu threshold binarization of image
+click(className='android.widget.TextView',instance='8')@Find the Skew and Deskew the Image
+click(className='android.widget.TextView',instance='7')@Deskew Image
+click(className='android.widget.TextView',instance='1')@Enhance Contrast
+click(className='android.widget.TextView',instance='2')@Adaptively attempts to expand the contrast to the full dynamic range
+click(className='android.widget.TextView',instance='5')@OTSU Threshold
+click(className='android.widget.TextView',instance='3')@Un-Sharp Masking
+click(className='android.widget.TextView',instance='1')@Enhance Contrast
+back@
+click(className='android.widget.TextView',instance='7')@Image processing functions
+click(className='android.widget.TextView',instance='2')@Adaptively attempts to expand the contrast to the full dynamic range
+click(className='android.widget.TextView',instance='5')@OTSU Threshold
+click(className='android.widget.TextView',instance='8')@Find the Skew and Deskew the Image
+click(className='android.widget.TextView',instance='7')@Deskew Image
+click(className='android.widget.TextView',instance='6')@Performs locally-adaptive Otsu threshold binarization of image
+click(className='android.widget.TextView',instance='1')@Enhance Contrast
+back@
+click(className='android.widget.TextView',instance='14')@Android OCR is libre software. Click to visit app on GitHub.
+keyevent_back@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_scan')@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+click(resource-id='io.github.subhamtyagi.ocr:id/action_history')@
+clickLong(className='android.widget.TextView',instance='0')@No text could be recognized.
+menu@
+click(className='android.widget.TextView',instance='0')@No text could be recognized.
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy')@
+clickLong(className='android.widget.TextView',instance='0')@No text could be recognized.
+back@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_share')@
+menu@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_share')@
+back@
+click(resource-id='io.github.subhamtyagi.ocr:id/btn_scan')@
+click(className='android.widget.Button',instance='1')@Yes
+click(className='android.widget.Button',instance='0')@No
+clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_history')@
+click(resource-id='io.github.subhamtyagi.ocr:id/action_settings')@
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='4')@Ukrainian
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='8')@Vietnamese
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='8')@PSM_SPARSE_TEXT
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='4')@PSM_SINGLE_LINE
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='3')@UighurUyghur
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='10')@Yoruba
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='0')@PSM_AUTO
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='7')@PSM_SINGLE_CHAR
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='0')@Tigrinya
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='5')@Urdu
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='1')@PSM_SINGLE_COLUMN
+click(className='android.widget.TextView',instance='4')@Select Multiple languages
+click(className='android.widget.TextView',instance='7')@Languages
+click(className='android.widget.CheckedTextView',instance='3')@Assamese
+click(className='android.widget.CheckedTextView',instance='1')@Amharic
+click(className='android.widget.CheckedTextView',instance='4')@Azerbaijani
+click(className='android.widget.CheckedTextView',instance='5')@Azerbaijani-Cyrillic
+click(className='android.widget.CheckedTextView',instance='9')@Bosnian
+click(className='android.widget.CheckedTextView',instance='8')@Tibetan
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@Select Multiple languages for Tesseract
+click(className='android.widget.CheckedTextView',instance='10')@Bulgarian
+click(className='android.widget.CheckedTextView',instance='7')@Bengali
+click(className='android.widget.CheckedTextView',instance='0')@Afrikaans
+click(className='android.widget.CheckedTextView',instance='6')@Belarusian
+scroll(direction='down')@
+click(className='android.widget.CheckedTextView',instance='2')@Turkish
+click(className='android.widget.CheckedTextView',instance='7')@Uzbek-Cyrillic
+click(className='android.widget.CheckedTextView',instance='6')@Uzbek
+click(className='android.widget.CheckedTextView',instance='5')@Urdu
+click(className='android.widget.CheckedTextView',instance='7')@Uzbek-Cyrillic
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='5')@PSM_SINGLE_WORD
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='10')@PSM_RAW_LINE
+click(className='android.widget.TextView',instance='5')@Training data in multiple languages
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='10')@Yoruba
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='2')@Turkish
+click(className='android.widget.TextView',instance='3')@Fast/Best/Standard
+click(className='android.widget.CheckedTextView',instance='1')@Best
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='1')@Best
+click(className='android.widget.TextView',instance='14')@Image processing functions
+click(className='android.widget.TextView',instance='5')@OTSU Threshold
+click(className='android.widget.TextView',instance='3')@Un-Sharp Masking
+click(className='android.widget.TextView',instance='6')@Performs locally-adaptive Otsu threshold binarization of image
+click(className='android.widget.TextView',instance='2')@Adaptively attempts to expand the contrast to the full dynamic range
+click(className='android.widget.TextView',instance='8')@Find the Skew and Deskew the Image
+click(className='android.widget.TextView',instance='7')@Deskew Image
+click(className='android.widget.TextView',instance='2')@Adaptively attempts to expand the contrast to the full dynamic range
+click(className='android.widget.TextView',instance='6')@Performs locally-adaptive Otsu threshold binarization of image
+click(className='android.widget.TextView',instance='5')@OTSU Threshold
+click(className='android.widget.TextView',instance='3')@Un-Sharp Masking
+back@
+click(resource-id='android:id/icon')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='2')@Standard
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='0')@Fast
+scroll(direction='down')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='6')@PSM_CIRCLE_WORD
+click(className='android.widget.TextView',instance='3')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='2')@PSM_SINGLE_BLOCK_VERT_TEXT
+click(className='android.widget.TextView',instance='13')@Source code
+keyevent_back@
+click(className='android.widget.TextView',instance='14')@Android OCR is libre software. Click to visit app on GitHub.
+keyevent_back@
+click(className='android.widget.TextView',instance='6')@Pre-process image for enhanced accuracy
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='10')@PSM_RAW_LINE
+click(className='android.widget.TextView',instance='3')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='4')@PSM_SINGLE_LINE
+click(className='android.widget.TextView',instance='8')@Functions related to image processing
+click(className='android.widget.TextView',instance='10')@Save data
+click(className='android.widget.TextView',instance='7')@Image processing functions
+click(className='android.widget.TextView',instance='2')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='0')@PSM_AUTO
+click(className='android.widget.TextView',instance='11')@Save image and text after the app closes
+click(className='android.widget.TextView',instance='5')@Pre-Process Image
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='1')@PSM_SINGLE_COLUMN
+click(className='android.widget.TextView',instance='13')@Source code
+keyevent_back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='13')@Pre-process image for enhanced accuracy
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='3')@PSM_SINGLE_BLOCK
+click(resource-id='android:id/icon')@
+click(className='android.widget.CheckedTextView',instance='0')@Fast
+click(className='android.widget.TextView',instance='12')@Pre-Process Image
+click(className='android.widget.TextView',instance='2')@Select Tesseract Data type
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='6')@Uzbek
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='8')@Vietnamese
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='7')@PSM_SINGLE_CHAR
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='5')@PSM_SINGLE_WORD
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='9')@Yiddish
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='0')@Tigrinya
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='9')@PSM_SPARSE_TEXT_OSD
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='8')@PSM_SPARSE_TEXT
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='4')@Ukrainian
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='3')@UighurUyghur
+click(className='android.widget.TextView',instance='7')@Language
+click(className='android.widget.CheckedTextView',instance='10')@Yoruba
+click(className='android.widget.TextView',instance='10')@It directs how Tesseract splits image in lines of text and words.
+click(className='android.widget.CheckedTextView',instance='8')@PSM_SPARSE_TEXT
+click(className='android.widget.TextView',instance='9')@Page segmentation mode
+click(className='android.widget.CheckedTextView',instance='1')@PSM_SINGLE_COLUMN
+click(className='android.widget.TextView',instance='7')@Language
+scroll(direction='up')@
+click(className='android.widget.CheckedTextView',instance='8')@Tibetan
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='8')@Chinese-Traditional
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='4')@Welsh
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='10')@Dzongkha
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='8')@Hebrew
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='6')@Indonesian
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='6')@Chinese-Simplified
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='8')@Korean
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='4')@Latin
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='5')@Marathi
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract
+click(className='android.widget.CheckedTextView',instance='3')@Panjabi
+click(className='android.widget.TextView',instance='6')@Select language for Tesseract

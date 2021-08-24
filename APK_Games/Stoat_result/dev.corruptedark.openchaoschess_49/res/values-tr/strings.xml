@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BT_UUID">fc0ebdde–e425–4123–92a8–17bd8a90a769</string>
+    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="about">Hakkında</string>
+    <string name="aggressive_computer">Aggressive computers</string>
+    <string name="app_name">Open Chaos Chess</string>
+    <string name="background_color">Arka Plan Rengi:</string>
+    <string name="bar_color">Bildirim Çubuğu Rengi:</string>
+    <string name="bloodthirst">Kana Susamış</string>
+    <string name="bloodthirst_notification">Kana Susamış yeni oyunda etkin olacaktır</string>
+    <string name="bloodthirst_toggle_cancelled">Kana Susamış kapatıldı</string>
+    <string name="bloodthirsty_by_default">"Kana Susamış'ı varsayılan yap"</string>
+    <string name="board_color_1">Oyun Tahtası Rengi 1:</string>
+    <string name="board_color_2">Oyun Tahtası Rengi 2:</string>
+    <string name="cant_move_that_bruh">Oynayamazsın bilader!</string>
+    <string name="check_invites">Davetleri Kontrol Et</string>
+    <string name="chess960">Chess960 mode</string>
+    <string name="color_save_failed">Renkler kaydedilemedi</string>
+    <string name="colors_saved">Renkler kaydedildi</string>
+    <string name="computer_points">Bilgisayar Puanı:</string>
+    <string name="contact">"Facebook: Noah James Stanford
+Twitter: @CorruptedArk
+GitHub: CorruptedArk
+
+Sitem: corruptedark.wordpress.com
+
+Email: noahstandingford@gmail.com
+
+"</string>
+    <string name="create_game">Davet Gönder</string>
+    <string name="credits">"v%1$s by Noah Stanford (aka CorruptedArk) 
+ originally for CIS 175 Fall 2016 at MCCC as Chaos Chess 
+ Simone Pessotto'ya (diğer adıyla Pes8) renk seçme ekranı için teşekkürler 
+ Jonas Lowe'a renk seçme ayarı fikri için teşekkürler 
+ Credit for Chess960 mode, Queens Attack Handicap, Smart Computer, and other small changes goes to egorguslyan on GitHub 
+ GitHub'dan LibreHacker'a Rusça çeviri için teşekkürler 
+ GitHub'dan Lian C. Begett/RedsickleDE'ye Almanca çeviri için teşekkürler 
+ GitHub'dan berkaygunduzz'a Türkçe çeviri için teşekkürler 
+ Credit for Arabic translations and a quality of life improvement on captures goes to Vulldozer on GitHub 
+ Credit for Spanish translations goes to sguinetti on GitHub 
+ Credit for Indonesian translations goes to the7thNightmare on GitHub 
+ GitHub'dan czarkoff'a 'Kana Susamış' fikrini önerdiği için teşekkürler 
+ Varsayılan geçiş tarafından Kana Susamış GitHub itsanogo tarafından önerildi 
+ The aggressive computer option was suggested by vi on GitHub"</string>
+    <string name="descript">"Open Chaos Chess, Chaos Chess'in bir çeşidi olarak özgür bir yazılımdır. Chaos Chess bir çeşit satrançtır. Bu satrançta hamle yapacak taşı sen seçersin fakat taş rasgele bir şekilde hareket eder. Tabi maçlar da 'şah mat' ederek değil rakibin taşlarını eleyerek kazanılır. İyi eğlenceler, şans seninle olsun! 
+
+Open Chaos Chess Telif Hakkı © 2019 Noah Stanford 
+Bu yazılım KESİNLİKLE HİÇBİR GARANTİ VERMEZ. 
+Bu özgür bir yazılımdır ve gerekli koşullar ile yeniden dağıtmakta özgürsünüz. 
+GNU General Public Lisansı'nın tamamı için: https://www.gnu.org/licenses/gpl-3.0.txt 
+ 
+Varsayılan olarak taşlar herhangi bir şeyi gözeterek hamle yapmaz. Fakat 'Kana Susamış' modu etkinken taşlar mümkün olduğunca her zaman saldıracaktır."</string>
+    <string name="enable_handicap">Enable handicap</string>
+    <string name="export_file">Dışa aktar</string>
+    <string name="game_over_bruh">Oyun bitti bilader!</string>
+    <string name="gameplay_settings_file">gameplaysettings.txt</string>
+    <string name="host_game">Oyun Kur</string>
+    <string name="host_status">Durum:</string>
+    <string name="import_file">Dosyadan içe aktar</string>
+    <string name="issues">Sorunlar</string>
+    <string name="issues_url">https://github.com/CorruptedArk/open-chaos-chess/issues</string>
+    <string name="join_game">Oyuna Katıl</string>
+    <string name="knights_only">Sadece atlar?</string>
+    <string name="materialcolorpicker__app_name">Materyal Renk Seçimi Diyaloğu</string>
+    <string name="materialcolorpicker__btnSelectColor">Seç</string>
+    <string name="materialcolorpicker__descLib">Renk Seçimi İletişim Kutusu</string>
+    <string name="materialcolorpicker__errHex">Yanlış HEX Biçimi</string>
+    <string name="materialcolorpicker__inputColor">Renk:</string>
+    <string name="move_second">Move second (Solo)</string>
+    <string name="multiplayer_guide">Eğer rakibinle eşleşmediysen bağlnamadan önce ayarlardan eşleş.</string>
+    <string name="new_game">Yeni Oyun</string>
+    <string name="new_slogan">"Taşı seçersin, hamleyi değil
+Şimdi özgürlükle!"</string>
+    <string name="noice">Harika!</string>
+    <string name="not_your_turn_stupid">Sıra sende değil bilader!</string>
+    <string name="opponent_points">Rakibin Puanı:</string>
+    <string name="paired_devices">Eşlenilmiş Cihazlar:</string>
+    <string name="piece_color">Taş Rengi:</string>
+    <string name="play">Tek Kişilik</string>
+    <string name="player_points">Oyuncu Puanı:</string>
+    <string name="plus_one">+1</string>
+    <string name="queensAttack">Queens attack</string>
+    <string name="quick_match">Hızlı Oyun</string>
+    <string name="quit">Çık</string>
+    <string name="save_colors">Renkleri Kaydet</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="secondary_color">İkinci Renk:</string>
+    <string name="secret_hello">Ee, merhaba, buraya nasıl geldiğini anladığından emin değilim. Ama madem burdasın, ismini sorabilir miyim?</string>
+    <string name="selection_color">Seçim Rengi:</string>
+    <string name="set_to_defaults">Varsayılana ayarla</string>
+    <string name="setting_applied_on_new_game">Setting will be applied on new game</string>
+    <string name="settings">Ayarlar</string>
+    <string name="settings_file">settings.txt</string>
+    <string name="sign_out">Çıkış Yap</string>
+    <string name="slogan">Taşı seçersin, hamleyi değil</string>
+    <string name="smartComputer">Smart computer</string>
+    <string name="solo">Tek Kişilik</string>
+    <string name="start_host">Başlat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_host">Durdur</string>
+    <string name="text_color">Yazı Rengi:</string>
+    <string name="that_sucks">Ah lanet olsun dostum, bu berbat!</string>
+    <string name="tied_bro">HAYDA, OYUN KİTLENDİ!</string>
+    <string name="versus">Karşı</string>
+    <string name="wait_for_move">Hamlenin bitmesini bekle</string>
+    <string name="you_lost">Lanet olsun dostum, kaybettin!</string>
+    <string name="you_won">Harika dostum! Kazandın!</string>
+    <string name="your_points">Senin Puanın:</string>
+</resources>

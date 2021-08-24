@@ -1,0 +1,26 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 6186): FATAL EXCEPTION: main
+E/AndroidRuntime( 6186): Process: org.windvolt, PID: 6186
+E/AndroidRuntime( 6186): java.lang.NumberFormatException: Invalid int: ""
+E/AndroidRuntime( 6186): 	at java.lang.Integer.invalidInt(Integer.java:137)
+E/AndroidRuntime( 6186): 	at java.lang.Integer.parseInt(Integer.java:358)
+E/AndroidRuntime( 6186): 	at java.lang.Integer.parseInt(Integer.java:331)
+E/AndroidRuntime( 6186): 	at org.windvolt.diagram.Devices$RemoveDeviceDialog$2.onClick(Devices.java:348)
+E/AndroidRuntime( 6186): 	at androidx.appcompat.app.AlertController$ButtonHandler.handleMessage(AlertController.java:167)
+E/AndroidRuntime( 6186): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 6186): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 6186): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 6186): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 6186): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 6186): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 6186): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 6186): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: org.windvolt
+app code version: 2021.10
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+No process found for: org.windvolt
+***********

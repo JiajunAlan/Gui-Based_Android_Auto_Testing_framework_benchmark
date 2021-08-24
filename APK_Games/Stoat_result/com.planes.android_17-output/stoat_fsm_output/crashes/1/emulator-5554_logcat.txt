@@ -1,0 +1,21 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/SQLiteDatabase( 1774): Error inserting service_kind=0 persistence_level=1 tag=PhenotypeSyncImmediately task_type=0 runtime=1629245044076 required_idleness_state=0 period=2000 retry_strategy={"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0},"maximum_backoff_seconds":{"3600":0}} extras={"fetchPackage":{"com.google.android.gms.people":4},"fetchReason":{"6":0}} target_class=com.google.android.gms.phenotype.service.sync.PhenotypeConfigurator source=16 required_network_type=0 requires_charging=0 last_runtime=0 user_id=0 target_package=com.google.android.gms source_version=202414000 flex_time=1000 job_id=-1
+E/SQLiteDatabase( 1774): android.database.sqlite.SQLiteConstraintException: columns tag, target_class, target_package, user_id are not unique (code 19)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:782)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:788)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:86)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1469)
+E/SQLiteDatabase( 1774): 	at android.database.sqlite.SQLiteDatabase.insert(SQLiteDatabase.java:1339)
+E/SQLiteDatabase( 1774): 	at ajnd.a(:com.google.android.gms@202414005@20.24.14 (000700-319035315):175)
+E/SQLiteDatabase( 1774): 	at ajmf.a(:com.google.android.gms@202414005@20.24.14 (000700-319035315):257)
+E/SQLiteDatabase( 1774): 	at ajmf.a(:com.google.android.gms@202414005@20.24.14 (000700-319035315):23)
+E/SQLiteDatabase( 1774): 	at ajmf.b(:com.google.android.gms@202414005@20.24.14 (000700-319035315):6)
+E/SQLiteDatabase( 1774): 	at ajmf.a(:com.google.android.gms@202414005@20.24.14 (000700-319035315):94)
+E/SQLiteDatabase( 1774): 	at ajmb.handleMessage(:com.google.android.gms@202414005@20.24.14 (000700-319035315):16)
+E/SQLiteDatabase( 1774): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/SQLiteDatabase( 1774): 	at ypf.a(:com.google.android.gms@202414005@20.24.14 (000700-319035315):2)
+E/SQLiteDatabase( 1774): 	at ypf.dispatchMessage(:com.google.android.gms@202414005@20.24.14 (000700-319035315):14)
+E/SQLiteDatabase( 1774): 	at android.os.Looper.loop(Looper.java:136)
+E/SQLiteDatabase( 1774): 	at android.os.HandlerThread.run(HandlerThread.java:61)

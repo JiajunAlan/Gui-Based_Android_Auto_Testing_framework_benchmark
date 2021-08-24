@@ -1,0 +1,265 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626400000044 count=1000
+:AllowPackage: com.foobnix.pro.pdf.reader
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,390.0)
+:Sending Touch (ACTION_UP): 0:(219.11282,397.2933)
+:Sending Touch (ACTION_DOWN): 0:(165.0,821.0)
+:Sending Touch (ACTION_UP): 0:(166.17665,827.1113)
+:Sending Touch (ACTION_DOWN): 0:(859.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(862.31323,1142.7946)
+:Sending Touch (ACTION_DOWN): 0:(476.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(475.42734,1549.3647)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(521.37646,1642.7649)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Touch (ACTION_DOWN): 0:(742.0,731.0)
+:Sending Touch (ACTION_UP): 0:(681.5682,660.2332)
+:Sending Touch (ACTION_DOWN): 0:(871.0,1173.0)
+:Sending Touch (ACTION_UP): 0:(861.28107,1187.7238)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,575.0)
+:Sending Touch (ACTION_UP): 0:(1059.0436,571.3327)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(2.0,1463.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1437.0978)
+:Sending Touch (ACTION_DOWN): 0:(628.0,941.0)
+    //[calendar_time:2021-08-04 03:47:04.197  system_uptime:18636438]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(562.1536,965.73486)
+:Sending Touch (ACTION_DOWN): 0:(464.0,904.0)
+:Sending Touch (ACTION_UP): 0:(460.4617,907.92316)
+:Sending Touch (ACTION_DOWN): 0:(77.0,1412.0)
+:Sending Touch (ACTION_UP): 0:(71.094376,1325.3038)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(524.0,628.0)
+:Sending Touch (ACTION_UP): 0:(525.3159,632.08923)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(81.0,607.0)
+:Sending Touch (ACTION_UP): 0:(73.929306,625.87427)
+:Sending Touch (ACTION_DOWN): 0:(861.0,267.0)
+:Sending Touch (ACTION_UP): 0:(854.24945,268.82895)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(242.61658,1110.137)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(981.26483,1723.6187)
+:Sending Touch (ACTION_DOWN): 0:(721.0,478.0)
+:Sending Touch (ACTION_UP): 0:(737.6247,467.5397)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(118.0,454.0)
+:Sending Touch (ACTION_UP): 0:(114.042,451.70563)
+:Sending Touch (ACTION_DOWN): 0:(366.0,919.0)
+    //[calendar_time:2021-08-04 03:47:14.849  system_uptime:18647072]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(447.45343,983.973)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(390.0,515.0)
+:Sending Touch (ACTION_UP): 0:(379.38785,512.3924)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(214.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(217.98444,1168.6251)
+:Sending Touch (ACTION_DOWN): 0:(696.0,138.0)
+:Sending Touch (ACTION_UP): 0:(733.4261,253.96198)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Touch (ACTION_DOWN): 0:(130.0,343.0)
+:Sending Touch (ACTION_UP): 0:(130.12537,345.22238)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(0.0,51.0)
+:Sending Touch (ACTION_UP): 0:(42.351364,10.737757)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1413.0)
+    //[calendar_time:2021-08-04 03:47:23.006  system_uptime:18655229]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(142.90875,1377.0126)
+:Sending Touch (ACTION_DOWN): 0:(849.0,230.0)
+:Sending Touch (ACTION_UP): 0:(844.9514,216.55592)
+:Sending Touch (ACTION_DOWN): 0:(123.0,920.0)
+:Sending Touch (ACTION_UP): 0:(115.94824,909.423)
+:Sending Touch (ACTION_DOWN): 0:(871.0,1590.0)
+:Sending Touch (ACTION_UP): 0:(872.9403,1589.5735)
+:Sending Touch (ACTION_DOWN): 0:(476.0,138.0)
+:Sending Touch (ACTION_UP): 0:(461.92245,139.40213)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(319.0,287.0)
+:Sending Touch (ACTION_UP): 0:(315.48407,284.49536)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(356.84656,1579.2716)
+:Sending Touch (ACTION_DOWN): 0:(769.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(753.32275,1479.8517)
+:Sending Touch (ACTION_DOWN): 0:(989.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(984.4129,1143.0483)
+:Sending Touch (ACTION_DOWN): 0:(550.0,446.0)
+:Sending Touch (ACTION_UP): 0:(544.3508,428.076)
+:Sending Touch (ACTION_DOWN): 0:(7.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(6.0278096,1415.9025)
+    //[calendar_time:2021-08-04 03:47:39.735  system_uptime:18671958]
+    // Sending event #400
+    //[calendar_time:2021-08-04 03:47:40.236  system_uptime:18672459]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(459.0,391.0)
+:Sending Touch (ACTION_UP): 0:(461.1321,387.37234)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1433.0)
+:Sending Touch (ACTION_UP): 0:(29.375824,1421.0782)
+:Sending Touch (ACTION_DOWN): 0:(768.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(727.9732,1017.69446)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Touch (ACTION_DOWN): 0:(78.0,404.0)
+:Sending Touch (ACTION_UP): 0:(73.19975,390.77786)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(462.13766,1092.4011)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(605.97174,1389.163)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(1043.8854,1745.2662)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(852.0,620.0)
+:Sending Touch (ACTION_UP): 0:(857.76935,618.75793)
+:Sending Touch (ACTION_DOWN): 0:(587.0,802.0)
+:Sending Touch (ACTION_UP): 0:(578.60315,797.2675)
+:Sending Touch (ACTION_DOWN): 0:(928.0,921.0)
+:Sending Touch (ACTION_UP): 0:(924.50146,931.1691)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1040.0)
+    //[calendar_time:2021-08-04 03:47:52.465  system_uptime:18684689]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(116.65544,1009.0568)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(199.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(197.40791,1595.7283)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1403.0)
+:Sending Touch (ACTION_UP): 0:(858.1219,1345.3282)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(574.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(575.4921,1152.877)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1150.0)
+    //[calendar_time:2021-08-04 03:47:59.622  system_uptime:18691846]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(300.82147,1114.7798)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1000.0,519.0)
+:Sending Touch (ACTION_UP): 0:(998.9469,532.81616)
+:Sending Touch (ACTION_DOWN): 0:(496.0,1438.0)
+:Sending Touch (ACTION_UP): 0:(499.5765,1430.5074)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,689.0)
+:Sending Touch (ACTION_UP): 0:(803.9858,705.272)
+:Sending Touch (ACTION_DOWN): 0:(640.0,326.0)
+:Sending Touch (ACTION_UP): 0:(638.2617,323.44757)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2021-08-04 03:48:13.366  system_uptime:18705590]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(1050.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(1053.9604,1101.4104)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(85.0,589.0)
+:Sending Touch (ACTION_UP): 0:(66.32791,666.53217)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,819.0)
+:Sending Touch (ACTION_UP): 0:(1076.4244,809.3511)
+:Sending Touch (ACTION_DOWN): 0:(335.0,158.0)
+:Sending Touch (ACTION_UP): 0:(348.15472,156.30505)
+:Sending Touch (ACTION_DOWN): 0:(122.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(7.8433847,1055.1167)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2021-08-04 03:48:28.620  system_uptime:18720844]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(950.0,792.0)
+:Sending Touch (ACTION_UP): 0:(925.8345,779.2559)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2 } in package com.foobnix.pro.pdf.reader
+:Sending Touch (ACTION_DOWN): 0:(57.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(57.241886,1414.9512)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(658.0,379.0)
+:Sending Touch (ACTION_UP): 0:(652.7542,375.24268)
+:Sending Touch (ACTION_DOWN): 0:(14.0,675.0)
+:Sending Touch (ACTION_UP): 0:(23.729355,691.5187)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(844.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(854.1257,1319.0413)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(555.53143,1143.2662)
+:Sending Touch (ACTION_DOWN): 0:(427.0,560.0)
+:Sending Touch (ACTION_UP): 0:(438.20465,562.92883)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(412.19818,1658.7295)
+:Sending Touch (ACTION_DOWN): 0:(556.0,452.0)
+:Sending Touch (ACTION_UP): 0:(558.295,446.6587)
+:Sending Touch (ACTION_DOWN): 0:(35.0,856.0)
+:Sending Touch (ACTION_UP): 0:(61.383682,874.534)
+    //[calendar_time:2021-08-04 03:48:42.819  system_uptime:18735043]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(855.0,670.0)
+:Sending Touch (ACTION_UP): 0:(848.03235,665.37714)
+:Sending Touch (ACTION_DOWN): 0:(80.0,384.0)
+:Sending Touch (ACTION_UP): 0:(71.14042,399.03107)
+:Sending Touch (ACTION_DOWN): 0:(786.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(790.1269,1125.8198)
+:Sending Touch (ACTION_DOWN): 0:(343.0,72.0)
+:Sending Touch (ACTION_UP): 0:(352.2498,77.41906)
+:Sending Touch (ACTION_DOWN): 0:(661.0,529.0)
+:Sending Touch (ACTION_UP): 0:(671.7678,524.5071)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(468.8989,1279.7073)
+:Sending Touch (ACTION_DOWN): 0:(376.0,1627.0)
+:Sending Touch (ACTION_UP): 0:(378.69977,1628.6674)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,367.0)
+:Sending Touch (ACTION_UP): 0:(1019.63336,385.0332)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(846.0,400.0)
+:Sending Touch (ACTION_UP): 0:(939.61145,461.5421)
+:Sending Touch (ACTION_DOWN): 0:(635.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(649.264,1319.1252)
+:Sending Touch (ACTION_DOWN): 0:(670.0,387.0)
+:Sending Touch (ACTION_UP): 0:(683.78827,396.92743)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=10 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=123652ms (0ms mobile, 0ms wifi, 123652ms not connected)
+// Monkey finished

@@ -1,0 +1,281 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626377864543 count=1000
+:AllowPackage: de.hauke_stieler.geonotes
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.hauke_stieler.geonotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.hauke_stieler.geonotes/.MainActivity } in package de.hauke_stieler.geonotes
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(721.0,523.0)
+:Sending Touch (ACTION_UP): 0:(722.14966,521.3059)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    // Allowing start of Intent { cmp=de.hauke_stieler.geonotes/.note_list.NoteListActivity } in package de.hauke_stieler.geonotes
+    // activityResuming(de.hauke_stieler.geonotes)
+:Sending Touch (ACTION_DOWN): 0:(791.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(792.8979,1440.4604)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(321.0,219.0)
+:Sending Touch (ACTION_UP): 0:(321.6594,212.42729)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(990.91693,1170.4381)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(320.0,950.0)
+:Sending Touch (ACTION_UP): 0:(306.21805,943.2029)
+:Sending Touch (ACTION_DOWN): 0:(748.0,284.0)
+:Sending Touch (ACTION_UP): 0:(746.6695,295.3654)
+    // Rejecting start of Intent { act=android.media.action.IMAGE_CAPTURE cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(9.0,880.0)
+    //[calendar_time:2021-08-03 21:36:49.873  system_uptime:11824693]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(2.8275347,878.177)
+:Sending Touch (ACTION_DOWN): 0:(860.0,602.0)
+:Sending Touch (ACTION_UP): 0:(864.93964,611.07794)
+:Sending Touch (ACTION_DOWN): 0:(367.0,992.0)
+:Sending Touch (ACTION_UP): 0:(364.55316,992.0102)
+:Sending Touch (ACTION_DOWN): 0:(522.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(485.55862,1147.2023)
+:Sending Touch (ACTION_DOWN): 0:(748.0,722.0)
+:Sending Touch (ACTION_UP): 0:(736.5679,614.79376)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(85.0,967.0)
+:Sending Touch (ACTION_UP): 0:(81.333984,965.876)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(308.0109,1579.6464)
+:Sending Touch (ACTION_DOWN): 0:(22.0,366.0)
+:Sending Touch (ACTION_UP): 0:(80.14495,394.8002)
+:Sending Touch (ACTION_DOWN): 0:(106.0,259.0)
+:Sending Touch (ACTION_UP): 0:(97.301445,258.66925)
+:Sending Touch (ACTION_DOWN): 0:(668.0,471.0)
+:Sending Touch (ACTION_UP): 0:(664.909,474.48337)
+:Sending Touch (ACTION_DOWN): 0:(512.0,374.0)
+:Sending Touch (ACTION_UP): 0:(493.14664,366.48764)
+:Sending Touch (ACTION_DOWN): 0:(832.0,476.0)
+:Sending Touch (ACTION_UP): 0:(827.37274,483.7222)
+:Sending Touch (ACTION_DOWN): 0:(4.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(22.923313,1487.3872)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-03 21:37:00.720  system_uptime:11835520]
+    // Sending event #200
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(230.0,1417.0)
+:Sending Touch (ACTION_UP): 0:(182.08826,1495.9728)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,61.0)
+:Sending Touch (ACTION_UP): 0:(208.02867,64.155136)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1065.3748)
+:Sending Touch (ACTION_DOWN): 0:(350.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(346.58844,1612.3351)
+:Sending Touch (ACTION_DOWN): 0:(705.0,377.0)
+:Sending Touch (ACTION_UP): 0:(691.06995,376.8115)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,962.0)
+:Sending Touch (ACTION_UP): 0:(489.76007,961.9824)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(565.0,881.0)
+:Sending Touch (ACTION_UP): 0:(579.38654,880.387)
+:Sending Touch (ACTION_DOWN): 0:(703.0,641.0)
+:Sending Touch (ACTION_UP): 0:(697.47235,648.2762)
+:Sending Touch (ACTION_DOWN): 0:(469.0,633.0)
+:Sending Touch (ACTION_UP): 0:(456.83737,636.22906)
+:Sending Touch (ACTION_DOWN): 0:(469.0,390.0)
+:Sending Touch (ACTION_UP): 0:(475.62463,386.63278)
+:Sending Touch (ACTION_DOWN): 0:(740.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(726.11505,1433.4194)
+    //[calendar_time:2021-08-03 21:37:14.990  system_uptime:11849791]
+    // Sending event #300
+    //[calendar_time:2021-08-03 21:37:15.493  system_uptime:11850294]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,991.0)
+:Sending Touch (ACTION_UP): 0:(120.84511,964.31287)
+:Sending Touch (ACTION_DOWN): 0:(73.0,21.0)
+:Sending Touch (ACTION_UP): 0:(91.59456,21.015926)
+:Sending Touch (ACTION_DOWN): 0:(531.0,961.0)
+:Sending Touch (ACTION_UP): 0:(510.29266,920.7732)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.hauke_stieler.geonotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.hauke_stieler.geonotes/.MainActivity } in package de.hauke_stieler.geonotes
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(437.0481,1457.9358)
+:Sending Flip keyboardOpen=true
+    //[calendar_time:2021-08-03 21:37:25.294  system_uptime:11860095]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(23.0,485.0)
+:Sending Touch (ACTION_UP): 0:(23.480555,485.87592)
+:Sending Touch (ACTION_DOWN): 0:(66.0,1684.0)
+:Sending Touch (ACTION_UP): 0:(78.43562,1696.3722)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1010.0,98.0)
+:Sending Touch (ACTION_UP): 0:(1030.386,84.88065)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(878.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(827.1911,1374.4625)
+:Sending Touch (ACTION_DOWN): 0:(751.0,527.0)
+:Sending Touch (ACTION_UP): 0:(745.91284,536.9944)
+:Sending Touch (ACTION_DOWN): 0:(286.0,333.0)
+:Sending Touch (ACTION_UP): 0:(287.20978,323.2604)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,696.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,691.2117)
+:Sending Touch (ACTION_DOWN): 0:(233.0,778.0)
+:Sending Touch (ACTION_UP): 0:(233.59877,786.2588)
+:Sending Touch (ACTION_DOWN): 0:(209.0,547.0)
+:Sending Touch (ACTION_UP): 0:(211.2861,537.59827)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-03 21:37:34.989  system_uptime:11869789]
+    // Sending event #500
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(326.0,220.0)
+:Sending Touch (ACTION_UP): 0:(313.04416,229.38858)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(857.0,311.0)
+:Sending Touch (ACTION_UP): 0:(857.4803,305.57892)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(656.0,374.0)
+:Sending Touch (ACTION_UP): 0:(699.88324,337.97214)
+:Sending Touch (ACTION_DOWN): 0:(892.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(886.5431,1078.209)
+    // Allowing start of Intent { cmp=de.hauke_stieler.geonotes/.note_list.NoteListActivity } in package de.hauke_stieler.geonotes
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(de.hauke_stieler.geonotes)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1738.0)
+:Sending Touch (ACTION_UP): 0:(91.49222,1749.6785)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(967.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(974.0138,1789.6848)
+:Sending Touch (ACTION_DOWN): 0:(782.0,509.0)
+:Sending Touch (ACTION_UP): 0:(780.95715,509.7575)
+    //[calendar_time:2021-08-03 21:37:46.336  system_uptime:11881137]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(784.0,486.0)
+:Sending Touch (ACTION_UP): 0:(797.1775,485.45645)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,510.0)
+:Sending Touch (ACTION_UP): 0:(1001.7889,510.91006)
+:Sending Touch (ACTION_DOWN): 0:(598.0,255.0)
+:Sending Touch (ACTION_UP): 0:(609.9306,264.85956)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(406.0,82.0)
+:Sending Touch (ACTION_UP): 0:(406.34622,74.60409)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,524.0)
+:Sending Touch (ACTION_UP): 0:(817.5651,534.9778)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,611.0)
+:Sending Touch (ACTION_UP): 0:(101.693214,610.21246)
+:Sending Touch (ACTION_DOWN): 0:(679.0,495.0)
+:Sending Touch (ACTION_UP): 0:(678.9898,500.28592)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2021-08-03 21:38:01.090  system_uptime:11895890]
+    // Sending event #700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.hauke_stieler.geonotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.hauke_stieler.geonotes/.MainActivity } in package de.hauke_stieler.geonotes
+:Sending Touch (ACTION_DOWN): 0:(179.0,697.0)
+:Sending Touch (ACTION_UP): 0:(163.42989,685.0603)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.hauke_stieler.geonotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.hauke_stieler.geonotes/.MainActivity } in package de.hauke_stieler.geonotes
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(887.0,1149.0)
+:Sending Touch (ACTION_UP): 0:(893.2861,1158.9434)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1565.068)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1014.0)
+:Sending Touch (ACTION_UP): 0:(212.81805,1027.2052)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1791.0)
+:Sending Touch (ACTION_UP): 0:(752.18933,1793.2164)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(1058.1285,1293.1694)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1150.0)
+    //[calendar_time:2021-08-03 21:38:11.815  system_uptime:11906615]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(672.20715,1189.9843)
+:Sending Touch (ACTION_DOWN): 0:(302.0,792.0)
+:Sending Touch (ACTION_UP): 0:(240.78314,749.1644)
+:Sending Touch (ACTION_DOWN): 0:(842.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(840.9256,1207.6403)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(244.85333,1765.4396)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://openstreetmap.org/copyright cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,158.0)
+:Sending Touch (ACTION_UP): 0:(370.92032,154.15605)
+:Sending Touch (ACTION_DOWN): 0:(374.0,154.0)
+:Sending Touch (ACTION_UP): 0:(364.74744,150.66264)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1061.0,182.0)
+:Sending Touch (ACTION_UP): 0:(1008.7915,187.16965)
+:Sending Touch (ACTION_DOWN): 0:(396.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(355.84937,1099.7644)
+    //[calendar_time:2021-08-03 21:38:23.039  system_uptime:11917839]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(542.0,468.0)
+:Sending Touch (ACTION_UP): 0:(542.13354,457.8421)
+:Sending Touch (ACTION_DOWN): 0:(290.0,518.0)
+:Sending Touch (ACTION_UP): 0:(281.10037,516.1181)
+:Sending Touch (ACTION_DOWN): 0:(884.0,643.0)
+:Sending Touch (ACTION_UP): 0:(883.1702,642.9105)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(498.72427,1119.2755)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,692.0)
+:Sending Touch (ACTION_UP): 0:(530.7816,766.1939)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(128.66298,940.3682)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,485.0)
+:Sending Touch (ACTION_UP): 0:(1064.1854,509.09772)
+:Sending Touch (ACTION_DOWN): 0:(389.0,711.0)
+:Sending Touch (ACTION_UP): 0:(401.73962,684.88855)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.hauke_stieler.geonotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.hauke_stieler.geonotes/.MainActivity } in package de.hauke_stieler.geonotes
+:Sending Touch (ACTION_DOWN): 0:(823.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(822.92456,1489.9161)
+:Sending Touch (ACTION_DOWN): 0:(190.0,894.0)
+:Sending Touch (ACTION_UP): 0:(180.74832,892.55145)
+:Sending Touch (ACTION_DOWN): 0:(467.0,198.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=117645ms (0ms mobile, 0ms wifi, 117645ms not connected)
+// Monkey finished

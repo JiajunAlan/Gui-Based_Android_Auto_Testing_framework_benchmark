@@ -1,0 +1,14 @@
+    5@click(resource-id='android:id/home'):android.widget.ImageView@""
+    6@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"BikeSharingHub"
+    7@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    8@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    9@click(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    10@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    11@click(content-desc='More options'):android.widget.ImageButton@""
+    12@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Nearby"
+    13@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Favorites"
+    14@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All stations"
+    3@menu
+    4@back
+    17@scroll(direction='down')
+    18@scroll(direction='up')

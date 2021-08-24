@@ -1,0 +1,45 @@
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    3@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    4@back
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    14@clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_history'):android.widget.TextView@""
+    34@click(resource-id='io.github.subhamtyagi.ocr:id/btn_share'):android.widget.ImageButton@""
+    33@click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy'):android.widget.ImageButton@""
+    35@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    36@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    3@menu
+    35@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    33@click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy'):android.widget.ImageButton@""
+    36@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    34@click(resource-id='io.github.subhamtyagi.ocr:id/btn_share'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    33@click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy'):android.widget.ImageButton@""
+    3@menu
+    35@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    34@click(resource-id='io.github.subhamtyagi.ocr:id/btn_share'):android.widget.ImageButton@""
+    4@back
+    16@clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_settings'):android.widget.TextView@""
+    15@click(resource-id='io.github.subhamtyagi.ocr:id/action_settings'):android.widget.TextView@""
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    17@click(resource-id='io.github.subhamtyagi.ocr:id/btn_scan'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    13@click(resource-id='io.github.subhamtyagi.ocr:id/action_history'):android.widget.TextView@""
+    36@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    3@menu
+    35@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    33@click(resource-id='io.github.subhamtyagi.ocr:id/btn_copy'):android.widget.ImageButton@""
+    36@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"No text could be recognized."
+    4@back
+    34@click(resource-id='io.github.subhamtyagi.ocr:id/btn_share'):android.widget.ImageButton@""
+    3@menu
+    34@click(resource-id='io.github.subhamtyagi.ocr:id/btn_share'):android.widget.ImageButton@""
+    4@back
+    17@click(resource-id='io.github.subhamtyagi.ocr:id/btn_scan'):android.widget.ImageButton@""
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    14@clickLong(resource-id='io.github.subhamtyagi.ocr:id/action_history'):android.widget.TextView@""
+    15@click(resource-id='io.github.subhamtyagi.ocr:id/action_settings'):android.widget.TextView@""

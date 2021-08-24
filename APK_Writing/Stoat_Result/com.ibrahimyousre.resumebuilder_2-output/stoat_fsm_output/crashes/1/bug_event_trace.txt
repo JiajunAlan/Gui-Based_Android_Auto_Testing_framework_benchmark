@@ -1,0 +1,386 @@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@
+menu@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@
+click(content-desc='Open Drawer')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@
+back@
+keyevent_back@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12est
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='1')@Essentials
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_languages')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_languages')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@12stt
+click(content-desc='Open Drawer')@
+click(content-desc='Closed Drawer')@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='5')@Preview
+click(className='android.widget.TextView',instance='1')@Print
+keyevent_back@
+scroll(direction='up')@
+scroll(direction='down')@
+menu@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Experience
+click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12
+click(content-desc='Navigate up')@
+clickLong(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@
+back@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Projects
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Experience
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Schools
+back@
+keyevent_back@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@testt
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Personal Info
+menu@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Schools
+clickLong(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+click(className='android.widget.TextView',instance='1')@Save
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12stt
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='3')@ㅡ
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12stt
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='6')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+back@
+click(className='android.widget.TextView',instance='4')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12stt
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+back@
+click(className='android.widget.TextView',instance='4')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='4')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='5')@testt
+back@
+click(className='android.widget.TextView',instance='3')@ㅡ
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='4')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+back@
+click(className='android.widget.TextView',instance='6')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+click(content-desc='Navigate up')@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Personal Info
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='5')@Preview
+click(className='android.widget.TextView',instance='1')@Print
+keyevent_back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Projects
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='1')@Essentials
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_languages')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_languages')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_languages')@test
+menu@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_skills')@12stt
+back@
+keyevent_back@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@testt
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Experience
+clickLong(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='5')@Preview
+click(className='android.widget.TextView',instance='1')@Print
+keyevent_back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='1')@Essentials
+menu@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Experience
+click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='5')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='2')@12st
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='4')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+back@
+click(className='android.widget.TextView',instance='5')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+back@
+click(className='android.widget.TextView',instance='2')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@test
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='2')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+back@
+click(className='android.widget.TextView',instance='5')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12st
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='3')@ㅡ
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='6')@test
+back@
+click(className='android.widget.TextView',instance='2')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_subtitle')@12st
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='3')@ㅡ
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='5')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12st
+back@
+clickLong(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+click(className='android.widget.TextView',instance='6')@test
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@12st
+click(className='android.widget.TextView',instance='1')@Save
+back@
+keyevent_back@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@1
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Projects
+menu@
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Personal Info
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_name')@test
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Personal Info
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@1
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_phone')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@12st
+back@
+keyevent_back@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_job_title')@test
+menu@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address1')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_address2')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12est
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_email')@testt
+click(content-desc='Open Drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Projects
+click(resource-id='com.ibrahimyousre.resumebuilder:id/action_add')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@1test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='2')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='5')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@test
+back@
+click(className='android.widget.TextView',instance='5')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@12st
+back@
+click(className='android.widget.TextView',instance='2')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='4')@12stt
+click(className='android.widget.TextView',instance='1')@Save
+click(className='android.widget.TextView',instance='2')@test
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@12st
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_detail')@testt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_description')@test
+back@
+click(className='android.widget.TextView',instance='4')@12stt
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@test
+edit(resource-id='com.ibrahimyousre.resumebuilder:id/input_title')@12st
+click(className='android.widget.TextView',instance='1')@Save

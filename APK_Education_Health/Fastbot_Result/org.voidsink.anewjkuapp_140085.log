@@ -1,0 +1,18 @@
+[1629380752647] Events injected : 2588
+[1629380752647] // Monkey is over!
+[1629380752647] :Sending rotation degree : 0, persist : false
+[1629380752685] Total app activities:
+[1629380752685]    1 org.voidsink.anewjkuapp.activity.SyncSettingsActivity
+[1629380752685]    2 org.voidsink.anewjkuapp.activity.MainActivity
+[1629380752685]    3 org.voidsink.anewjkuapp.activity.KusssAuthenticatorActivity
+[1629380752685]    4 org.voidsink.anewjkuapp.activity.SettingsActivity
+[1629380752685]    5 pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+[1629380752685]    6 org.voidsink.anewjkuapp.dashclock.MensaDashclockSettings
+[1629380752685]    7 org.voidsink.anewjkuapp.activity.AboutActivity
+[1629380752685] Explored app activities:
+[1629380752685]    1 org.voidsink.anewjkuapp.activity.MainActivity
+[1629380752685] Acitity of Coverage: 14.285715%
+[1629380752686] Activity of Times:
+[1629380752686] org.voidsink.anewjkuapp.activity.MainActivity    200
+:Dropped : keys=0 pointers=11 trackballs=0 flips=0 rotations=0
+[1629380752703] // Monkey finished

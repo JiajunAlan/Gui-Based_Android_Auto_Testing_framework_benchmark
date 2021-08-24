@@ -1,0 +1,259 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626406361340 count=1000
+:AllowPackage: net.gsantner.markor
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+    // Allowing start of Intent { cmp=net.gsantner.markor/.activity.IntroActivity } in package net.gsantner.markor
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(398.0,880.0)
+:Sending Touch (ACTION_UP): 0:(381.5779,883.13824)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(84.95061,1101.2457)
+    // activityResuming(net.gsantner.markor)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(963.0339,1544.0908)
+:Sending Touch (ACTION_DOWN): 0:(174.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(182.9209,1724.8239)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(320.0,917.0)
+:Sending Touch (ACTION_UP): 0:(319.88794,907.48065)
+:Sending Touch (ACTION_DOWN): 0:(431.0,573.0)
+:Sending Touch (ACTION_UP): 0:(431.16074,584.2861)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2021-08-04 05:36:29.842  system_uptime:25202081]
+    // Sending event #100
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(789.0,920.0)
+:Sending Touch (ACTION_UP): 0:(795.6295,919.521)
+:Sending Touch (ACTION_DOWN): 0:(95.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(88.58061,1089.1766)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(110.472115,1407.186)
+:Sending Touch (ACTION_DOWN): 0:(126.0,116.0)
+:Sending Touch (ACTION_UP): 0:(145.16792,124.20778)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(1067.9987,1628.0154)
+:Sending Touch (ACTION_DOWN): 0:(430.0,1683.0)
+:Sending Touch (ACTION_UP): 0:(423.49692,1681.5619)
+:Sending Touch (ACTION_DOWN): 0:(231.0,725.0)
+:Sending Touch (ACTION_UP): 0:(244.30014,724.4008)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1387.0)
+:Sending Touch (ACTION_UP): 0:(343.1874,1367.1503)
+    //[calendar_time:2021-08-04 05:36:43.056  system_uptime:25215280]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(827.0,28.0)
+:Sending Touch (ACTION_UP): 0:(827.9824,28.076239)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(579.0,943.0)
+:Sending Touch (ACTION_UP): 0:(591.89453,920.6708)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://gsantner.net/project/markor.html?source=inapp cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(976.0,983.0)
+:Sending Touch (ACTION_UP): 0:(1077.4944,977.5942)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(642.1452,1252.6023)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://gsantner.net/project/markor.html?source=inapp cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(879.0,134.0)
+:Sending Touch (ACTION_UP): 0:(891.31696,133.30879)
+:Sending Touch (ACTION_DOWN): 0:(831.0,112.0)
+:Sending Touch (ACTION_UP): 0:(829.1931,124.39019)
+:Sending Touch (ACTION_DOWN): 0:(388.0,101.0)
+:Sending Touch (ACTION_UP): 0:(385.57166,99.253876)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(1023.0345,1542.1526)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://crowdin.com/project/markor/invite cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://gsantner.net/project/markor.html?source=inapp cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Allowing start of Intent { cmp=net.gsantner.markor/.activity.SettingsActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(153.0,283.0)
+:Sending Touch (ACTION_UP): 0:(162.45317,281.2402)
+:Sending Touch (ACTION_DOWN): 0:(141.0,456.0)
+:Sending Touch (ACTION_UP): 0:(156.6182,443.54395)
+:Sending Touch (ACTION_DOWN): 0:(869.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(875.6298,1748.5967)
+    //[calendar_time:2021-08-04 05:36:56.738  system_uptime:25228961]
+    // Sending event #300
+    //[calendar_time:2021-08-04 05:36:57.240  system_uptime:25229464]
+    // Sending event #300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(934.0,410.0)
+:Sending Touch (ACTION_UP): 0:(930.1018,424.9282)
+:Sending Touch (ACTION_DOWN): 0:(320.0,93.0)
+:Sending Touch (ACTION_UP): 0:(324.15503,98.74166)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(116.0,894.0)
+:Sending Touch (ACTION_UP): 0:(67.52266,827.6615)
+:Sending Touch (ACTION_DOWN): 0:(150.0,233.0)
+:Sending Touch (ACTION_UP): 0:(145.7344,237.40938)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(763.0,1041.0)
+:Sending Touch (ACTION_UP): 0:(763.73376,1040.1323)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(241.9402,1507.6864)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-04 05:37:11.439  system_uptime:25243663]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(693.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(697.77405,1046.7688)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(468.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(485.94006,1642.6995)
+    // activityResuming(net.gsantner.markor)
+    // Allowing start of Intent { cmp=net.gsantner.markor/.activity.SettingsActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(55.0,462.0)
+:Sending Touch (ACTION_UP): 0:(54.23816,480.3429)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+    // activityResuming(net.gsantner.markor)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(873.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(858.6134,1369.8774)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(769.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(814.5584,1621.1016)
+:Sending Touch (ACTION_DOWN): 0:(419.0,829.0)
+:Sending Touch (ACTION_UP): 0:(432.37466,835.6943)
+    //[calendar_time:2021-08-04 05:37:21.713  system_uptime:25253937]
+    // Sending event #500
+    //[calendar_time:2021-08-04 05:37:22.215  system_uptime:25254438]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(658.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(662.9849,1135.1993)
+:Sending Touch (ACTION_DOWN): 0:(777.0,1412.0)
+:Sending Touch (ACTION_UP): 0:(654.88434,1506.1504)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,691.0)
+:Sending Touch (ACTION_UP): 0:(627.7432,715.67664)
+:Sending Touch (ACTION_DOWN): 0:(607.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(563.22864,1665.859)
+    //[calendar_time:2021-08-04 05:37:30.917  system_uptime:25263141]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(764.8001,1534.5878)
+:Sending Touch (ACTION_DOWN): 0:(309.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(277.57193,1115.3907)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(141.0,264.0)
+:Sending Touch (ACTION_UP): 0:(135.05908,252.32928)
+:Sending Touch (ACTION_DOWN): 0:(479.0,430.0)
+:Sending Touch (ACTION_UP): 0:(486.4773,431.44785)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1557.0)
+:Sending Touch (ACTION_UP): 0:(649.3007,1578.4126)
+:Sending Touch (ACTION_DOWN): 0:(500.0,13.0)
+:Sending Touch (ACTION_UP): 0:(514.851,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(39.0,265.0)
+:Sending Touch (ACTION_UP): 0:(40.19354,265.56284)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(795.0,1186.0)
+:Sending Touch (ACTION_UP): 0:(794.59735,1172.9753)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2021-08-04 05:37:43.096  system_uptime:25275320]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(715.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(753.4176,1157.8948)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(586.0,761.0)
+:Sending Touch (ACTION_UP): 0:(567.9228,758.41675)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(536.0,110.0)
+:Sending Touch (ACTION_UP): 0:(539.51575,102.30416)
+:Sending Touch (ACTION_DOWN): 0:(526.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(531.712,1763.4728)
+:Sending Touch (ACTION_DOWN): 0:(359.0,604.0)
+:Sending Touch (ACTION_UP): 0:(360.9316,593.7428)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=net.gsantner.markor/.activity.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=net.gsantner.markor/.activity.MainActivity } in package net.gsantner.markor
+:Sending Touch (ACTION_DOWN): 0:(435.0,290.0)
+:Sending Touch (ACTION_UP): 0:(374.9969,287.77643)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2021-08-04 05:37:53.465  system_uptime:25285688]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(646.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(655.0859,1147.6512)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(853.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(893.7164,1313.469)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(679.0,748.0)
+:Sending Touch (ACTION_UP): 0:(675.96796,745.16785)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(744.0,1212.0)
+    //[calendar_time:2021-08-04 05:38:00.184  system_uptime:25292408]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(673.52704,1122.1422)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(891.74976,1375.7935)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(858.0,131.0)
+:Sending Touch (ACTION_UP): 0:(858.48285,123.26548)
+:Sending Touch (ACTION_DOWN): 0:(814.0,895.0)
+:Sending Touch (ACTION_UP): 0:(864.86255,949.538)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,167.0)
+:Sending Touch (ACTION_UP): 0:(1039.8514,170.4603)
+:Sending Touch (ACTION_DOWN): 0:(732.0,912.0)
+:Sending Touch (ACTION_UP): 0:(817.4148,905.60126)
+:Sending Touch (ACTION_DOWN): 0:(774.0,752.0)
+:Sending Touch (ACTION_UP): 0:(772.04565,742.7165)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(520.6308,1581.3284)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=116920ms (0ms mobile, 0ms wifi, 116920ms not connected)
+// Monkey finished

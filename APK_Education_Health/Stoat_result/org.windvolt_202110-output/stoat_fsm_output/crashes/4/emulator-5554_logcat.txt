@@ -1,0 +1,60 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 4636): FATAL EXCEPTION: main
+E/AndroidRuntime( 4636): Process: org.windvolt, PID: 4636
+E/AndroidRuntime( 4636): java.lang.NoSuchMethodError: org.windvolt.diagram.Economy.getColor
+E/AndroidRuntime( 4636): 	at org.windvolt.diagram.Economy.onCreate(Economy.java:175)
+E/AndroidRuntime( 4636): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime( 4636): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime( 4636): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime( 4636): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime( 4636): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime( 4636): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime( 4636): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 4636): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 4636): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 4636): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4636): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 4636): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 4636): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 4636): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: org.windvolt
+app code version: 2021.10
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 259016 Realtime: 259016
+
+** MEMINFO in pid 4636 [org.windvolt] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     7747     7712        0        0    12096    11240      855
+  Dalvik Heap    11138    11008        0        0    13372    11504     1868
+ Dalvik Other     2790     2636        0        0                           
+        Stack      328      328        0        0                           
+       Ashmem     4784     4784        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     9131      712      708        0                           
+    .apk mmap      298        0       60        0                           
+    .ttf mmap      189        0      140        0                           
+    .dex mmap     4349      208     3392        0                           
+   Other mmap      536        4       36        0                           
+      Unknown     3052     3052        0        0                           
+        TOTAL    44346    30444     4340        0    25468    22744     2723
+ 
+ Objects
+               Views:      104         ViewRootImpl:        4
+         AppContexts:        6           Activities:        4
+              Assets:        2        AssetManagers:        2
+       Local Binders:       21        Proxy Binders:       22
+    Death Recipients:        0
+     OpenSSL Sockets:        2
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

@@ -1,0 +1,229 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626407161203 count=1000
+:AllowPackage: info.aario.snotepad
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=info.aario.snotepad/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=info.aario.snotepad/.MainActivity } in package info.aario.snotepad
+:Sending Touch (ACTION_DOWN): 0:(1023.0,117.0)
+:Sending Touch (ACTION_UP): 0:(1050.9205,207.99947)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(700.07324,1523.1066)
+:Sending Touch (ACTION_DOWN): 0:(195.0,283.0)
+:Sending Touch (ACTION_UP): 0:(195.91339,281.2943)
+:Sending Touch (ACTION_DOWN): 0:(347.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(336.08746,1669.0765)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(259.0,978.0)
+:Sending Touch (ACTION_UP): 0:(269.9619,991.8095)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(731.986,1618.8147)
+:Sending Touch (ACTION_DOWN): 0:(163.0,804.0)
+:Sending Touch (ACTION_UP): 0:(161.99059,802.98816)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2021-08-04 05:42:18.104  system_uptime:25550356]
+    // Sending event #100
+    //[calendar_time:2021-08-04 05:42:18.636  system_uptime:25550859]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(402.0,677.0)
+:Sending Touch (ACTION_UP): 0:(392.02692,688.76404)
+:Sending Touch (ACTION_DOWN): 0:(620.0,665.0)
+:Sending Touch (ACTION_UP): 0:(678.6827,654.9165)
+:Sending Touch (ACTION_DOWN): 0:(522.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(506.3758,1542.7389)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(331.0,634.0)
+:Sending Touch (ACTION_UP): 0:(319.24747,635.5026)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1097.0)
+:Sending Touch (ACTION_UP): 0:(399.88983,1113.0092)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,652.0)
+:Sending Touch (ACTION_UP): 0:(1069.9017,657.70306)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=info.aario.snotepad/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=info.aario.snotepad/.MainActivity } in package info.aario.snotepad
+:Sending Touch (ACTION_DOWN): 0:(808.0,527.0)
+:Sending Touch (ACTION_UP): 0:(804.84705,536.9279)
+:Sending Touch (ACTION_DOWN): 0:(261.0,219.0)
+:Sending Touch (ACTION_UP): 0:(259.71298,214.37505)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2021-08-04 05:42:33.900  system_uptime:25566123]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1212.0)
+:Sending Touch (ACTION_UP): 0:(644.18115,1212.2059)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1265.6766)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(785.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(839.6205,1793.0132)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(101.0,417.0)
+:Sending Touch (ACTION_UP): 0:(93.14031,415.6146)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(834.0,1505.0)
+:Sending Touch (ACTION_UP): 0:(840.0492,1492.7375)
+    //[calendar_time:2021-08-04 05:42:44.075  system_uptime:25576299]
+    // Sending event #300
+    //[calendar_time:2021-08-04 05:42:44.577  system_uptime:25576801]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1408.0)
+:Sending Touch (ACTION_UP): 0:(824.78485,1407.2017)
+:Sending Touch (ACTION_DOWN): 0:(367.0,934.0)
+:Sending Touch (ACTION_UP): 0:(393.08652,873.02765)
+:Sending Touch (ACTION_DOWN): 0:(682.0,336.0)
+:Sending Touch (ACTION_UP): 0:(716.6377,327.2862)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(858.0,224.0)
+:Sending Touch (ACTION_UP): 0:(797.01117,244.20215)
+:Sending Touch (ACTION_DOWN): 0:(409.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(411.3283,1017.3004)
+:Sending Touch (ACTION_DOWN): 0:(630.0,88.0)
+:Sending Touch (ACTION_UP): 0:(524.9017,65.50152)
+:Sending Touch (ACTION_DOWN): 0:(903.0,973.0)
+:Sending Touch (ACTION_UP): 0:(909.6969,1010.3672)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,433.0)
+:Sending Touch (ACTION_UP): 0:(1003.5966,427.12296)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(72.0,610.0)
+    //[calendar_time:2021-08-04 05:42:55.721  system_uptime:25587945]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(57.664158,504.92474)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1045.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1305.9397)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(610.0,244.0)
+:Sending Touch (ACTION_UP): 0:(611.6419,248.70743)
+:Sending Touch (ACTION_DOWN): 0:(951.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(959.86847,1783.9093)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(396.55304,1760.2986)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(231.93044,1578.2218)
+:Sending Touch (ACTION_DOWN): 0:(276.0,255.0)
+:Sending Touch (ACTION_UP): 0:(282.82437,261.10156)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(580.0,662.0)
+    //[calendar_time:2021-08-04 05:43:05.871  system_uptime:25598095]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(521.5809,753.48834)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(503.0,749.0)
+:Sending Touch (ACTION_UP): 0:(517.5511,743.9313)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(900.0,778.0)
+:Sending Touch (ACTION_UP): 0:(898.7085,775.32367)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,413.0)
+:Sending Touch (ACTION_UP): 0:(1027.4191,420.13507)
+:Sending Touch (ACTION_DOWN): 0:(366.0,243.0)
+:Sending Touch (ACTION_UP): 0:(356.8365,243.1655)
+:Sending Touch (ACTION_DOWN): 0:(772.0,1597.0)
+:Sending Touch (ACTION_UP): 0:(761.3705,1593.1239)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2021-08-04 05:43:15.178  system_uptime:25607402]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(617.0,103.0)
+:Sending Touch (ACTION_UP): 0:(621.96796,36.583485)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(146.0,239.0)
+:Sending Touch (ACTION_UP): 0:(148.94676,237.82298)
+:Sending Touch (ACTION_DOWN): 0:(553.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(553.12805,1615.8604)
+:Sending Touch (ACTION_DOWN): 0:(873.0,996.0)
+:Sending Touch (ACTION_UP): 0:(788.5883,915.06104)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 05:43:21.322  system_uptime:25613546]
+    // Sending event #700
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(1053.1956,1693.8391)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(997.0,326.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,221.10187)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(961.4707,1572.5415)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(87.631744,1542.1296)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 05:43:28.490  system_uptime:25620713]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(271.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(269.41873,1128.718)
+:Sending Touch (ACTION_DOWN): 0:(765.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(782.9605,1611.6796)
+:Sending Touch (ACTION_DOWN): 0:(609.0,26.0)
+:Sending Touch (ACTION_UP): 0:(596.655,16.078568)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1459.0)
+:Sending Touch (ACTION_UP): 0:(956.50116,1451.7635)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(187.0,783.0)
+:Sending Touch (ACTION_UP): 0:(188.14307,780.8052)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(939.0,1738.0)
+:Sending Touch (ACTION_UP): 0:(960.2987,1727.3026)
+:Sending Touch (ACTION_DOWN): 0:(596.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(557.96655,1238.8402)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(678.5027,1536.3141)
+:Sending Touch (ACTION_DOWN): 0:(544.0,65.0)
+:Sending Touch (ACTION_UP): 0:(544.9098,84.44315)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(420.1666,1252.8982)
+:Sending Touch (ACTION_DOWN): 0:(798.0,744.0)
+:Sending Touch (ACTION_UP): 0:(798.26965,743.0588)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2021-08-04 05:43:43.709  system_uptime:25635932]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(742.12695,1123.3041)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1549.0)
+:Sending Touch (ACTION_UP): 0:(1002.7305,1620.8494)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=99998ms (0ms mobile, 0ms wifi, 99998ms not connected)
+// Monkey finished

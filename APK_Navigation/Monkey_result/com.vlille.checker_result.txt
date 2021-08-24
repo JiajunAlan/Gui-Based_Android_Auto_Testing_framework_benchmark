@@ -1,0 +1,299 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626395065173 count=1000
+:AllowPackage: com.vlille.checker
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(153.0,286.0)
+:Sending Touch (ACTION_UP): 0:(95.26269,317.93924)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,224.0)
+:Sending Touch (ACTION_UP): 0:(315.66122,230.41893)
+:Sending Touch (ACTION_DOWN): 0:(822.0,751.0)
+:Sending Touch (ACTION_UP): 0:(809.9674,772.7084)
+:Sending Touch (ACTION_DOWN): 0:(304.0,551.0)
+:Sending Touch (ACTION_UP): 0:(310.78864,557.4218)
+:Sending Touch (ACTION_DOWN): 0:(486.0,289.0)
+:Sending Touch (ACTION_UP): 0:(486.7259,288.49945)
+:Sending Touch (ACTION_DOWN): 0:(144.0,778.0)
+:Sending Touch (ACTION_UP): 0:(125.47258,738.8267)
+:Sending Touch (ACTION_DOWN): 0:(7.0,694.0)
+:Sending Touch (ACTION_UP): 0:(0.0,709.6947)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(253.534,1512.3203)
+:Sending Touch (ACTION_DOWN): 0:(459.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(451.4948,1495.9535)
+:Sending Touch (ACTION_DOWN): 0:(15.0,87.0)
+:Sending Touch (ACTION_UP): 0:(23.298752,89.43227)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    //[calendar_time:2021-08-04 02:25:08.745  system_uptime:13720986]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.vlille.checker/.ui.AboutActivity } in package com.vlille.checker
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // activityResuming(com.vlille.checker)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,899.0)
+:Sending Touch (ACTION_UP): 0:(605.9604,891.4754)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,174.0)
+:Sending Touch (ACTION_UP): 0:(1045.6433,185.39342)
+:Sending Touch (ACTION_DOWN): 0:(35.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(35.71558,1301.3872)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-04 02:25:18.929  system_uptime:13731153]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(249.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(242.5915,1126.6881)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,10.0)
+:Sending Touch (ACTION_UP): 0:(919.1385,0.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,1296.0)
+:Sending Touch (ACTION_UP): 0:(254.2912,1307.8159)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(880.6498,1659.9536)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(246.98523,1356.7621)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,234.0)
+:Sending Touch (ACTION_UP): 0:(564.1987,254.96265)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(717.0,1655.0)
+    //[calendar_time:2021-08-04 02:25:25.639  system_uptime:13737863]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(702.55963,1583.3608)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(841.7689,1154.4692)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(572.0,721.0)
+:Sending Touch (ACTION_UP): 0:(515.35187,615.2623)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(699.0,955.0)
+:Sending Touch (ACTION_UP): 0:(701.2435,948.2013)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(864.0,1669.0)
+:Sending Touch (ACTION_UP): 0:(845.58453,1678.4352)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(673.0,904.0)
+:Sending Touch (ACTION_UP): 0:(680.49426,897.85046)
+:Sending Touch (ACTION_DOWN): 0:(291.0,336.0)
+:Sending Touch (ACTION_UP): 0:(291.92557,320.17642)
+    //[calendar_time:2021-08-04 02:25:34.812  system_uptime:13747036]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Allowing start of Intent { cmp=com.vlille.checker/.ui.SettingsActivity } in package com.vlille.checker
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(1035.5936,1034.8219)
+:Sending Touch (ACTION_DOWN): 0:(823.0,369.0)
+:Sending Touch (ACTION_UP): 0:(840.7774,264.8171)
+    // activityResuming(com.vlille.checker)
+:Sending Touch (ACTION_DOWN): 0:(164.0,1632.0)
+:Sending Touch (ACTION_UP): 0:(60.686634,1553.6006)
+:Sending Touch (ACTION_DOWN): 0:(475.0,168.0)
+:Sending Touch (ACTION_UP): 0:(474.9258,167.7957)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(881.5301,1440.6112)
+:Sending Touch (ACTION_DOWN): 0:(702.0,956.0)
+:Sending Touch (ACTION_UP): 0:(701.2113,958.51416)
+:Sending Touch (ACTION_DOWN): 0:(922.0,457.0)
+:Sending Touch (ACTION_UP): 0:(921.5335,456.9958)
+    // Allowing start of Intent { cmp=com.vlille.checker/.ui.AboutActivity } in package com.vlille.checker
+:Sending Touch (ACTION_DOWN): 0:(942.0,800.0)
+:Sending Touch (ACTION_UP): 0:(1005.78455,846.21027)
+:Sending Touch (ACTION_DOWN): 0:(993.0,247.0)
+:Sending Touch (ACTION_UP): 0:(984.3302,241.46072)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(116.31905,1778.1984)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(765.0,1075.0)
+    //[calendar_time:2021-08-04 02:25:46.504  system_uptime:13758727]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(692.5042,1128.8221)
+:Sending Touch (ACTION_DOWN): 0:(400.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(389.51334,1417.1932)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    // activityResuming(com.vlille.checker)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(905.0,113.0)
+:Sending Touch (ACTION_UP): 0:(841.4232,260.7966)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Touch (ACTION_DOWN): 0:(261.0,362.0)
+:Sending Touch (ACTION_UP): 0:(242.9597,365.26535)
+:Sending Touch (ACTION_DOWN): 0:(322.0,501.0)
+:Sending Touch (ACTION_UP): 0:(337.31,503.43805)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1477.0)
+:Sending Touch (ACTION_UP): 0:(196.0445,1466.9467)
+:Sending Touch (ACTION_DOWN): 0:(739.0,805.0)
+:Sending Touch (ACTION_UP): 0:(733.1844,836.1447)
+:Sending Touch (ACTION_DOWN): 0:(555.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(555.175,1723.7668)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+    //[calendar_time:2021-08-04 02:25:56.671  system_uptime:13768895]
+    // Sending event #600
+    //[calendar_time:2021-08-04 02:25:57.173  system_uptime:13769397]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(305.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(326.1814,1207.2319)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(884.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(774.7632,1132.9838)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1155.0)
+:Sending Touch (ACTION_UP): 0:(967.52423,1172.9835)
+:Sending Touch (ACTION_DOWN): 0:(536.0,1491.0)
+:Sending Touch (ACTION_UP): 0:(534.8339,1490.5887)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Touch (ACTION_DOWN): 0:(751.0,1631.0)
+:Sending Touch (ACTION_UP): 0:(780.7623,1654.4359)
+:Sending Touch (ACTION_DOWN): 0:(679.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(676.5545,1061.6483)
+:Sending Touch (ACTION_DOWN): 0:(976.0,808.0)
+:Sending Touch (ACTION_UP): 0:(966.20465,819.56335)
+:Sending Touch (ACTION_DOWN): 0:(791.0,661.0)
+:Sending Touch (ACTION_UP): 0:(774.5118,654.04224)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2021-08-04 02:26:08.868  system_uptime:13781092]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(254.0,1397.0)
+:Sending Touch (ACTION_UP): 0:(256.0335,1382.5951)
+:Sending Touch (ACTION_DOWN): 0:(387.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(384.42,1495.2944)
+:Sending Touch (ACTION_DOWN): 0:(192.0,448.0)
+:Sending Touch (ACTION_UP): 0:(197.97983,444.89078)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(344.62256,1017.77936)
+:Sending Touch (ACTION_DOWN): 0:(427.0,986.0)
+:Sending Touch (ACTION_UP): 0:(424.61526,982.11194)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(901.8705,949.6824)
+:Sending Touch (ACTION_DOWN): 0:(262.0,117.0)
+:Sending Touch (ACTION_UP): 0:(262.98563,104.2065)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.vlille.checker/.ui.HomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.vlille.checker/.ui.HomeActivity } in package com.vlille.checker
+:Sending Touch (ACTION_DOWN): 0:(93.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(92.303116,1587.4684)
+    //[calendar_time:2021-08-04 02:26:20.015  system_uptime:13792239]
+    // Sending event #800
+    //[calendar_time:2021-08-04 02:26:20.516  system_uptime:13792740]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(67.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(71.2269,1710.4785)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,694.0)
+:Sending Touch (ACTION_UP): 0:(1067.8673,689.99695)
+:Sending Touch (ACTION_DOWN): 0:(505.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(495.33856,1053.7915)
+:Sending Touch (ACTION_DOWN): 0:(0.0,737.0)
+:Sending Touch (ACTION_UP): 0:(9.162772,735.0547)
+:Sending Touch (ACTION_DOWN): 0:(107.0,705.0)
+:Sending Touch (ACTION_UP): 0:(120.94836,709.39417)
+:Sending Touch (ACTION_DOWN): 0:(29.0,899.0)
+:Sending Touch (ACTION_UP): 0:(46.877834,981.0465)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(868.1908,1693.9827)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,308.0)
+:Sending Touch (ACTION_UP): 0:(1051.9666,305.67297)
+:Sending Touch (ACTION_DOWN): 0:(973.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(972.5757,1793.7068)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(955.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(941.38184,1438.4371)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(167.0,803.0)
+:Sending Touch (ACTION_UP): 0:(170.48434,802.4276)
+:Sending Flip keyboardOpen=true
+    //[calendar_time:2021-08-04 02:26:37.783  system_uptime:13810007]
+    // Sending event #900
+    //[calendar_time:2021-08-04 02:26:38.285  system_uptime:13810508]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(759.0,32.0)
+:Sending Touch (ACTION_UP): 0:(806.5662,61.764282)
+:Sending Touch (ACTION_DOWN): 0:(922.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(934.3365,1724.7892)
+:Sending Touch (ACTION_DOWN): 0:(578.0,1014.0)
+:Sending Touch (ACTION_UP): 0:(663.1238,1052.3536)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(1018.7134,1513.3867)
+:Sending Touch (ACTION_DOWN): 0:(924.0,585.0)
+:Sending Touch (ACTION_UP): 0:(917.01886,614.6661)
+:Sending Touch (ACTION_DOWN): 0:(318.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(305.12234,1523.7042)
+:Sending Touch (ACTION_DOWN): 0:(197.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(212.4465,1116.3065)
+:Sending Touch (ACTION_DOWN): 0:(677.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(686.4384,1539.7919)
+:Sending Touch (ACTION_DOWN): 0:(330.0,823.0)
+:Sending Touch (ACTION_UP): 0:(334.27667,833.15356)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(174.12146,1613.0737)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(264.0,866.0)
+:Sending Touch (ACTION_UP): 0:(255.6341,863.98566)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(439.45316,1496.8246)
+:Sending Touch (ACTION_DOWN): 0:(610.0,381.0)
+:Sending Touch (ACTION_UP): 0:(615.9558,383.39822)
+:Sending Touch (ACTION_DOWN): 0:(407.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(401.73212,1297.1183)
+:Sending Touch (ACTION_DOWN): 0:(583.0,970.0)
+:Sending Touch (ACTION_UP): 0:(579.3442,972.74036)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(252.56662,1579.1921)
+:Sending Touch (ACTION_DOWN): 0:(830.0,1417.0)
+:Sending Touch (ACTION_UP): 0:(810.7269,1399.1443)
+:Sending Touch (ACTION_DOWN): 0:(214.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(209.88812,1445.8553)
+:Sending Touch (ACTION_DOWN): 0:(74.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(73.86794,1300.3033)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,819.0)
+:Sending Touch (ACTION_UP): 0:(1060.1793,819.72015)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(843.4283,994.85736)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=120440ms (0ms mobile, 0ms wifi, 120440ms not connected)
+// Monkey finished

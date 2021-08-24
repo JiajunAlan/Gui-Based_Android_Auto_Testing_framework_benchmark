@@ -1,0 +1,11 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(25888): FATAL EXCEPTION: Instr: android.support.test.runner.AndroidJUnitRunner
+E/AndroidRuntime(25888): Process: com.github.uiautomator, PID: 25888
+E/AndroidRuntime(25888): java.lang.IllegalStateException: Cannot call disconnect() while connecting!
+E/AndroidRuntime(25888): 	at android.app.UiAutomation.disconnect(UiAutomation.java:225)
+E/AndroidRuntime(25888): 	at android.app.Instrumentation.finish(Instrumentation.java:193)
+E/AndroidRuntime(25888): 	at android.support.test.runner.MonitoringInstrumentation.finish(MonitoringInstrumentation.java:277)
+E/AndroidRuntime(25888): 	at android.support.test.runner.AndroidJUnitRunner.finish(AndroidJUnitRunner.java:282)
+E/AndroidRuntime(25888): 	at android.support.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:271)
+E/AndroidRuntime(25888): 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)

@@ -1,0 +1,271 @@
+scroll(direction='down')@
+scroll(direction='up')@
+back@
+click(className='android.widget.Button',instance='0')@OK
+menu@
+click(className='android.widget.TextView',instance='0')@Import from device
+back@
+click(className='android.widget.TextView',instance='1')@To-Do
+menu@
+click(resource-id='net.gsantner.markor:id/icon')@
+clickLong(content-desc='Priority')@
+menu@
+click(className='android.widget.TextView',instance='1')@None
+click(content-desc='Priority')@
+click(className='android.widget.TextView',instance='1')@None
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='0')@Files
+click(className='android.widget.TextView',instance='1')@To-Do
+click(className='android.widget.TextView',instance='0')@Files
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Import from device
+click(className='android.widget.TextView',instance='4')@/storage/sdcard
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='2')@/storage/sdcard
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='9')@Documents
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='14')@/storage/sdcard
+click(className='android.widget.TextView',instance='19')@Cancel
+click(resource-id='net.gsantner.markor:id/icon')@
+click(resource-id='net.gsantner.markor:id/fab_add_new_item')@
+menu@
+scroll(direction='down')@
+menu@
+click(className='android.widget.TextView',instance='3')@Zim Wiki
+click(className='android.widget.Button',instance='0')@Folder
+scroll(direction='down')@
+click(content-desc='More options')@
+click(resource-id='net.gsantner.markor:id/icon')@
+clickLong(className='android.widget.TextView',instance='5')@Android
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_dialog__search_button')@
+click(className='android.widget.TextView',instance='5')@Android
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='7')@DCIM
+click(className='android.widget.TextView',instance='2')@/storage/sdcard
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='7')@DCIM
+click(resource-id='net.gsantner.markor:id/ui__filesystem_dialog__home')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='1')@..
+clickLong(className='android.widget.TextView',instance='8')@/storage/sdcard
+clickLong(className='android.widget.TextView',instance='6')@/storage/sdcard
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='16')@/storage/sdcard
+clickLong(className='android.widget.TextView',instance='4')@/storage/sdcard
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='19')@OK
+clickLong(className='android.widget.TextView',instance='8')@..
+click(className='android.widget.TextView',instance='8')@..
+clickLong(resource-id='net.gsantner.markor:id/action_search')@
+click(className='android.widget.TextView',instance='4')@
+clickLong(resource-id='net.gsantner.markor:id/action_go_to')@
+clickLong(className='android.widget.TextView',instance='10')@markor
+click(resource-id='net.gsantner.markor:id/icon')@
+clickLong(resource-id='net.gsantner.markor:id/fab_add_new_item')@
+click(resource-id='net.gsantner.markor:id/action_sort')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='2')@QuickNote
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='2')@QuickNote
+scroll(direction='down')@
+clickLong(resource-id='net.gsantner.markor:id/action_search')@
+click(content-desc='Bold')@
+click(resource-id='net.gsantner.markor:id/action_redo')@
+scroll(direction='up')@
+clickLong(className='android.widget.TextView',instance='4')@QuickNote
+clickLong(content-desc='Open link')@
+menu@
+click(className='android.widget.Button',instance='0')@Search / Replace
+menu@
+edit(resource-id='net.gsantner.markor:id/replace_input')@Replace with
+click(resource-id='net.gsantner.markor:id/recent_show_spinner')@
+click(resource-id='net.gsantner.markor:id/enable_regex')@Regex
+click(className='android.widget.Button',instance='2')@Cancel
+click(content-desc='Unordered list')@
+clickLong(content-desc='More options')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='3')@More
+click(resource-id='net.gsantner.markor:id/icon')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@More
+click(className='android.widget.TextView',instance='14')@Give feedback, report bugs or suggest improvements
+keyevent_back@
+click(resource-id='android:id/icon')@
+keyevent_back@
+scroll(direction='down')@
+scroll(direction='up')@
+click(resource-id='android:id/icon')@
+keyevent_back@
+click(className='android.widget.TextView',instance='7')@Rate this app
+keyevent_back@
+click(className='android.widget.TextView',instance='8')@Settings
+click(className='android.widget.TextView',instance='8')@Display converted markup
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='1')@Prefer view
+click(resource-id='android:id/checkbox')@
+click(content-desc='Back')@
+click(className='android.widget.TextView',instance='13')@Plain Text
+back@
+click(className='android.widget.TextView',instance='11')@todo.txt
+scroll(direction='down')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='5')@Append contexts and projects
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='1')@Add completion date
+click(resource-id='android:id/checkbox')@
+scroll(direction='up')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='7')@Append contexts and projects at the end of a task when using the appropriate text action
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='2')@Add completion date
+click(className='android.widget.TextView',instance='5')@Insert the current date when starting a new task
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='6')@Append contexts and projects
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='3')@Add completion date for todos when marking them as done
+click(className='android.widget.TextView',instance='10')@Enter space-separated @contexts and +projects. These will always be visible at todo.txt insert dialogs.
+edit(resource-id='android:id/edit')@+music +video @home @shop
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='9')@Additional contexts and projects
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='8')@Action order
+clickLong(resource-id='net.gsantner.markor:id/action_reorder_reset')@
+scroll(direction='up')@
+click(resource-id='net.gsantner.markor:id/action_reorder_reset')@
+scroll(direction='down')@
+back@
+click(content-desc='Back')@
+click(className='android.widget.TextView',instance='5')@Markor
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@More
+click(resource-id='android:id/icon')@
+keyevent_back@
+click(className='android.widget.TextView',instance='15')@Translate
+keyevent_back@
+click(resource-id='android:id/icon')@
+keyevent_back@
+click(className='android.widget.TextView',instance='12')@More info on donating to the developer, or contributing to this project.
+keyevent_back@
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.TextView',instance='9')@/storage/sdcard/Documents
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='9')@/storage/sdcard
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='9')@/storage/sdcard
+clickLong(className='android.widget.TextView',instance='9')@/storage
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='26')@Notifications
+click(className='android.widget.TextView',instance='0')@Files
+click(content-desc='More options')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='15')@Movies
+click(className='android.widget.TextView',instance='3')@Cancel
+click(className='android.widget.TextView',instance='0')@Files
+clickLong(className='android.widget.TextView',instance='27')@Notifications
+clickLong(className='android.widget.TextView',instance='26')@Notifications
+click(className='android.widget.TextView',instance='0')@Files
+clickLong(className='android.widget.TextView',instance='27')@Notifications
+clickLong(className='android.widget.TextView',instance='26')@Notifications
+click(content-desc='More options')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='11')@Download
+click(className='android.widget.TextView',instance='3')@Cancel
+clickLong(resource-id='net.gsantner.markor:id/action_delete_selected_items')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='12')@Android
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='12')@Android
+clickLong(resource-id='net.gsantner.markor:id/action_sort')@
+click(resource-id='net.gsantner.markor:id/action_go_to')@
+click(resource-id='net.gsantner.markor:id/icon')@
+click(resource-id='net.gsantner.markor:id/action_search')@
+click(className='android.widget.Button',instance='0')@Cancel
+clickLong(className='android.widget.TextView',instance='4')@
+click(className='android.widget.TextView',instance='9')@/data/data/net.gsantner.markor
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='10')@app_webview
+click(className='android.widget.TextView',instance='10')@app_webview
+clickLong(className='android.widget.TextView',instance='12')@cache
+clickLong(className='android.widget.TextView',instance='10')@app_webview
+click(resource-id='net.gsantner.markor:id/icon')@
+click(className='android.widget.TextView',instance='4')@
+click(resource-id='net.gsantner.markor:id/icon')@
+clickLong(className='android.widget.TextView',instance='12')@lib
+clickLong(className='android.widget.TextView',instance='12')@lib
+clickLong(className='android.widget.TextView',instance='6')@/data/data
+clickLong(className='android.widget.TextView',instance='13')@lib
+click(className='android.widget.TextView',instance='6')@app_webview
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='8')@cache
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='6')@..
+click(className='android.widget.TextView',instance='8')@cache
+clickLong(className='android.widget.TextView',instance='14')@files
+clickLong(className='android.widget.TextView',instance='13')@lib
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='9')@cache
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Move
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='3')@app_webview
+click(className='android.widget.TextView',instance='13')@Cancel
+clickLong(className='android.widget.TextView',instance='4')@..
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='8')@cache
+click(className='android.widget.TextView',instance='4')@..
+clickLong(className='android.widget.TextView',instance='14')@shared_prefs
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='10')@files
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(className='android.widget.TextView',instance='6')@app_webview
+clickLong(className='android.widget.TextView',instance='5')@/data/data
+click(className='android.widget.TextView',instance='5')@/data/data
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='14')@shared_prefs
+click(className='android.widget.TextView',instance='5')@..
+clickLong(className='android.widget.TextView',instance='11')@files
+clickLong(className='android.widget.TextView',instance='8')@..
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+scroll(direction='up')@
+clickLong(className='android.widget.TextView',instance='12')@cache
+scroll(direction='up')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='9')@/data/data
+click(className='android.widget.TextView',instance='18')@shared_prefs
+click(className='android.widget.TextView',instance='13')@lib
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+scroll(direction='up')@
+scroll(direction='up')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+clickLong(resource-id='net.gsantner.markor:id/ui__filesystem_item__image')@
+click(className='android.widget.TextView',instance='15')@shared_prefs

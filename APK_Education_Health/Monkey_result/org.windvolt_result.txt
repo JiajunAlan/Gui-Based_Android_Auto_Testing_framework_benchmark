@@ -1,0 +1,246 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626386680751 count=1000
+:AllowPackage: org.windvolt
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(874.0,2.0)
+:Sending Touch (ACTION_UP): 0:(886.4382,8.624869)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(292.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(260.1924,1193.5127)
+:Sending Touch (ACTION_DOWN): 0:(749.0,630.0)
+:Sending Touch (ACTION_UP): 0:(747.69366,680.95355)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(170.0,775.0)
+:Sending Touch (ACTION_UP): 0:(165.59615,788.0357)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(1038.7081,1071.1809)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(201.31204,1419.5508)
+:Sending Touch (ACTION_DOWN): 0:(944.0,1500.0)
+    //[calendar_time:2021-08-04 00:14:47.249  system_uptime:5899487]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(941.0255,1490.9034)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1037.0)
+:Sending Touch (ACTION_UP): 0:(194.65239,1037.5175)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Touch (ACTION_DOWN): 0:(785.0,59.0)
+:Sending Touch (ACTION_UP): 0:(773.0763,53.35293)
+    // Allowing start of Intent { cmp=org.windvolt/.diagram.News } in package org.windvolt
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,422.0)
+:Sending Touch (ACTION_UP): 0:(242.15488,421.81555)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(642.0,891.0)
+:Sending Touch (ACTION_UP): 0:(645.88025,937.15704)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(557.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(561.1656,1483.1224)
+:Sending Touch (ACTION_DOWN): 0:(417.0,915.0)
+:Sending Touch (ACTION_UP): 0:(386.58173,793.2743)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(462.0,684.0)
+:Sending Touch (ACTION_UP): 0:(492.00998,610.1851)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    //[calendar_time:2021-08-04 00:15:01.465  system_uptime:5913689]
+    // Sending event #200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(355.75623,1041.3212)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,1683.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1686.7955)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(662.6398,1458.768)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(916.0,965.0)
+:Sending Touch (ACTION_UP): 0:(950.7877,832.58514)
+:Sending Touch (ACTION_DOWN): 0:(332.0,975.0)
+:Sending Touch (ACTION_UP): 0:(349.6398,973.7005)
+:Sending Touch (ACTION_DOWN): 0:(161.0,1395.0)
+:Sending Touch (ACTION_UP): 0:(148.59305,1367.6627)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2021-08-04 00:15:13.186  system_uptime:5925410]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(404.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(398.23297,1505.2704)
+:Sending Touch (ACTION_DOWN): 0:(40.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(41.037254,1220.7375)
+:Sending Touch (ACTION_DOWN): 0:(388.0,560.0)
+:Sending Touch (ACTION_UP): 0:(439.30682,539.2823)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(1050.9114,1186.8286)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(242.72836,1532.8563)
+:Sending Touch (ACTION_DOWN): 0:(692.0,579.0)
+:Sending Touch (ACTION_UP): 0:(612.9925,525.56146)
+:Sending Touch (ACTION_DOWN): 0:(360.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(325.2561,1052.1633)
+:Sending Touch (ACTION_DOWN): 0:(398.0,855.0)
+:Sending Touch (ACTION_UP): 0:(396.75735,850.2264)
+:Sending Touch (ACTION_DOWN): 0:(78.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1177.5095)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(483.0,290.0)
+:Sending Touch (ACTION_UP): 0:(482.6541,311.17493)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2021-08-04 00:15:25.352  system_uptime:5937575]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(280.0,396.0)
+:Sending Touch (ACTION_UP): 0:(185.37355,293.596)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(425.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(425.8932,1369.9497)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(1016.91785,1697.7214)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(587.0,296.0)
+    //[calendar_time:2021-08-04 00:15:34.205  system_uptime:5946429]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(643.1072,199.11975)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(811.34296,1052.1384)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(539.0,1328.0)
+:Sending Touch (ACTION_UP): 0:(539.73706,1326.1652)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(765.637,1196.9534)
+:Sending Touch (ACTION_DOWN): 0:(973.0,265.0)
+:Sending Touch (ACTION_UP): 0:(981.58704,263.62567)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    //[calendar_time:2021-08-04 00:15:44.877  system_uptime:5957101]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(813.0,145.0)
+:Sending Touch (ACTION_UP): 0:(805.17706,143.37804)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(219.0,114.0)
+:Sending Touch (ACTION_UP): 0:(206.70457,87.281784)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(780.0,924.0)
+:Sending Touch (ACTION_UP): 0:(792.55896,914.77747)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(971.98724,1693.1729)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(238.4974,1766.458)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(185.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(186.86034,1155.6967)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Touch (ACTION_DOWN): 0:(707.0,62.0)
+    //[calendar_time:2021-08-04 00:15:55.605  system_uptime:5967828]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(707.98444,54.507652)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(414.0,549.0)
+:Sending Touch (ACTION_UP): 0:(417.0841,556.7618)
+:Sending Touch (ACTION_DOWN): 0:(943.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(938.75757,1201.0482)
+:Sending Touch (ACTION_DOWN): 0:(10.0,629.0)
+:Sending Touch (ACTION_UP): 0:(0.0,641.55786)
+:Sending Touch (ACTION_DOWN): 0:(798.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(791.0231,1394.4817)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(584.0,675.0)
+:Sending Touch (ACTION_UP): 0:(595.092,672.99)
+:Sending Touch (ACTION_DOWN): 0:(807.0,577.0)
+:Sending Touch (ACTION_UP): 0:(770.00916,562.7582)
+:Sending Touch (ACTION_DOWN): 0:(139.0,1623.0)
+:Sending Touch (ACTION_UP): 0:(155.79654,1618.8882)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(666.0,1394.0)
+:Sending Touch (ACTION_UP): 0:(645.1766,1366.0771)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1272.0)
+    //[calendar_time:2021-08-04 00:16:09.340  system_uptime:5981563]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(892.0758,1288.0696)
+:Sending Touch (ACTION_DOWN): 0:(152.0,88.0)
+:Sending Touch (ACTION_UP): 0:(147.16914,89.29818)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(530.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(517.9657,1001.28357)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(203.96648,1672.8589)
+:Sending Touch (ACTION_DOWN): 0:(561.0,976.0)
+:Sending Touch (ACTION_UP): 0:(560.47675,917.1738)
+:Sending Touch (ACTION_DOWN): 0:(970.0,440.0)
+:Sending Touch (ACTION_UP): 0:(975.01697,441.9444)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(713.0,810.0)
+:Sending Touch (ACTION_UP): 0:(713.0101,808.9897)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 00:16:19.044  system_uptime:5991267]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(884.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(888.26843,1102.3408)
+:Sending Touch (ACTION_DOWN): 0:(599.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(589.2126,1794.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Touch (ACTION_DOWN): 0:(150.0,57.0)
+:Sending Touch (ACTION_UP): 0:(139.33194,69.238235)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(182.95587,1784.5961)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.windvolt/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.windvolt/.AppActivity } in package org.windvolt
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=121461ms (0ms mobile, 0ms wifi, 121461ms not connected)
+// Monkey finished

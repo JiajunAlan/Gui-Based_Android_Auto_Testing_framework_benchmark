@@ -1,0 +1,6 @@
+    4660@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    4661@click(resource-id='net.gsantner.markor:id/action_reorder_reset'):android.widget.TextView@""
+    4662@clickLong(resource-id='net.gsantner.markor:id/action_reorder_reset'):android.widget.TextView@""
+    4663@back
+    4664@scroll(direction='down')
+    4665@scroll(direction='up')

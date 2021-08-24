@@ -1,0 +1,236 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626388458599 count=1000
+:AllowPackage: com.kaeruct.raumballer
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(318.0,744.0)
+:Sending Touch (ACTION_UP): 0:(307.9359,747.06036)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Touch (ACTION_DOWN): 0:(872.0,1016.0)
+:Sending Touch (ACTION_UP): 0:(874.4758,1012.78217)
+:Sending Touch (ACTION_DOWN): 0:(835.0,314.0)
+:Sending Touch (ACTION_UP): 0:(850.8016,352.36002)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(927.0,1680.0)
+:Sending Touch (ACTION_UP): 0:(832.0674,1623.8522)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(922.28656,1695.0917)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(912.6287,1252.4695)
+:Sending Touch (ACTION_DOWN): 0:(470.0,39.0)
+:Sending Touch (ACTION_UP): 0:(449.85126,46.321148)
+:Sending Touch (ACTION_DOWN): 0:(346.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(346.3746,1740.7716)
+:Sending Touch (ACTION_DOWN): 0:(435.0,253.0)
+:Sending Touch (ACTION_UP): 0:(443.93304,253.62198)
+    //[calendar_time:2021-08-04 00:38:27.017  system_uptime:7319260]
+    // Sending event #100
+    //[calendar_time:2021-08-04 00:38:27.537  system_uptime:7319761]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(553.0,670.0)
+:Sending Touch (ACTION_UP): 0:(552.1788,676.63086)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(555.0,991.0)
+:Sending Touch (ACTION_UP): 0:(594.24567,1000.57153)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(59.0,28.0)
+:Sending Touch (ACTION_UP): 0:(61.14095,26.892023)
+:Sending Touch (ACTION_DOWN): 0:(746.0,37.0)
+:Sending Touch (ACTION_UP): 0:(776.6237,64.72145)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,478.0)
+:Sending Touch (ACTION_UP): 0:(1059.0752,476.5583)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(918.0,558.0)
+:Sending Touch (ACTION_UP): 0:(902.4796,558.3274)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(627.99457,1736.7004)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2021-08-04 00:38:38.152  system_uptime:7330376]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(224.0,927.0)
+:Sending Touch (ACTION_UP): 0:(226.52855,922.72644)
+:Sending Touch (ACTION_DOWN): 0:(66.0,151.0)
+:Sending Touch (ACTION_UP): 0:(121.75399,135.57352)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Touch (ACTION_DOWN): 0:(459.0,254.0)
+:Sending Touch (ACTION_UP): 0:(511.58908,274.9693)
+:Sending Touch (ACTION_DOWN): 0:(521.0,845.0)
+:Sending Touch (ACTION_UP): 0:(545.6358,794.3879)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(168.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(161.02798,1393.3927)
+:Sending Touch (ACTION_DOWN): 0:(176.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(177.32356,1538.7817)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,752.0)
+:Sending Touch (ACTION_UP): 0:(1066.2991,791.1862)
+:Sending Touch (ACTION_DOWN): 0:(982.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(1017.1181,1318.837)
+    //[calendar_time:2021-08-04 00:38:47.754  system_uptime:7339977]
+    // Sending event #300
+    //[calendar_time:2021-08-04 00:38:48.255  system_uptime:7340479]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(892.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(891.8318,1147.607)
+:Sending Touch (ACTION_DOWN): 0:(137.0,132.0)
+:Sending Touch (ACTION_UP): 0:(132.98672,134.85236)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,412.0)
+:Sending Touch (ACTION_UP): 0:(391.48782,369.19528)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2021-08-04 00:38:58.417  system_uptime:7350641]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(234.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(256.21887,1647.7593)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1526.0)
+:Sending Touch (ACTION_UP): 0:(44.369736,1559.0289)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(137.0,712.0)
+:Sending Touch (ACTION_UP): 0:(123.53105,712.65576)
+:Sending Touch (ACTION_DOWN): 0:(62.0,418.0)
+:Sending Touch (ACTION_UP): 0:(54.12711,420.1073)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(966.3985,1496.958)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(393.0,909.0)
+:Sending Touch (ACTION_UP): 0:(400.53543,904.1204)
+:Sending Touch (ACTION_DOWN): 0:(756.0,161.0)
+:Sending Touch (ACTION_UP): 0:(771.9782,165.96683)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(91.39008,1602.9879)
+:Sending Touch (ACTION_DOWN): 0:(931.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(942.3298,1337.5203)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1.0)
+:Sending Touch (ACTION_UP): 0:(313.42892,0.0)
+    //[calendar_time:2021-08-04 00:39:11.720  system_uptime:7363944]
+    // Sending event #500
+    //[calendar_time:2021-08-04 00:39:12.221  system_uptime:7364444]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,136.0)
+:Sending Touch (ACTION_UP): 0:(251.97707,211.19006)
+:Sending Touch (ACTION_DOWN): 0:(335.0,319.0)
+:Sending Touch (ACTION_UP): 0:(348.92886,339.39117)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(967.0,353.0)
+:Sending Touch (ACTION_UP): 0:(973.0135,353.0524)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2021-08-04 00:39:20.007  system_uptime:7372231]
+    // Sending event #600
+    //[calendar_time:2021-08-04 00:39:20.508  system_uptime:7372732]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(171.0,120.0)
+:Sending Touch (ACTION_UP): 0:(176.59814,164.31232)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Touch (ACTION_DOWN): 0:(1078.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(1068.9183,1732.043)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(129.0,856.0)
+:Sending Touch (ACTION_UP): 0:(139.9213,836.1688)
+:Sending Touch (ACTION_DOWN): 0:(678.0,478.0)
+:Sending Touch (ACTION_UP): 0:(664.72473,484.3917)
+:Sending Touch (ACTION_DOWN): 0:(265.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(275.59174,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(93.0,611.0)
+:Sending Touch (ACTION_UP): 0:(48.49027,648.35187)
+:Sending Touch (ACTION_DOWN): 0:(292.0,783.0)
+:Sending Touch (ACTION_UP): 0:(288.28223,803.52545)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1390.0)
+:Sending Touch (ACTION_UP): 0:(360.5041,1373.8757)
+:Sending Touch (ACTION_DOWN): 0:(949.0,697.0)
+    //[calendar_time:2021-08-04 00:39:32.154  system_uptime:7384377]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(931.8496,618.70435)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(912.6885,1046.441)
+:Sending Touch (ACTION_DOWN): 0:(832.0,386.0)
+:Sending Touch (ACTION_UP): 0:(776.3013,351.22534)
+:Sending Touch (ACTION_DOWN): 0:(451.0,1523.0)
+:Sending Touch (ACTION_UP): 0:(486.13922,1605.4836)
+:Sending Touch (ACTION_DOWN): 0:(383.0,205.0)
+:Sending Touch (ACTION_UP): 0:(372.67706,197.81007)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,1438.0)
+:Sending Touch (ACTION_UP): 0:(506.7639,1449.7118)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(718.0,1595.0)
+:Sending Touch (ACTION_UP): 0:(719.5553,1575.963)
+    //[calendar_time:2021-08-04 00:39:45.845  system_uptime:7398068]
+    // Sending event #800
+    //[calendar_time:2021-08-04 00:39:46.346  system_uptime:7398569]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(215.0,335.0)
+:Sending Touch (ACTION_UP): 0:(238.67384,333.33362)
+:Sending Touch (ACTION_DOWN): 0:(677.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(660.93475,1156.4496)
+:Sending Touch (ACTION_DOWN): 0:(993.0,296.0)
+:Sending Touch (ACTION_UP): 0:(1008.2683,267.2139)
+:Sending Touch (ACTION_DOWN): 0:(724.0,452.0)
+:Sending Touch (ACTION_UP): 0:(765.6384,560.4984)
+:Sending Touch (ACTION_DOWN): 0:(68.0,791.0)
+:Sending Touch (ACTION_UP): 0:(60.41092,800.1653)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(501.07626,1170.7217)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2021-08-04 00:39:54.516  system_uptime:7406740]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.kaeruct.raumballer/jgame.platform.JGActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.kaeruct.raumballer/jgame.platform.JGActivity } in package com.kaeruct.raumballer
+:Sending Touch (ACTION_DOWN): 0:(428.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(440.36096,1263.1748)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,486.0)
+:Sending Touch (ACTION_UP): 0:(560.9411,485.59308)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=111549ms (0ms mobile, 0ms wifi, 111549ms not connected)
+// Monkey finished

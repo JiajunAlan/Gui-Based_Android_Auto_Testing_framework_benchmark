@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.github.siggel.coordinatejoker:id/decor_content_parent" class="android.view.View" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="com.github.siggel.coordinatejoker:id/action_bar_container" class="android.widget.FrameLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+            <node index="0" text="" resource-id="com.github.siggel.coordinatejoker:id/action_bar" class="android.view.View" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+              <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="com.github.siggel.coordinatejoker" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][147,213]" />
+              <node index="1" text="Change history" resource-id="" class="android.widget.TextView" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[189,104][546,175]" />
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+              <node index="0" text="" resource-id="com.github.siggel.coordinatejoker:id/webView" class="android.webkit.WebView" package="com.github.siggel.coordinatejoker" content-desc="Web View" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[13,226][1067,1781]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

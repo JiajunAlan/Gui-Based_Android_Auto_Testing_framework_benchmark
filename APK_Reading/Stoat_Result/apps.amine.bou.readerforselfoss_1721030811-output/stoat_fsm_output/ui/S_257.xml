@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,66][1070,234]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+        <node index="0" text="" resource-id="apps.amine.bou.readerforselfoss:id/content" class="android.widget.LinearLayout" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,121][1007,178]">
+            <node index="0" text="About" resource-id="apps.amine.bou.readerforselfoss:id/title" class="android.widget.TextView" package="apps.amine.bou.readerforselfoss" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,121][1007,178]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

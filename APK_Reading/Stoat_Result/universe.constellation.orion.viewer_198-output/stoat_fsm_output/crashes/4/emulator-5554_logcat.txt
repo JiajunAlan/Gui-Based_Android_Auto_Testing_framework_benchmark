@@ -1,0 +1,28 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(11483): FATAL EXCEPTION: main
+E/AndroidRuntime(11483): Process: universe.constellation.orion.viewer, PID: 11483
+E/AndroidRuntime(11483): java.lang.UnsatisfiedLinkError: Couldn't load mupdf_java32 from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/universe.constellation.orion.viewer-2.apk"],nativeLibraryDirectories=[/data/app-lib/universe.constellation.orion.viewer-2, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime(11483): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime(11483): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime(11483): 	at com.artifex.mupdf.fitz.Context.init(Context.java:30)
+E/AndroidRuntime(11483): 	at com.artifex.mupdf.fitz.Context.<clinit>(Context.java:16)
+E/AndroidRuntime(11483): 	at com.artifex.mupdf.fitz.Document.<clinit>(Document.java:6)
+E/AndroidRuntime(11483): 	at com.artifex.mupdf.viewer.MuPDFCore.<init>(MuPDFCore.java:35)
+E/AndroidRuntime(11483): 	at universe.constellation.orion.viewer.pdf.PdfDocument.<init>(PdfDocument.kt:34)
+E/AndroidRuntime(11483): 	at universe.constellation.orion.viewer.FileUtil.openFile(FileUtil.kt:27)
+E/AndroidRuntime(11483): 	at universe.constellation.orion.viewer.OrionViewerActivity$openFile$1$newDocument$1.invokeSuspend(OrionViewerActivity.kt:309)
+E/AndroidRuntime(11483): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+E/AndroidRuntime(11483): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+E/AndroidRuntime(11483): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+E/AndroidRuntime(11483): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+E/AndroidRuntime(11483): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+E/AndroidRuntime(11483): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+***********
+package name: universe.constellation.orion.viewer
+app code version: 0.81.2
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+No process found for: universe.constellation.orion.viewer
+***********

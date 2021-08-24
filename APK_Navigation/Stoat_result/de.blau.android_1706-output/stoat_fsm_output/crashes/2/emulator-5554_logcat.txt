@@ -1,0 +1,68 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/ActivityThread( 7303): Activity de.blau.android.Main has leaked ServiceConnection j.a.a.q2.i.c@9dff3020 that was originally bound here
+E/ActivityThread( 7303): android.app.ServiceConnectionLeaked: Activity de.blau.android.Main has leaked ServiceConnection j.a.a.q2.i.c@9dff3020 that was originally bound here
+E/ActivityThread( 7303): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:979)
+E/ActivityThread( 7303): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:873)
+E/ActivityThread( 7303): 	at android.app.ContextImpl.bindServiceCommon(ContextImpl.java:1561)
+E/ActivityThread( 7303): 	at android.app.ContextImpl.bindService(ContextImpl.java:1544)
+E/ActivityThread( 7303): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:517)
+E/ActivityThread( 7303): 	at j.a.a.q2.i.c.<init>(MapTileProvider.java:9)
+E/ActivityThread( 7303): 	at j.a.a.q2.h.c.<init>(MapTilesLayer.java:15)
+E/ActivityThread( 7303): 	at j.a.a.g1.setUpLayers(Map.java:26)
+E/ActivityThread( 7303): 	at j.a.a.g1.a(Map.java:50)
+E/ActivityThread( 7303): 	at de.blau.android.Main.onStart(Main.java:12)
+E/ActivityThread( 7303): 	at android.app.Instrumentation.callActivityOnStart(Instrumentation.java:1171)
+E/ActivityThread( 7303): 	at android.app.Activity.performStart(Activity.java:5241)
+E/ActivityThread( 7303): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2168)
+E/ActivityThread( 7303): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/ActivityThread( 7303): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/ActivityThread( 7303): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/ActivityThread( 7303): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/ActivityThread( 7303): 	at android.os.Looper.loop(Looper.java:136)
+E/ActivityThread( 7303): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/ActivityThread( 7303): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/ActivityThread( 7303): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/ActivityThread( 7303): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/ActivityThread( 7303): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/ActivityThread( 7303): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: de.blau.android
+app code version: 15.2.4.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 779939 Realtime: 779939
+
+** MEMINFO in pid 7303 [de.blau.android] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4814     4780        0        0     9852     8664     1039
+  Dalvik Heap    48715    48584        0        0    50836    50382      454
+ Dalvik Other     3649     3516        0        0                           
+        Stack      172      172        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1596      548      100        0                           
+    .jar mmap        3        0        0        0                           
+    .apk mmap      658        0      168        0                           
+    .ttf mmap       19        0        0        0                           
+    .dex mmap     3199      220      936        0                           
+   Other mmap       39        4        4        0                           
+      Unknown       92       92        0        0                           
+        TOTAL    62960    57916     1212        0    60688    59046     1493
+ 
+ Objects
+               Views:      416         ViewRootImpl:        3
+         AppContexts:        5           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       21        Proxy Binders:       26
+    Death Recipients:        0
+     OpenSSL Sockets:        1
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:       62
+ 
+***********

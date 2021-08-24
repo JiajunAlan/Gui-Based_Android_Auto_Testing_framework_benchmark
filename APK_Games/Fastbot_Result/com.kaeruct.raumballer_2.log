@@ -1,0 +1,16 @@
+[1629392637863] *** Inject event ***
+[1629392637864] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629392637866] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629392637870] Sleep for 0 ms
+[1629392637871] Sleep for 500 ms
+[1629392638372] Events injected : 988
+[1629392638372] // Monkey is over!
+[1629392638372] :Sending rotation degree : 0, persist : false
+[1629392638430] Total app activities:
+[1629392638430]    1 jgame.platform.JGActivity
+[1629392638430] Explored app activities:
+[1629392638430]    1 jgame.platform.JGActivity
+[1629392638430] Acitity of Coverage: 100.0%
+[1629392638430] Activity of Times:
+[1629392638430] jgame.platform.JGActivity    151
+:Dropped : keys=0 pointers=0 trackballs=0 flips=0 rotations=0

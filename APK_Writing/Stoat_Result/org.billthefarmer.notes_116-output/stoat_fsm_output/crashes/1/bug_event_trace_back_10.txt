@@ -1,0 +1,10 @@
+click(className='android.widget.TextView',instance='0')@default.prop
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='0')@default.prop
+clickLong(resource-id='org.billthefarmer.notes:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit script…
+edit(resource-id='org.billthefarmer.notes:id/text')@
+clickLong(resource-id='org.billthefarmer.notes:id/accept')@
+click(className='android.widget.TextView',instance='0')@script.js

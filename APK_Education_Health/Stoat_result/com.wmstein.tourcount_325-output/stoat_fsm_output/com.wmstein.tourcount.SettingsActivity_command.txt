@@ -1,0 +1,20 @@
+    6105@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6106@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Make a sound upon pressing e.g. a count button."
+    6107@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6108@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Keep screen on"
+    6109@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Prevent screen from sleeping whilst counting."
+    6110@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6111@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Screen bright"
+    6112@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Sets the TourCount screens for counting and editing bright."
+    6113@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6114@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Prevent duplicate species"
+    6115@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"When selected, the names in the species list must be unique."
+    6116@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6117@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"GPS Reverse Geocoding"
+    6118@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"When selected, tries to substitute the location meta data you entered by Reverse Geocoding"
+    6119@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    6120@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Mail Address for OSM Geocoder"
+    6121@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Necessary for reliable query of address data per OSM Nominatim Reverse Geocoder.The mail address will be treated confidentially and will only be used to contact you in case of service problems. See https://wiki.openstreetmap.org/wiki/Nominatim."
+    5753@back
+    5754@scroll(direction='down')
+    5755@scroll(direction='up')

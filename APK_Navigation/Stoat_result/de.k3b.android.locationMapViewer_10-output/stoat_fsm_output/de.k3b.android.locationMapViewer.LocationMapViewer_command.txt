@@ -1,0 +1,10 @@
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    2@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Location Map Viewer"
+    3@click(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""
+    4@clickLong(resource-id='de.k3b.android.locationMapViewer:id/cmd_settings'):android.widget.TextView@""
+    5@click(content-desc='More options'):android.widget.ImageButton@""
+    6@click(resource-id='de.k3b.android.locationMapViewer:id/cmd_unhide_bookmark_list'):android.widget.ImageButton@""
+    7@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+    8@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map Tiles (c) OpenStreetMap Contributors"
+    9@menu
+    10@back

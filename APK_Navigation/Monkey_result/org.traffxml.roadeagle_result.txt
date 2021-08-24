@@ -1,0 +1,241 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626397792814 count=1000
+:AllowPackage: org.traffxml.roadeagle
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(404.0,220.0)
+:Sending Touch (ACTION_UP): 0:(404.0794,222.68855)
+:Sending Touch (ACTION_DOWN): 0:(26.0,263.0)
+:Sending Touch (ACTION_UP): 0:(20.884392,251.20813)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(715.56964,1562.4948)
+:Sending Touch (ACTION_DOWN): 0:(174.0,897.0)
+:Sending Touch (ACTION_UP): 0:(175.76843,897.33276)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(1020.8484,1674.4645)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(759.72455,1079.0792)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(953.0,279.0)
+:Sending Touch (ACTION_UP): 0:(946.60455,271.4176)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(467.90866,1052.5934)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2021-08-04 03:15:58.388  system_uptime:16770629]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(858.0,226.0)
+:Sending Touch (ACTION_UP): 0:(871.7669,233.59317)
+:Sending Touch (ACTION_DOWN): 0:(598.0,747.0)
+:Sending Touch (ACTION_UP): 0:(641.4356,723.5904)
+:Sending Touch (ACTION_DOWN): 0:(580.0,529.0)
+:Sending Touch (ACTION_UP): 0:(602.2571,473.24884)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(595.08435,1627.9465)
+:Sending Touch (ACTION_DOWN): 0:(66.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1481.0472)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(700.4319,1572.8574)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(106.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(109.3231,1634.3121)
+:Sending Touch (ACTION_DOWN): 0:(477.0,300.0)
+:Sending Touch (ACTION_UP): 0:(485.06894,302.53455)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(61.0,740.0)
+    //[calendar_time:2021-08-04 03:16:12.617  system_uptime:16784841]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(72.630104,733.31323)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(573.0,286.0)
+:Sending Touch (ACTION_UP): 0:(591.57056,208.65744)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(598.0,653.0)
+:Sending Touch (ACTION_UP): 0:(602.23334,634.64026)
+:Sending Touch (ACTION_DOWN): 0:(625.0,360.0)
+:Sending Touch (ACTION_UP): 0:(621.0189,373.79678)
+    // Allowing start of Intent { cmp=org.traffxml.roadeagle/.android.ui.SettingsActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(402.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(415.14355,1651.5022)
+:Sending Touch (ACTION_DOWN): 0:(42.0,20.0)
+:Sending Touch (ACTION_UP): 0:(44.030807,2.3162727)
+:Sending Touch (ACTION_DOWN): 0:(139.0,1269.0)
+:Sending Touch (ACTION_UP): 0:(137.3339,1270.0105)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(976.0,225.0)
+:Sending Touch (ACTION_UP): 0:(957.9669,230.60805)
+    //[calendar_time:2021-08-04 03:16:24.455  system_uptime:16796678]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(273.0,555.0)
+:Sending Touch (ACTION_UP): 0:(281.9362,541.15625)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(54.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(54.516193,1220.605)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(974.9217,1586.507)
+:Sending Touch (ACTION_DOWN): 0:(520.0,416.0)
+:Sending Touch (ACTION_UP): 0:(550.4957,386.11163)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,0.0)
+:Sending Touch (ACTION_UP): 0:(509.3888,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,700.0)
+:Sending Touch (ACTION_UP): 0:(647.7966,709.67194)
+    //[calendar_time:2021-08-04 03:16:34.109  system_uptime:16806333]
+    // Sending event #400
+    //[calendar_time:2021-08-04 03:16:34.612  system_uptime:16806835]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(285.0,1768.0)
+:Sending Touch (ACTION_UP): 0:(216.84369,1788.853)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(0.0,1301.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1294.3455)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(462.4461,1743.844)
+:Sending Touch (ACTION_DOWN): 0:(669.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(680.49615,1629.3656)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(930.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(918.6267,1270.2823)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2021-08-04 03:16:43.278  system_uptime:16815502]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(1005.0,606.0)
+:Sending Touch (ACTION_UP): 0:(1003.6668,604.3414)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(391.0372,1364.3167)
+:Sending Touch (ACTION_DOWN): 0:(578.0,104.0)
+:Sending Touch (ACTION_UP): 0:(553.4041,45.681465)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(987.7009,1367.7633)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(781.0,914.0)
+:Sending Touch (ACTION_UP): 0:(783.8939,912.46655)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(760.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(765.8257,1539.089)
+:Sending Touch (ACTION_DOWN): 0:(564.0,567.0)
+:Sending Touch (ACTION_UP): 0:(562.9357,589.57434)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(941.0,243.0)
+:Sending Touch (ACTION_UP): 0:(930.13916,254.58632)
+:Sending Touch (ACTION_DOWN): 0:(221.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(234.97765,1718.2404)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2021-08-04 03:16:57.007  system_uptime:16829231]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(283.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(295.33548,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(918.0,239.0)
+:Sending Touch (ACTION_UP): 0:(942.3011,273.75845)
+:Sending Touch (ACTION_DOWN): 0:(274.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(304.2905,1617.7946)
+:Sending Touch (ACTION_DOWN): 0:(595.0,653.0)
+:Sending Touch (ACTION_UP): 0:(602.9563,653.3547)
+:Sending Touch (ACTION_DOWN): 0:(929.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(902.4026,1736.5872)
+:Sending Touch (ACTION_DOWN): 0:(425.0,405.0)
+:Sending Touch (ACTION_UP): 0:(384.28748,439.90918)
+:Sending Touch (ACTION_DOWN): 0:(361.0,907.0)
+:Sending Touch (ACTION_UP): 0:(360.10153,908.86554)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1398.0)
+:Sending Touch (ACTION_UP): 0:(393.84213,1326.3154)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(58.0,158.0)
+:Sending Touch (ACTION_UP): 0:(58.812077,154.24297)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(985.4383,1756.9879)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2021-08-04 03:17:09.709  system_uptime:16841933]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(850.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(857.97797,1659.2416)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1655.0)
+:Sending Touch (ACTION_UP): 0:(229.9945,1654.9762)
+:Sending Touch (ACTION_DOWN): 0:(909.0,726.0)
+:Sending Touch (ACTION_UP): 0:(900.1273,654.1121)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2021-08-04 03:17:17.864  system_uptime:16850088]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(1040.0,17.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,108.496086)
+:Sending Touch (ACTION_DOWN): 0:(662.0,531.0)
+:Sending Touch (ACTION_UP): 0:(646.0532,531.47626)
+:Sending Touch (ACTION_DOWN): 0:(678.0,1058.0)
+:Sending Touch (ACTION_UP): 0:(657.16254,1052.4237)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(602.0,1401.0)
+    //[calendar_time:2021-08-04 03:17:25.228  system_uptime:16857452]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(673.99664,1479.5933)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.traffxml.roadeagle/.android.ui.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.traffxml.roadeagle/.android.ui.MainActivity } in package org.traffxml.roadeagle
+:Sending Touch (ACTION_DOWN): 0:(92.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(59.381424,1741.4152)
+:Sending Touch (ACTION_DOWN): 0:(629.0,347.0)
+:Sending Touch (ACTION_UP): 0:(633.13654,332.11578)
+:Sending Touch (ACTION_DOWN): 0:(585.0,324.0)
+:Sending Touch (ACTION_UP): 0:(495.53333,256.47253)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1592.0)
+:Sending Touch (ACTION_UP): 0:(377.45117,1591.6003)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(702.0,239.0)
+:Sending Touch (ACTION_UP): 0:(699.9125,220.34398)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=113210ms (0ms mobile, 0ms wifi, 113210ms not connected)
+// Monkey finished

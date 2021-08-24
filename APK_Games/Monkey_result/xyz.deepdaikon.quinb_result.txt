@@ -1,0 +1,1384 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626392846788 count=1000
+:AllowPackage: xyz.deepdaikon.quinb
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23587)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23602)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23618)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(827.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(848.2273,1221.4921)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity } in package com.google.android.play.games
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(1046.8536,1006.85443)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23643)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23657)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23672)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(730.1551,1374.971)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.googlequicksearchbox/.VoiceSearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23698)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23712)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23727)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(379.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(433.2821,1150.9015)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(721.0,1321.0)
+:Sending Touch (ACTION_UP): 0:(726.4026,1316.3363)
+:Sending Touch (ACTION_DOWN): 0:(492.0,111.0)
+:Sending Touch (ACTION_UP): 0:(458.37524,180.068)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(368.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(362.08698,1106.8685)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23761)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23775)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23790)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(431.0,217.0)
+:Sending Touch (ACTION_UP): 0:(431.89145,222.0547)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,857.0)
+:Sending Touch (ACTION_UP): 0:(1008.153,861.2825)
+:Sending Touch (ACTION_DOWN): 0:(353.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(338.6484,1260.4412)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    //[calendar_time:2021-08-04 01:55:39.523  system_uptime:11951765]
+    // Sending event #100
+    //[calendar_time:2021-08-04 01:55:40.043  system_uptime:11952266]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(665.0,8.0)
+:Sending Touch (ACTION_UP): 0:(665.41754,2.919859)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(94.0,560.0)
+:Sending Touch (ACTION_UP): 0:(99.0623,559.0549)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(558.0,681.0)
+:Sending Touch (ACTION_UP): 0:(514.70087,670.6959)
+:Sending Touch (ACTION_DOWN): 0:(768.0,196.0)
+:Sending Touch (ACTION_UP): 0:(757.13416,194.7741)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2021-08-04 01:55:47.737  system_uptime:11959960]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(987.0,531.0)
+:Sending Touch (ACTION_UP): 0:(988.5251,530.4574)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,122.0)
+:Sending Touch (ACTION_UP): 0:(206.79935,24.21152)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(241.0,134.0)
+:Sending Touch (ACTION_UP): 0:(288.0267,193.93471)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(630.0,331.0)
+:Sending Touch (ACTION_UP): 0:(635.80237,339.57236)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23857)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23872)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23888)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(355.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(362.5357,1184.1368)
+:Sending Touch (ACTION_DOWN): 0:(790.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(809.10345,1036.8687)
+:Sending Touch (ACTION_DOWN): 0:(360.0,258.0)
+:Sending Touch (ACTION_UP): 0:(369.7033,262.24432)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    //[calendar_time:2021-08-04 01:56:04.665  system_uptime:11976889]
+    // Sending event #300
+    //[calendar_time:2021-08-04 01:56:05.167  system_uptime:11977390]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(409.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(407.0594,1150.155)
+:Sending Touch (ACTION_DOWN): 0:(306.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(301.1501,1307.1547)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(719.0,776.0)
+:Sending Touch (ACTION_UP): 0:(714.55457,771.45496)
+:Sending Touch (ACTION_DOWN): 0:(964.0,911.0)
+:Sending Touch (ACTION_UP): 0:(957.868,915.9646)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(704.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(704.0439,1732.1118)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(506.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(514.2449,1507.4692)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(351.72733,1183.4076)
+:Sending Touch (ACTION_DOWN): 0:(278.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(289.51523,1711.0876)
+:Sending Touch (ACTION_DOWN): 0:(616.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(615.4581,1342.7622)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(796.0,1470.0)
+:Sending Touch (ACTION_UP): 0:(817.72577,1475.5842)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(865.0,1263.0)
+    //[calendar_time:2021-08-04 01:56:22.992  system_uptime:11995215]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(807.72296,1244.1792)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(193.0,916.0)
+:Sending Touch (ACTION_UP): 0:(156.52434,921.5494)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 23965)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23979)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 23996)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(162.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(215.00061,1755.0548)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(62.0,986.0)
+:Sending Touch (ACTION_UP): 0:(60.554558,1000.1447)
+:Sending Touch (ACTION_DOWN): 0:(626.0,828.0)
+:Sending Touch (ACTION_UP): 0:(624.53674,824.11945)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(72.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(126.60913,1229.0743)
+:Sending Touch (ACTION_DOWN): 0:(428.0,159.0)
+:Sending Touch (ACTION_UP): 0:(425.32047,152.3404)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2021-08-04 01:56:35.714  system_uptime:12007938]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(1055.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(1056.4575,1484.4604)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1062.0,208.0)
+:Sending Touch (ACTION_UP): 0:(1070.2698,209.63188)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(507.0,267.0)
+:Sending Touch (ACTION_UP): 0:(496.09674,263.06882)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(268.0,467.0)
+:Sending Touch (ACTION_UP): 0:(294.0306,464.65033)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(763.0,891.0)
+:Sending Touch (ACTION_UP): 0:(753.9827,899.2695)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(320.0,101.0)
+:Sending Touch (ACTION_UP): 0:(327.82733,103.81185)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(189.0,283.0)
+:Sending Touch (ACTION_UP): 0:(177.25824,372.3781)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2021-08-04 01:56:45.387  system_uptime:12017611]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(910.0,639.0)
+:Sending Touch (ACTION_UP): 0:(909.3039,632.12274)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(931.0,985.0)
+:Sending Touch (ACTION_UP): 0:(908.09595,1015.2898)
+:Sending Touch (ACTION_DOWN): 0:(808.0,855.0)
+:Sending Touch (ACTION_UP): 0:(808.03406,897.261)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(728.0,230.0)
+:Sending Touch (ACTION_UP): 0:(716.8212,243.14772)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24069)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24083)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24100)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(530.0,699.0)
+:Sending Touch (ACTION_UP): 0:(529.914,691.4936)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(946.0,937.0)
+:Sending Touch (ACTION_UP): 0:(894.07855,913.116)
+    //[calendar_time:2021-08-04 01:56:57.104  system_uptime:12029328]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(126.0,854.0)
+:Sending Touch (ACTION_UP): 0:(121.04222,853.8417)
+:Sending Touch (ACTION_DOWN): 0:(240.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(261.10995,1525.8154)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(793.8525,1520.218)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(32.0,266.0)
+:Sending Touch (ACTION_UP): 0:(30.264599,262.63538)
+:Sending Touch (ACTION_DOWN): 0:(694.0,68.0)
+:Sending Touch (ACTION_UP): 0:(694.82947,63.156403)
+    //[calendar_time:2021-08-04 01:57:07.808  system_uptime:12040031]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(842.0,53.0)
+:Sending Touch (ACTION_UP): 0:(843.6411,43.853046)
+:Sending Touch (ACTION_DOWN): 0:(413.0,377.0)
+:Sending Touch (ACTION_UP): 0:(416.11557,371.27997)
+:Sending Touch (ACTION_DOWN): 0:(683.0,521.0)
+:Sending Touch (ACTION_UP): 0:(689.8734,513.0593)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.providers.downloads.ui/.DownloadList } in package com.android.providers.downloads.ui
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24207)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24221)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24239)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(136.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(132.0226,1065.0509)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24262)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24276)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24291)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(141.0,956.0)
+:Sending Touch (ACTION_UP): 0:(137.6936,960.9356)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.gallery/com.android.camera.GalleryPicker } in package com.android.gallery
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24312)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24326)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24341)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(196.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(195.75026,1274.7124)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24363)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24377)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24392)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24414)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24428)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24444)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(299.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(301.35306,1718.2097)
+:Sending Touch (ACTION_DOWN): 0:(181.0,1208.0)
+:Sending Touch (ACTION_UP): 0:(233.66837,1155.7671)
+:Sending Touch (ACTION_DOWN): 0:(58.0,597.0)
+    //[calendar_time:2021-08-04 01:57:23.414  system_uptime:12055638]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(13.241405,640.1381)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24469)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24483)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+// CRASH: xyz.deepdaikon.quinb (pid 24498)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(185.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(140.75241,1695.2633)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=xyz.deepdaikon.quinb/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=xyz.deepdaikon.quinb/.MainActivity } in package xyz.deepdaikon.quinb
+// CRASH: xyz.deepdaikon.quinb (pid 24520)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24534)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: xyz.deepdaikon.quinb (pid 24549)
+// Short Msg: java.lang.UnsatisfiedLinkError
+// Long Msg: java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.UnsatisfiedLinkError: Couldn't load flutter from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/xyz.deepdaikon.quinb-1.apk"],nativeLibraryDirectories=[/data/app-lib/xyz.deepdaikon.quinb-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+// 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+// 	at java.lang.System.loadLibrary(System.java:526)
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.embedding.engine.f.a.a()
+// 	at io.flutter.view.d.a()
+// 	at io.flutter.app.FlutterApplication.onCreate()
+// 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(394.0,402.0)
+:Sending Touch (ACTION_UP): 0:(394.60205,397.4393)
+:Sending Touch (ACTION_DOWN): 0:(508.0,704.0)
+:Sending Touch (ACTION_UP): 0:(509.50937,709.5027)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(772.0,887.0)
+:Sending Touch (ACTION_UP): 0:(770.44006,884.5781)
+:Sending Touch (ACTION_DOWN): 0:(310.0,820.0)
+:Sending Touch (ACTION_UP): 0:(309.63528,838.0844)
+:Sending Touch (ACTION_DOWN): 0:(130.0,109.0)
+:Sending Touch (ACTION_UP): 0:(126.68255,99.818474)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(748.4176,1350.0134)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=8 pointers=15 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=131016ms (0ms mobile, 0ms wifi, 131016ms not connected)
+// Monkey finished

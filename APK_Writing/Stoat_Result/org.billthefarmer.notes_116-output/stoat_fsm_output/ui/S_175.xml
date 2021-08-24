@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="android:id/action_bar_overlay_layout" class="android.view.View" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="android:id/action_bar_container" class="android.widget.FrameLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,192]">
+        <node index="0" text="" resource-id="android:id/action_bar" class="android.view.View" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,192]">
+          <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.billthefarmer.notes" content-desc="styles.css, Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][357,192]">
+            <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][127,192]">
+              <node index="0" text="" resource-id="android:id/up" class="android.widget.ImageView" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,108][42,150]" />
+              <node index="1" text="" resource-id="android:id/home" class="android.widget.ImageView" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[32,87][116,171]" />
+            </node>
+            <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[127,97][357,160]">
+              <node index="0" text="styles.css" resource-id="android:id/action_bar_title" class="android.widget.TextView" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[127,97][336,160]" />
+            </node>
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,192][1080,1794]">
+        <node index="0" text="" resource-id="org.billthefarmer.notes:id/editor" class="android.widget.RelativeLayout" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,192][1059,1794]">
+          <node index="0" text="" resource-id="org.billthefarmer.notes:id/vscroll" class="android.widget.ScrollView" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,192][1059,1794]">
+            <node index="0" text="" resource-id="org.billthefarmer.notes:id/hscroll" class="android.widget.HorizontalScrollView" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[21,192][1059,1794]">
+              <node NAF="true" index="0" text="" resource-id="org.billthefarmer.notes:id/text" class="android.widget.EditText" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[21,192][1059,1794]" />
+            </node>
+          </node>
+          <node NAF="true" index="1" text="" resource-id="org.billthefarmer.notes:id/accept" class="android.widget.ImageButton" package="org.billthefarmer.notes" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[838,1573][985,1720]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

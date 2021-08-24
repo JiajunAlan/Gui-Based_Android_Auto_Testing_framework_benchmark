@@ -1,0 +1,10 @@
+click(className='android.widget.CheckedTextView',instance='0')@Pedometer
+clickLong(className='android.widget.TextView',instance='1')@Week
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+click(className='android.widget.TextView',instance='3')@17. August
+clickLong(className='android.widget.Button',instance='1')@Sep
+edit(resource-id='android:id/numberpicker_input')@Aug
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

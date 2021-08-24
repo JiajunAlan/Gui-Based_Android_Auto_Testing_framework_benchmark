@@ -1,0 +1,50 @@
+click(resource-id='org.windvolt:id/open_page3')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='6')@Einstellungen
+click(className='android.widget.TextView',instance='9')@Batteriestatus zeigen
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='5')@*Sprache wählen.
+click(className='android.widget.TextView',instance='13')@*Durch die Verwendung von Ortsdiensten gibst Du Daten preis.
+click(className='android.widget.TextView',instance='4')@Deutsch
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='13')@Ich teile meine Gerätedaten und verbessere damit die Empfehlungen.
+click(className='android.widget.TextView',instance='6')@Batteriestatus zeigen
+click(className='android.widget.TextView',instance='14')@Empfehlungen erhalten
+click(className='android.widget.TextView',instance='15')@Ich will benachrichtigt werden wenn sich das Laden lohnt.
+click(className='android.widget.TextView',instance='7')@*Ich interessiere mich für den Stromverbrauch meines Smartphones.
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='5')@*Länge und Breite anzeigen.
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='12')@Community beitreten
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='4')@Ortsdaten zeigen
+click(className='android.widget.TextView',instance='9')@Ortsdienste verwenden
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='10')@*Durch die Verwendung von Ortsdiensten gibst Du Daten preis.
+click(className='android.widget.TextView',instance='13')@Ich teile meine Gerätedaten und verbessere damit die Empfehlungen.
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='12')@Ortsdienste verwenden
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='4')@Deutsch
+click(className='android.widget.TextView',instance='5')@*Sprache wählen.
+click(className='android.widget.TextView',instance='8')@*Länge und Breite anzeigen.
+click(className='android.widget.TextView',instance='10')@*Ich interessiere mich für den Stromverbrauch meines Smartphones.
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='9')@Batteriestatus zeigen
+click(className='android.widget.TextView',instance='7')@Ortsdaten zeigen
+back@
+click(className='android.widget.TextView',instance='2')@Online-Modell nicht geladen
+keyevent_back@
+click(className='android.widget.ImageView',instance='2')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@persönlich
+click(resource-id='org.windvolt:id/record_add')@
+click(resource-id='org.windvolt:id/symbol_chooser')@
+edit(resource-id='org.windvolt:id/symbol_edit')@1
+click(className='android.widget.Button',instance='1')@abbrechen
+click(resource-id='org.windvolt:id/record_share')@
+click(resource-id='org.windvolt:id/record_remove')@
+edit(resource-id='org.windvolt:id/position_input')@
+click(className='android.widget.Button',instance='1')@entfernen

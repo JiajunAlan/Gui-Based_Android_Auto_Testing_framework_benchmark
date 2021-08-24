@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,664][1053,1196]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1154]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1154]">
+        <node index="0" text="" resource-id="eu.quelltext.mundraub:id/action_bar_root" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1154]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1154]">
+            <node index="0" text="" resource-id="eu.quelltext.mundraub:id/parentPanel" class="android.support.v7.widget.LinearLayoutCompat" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1154]">
+              <node index="0" text="" resource-id="eu.quelltext.mundraub:id/contentPanel" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1006]">
+                <node index="0" text="" resource-id="eu.quelltext.mundraub:id/scrollView" class="android.widget.FrameLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1006]">
+                  <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,1006]">
+                    <node index="0" text="" resource-id="eu.quelltext.mundraub:id/textSpacerNoTitle" class="android.view.View" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,706][1011,753]" />
+                    <node index="1" text="If you delete the plant, all images and data of the plant on your phone will be lost. If you uploaded the plant, the platform still has the data.&#10;Are you sure you want to delete?" resource-id="android:id/message" class="android.widget.TextView" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,753][1011,1006]" />
+                  </node>
+                </node>
+              </node>
+              <node index="1" text="" resource-id="eu.quelltext.mundraub:id/buttonPanel" class="android.widget.ScrollView" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1006][1011,1154]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1006][1011,1154]">
+                  <node index="0" text="no" resource-id="android:id/button2" class="android.widget.Button" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[643,1017][811,1143]" />
+                  <node index="1" text="yes" resource-id="android:id/button1" class="android.widget.Button" package="eu.quelltext.mundraub" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[811,1017][979,1143]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

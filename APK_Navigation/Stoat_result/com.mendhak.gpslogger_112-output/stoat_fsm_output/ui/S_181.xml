@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,683][1006,1177]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,683][1006,1177]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,683][1006,1177]">
+        <node index="0" text="" resource-id="com.mendhak.gpslogger:id/md_root" class="android.view.View" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,683][1006,1177]">
+          <node index="0" text="" resource-id="com.mendhak.gpslogger:id/md_titleFrame" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,683][1006,849]">
+            <node index="0" text="Server Path" resource-id="com.mendhak.gpslogger:id/md_title" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[137,746][943,817]" />
+          </node>
+          <node index="1" text="" resource-id="com.mendhak.gpslogger:id/md_customViewFrame" class="android.widget.FrameLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,849][1006,1009]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[74,849][1006,1009]">
+              <node NAF="true" index="0" text="" resource-id="android:id/edit" class="android.widget.EditText" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[137,870][943,988]" />
+            </node>
+          </node>
+          <node index="2" text="Cancel" resource-id="com.mendhak.gpslogger:id/md_buttonDefaultNegative" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[583,1030][785,1156]" />
+          <node index="3" text="OK" resource-id="com.mendhak.gpslogger:id/md_buttonDefaultPositive" class="android.widget.TextView" package="com.mendhak.gpslogger" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[785,1030][974,1156]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

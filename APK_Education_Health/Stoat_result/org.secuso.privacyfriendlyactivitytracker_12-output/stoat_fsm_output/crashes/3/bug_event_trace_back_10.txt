@@ -1,0 +1,10 @@
+click(className='android.widget.CheckedTextView',instance='4')@Help
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='0')@Walking
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/next_btn')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

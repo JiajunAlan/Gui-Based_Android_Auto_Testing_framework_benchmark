@@ -1,0 +1,241 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626398394461 count=1000
+:AllowPackage: player.efis.data.zar.aus
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,209.0)
+:Sending Touch (ACTION_UP): 0:(1059.4279,210.78093)
+:Sending Touch (ACTION_DOWN): 0:(725.0,574.0)
+:Sending Touch (ACTION_UP): 0:(715.97577,569.4056)
+:Sending Touch (ACTION_DOWN): 0:(136.0,430.0)
+:Sending Touch (ACTION_UP): 0:(141.77626,430.641)
+:Sending Touch (ACTION_DOWN): 0:(735.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(725.45685,1171.2026)
+:Sending Touch (ACTION_DOWN): 0:(950.0,669.0)
+:Sending Touch (ACTION_UP): 0:(950.75775,666.8785)
+:Sending Touch (ACTION_DOWN): 0:(963.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(963.11865,1687.3505)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(843.0,907.0)
+:Sending Touch (ACTION_UP): 0:(845.54346,903.5916)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1502.0)
+    //[calendar_time:2021-08-04 03:25:27.297  system_uptime:17339538]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(692.16125,1522.2917)
+:Sending Touch (ACTION_DOWN): 0:(768.0,863.0)
+:Sending Touch (ACTION_UP): 0:(774.9032,854.4613)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(499.1745,1639.261)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(505.4135,1334.1871)
+:Sending Touch (ACTION_DOWN): 0:(263.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(266.44022,1712.844)
+:Sending Touch (ACTION_DOWN): 0:(849.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(862.1676,1029.644)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(600.0016,1061.8842)
+:Sending Touch (ACTION_DOWN): 0:(671.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(670.7023,1012.5869)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(736.0,747.0)
+:Sending Touch (ACTION_UP): 0:(734.2356,753.8235)
+:Sending Touch (ACTION_DOWN): 0:(285.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(327.34512,1280.3086)
+:Sending Touch (ACTION_DOWN): 0:(515.0,455.0)
+    //[calendar_time:2021-08-04 03:25:39.521  system_uptime:17351745]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(573.33966,503.0652)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,902.0)
+:Sending Touch (ACTION_UP): 0:(1011.8853,904.07574)
+:Sending Touch (ACTION_DOWN): 0:(624.0,307.0)
+:Sending Touch (ACTION_UP): 0:(656.8706,362.7913)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(673.75415,1785.1108)
+:Sending Touch (ACTION_DOWN): 0:(478.0,317.0)
+:Sending Touch (ACTION_UP): 0:(439.9007,326.4849)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2021-08-04 03:25:50.700  system_uptime:17362923]
+    // Sending event #300
+    //[calendar_time:2021-08-04 03:25:51.202  system_uptime:17363426]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(1027.8552,1337.3661)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(33.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(6.796509,1748.1484)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(457.0,510.0)
+:Sending Touch (ACTION_UP): 0:(393.8639,520.70734)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(484.6869,1184.8568)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+:Sending Touch (ACTION_DOWN): 0:(155.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(153.48143,1499.5247)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2021-08-04 03:26:02.396  system_uptime:17374619]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(834.0,1648.0)
+:Sending Touch (ACTION_UP): 0:(853.5108,1652.4755)
+:Sending Touch (ACTION_DOWN): 0:(667.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(671.1477,1736.5798)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+:Sending Touch (ACTION_DOWN): 0:(318.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(322.22076,988.8117)
+:Sending Touch (ACTION_DOWN): 0:(886.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(894.60657,1093.012)
+:Sending Touch (ACTION_DOWN): 0:(891.0,444.0)
+:Sending Touch (ACTION_UP): 0:(887.73486,449.44766)
+:Sending Touch (ACTION_DOWN): 0:(463.0,449.0)
+:Sending Touch (ACTION_UP): 0:(453.1398,422.21066)
+    // activityResuming(com.google.android.gsf.login)
+    // Rejecting resume of package com.google.android.gsf.login
+:Sending Touch (ACTION_DOWN): 0:(398.0,583.0)
+:Sending Touch (ACTION_UP): 0:(402.529,600.31396)
+:Sending Touch (ACTION_DOWN): 0:(734.0,278.0)
+:Sending Touch (ACTION_UP): 0:(735.4352,267.89716)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(785.9192,1775.0006)
+    //[calendar_time:2021-08-04 03:26:17.606  system_uptime:17389830]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(320.0,1692.0)
+:Sending Touch (ACTION_UP): 0:(328.58487,1678.1382)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(426.3349,1472.9429)
+:Sending Touch (ACTION_DOWN): 0:(272.0,1731.0)
+:Sending Touch (ACTION_UP): 0:(267.26358,1734.4373)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+:Sending Touch (ACTION_DOWN): 0:(742.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(741.73505,1237.9058)
+:Sending Touch (ACTION_DOWN): 0:(60.0,167.0)
+:Sending Touch (ACTION_UP): 0:(66.55968,162.38208)
+:Sending Touch (ACTION_DOWN): 0:(197.0,712.0)
+:Sending Touch (ACTION_UP): 0:(201.98892,707.5183)
+:Sending Touch (ACTION_DOWN): 0:(265.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(265.0183,1205.5486)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,14.0)
+:Sending Touch (ACTION_UP): 0:(1037.415,10.966705)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1404.0)
+:Sending Touch (ACTION_UP): 0:(380.27658,1324.0168)
+:Sending Touch (ACTION_DOWN): 0:(269.0,834.0)
+:Sending Touch (ACTION_UP): 0:(274.18665,839.0891)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(378.0,145.0)
+:Sending Touch (ACTION_UP): 0:(381.979,142.61174)
+    //[calendar_time:2021-08-04 03:26:37.854  system_uptime:17410078]
+    // Sending event #600
+    //[calendar_time:2021-08-04 03:26:38.356  system_uptime:17410580]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(118.0,707.0)
+:Sending Touch (ACTION_UP): 0:(121.54834,719.4004)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(505.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(512.50995,1022.7111)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(159.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(176.77524,1267.1372)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=player.efis.data.zar.aus/player.efis.data.lib.EFISDataPac } in package player.efis.data.zar.aus
+:Sending Touch (ACTION_DOWN): 0:(953.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(948.1537,1634.0704)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(976.58057,1278.5184)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2021-08-04 03:26:55.591  system_uptime:17427814]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(668.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(670.4089,1432.448)
+:Sending Touch (ACTION_DOWN): 0:(868.0,473.0)
+:Sending Touch (ACTION_UP): 0:(869.118,471.67334)
+:Sending Touch (ACTION_DOWN): 0:(769.0,75.0)
+:Sending Touch (ACTION_UP): 0:(770.47754,28.140448)
+    // activityResuming(com.google.android.gsf.login)
+    // Rejecting resume of package com.google.android.gsf.login
+:Sending Touch (ACTION_DOWN): 0:(998.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(1003.72437,1121.8234)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(710.0,959.0)
+:Sending Touch (ACTION_UP): 0:(695.654,877.3928)
+:Sending Touch (ACTION_DOWN): 0:(171.0,244.0)
+:Sending Touch (ACTION_UP): 0:(131.3263,200.6142)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(244.8191,1089.9722)
+:Sending Touch (ACTION_DOWN): 0:(389.0,837.0)
+:Sending Touch (ACTION_UP): 0:(386.20602,837.94977)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(536.7097,1599.6089)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2021-08-04 03:27:10.302  system_uptime:17442526]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(264.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(260.6057,1019.4446)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,545.0)
+:Sending Touch (ACTION_UP): 0:(993.9621,631.0566)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(256.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(254.51785,1566.0265)
+:Sending Touch (ACTION_DOWN): 0:(143.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(107.73176,1274.6946)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(475.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(477.5574,1590.1024)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2021-08-04 03:27:21.000  system_uptime:17453224]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(725.0,702.0)
+:Sending Touch (ACTION_UP): 0:(654.3726,634.98267)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(869.4612,1613.712)
+:Sending Touch (ACTION_DOWN): 0:(346.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(349.33914,1704.0879)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(215.0,53.0)
+:Sending Touch (ACTION_UP): 0:(217.75694,69.689445)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=136091ms (0ms mobile, 0ms wifi, 136091ms not connected)
+// Monkey finished

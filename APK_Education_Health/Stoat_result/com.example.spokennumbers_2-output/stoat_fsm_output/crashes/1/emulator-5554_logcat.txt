@@ -1,0 +1,56 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(17763): FATAL EXCEPTION: main
+E/AndroidRuntime(17763): Process: com.example.spokennumbers, PID: 17763
+E/AndroidRuntime(17763): java.lang.IllegalStateException: Fragment spoken_numbers_ingame_fragment{9d162fa0 (7028373d-ffe6-41ae-9ba2-362e12aa76d8)} not attached to a context.
+E/AndroidRuntime(17763): 	at androidx.fragment.app.Fragment.requireContext(Fragment.java:774)
+E/AndroidRuntime(17763): 	at androidx.fragment.app.Fragment.getResources(Fragment.java:838)
+E/AndroidRuntime(17763): 	at com.example.spokennumbers.spoken_numbers_ingame_fragment$1.onTick(spoken_numbers_ingame_fragment.java:42)
+E/AndroidRuntime(17763): 	at android.os.CountDownTimer$1.handleMessage(CountDownTimer.java:124)
+E/AndroidRuntime(17763): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(17763): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(17763): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(17763): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(17763): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(17763): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(17763): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(17763): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: com.example.spokennumbers
+app code version: 1.1
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 1644521 Realtime: 1644521
+
+** MEMINFO in pid 17763 [com.example.spokennumbers] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3462     3420        0        0     7816     7565      250
+  Dalvik Heap     1677     1480        0        0     4128     3934      194
+ Dalvik Other     1571     1404        0        0                           
+        Stack       76       76        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1341      536       56        0                           
+    .apk mmap      191        0       40        0                           
+    .ttf mmap        6        0        0        0                           
+    .dex mmap     2155      116     1636        0                           
+   Other mmap        7        4        0        0                           
+      Unknown       56       56        0        0                           
+        TOTAL    10546     7092     1736        0    11944    11499      444
+ 
+ Objects
+               Views:       46         ViewRootImpl:        4
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        9        Proxy Binders:       25
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

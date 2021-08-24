@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,680][1053,1180]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,680][1053,1180]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,680][1053,1180]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,680][1032,1180]">
+          <node index="0" text="" resource-id="android:id/customPanel" class="android.widget.FrameLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,680][1032,1030]">
+            <node index="0" text="" resource-id="android:id/custom" class="android.widget.FrameLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,701][1011,1030]">
+              <node index="0" text="" resource-id="" class="android.widget.ScrollView" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,701][1011,1030]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[79,711][1001,1020]">
+                  <node index="0" text="The application has crashed because you encountered a bug. &#10;If you want, you can help the developers by sending the crash report via email. &#10;Note that no sensitive data is contained in the report, just small bits of info on your phone and app configuration/state." resource-id="" class="android.widget.TextView" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[79,711][1001,1020]" />
+                </node>
+              </node>
+            </node>
+          </node>
+          <node index="1" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,1030][1032,1180]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1033][1011,1159]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1033][538,1159]" />
+              <node index="1" text="OK" resource-id="android:id/button1" class="android.widget.Button" package="it.reyboz.bustorino" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[541,1033][1011,1159]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

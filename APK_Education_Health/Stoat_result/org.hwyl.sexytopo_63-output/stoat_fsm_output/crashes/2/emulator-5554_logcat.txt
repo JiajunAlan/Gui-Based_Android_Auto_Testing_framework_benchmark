@@ -1,0 +1,128 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 3924): FATAL EXCEPTION: main
+E/AndroidRuntime( 3924): Process: org.hwyl.sexytopo, PID: 3924
+E/AndroidRuntime( 3924): android.content.res.Resources$NotFoundException: File res/2D.xml from drawable resource ID #0x7f08001e. If the resource you are trying to use is a vector resource, you may be referencing it in an unsupported way. See AppCompatDelegate.setCompatVectorFromResourcesEnabled() for more info.
+E/AndroidRuntime( 3924): 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+E/AndroidRuntime( 3924): 	at android.content.res.Resources.getDrawable(Resources.java:700)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.MenuItemImpl.getIcon(MenuItemImpl.java:388)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuItemView.initialize(ActionMenuItemView.java:105)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuPresenter.bindItemView(ActionMenuPresenter.java:198)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.BaseMenuPresenter.getItemView(BaseMenuPresenter.java:178)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuPresenter.getItemView(ActionMenuPresenter.java:163)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuPresenter.flagActionItems(ActionMenuPresenter.java:438)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.MenuBuilder.flagActionItems(MenuBuilder.java:1059)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.BaseMenuPresenter.updateMenuView(BaseMenuPresenter.java:87)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuPresenter.updateMenuView(ActionMenuPresenter.java:216)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.BaseMenuPresenter.getMenuView(BaseMenuPresenter.java:72)
+E/AndroidRuntime( 3924): 	at com.android.internal.view.menu.ActionMenuPresenter.getMenuView(ActionMenuPresenter.java:154)
+E/AndroidRuntime( 3924): 	at com.android.internal.widget.ActionBarContextView.initForMode(ActionBarContextView.java:230)
+E/AndroidRuntime( 3924): 	at com.android.internal.policy.impl.PhoneWindow$DecorView.startActionMode(PhoneWindow.java:2422)
+E/AndroidRuntime( 3924): 	at com.android.internal.policy.impl.PhoneWindow$DecorView.startActionModeForChild(PhoneWindow.java:2362)
+E/AndroidRuntime( 3924): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime( 3924): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime( 3924): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime( 3924): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime( 3924): 	at android.view.ViewGroup.startActionModeForChild(ViewGroup.java:665)
+E/AndroidRuntime( 3924): 	at android.view.View.startActionMode(View.java:4536)
+E/AndroidRuntime( 3924): 	at android.widget.Editor.startSelectionActionMode(Editor.java:1551)
+E/AndroidRuntime( 3924): 	at android.widget.TextView.performAccessibilityAction(TextView.java:8241)
+E/AndroidRuntime( 3924): 	at android.view.AccessibilityInteractionController.perfromAccessibilityActionUiThread(AccessibilityInteractionController.java:591)
+E/AndroidRuntime( 3924): 	at android.view.AccessibilityInteractionController.access$400(AccessibilityInteractionController.java:49)
+E/AndroidRuntime( 3924): 	at android.view.AccessibilityInteractionController$PrivateHandler.handleMessage(AccessibilityInteractionController.java:974)
+E/AndroidRuntime( 3924): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 3924): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3924): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3924): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3924): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3924): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3924): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3924): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3924): Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #21: invalid drawable tag vector
+E/AndroidRuntime( 3924): 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+E/AndroidRuntime( 3924): 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+E/AndroidRuntime( 3924): 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+E/AndroidRuntime( 3924): 	... 34 more
+E/WindowManager( 5878): 
+E/WindowManager( 5878): android.view.WindowLeaked: Activity org.hwyl.sexytopo.control.activity.ExtendedElevationActivity has leaked window android.widget.LinearLayout{9d37c048 V.E..... ......I. 0,0-200,127} that was originally added here
+E/WindowManager( 5878): 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:348)
+E/WindowManager( 5878): 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:248)
+E/WindowManager( 5878): 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:69)
+E/WindowManager( 5878): 	at androidx.appcompat.widget.TooltipPopup.show(TooltipPopup.java:87)
+E/WindowManager( 5878): 	at androidx.appcompat.widget.TooltipCompatHandler.show(TooltipCompatHandler.java:174)
+E/WindowManager( 5878): 	at androidx.appcompat.widget.TooltipCompatHandler.onLongClick(TooltipCompatHandler.java:123)
+E/WindowManager( 5878): 	at android.view.View.performLongClick(View.java:4474)
+E/WindowManager( 5878): 	at android.widget.TextView.performLongClick(TextView.java:8357)
+E/WindowManager( 5878): 	at android.view.View$CheckForLongPress.run(View.java:18401)
+E/WindowManager( 5878): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/WindowManager( 5878): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/WindowManager( 5878): 	at android.os.Looper.loop(Looper.java:136)
+E/WindowManager( 5878): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/WindowManager( 5878): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/WindowManager( 5878): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/WindowManager( 5878): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/WindowManager( 5878): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/WindowManager( 5878): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 7016): FATAL EXCEPTION: main
+E/AndroidRuntime( 7016): Process: org.hwyl.sexytopo, PID: 7016
+E/AndroidRuntime( 7016): java.lang.IllegalStateException: Could not execute method for android:onClick
+E/AndroidRuntime( 7016): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:414)
+E/AndroidRuntime( 7016): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 7016): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 7016): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 7016): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 7016): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 7016): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 7016): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 7016): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 7016): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 7016): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 7016): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 7016): Caused by: java.lang.reflect.InvocationTargetException
+E/AndroidRuntime( 7016): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 7016): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 7016): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:409)
+E/AndroidRuntime( 7016): 	... 11 more
+E/AndroidRuntime( 7016): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 7016): 	at org.hwyl.sexytopo.control.activity.DeviceActivity.requestPair(DeviceActivity.java:214)
+E/AndroidRuntime( 7016): 	... 14 more
+***********
+package name: org.hwyl.sexytopo
+app code version: 1.6.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 597873 Realtime: 597873
+
+** MEMINFO in pid 7016 [org.hwyl.sexytopo] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3907     3868        0        0     8308     8042      265
+  Dalvik Heap     4472     4320        0        0     6752     6609      143
+ Dalvik Other     1650     1476        0        0                           
+        Stack      104      104        0        0                           
+       Ashmem      308      308        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1458      524       56        0                           
+    .apk mmap      148        0       16        0                           
+    .ttf mmap       92        0       88        0                           
+    .dex mmap     2559      128     1980        0                           
+   Other mmap       15        4        0        0                           
+      Unknown       72       72        0        0                           
+        TOTAL    14789    10804     2144        0    15060    14651      408
+ 
+ Objects
+               Views:       55         ViewRootImpl:        4
+         AppContexts:        5           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       19        Proxy Binders:       21
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

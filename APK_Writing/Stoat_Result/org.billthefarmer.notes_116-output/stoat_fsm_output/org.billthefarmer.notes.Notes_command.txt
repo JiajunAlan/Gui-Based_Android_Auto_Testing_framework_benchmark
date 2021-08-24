@@ -1,0 +1,10 @@
+    1@click(resource-id='android:id/home'):android.widget.ImageView@""
+    3490@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"7.vcf"
+    3@click(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    4@clickLong(resource-id='org.billthefarmer.notes:id/newNote'):android.widget.TextView@""
+    353@click(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    354@clickLong(resource-id='org.billthefarmer.notes:id/saveNote'):android.widget.TextView@""
+    7@click(content-desc='More options'):android.widget.ImageButton@""
+    1679@edit(resource-id='org.billthefarmer.notes:id/text'):android.widget.EditText@"testN:VCARDVERSION:3.0CLASS:PUBLICPRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//ENREV:2012-10-31 02:23:26FN:Troy WolfN:WolfTroyNICKNAME:TJTITLE:Web DeveloperORG:TroyWolf.comADRTYPE=work:7027 N. HickoryKansas CityMO64118ADRTYPE=home:7027 N. HickoryKansas CityMO64118EMAILTYPE=internet,pref:troy@troywolf.comTELTYPE=cell,voice:(816) 739-9653URLTYPE=work:http://www.troywolf.comBDAY:1971-08-13TZ:-06:00END:VCARD"
+    10@menu
+    11@back

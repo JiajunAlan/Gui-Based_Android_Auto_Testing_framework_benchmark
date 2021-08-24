@@ -1,0 +1,260 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626375428741 count=1000
+:AllowPackage: com.wmstein.tourcount
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,989.0)
+:Sending Touch (ACTION_UP): 0:(271.48804,989.3392)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,351.0)
+:Sending Touch (ACTION_UP): 0:(1068.5352,366.43396)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1616.0)
+:Sending Touch (ACTION_UP): 0:(228.28621,1552.1981)
+:Sending Touch (ACTION_DOWN): 0:(794.0,539.0)
+:Sending Touch (ACTION_UP): 0:(794.0762,541.55255)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,292.0)
+:Sending Touch (ACTION_UP): 0:(619.7311,273.64395)
+:Sending Touch (ACTION_DOWN): 0:(309.0,660.0)
+:Sending Touch (ACTION_UP): 0:(308.28156,661.4773)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(754.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(755.60565,1044.8441)
+:Sending Touch (ACTION_DOWN): 0:(246.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(240.04659,1562.7139)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+    //[calendar_time:2021-08-03 21:07:02.005  system_uptime:10036826]
+    // Sending event #100
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.ListSpeciesActivity } in package com.wmstein.tourcount
+:Sending Touch (ACTION_DOWN): 0:(731.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(731.04926,1539.6344)
+:Sending Touch (ACTION_DOWN): 0:(397.0,200.0)
+:Sending Touch (ACTION_UP): 0:(408.94522,182.94699)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(712.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(721.06354,1231.0546)
+:Sending Touch (ACTION_DOWN): 0:(906.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(901.34576,1613.4895)
+:Sending Touch (ACTION_DOWN): 0:(263.0,785.0)
+:Sending Touch (ACTION_UP): 0:(258.55447,791.5058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(629.68243,1150.0161)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2021-08-03 21:07:11.229  system_uptime:10046030]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(146.0,115.0)
+:Sending Touch (ACTION_UP): 0:(159.53166,114.38923)
+    // activityResuming(com.wmstein.tourcount)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(97.0,145.0)
+:Sending Touch (ACTION_UP): 0:(86.94243,147.58902)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.EditMetaActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(332.0,15.0)
+:Sending Touch (ACTION_UP): 0:(280.39496,74.55094)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(944.0,495.0)
+:Sending Touch (ACTION_UP): 0:(990.0809,465.49872)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://media/external/images/media/17 typ=image/png cmp=com.android.gallery/com.android.camera.ViewImage } in package com.android.gallery
+:Sending Touch (ACTION_DOWN): 0:(149.0,1035.0)
+    //[calendar_time:2021-08-03 21:07:20.431  system_uptime:10055232]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(58.838318,1116.2238)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(733.21893,1776.9254)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(465.0,957.0)
+:Sending Touch (ACTION_UP): 0:(468.13477,948.91876)
+:Sending Touch (ACTION_DOWN): 0:(287.0,741.0)
+:Sending Touch (ACTION_UP): 0:(284.69644,738.2071)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2021-08-03 21:07:27.164  system_uptime:10061965]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,747.0)
+:Sending Touch (ACTION_UP): 0:(113.290375,746.14307)
+:Sending Touch (ACTION_DOWN): 0:(467.0,844.0)
+:Sending Touch (ACTION_UP): 0:(466.98914,836.8731)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(581.0771,1172.638)
+:Sending Touch (ACTION_DOWN): 0:(694.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(691.79724,1496.7059)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Flip keyboardOpen=false
+    // activityResuming(com.wmstein.tourcount)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+    // activityResuming(com.wmstein.tourcount)
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.EditMetaActivity } in package com.wmstein.tourcount
+    //[calendar_time:2021-08-03 21:07:36.431  system_uptime:10071231]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(357.0,838.0)
+:Sending Touch (ACTION_UP): 0:(310.40143,864.1254)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(150.0,429.0)
+:Sending Touch (ACTION_UP): 0:(161.42987,446.45792)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(232.36378,1163.4705)
+:Sending Touch (ACTION_DOWN): 0:(44.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1505.8083)
+:Sending Touch (ACTION_DOWN): 0:(751.0,12.0)
+:Sending Touch (ACTION_UP): 0:(768.0698,9.227874)
+:Sending Touch (ACTION_DOWN): 0:(406.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(380.28683,1755.4354)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(634.1537,1756.3793)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(48.0,184.0)
+:Sending Touch (ACTION_UP): 0:(32.558315,191.02457)
+    // activityResuming(com.wmstein.tourcount)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Touch (ACTION_DOWN): 0:(655.0,193.0)
+:Sending Touch (ACTION_UP): 0:(659.6475,197.27336)
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.CountingActivity } in package com.wmstein.tourcount
+:Sending Touch (ACTION_DOWN): 0:(468.0,6.0)
+    //[calendar_time:2021-08-03 21:07:47.673  system_uptime:10082474]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(463.28778,29.17907)
+:Sending Touch (ACTION_DOWN): 0:(246.0,911.0)
+:Sending Touch (ACTION_UP): 0:(238.44643,895.07446)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(91.0,26.0)
+:Sending Touch (ACTION_UP): 0:(69.38517,119.64972)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(741.25464,1382.994)
+:Sending Touch (ACTION_DOWN): 0:(797.0,775.0)
+:Sending Touch (ACTION_UP): 0:(878.0673,656.04755)
+:Sending Touch (ACTION_DOWN): 0:(364.0,562.0)
+:Sending Touch (ACTION_UP): 0:(383.81647,549.6055)
+:Sending Touch (ACTION_DOWN): 0:(716.0,31.0)
+:Sending Touch (ACTION_UP): 0:(707.4641,28.756422)
+:Sending Touch (ACTION_DOWN): 0:(381.0,327.0)
+:Sending Touch (ACTION_UP): 0:(322.49884,282.3836)
+:Sending Touch (ACTION_DOWN): 0:(344.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(275.4189,1708.618)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(198.13235,1568.3413)
+:Sending Touch (ACTION_DOWN): 0:(538.0,1315.0)
+    //[calendar_time:2021-08-03 21:08:00.364  system_uptime:10095165]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(525.1133,1277.1093)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(599.70184,1476.3799)
+:Sending Touch (ACTION_DOWN): 0:(773.0,420.0)
+:Sending Touch (ACTION_UP): 0:(762.53455,405.91925)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(1020.7545,1690.5995)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(238.0,1345.0)
+:Sending Touch (ACTION_UP): 0:(240.63002,1337.7225)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(301.0,132.0)
+:Sending Touch (ACTION_UP): 0:(303.82135,132.23965)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(129.98393,1394.1392)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2021-08-03 21:08:13.123  system_uptime:10107923]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(414.0,91.0)
+:Sending Touch (ACTION_UP): 0:(405.8892,109.106964)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.EditSpecListActivity } in package com.wmstein.tourcount
+:Sending Touch (ACTION_DOWN): 0:(315.0,623.0)
+:Sending Touch (ACTION_UP): 0:(311.91852,622.92456)
+:Sending Touch (ACTION_DOWN): 0:(346.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(339.29657,1650.9143)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1059.0,360.0)
+:Sending Touch (ACTION_UP): 0:(1060.71,362.79395)
+    // activityResuming(com.wmstein.tourcount)
+    // activityResuming(com.wmstein.tourcount)
+:Sending Touch (ACTION_DOWN): 0:(528.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(487.45538,1642.494)
+:Sending Touch (ACTION_DOWN): 0:(973.0,610.0)
+:Sending Touch (ACTION_UP): 0:(966.0448,591.3203)
+    // Allowing start of Intent { cmp=com.wmstein.tourcount/.EditIndividualActivity } in package com.wmstein.tourcount
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(712.0,450.0)
+:Sending Touch (ACTION_UP): 0:(713.8023,448.41403)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.wmstein.tourcount/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.wmstein.tourcount/.WelcomeActivity } in package com.wmstein.tourcount
+:Sending Touch (ACTION_DOWN): 0:(948.0,929.0)
+:Sending Touch (ACTION_UP): 0:(957.7373,922.3488)
+:Sending Touch (ACTION_DOWN): 0:(202.0,45.0)
+:Sending Touch (ACTION_UP): 0:(212.86269,0.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1701.0)
+:Sending Touch (ACTION_UP): 0:(603.2934,1693.0417)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(1012.3201,1657.1211)
+:Sending Touch (ACTION_DOWN): 0:(744.0,299.0)
+    //[calendar_time:2021-08-03 21:08:26.742  system_uptime:10121543]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(722.6965,333.8607)
+:Sending Touch (ACTION_DOWN): 0:(332.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(211.12993,947.4815)
+:Sending Touch (ACTION_DOWN): 0:(181.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(74.4685,1571.0284)
+    // activityResuming(com.wmstein.tourcount)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(769.0,652.0)
+:Sending Touch (ACTION_UP): 0:(776.3138,640.9988)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(107.0,262.0)
+:Sending Touch (ACTION_UP): 0:(110.95762,270.58096)
+:Sending Touch (ACTION_DOWN): 0:(967.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(977.1751,1249.1931)
+:Sending Touch (ACTION_DOWN): 0:(584.0,799.0)
+:Sending Touch (ACTION_UP): 0:(511.45267,862.90454)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=103645ms (0ms mobile, 0ms wifi, 103645ms not connected)
+// Monkey finished

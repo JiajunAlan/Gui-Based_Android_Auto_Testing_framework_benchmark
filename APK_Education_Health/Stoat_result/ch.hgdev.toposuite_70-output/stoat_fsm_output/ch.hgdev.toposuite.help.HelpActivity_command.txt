@@ -1,0 +1,14 @@
+    110@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    111@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    112@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    119@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Polar calculations"
+    120@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Orthogonal calculations"
+    121@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Intersections"
+    122@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Surfaces"
+    123@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Various"
+    124@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Mathematics"
+    10312@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Triangle solver"
+    10313@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Circular curves solver"
+    113@back
+    114@scroll(direction='down')
+    115@scroll(direction='up')

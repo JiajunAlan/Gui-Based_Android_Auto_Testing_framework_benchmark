@@ -1,0 +1,47 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime(10951): FATAL EXCEPTION: main
+E/AndroidRuntime(10951): Process: org.traffxml.roadeagle, PID: 10951
+E/AndroidRuntime(10951): java.lang.RuntimeException: Unable to create application org.traffxml.roadeagle.android.core.RoadEagleApplication: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime(10951): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4347)
+E/AndroidRuntime(10951): 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+E/AndroidRuntime(10951): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+E/AndroidRuntime(10951): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(10951): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(10951): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime(10951): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(10951): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(10951): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime(10951): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime(10951): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime(10951): Caused by: java.lang.IllegalArgumentException: Unknown pattern character 'Y'
+E/AndroidRuntime(10951): 	at java.text.SimpleDateFormat.validatePatternCharacter(SimpleDateFormat.java:314)
+E/AndroidRuntime(10951): 	at java.text.SimpleDateFormat.validatePattern(SimpleDateFormat.java:296)
+E/AndroidRuntime(10951): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:356)
+E/AndroidRuntime(10951): 	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:249)
+E/AndroidRuntime(10951): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.startLog(RoadEagleApplication.java:122)
+E/AndroidRuntime(10951): 	at org.traffxml.roadeagle.android.core.RoadEagleApplication.onCreate(RoadEagleApplication.java:63)
+E/AndroidRuntime(10951): 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1007)
+E/AndroidRuntime(10951): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4344)
+E/AndroidRuntime(10951): 	... 10 more
+E/WindowManager( 1567): Starting window AppWindowToken{9d4413e0 token=Token{9d9e5f20 ActivityRecord{9d2a6180 u0 org.traffxml.roadeagle/.android.ui.MainActivity t446}}} timed out
+E/ActivityManager( 1567): ANR in com.google.android.gms.persistent
+E/ActivityManager( 1567): PID: 10225
+E/ActivityManager( 1567): Reason: Broadcast of Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 cmp=com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver (has extras) }
+E/ActivityManager( 1567): Load: 0.03 / 0.08 / 0.12
+E/ActivityManager( 1567): CPU usage from 10889ms to 877ms ago:
+E/ActivityManager( 1567):   0% 1144/surfaceflinger: 0% user + 0% kernel
+E/ActivityManager( 1567):   0.2% 1567/system_server: 0.1% user + 0% kernel / faults: 12 minor
+E/ActivityManager( 1567):   0% 10128/com.github.uiautomator: 0% user + 0% kernel
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityManager( 1567): CPU usage from 1108ms to 1612ms later:
+E/ActivityManager( 1567): 0% TOTAL: 0% user + 0% kernel
+E/ActivityThread(11045): Failed to find provider info for com.android.calendar
+***********
+package name: org.traffxml.roadeagle
+app code version: 1.0.5
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+No process found for: org.traffxml.roadeagle
+***********

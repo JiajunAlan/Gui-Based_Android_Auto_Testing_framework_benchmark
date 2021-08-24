@@ -1,0 +1,5 @@
+    1381@click(resource-id='org.petero.droidfish:id/white_pieces'):android.widget.TextView@""
+    1386@back
+    1383@click(resource-id='org.petero.droidfish:id/black_pieces'):android.widget.TextView@""
+    1394@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Initial Position"
+    1385@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"

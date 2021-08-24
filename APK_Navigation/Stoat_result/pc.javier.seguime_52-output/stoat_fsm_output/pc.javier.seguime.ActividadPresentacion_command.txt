@@ -1,0 +1,4 @@
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(resource-id='pc.javier.seguime:id/presentacion_boton_anterior'):android.widget.ImageView@""
+    3@click(resource-id='pc.javier.seguime:id/presentacion_boton_siguiente'):android.widget.ImageView@""
+    4@back

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,66][1070,486]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,465]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+        <node index="0" text="" resource-id="ch.hgdev.toposuite:id/content" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,121][1007,178]">
+            <node index="0" text="Save current job" resource-id="ch.hgdev.toposuite:id/title" class="android.widget.TextView" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,121][1007,178]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+        <node index="0" text="" resource-id="ch.hgdev.toposuite:id/content" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]">
+            <node index="0" text="Clear current job" resource-id="ch.hgdev.toposuite:id/title" class="android.widget.TextView" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,339][1049,465]">
+        <node index="0" text="" resource-id="ch.hgdev.toposuite:id/content" class="android.widget.LinearLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,339][1049,465]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][923,430]">
+            <node index="0" text="Share current job" resource-id="ch.hgdev.toposuite:id/title" class="android.widget.TextView" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][923,430]" />
+          </node>
+          <node index="1" text="" resource-id="ch.hgdev.toposuite:id/submenuarrow" class="android.widget.ImageView" package="ch.hgdev.toposuite" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[944,370][1007,433]" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

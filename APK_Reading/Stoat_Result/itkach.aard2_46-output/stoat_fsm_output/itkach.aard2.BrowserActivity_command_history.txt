@@ -1,0 +1,7 @@
+    449@click(resource-id='com.android.browser:id/more'):android.widget.ImageButton@""
+    450@back
+    452@scroll(direction='up')
+    446@click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+    451@scroll(direction='down')
+    448@click(resource-id='com.android.browser:id/tab_switcher'):android.widget.ImageButton@""
+    447@edit(resource-id='com.android.browser:id/url'):android.widget.EditText@"aarddict.org"

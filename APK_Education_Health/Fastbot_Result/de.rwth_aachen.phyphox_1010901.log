@@ -1,0 +1,16 @@
+[1629376540447] Events injected : 1774
+[1629376540447] // Monkey is over!
+[1629376540448] :Sending rotation degree : 0, persist : false
+[1629376540483] Total app activities:
+[1629376540484]    1 com.journeyapps.barcodescanner.CaptureActivity
+[1629376540484]    2 de.rwth_aachen.phyphox.Experiment
+[1629376540484]    3 de.rwth_aachen.phyphox.ExperimentList
+[1629376540484] Explored app activities:
+[1629376540484]    1 de.rwth_aachen.phyphox.Experiment
+[1629376540484]    2 de.rwth_aachen.phyphox.ExperimentList
+[1629376540484] Acitity of Coverage: 66.66667%
+[1629376540484] Activity of Times:
+[1629376540485] de.rwth_aachen.phyphox.ExperimentList     20
+[1629376540485] de.rwth_aachen.phyphox.Experiment    210
+:Dropped : keys=0 pointers=17 trackballs=0 flips=0 rotations=0
+[1629376540504] // Monkey finished

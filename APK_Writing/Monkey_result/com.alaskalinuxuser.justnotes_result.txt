@@ -1,0 +1,259 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626403766473 count=1000
+:AllowPackage: com.alaskalinuxuser.justnotes
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1558.0)
+:Sending Touch (ACTION_UP): 0:(187.67174,1550.2535)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(653.0,719.0)
+:Sending Touch (ACTION_UP): 0:(652.55054,722.9782)
+:Sending Touch (ACTION_DOWN): 0:(177.0,530.0)
+:Sending Touch (ACTION_UP): 0:(213.0625,474.70782)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(194.0,783.0)
+:Sending Touch (ACTION_UP): 0:(192.67426,780.5193)
+:Sending Touch (ACTION_DOWN): 0:(736.0,285.0)
+:Sending Touch (ACTION_UP): 0:(726.2823,259.4892)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(141.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(153.98495,1250.1124)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2021-08-04 04:49:18.388  system_uptime:22370629]
+    // Sending event #100
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,726.0)
+:Sending Touch (ACTION_UP): 0:(844.37885,784.5265)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(952.0,915.0)
+:Sending Touch (ACTION_UP): 0:(953.5742,932.5236)
+:Sending Touch (ACTION_DOWN): 0:(396.0,948.0)
+:Sending Touch (ACTION_UP): 0:(396.04602,939.41895)
+:Sending Touch (ACTION_DOWN): 0:(412.0,435.0)
+:Sending Touch (ACTION_UP): 0:(402.20877,423.94696)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(27.370316,1216.36)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(36.0,459.0)
+    //[calendar_time:2021-08-04 04:49:30.671  system_uptime:22382894]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(0.0,401.13867)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(227.31934,1726.4988)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Allowing start of Intent { cmp=com.alaskalinuxuser.justnotes/.writenote } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(509.0,1233.0)
+:Sending Touch (ACTION_UP): 0:(511.2169,1214.3524)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,52.0)
+:Sending Touch (ACTION_UP): 0:(1003.8114,55.04058)
+:Sending Touch (ACTION_DOWN): 0:(22.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(27.377611,1776.923)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(1072.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1465.3218)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(688.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(697.87805,1229.7579)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(982.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(980.3602,1162.5583)
+:Sending Touch (ACTION_DOWN): 0:(150.0,998.0)
+:Sending Touch (ACTION_UP): 0:(148.10854,1002.6761)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(768.0,1528.0)
+:Sending Touch (ACTION_UP): 0:(785.94403,1593.8315)
+:Sending Touch (ACTION_DOWN): 0:(102.0,871.0)
+    //[calendar_time:2021-08-04 04:49:47.389  system_uptime:22399613]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(94.74146,886.98773)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(871.23267,1516.71)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,334.0)
+:Sending Touch (ACTION_UP): 0:(271.37576,321.26532)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(652.0,661.0)
+:Sending Touch (ACTION_UP): 0:(645.33765,657.89484)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(510.0,250.0)
+:Sending Touch (ACTION_UP): 0:(547.2553,264.6147)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(143.23328,1055.9888)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(545.47906,1024.0902)
+:Sending Touch (ACTION_DOWN): 0:(801.0,920.0)
+:Sending Touch (ACTION_UP): 0:(802.09125,927.70135)
+    //[calendar_time:2021-08-04 04:49:56.530  system_uptime:22408754]
+    // Sending event #400
+    //[calendar_time:2021-08-04 04:49:57.032  system_uptime:22409255]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(7.0,219.0)
+:Sending Touch (ACTION_UP): 0:(34.66558,223.61726)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(428.0,385.0)
+:Sending Touch (ACTION_UP): 0:(429.0213,384.21225)
+:Sending Touch (ACTION_DOWN): 0:(770.0,856.0)
+:Sending Touch (ACTION_UP): 0:(775.64594,846.7872)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(256.0,627.0)
+:Sending Touch (ACTION_UP): 0:(320.87125,640.03345)
+    // activityResuming(com.alaskalinuxuser.justnotes)
+:Sending Touch (ACTION_DOWN): 0:(668.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(739.5855,1608.8268)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(823.94696,1473.328)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.alaskalinuxuser.justnotes/.writenote } in package com.alaskalinuxuser.justnotes
+    //[calendar_time:2021-08-04 04:50:04.188  system_uptime:22416412]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(1010.0,230.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,276.03305)
+:Sending Touch (ACTION_DOWN): 0:(467.0,146.0)
+:Sending Touch (ACTION_UP): 0:(478.1985,142.07779)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,628.0)
+:Sending Touch (ACTION_UP): 0:(258.90738,626.19977)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // activityResuming(com.alaskalinuxuser.justnotes)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(493.8404,1088.5585)
+:Sending Touch (ACTION_DOWN): 0:(731.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(728.26324,1034.9833)
+    //[calendar_time:2021-08-04 04:50:14.881  system_uptime:22427104]
+    // Sending event #600
+    //[calendar_time:2021-08-04 04:50:15.383  system_uptime:22427607]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.alaskalinuxuser.justnotes/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.alaskalinuxuser.justnotes/.MainActivity } in package com.alaskalinuxuser.justnotes
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(799.5231,1556.6897)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1598.0)
+:Sending Touch (ACTION_UP): 0:(658.3311,1469.2258)
+:Sending Touch (ACTION_DOWN): 0:(627.0,58.0)
+:Sending Touch (ACTION_UP): 0:(650.618,54.804047)
+:Sending Touch (ACTION_DOWN): 0:(17.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(16.624706,1020.743)
+:Sending Touch (ACTION_DOWN): 0:(590.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(574.4845,1618.431)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(93.0,925.0)
+:Sending Touch (ACTION_UP): 0:(82.700836,911.3496)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(360.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(344.76117,1592.4215)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2021-08-04 04:50:26.562  system_uptime:22438786]
+    // Sending event #700
+    // Allowing start of Intent { cmp=com.alaskalinuxuser.justnotes/.writenote } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(150.0,1791.0)
+:Sending Touch (ACTION_UP): 0:(161.46126,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(591.0,868.0)
+:Sending Touch (ACTION_UP): 0:(588.9599,861.0897)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(687.0,560.0)
+:Sending Touch (ACTION_UP): 0:(661.18,542.0658)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(132.94707,1108.5765)
+:Sending Touch (ACTION_DOWN): 0:(541.0,140.0)
+:Sending Touch (ACTION_UP): 0:(530.1975,131.1095)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(632.0,672.0)
+:Sending Touch (ACTION_UP): 0:(639.51105,673.4065)
+:Sending Touch (ACTION_DOWN): 0:(109.0,729.0)
+:Sending Touch (ACTION_UP): 0:(108.986565,737.6513)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2021-08-04 04:50:32.689  system_uptime:22444912]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(315.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(314.90836,1220.7452)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(138.47572,1523.2787)
+    // activityResuming(com.alaskalinuxuser.justnotes)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,912.0)
+:Sending Touch (ACTION_UP): 0:(525.19763,911.0385)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(778.65906,1222.3073)
+:Sending Touch (ACTION_DOWN): 0:(575.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(571.97876,1789.3328)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(809.98376,1712.4363)
+:Sending Touch (ACTION_DOWN): 0:(684.0,540.0)
+:Sending Touch (ACTION_UP): 0:(651.4588,546.5971)
+    //[calendar_time:2021-08-04 04:50:42.871  system_uptime:22455094]
+    // Sending event #900
+    //[calendar_time:2021-08-04 04:50:43.373  system_uptime:22455596]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(781.0,563.0)
+:Sending Touch (ACTION_UP): 0:(780.7523,564.2905)
+:Sending Touch (ACTION_DOWN): 0:(548.0,726.0)
+:Sending Touch (ACTION_UP): 0:(557.19556,706.7442)
+:Sending Touch (ACTION_DOWN): 0:(601.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(610.0294,1681.8058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,593.0)
+:Sending Touch (ACTION_UP): 0:(537.74243,591.30194)
+    // Allowing start of Intent { cmp=com.alaskalinuxuser.justnotes/.writenote } in package com.alaskalinuxuser.justnotes
+:Sending Touch (ACTION_DOWN): 0:(664.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(657.6561,1119.9154)
+:Sending Touch (ACTION_DOWN): 0:(278.0,1464.0)
+:Sending Touch (ACTION_UP): 0:(283.16132,1480.7585)
+    // activityResuming(com.alaskalinuxuser.justnotes)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(358.0,324.0)
+:Sending Touch (ACTION_UP): 0:(355.83185,320.24622)
+:Sending Touch (ACTION_DOWN): 0:(331.0,144.0)
+:Sending Touch (ACTION_UP): 0:(324.2874,159.32889)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(200.02164,1046.4751)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=110433ms (0ms mobile, 0ms wifi, 110433ms not connected)
+// Monkey finished

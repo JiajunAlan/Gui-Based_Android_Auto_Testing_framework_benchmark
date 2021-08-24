@@ -1,0 +1,12 @@
+click(className='android.widget.Button',instance='0')@LOGIN
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='3')@Timetable
+click(className='android.widget.CheckedTextView',instance='4')@Events
+click(className='android.widget.TextView',instance='6')@Dismiss
+back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Topics
+click(className='android.widget.CheckedTextView',instance='5')@Documents
+clickLong(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction')@
+clickLong(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction')@
+@

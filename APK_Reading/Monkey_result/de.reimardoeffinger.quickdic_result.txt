@@ -1,0 +1,272 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626401316358 count=1000
+:AllowPackage: de.reimardoeffinger.quickdic
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity } in package de.reimardoeffinger.quickdic
+:Sending Touch (ACTION_DOWN): 0:(220.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(227.00325,1728.4493)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,819.0)
+:Sending Touch (ACTION_UP): 0:(1031.9904,822.66675)
+:Sending Touch (ACTION_DOWN): 0:(448.0,17.0)
+:Sending Touch (ACTION_UP): 0:(453.78537,18.868673)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(784.2403,1444.8026)
+    // activityResuming(com.google.android.gsf.login)
+    // Rejecting resume of package com.google.android.gsf.login
+:Sending Touch (ACTION_DOWN): 0:(389.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(377.5455,1037.1205)
+:Sending Touch (ACTION_DOWN): 0:(610.0,105.0)
+:Sending Touch (ACTION_UP): 0:(603.1326,142.43935)
+:Sending Touch (ACTION_DOWN): 0:(57.0,978.0)
+:Sending Touch (ACTION_UP): 0:(24.864815,964.3918)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(90.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(93.88731,1314.1783)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(303.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(379.3047,1469.6119)
+:Sending Touch (ACTION_DOWN): 0:(323.0,961.0)
+:Sending Touch (ACTION_UP): 0:(337.36316,932.37695)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    //[calendar_time:2021-08-04 04:04:08.598  system_uptime:19660847]
+    // Sending event #100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity } in package de.reimardoeffinger.quickdic
+:Sending Touch (ACTION_DOWN): 0:(691.0,950.0)
+:Sending Touch (ACTION_UP): 0:(690.5177,955.62836)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(281.81818,1604.4711)
+:Sending Touch (ACTION_DOWN): 0:(397.0,871.0)
+:Sending Touch (ACTION_UP): 0:(355.22385,830.6927)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(507.17688,1540.6743)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(124.82104,1220.2432)
+:Sending Touch (ACTION_DOWN): 0:(639.0,1307.0)
+:Sending Touch (ACTION_UP): 0:(647.4286,1292.8583)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(186.28833,1767.669)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(806.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(804.402,1379.1666)
+:Sending Touch (ACTION_DOWN): 0:(656.0,727.0)
+:Sending Touch (ACTION_UP): 0:(637.40625,731.015)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(491.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(498.13354,1150.5052)
+:Sending Touch (ACTION_DOWN): 0:(503.0,195.0)
+:Sending Touch (ACTION_UP): 0:(488.2872,193.49586)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(1045.9429,1419.9037)
+:Sending Touch (ACTION_DOWN): 0:(609.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(596.48956,1480.3633)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2021-08-04 04:04:24.823  system_uptime:19677046]
+    // Sending event #200
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(1014.55005,1581.2161)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,591.0)
+:Sending Touch (ACTION_UP): 0:(429.81458,638.20123)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,487.0)
+:Sending Touch (ACTION_UP): 0:(254.38698,489.52676)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,50.0)
+:Sending Touch (ACTION_UP): 0:(1025.9491,48.310028)
+:Sending Touch (ACTION_DOWN): 0:(208.0,149.0)
+:Sending Touch (ACTION_UP): 0:(190.48193,124.314186)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(747.0,418.0)
+:Sending Touch (ACTION_UP): 0:(693.3025,346.1012)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2021-08-04 04:04:39.814  system_uptime:19692037]
+    // Sending event #300
+    //[calendar_time:2021-08-04 04:04:40.316  system_uptime:19692539]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(495.0,899.0)
+:Sending Touch (ACTION_UP): 0:(486.59033,900.52234)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(818.3878,1339.8376)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(916.0,815.0)
+:Sending Touch (ACTION_UP): 0:(1045.9835,845.7809)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(237.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(238.24937,1153.714)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,697.0)
+:Sending Touch (ACTION_UP): 0:(1026.0557,693.2217)
+:Sending Touch (ACTION_DOWN): 0:(32.0,372.0)
+    //[calendar_time:2021-08-04 04:04:51.536  system_uptime:19703760]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(0.0,391.06223)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(655.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(663.0819,1525.3314)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(940.0,233.0)
+:Sending Touch (ACTION_UP): 0:(939.8173,211.79689)
+:Sending Touch (ACTION_DOWN): 0:(965.0,940.0)
+:Sending Touch (ACTION_UP): 0:(960.4367,931.39026)
+:Sending Touch (ACTION_DOWN): 0:(450.0,563.0)
+:Sending Touch (ACTION_UP): 0:(444.42996,556.5079)
+:Sending Touch (ACTION_DOWN): 0:(184.0,665.0)
+:Sending Touch (ACTION_UP): 0:(186.80063,664.25244)
+:Sending Touch (ACTION_DOWN): 0:(302.0,280.0)
+:Sending Touch (ACTION_UP): 0:(316.63544,293.28375)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,795.0)
+:Sending Touch (ACTION_UP): 0:(284.15298,799.2553)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity } in package de.reimardoeffinger.quickdic
+    //[calendar_time:2021-08-04 04:05:04.215  system_uptime:19716439]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(302.0,1781.0)
+:Sending Touch (ACTION_UP): 0:(296.78067,1780.6302)
+:Sending Touch (ACTION_DOWN): 0:(626.0,85.0)
+:Sending Touch (ACTION_UP): 0:(620.4337,88.54403)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(650.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(625.99896,1639.842)
+:Sending Touch (ACTION_DOWN): 0:(846.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(840.7271,1716.0494)
+:Sending Touch (ACTION_DOWN): 0:(348.0,835.0)
+:Sending Touch (ACTION_UP): 0:(334.48877,719.85944)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1375.0)
+:Sending Touch (ACTION_UP): 0:(1045.1351,1369.8921)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(292.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(290.07468,1499.7384)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2021-08-04 04:05:14.919  system_uptime:19727143]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(321.0,621.0)
+:Sending Touch (ACTION_UP): 0:(332.8797,626.6631)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(672.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(679.61816,1371.3435)
+:Sending Touch (ACTION_DOWN): 0:(587.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(542.97955,1408.6443)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,480.0)
+:Sending Touch (ACTION_UP): 0:(1037.0114,476.59415)
+:Sending Touch (ACTION_DOWN): 0:(783.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(728.9363,1784.6107)
+:Sending Touch (ACTION_DOWN): 0:(256.0,1617.0)
+:Sending Touch (ACTION_UP): 0:(252.59639,1637.2334)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,719.0)
+:Sending Touch (ACTION_UP): 0:(1074.9587,737.6327)
+:Sending Touch (ACTION_DOWN): 0:(949.0,778.0)
+:Sending Touch (ACTION_UP): 0:(948.69977,779.51324)
+:Sending Touch (ACTION_DOWN): 0:(366.0,330.0)
+:Sending Touch (ACTION_UP): 0:(365.93497,315.39142)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2021-08-04 04:05:23.612  system_uptime:19735836]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity } in package de.reimardoeffinger.quickdic
+:Sending Touch (ACTION_DOWN): 0:(482.0,724.0)
+:Sending Touch (ACTION_UP): 0:(482.02875,729.27545)
+:Sending Touch (ACTION_DOWN): 0:(453.0,725.0)
+:Sending Touch (ACTION_UP): 0:(450.19678,720.5012)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,655.0)
+:Sending Touch (ACTION_UP): 0:(1031.921,645.3447)
+:Sending Touch (ACTION_DOWN): 0:(667.0,939.0)
+:Sending Touch (ACTION_UP): 0:(665.2803,939.2363)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1338.0)
+:Sending Touch (ACTION_UP): 0:(1019.2635,1283.2386)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1591.0)
+:Sending Touch (ACTION_UP): 0:(313.89963,1616.659)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity } in package de.reimardoeffinger.quickdic
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2021-08-04 04:05:38.374  system_uptime:19750597]
+    // Sending event #800
+    //[calendar_time:2021-08-04 04:05:38.874  system_uptime:19751098]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(892.0,578.0)
+:Sending Touch (ACTION_UP): 0:(905.3043,568.6596)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1652.0)
+:Sending Touch (ACTION_UP): 0:(204.44427,1673.7765)
+:Sending Touch (ACTION_DOWN): 0:(16.0,134.0)
+:Sending Touch (ACTION_UP): 0:(10.29362,141.42561)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(878.0861,1525.9132)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(1053.5687,1106.439)
+:Sending Touch (ACTION_DOWN): 0:(544.0,790.0)
+:Sending Touch (ACTION_UP): 0:(548.138,784.79663)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(367.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(382.33234,1151.7855)
+:Sending Touch (ACTION_DOWN): 0:(748.0,152.0)
+:Sending Touch (ACTION_UP): 0:(697.00226,192.94304)
+:Sending Touch (ACTION_DOWN): 0:(261.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(276.9824,1352.042)
+:Sending Touch (ACTION_DOWN): 0:(652.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(584.9867,1405.2529)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(537.0,654.0)
+    //[calendar_time:2021-08-04 04:05:48.540  system_uptime:19760763]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(543.3817,770.0274)
+:Sending Touch (ACTION_DOWN): 0:(759.0,336.0)
+:Sending Touch (ACTION_UP): 0:(769.51733,314.6641)
+:Sending Touch (ACTION_DOWN): 0:(23.0,565.0)
+:Sending Touch (ACTION_UP): 0:(143.57745,648.85175)
+:Sending Touch (ACTION_DOWN): 0:(785.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(790.66187,1483.7831)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1503.0)
+:Sending Touch (ACTION_UP): 0:(735.41254,1415.1743)
+:Sending Touch (ACTION_DOWN): 0:(290.0,54.0)
+:Sending Touch (ACTION_UP): 0:(347.60864,21.783356)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Allowing start of Intent { cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryActivity } in package de.reimardoeffinger.quickdic
+:Sending Touch (ACTION_DOWN): 0:(1065.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(1064.7152,1443.8473)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(364.9604,1763.0337)
+    // Allowing start of Intent { cmp=de.reimardoeffinger.quickdic/com.hughes.android.dictionary.HtmlDisplayActivity } in package de.reimardoeffinger.quickdic
+:Sending Touch (ACTION_DOWN): 0:(661.0,550.0)
+:Sending Touch (ACTION_UP): 0:(658.5804,547.67194)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(850.0,625.0)
+:Sending Touch (ACTION_UP): 0:(847.75903,633.42883)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=125129ms (0ms mobile, 0ms wifi, 125129ms not connected)
+// Monkey finished

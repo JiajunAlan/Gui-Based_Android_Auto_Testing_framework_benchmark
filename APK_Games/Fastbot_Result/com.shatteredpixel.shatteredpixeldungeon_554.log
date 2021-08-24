@@ -1,0 +1,3173 @@
+▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ 
+▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░▌     
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌     
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌          ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌     ▐░▌     
+ ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀       ▀
+[1629394503138]  @Version : 2.2.1.0304.2039_git
+[1629394503169] // Monkey : seed=1630438098560 count=1000
+
+
+[1629394503169] // Valid Package: com.shatteredpixel.shatteredpixeldungeon
+[1629394503169] // IncludeCategory : android.intent.category.LAUNCHER
+[1629394503169] // IncludeCategory : android.intent.category.MONKEY
+[1629394503177] // Selecting main activities from category android.intent.category.LAUNCHER
+[1629394503177] //   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+[1629394503177] //   - NOT USING main activity com.android.dialer.DialtactsActivity (from package com.android.dialer)
+[1629394503177] //   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+[1629394503177] //   - NOT USING main activity com.google.android.gms.app.settings.GoogleSettingsActivity (from package com.google.android.gms)
+[1629394503177] //   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+[1629394503177] //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+[1629394503177] //   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.google.android.calendar)
+[1629394503177] //   - NOT USING main activity com.android.deskclock.DeskClock (from package com.android.deskclock)
+[1629394503177] //   - NOT USING main activity com.android.camera.GalleryPicker (from package com.android.gallery)
+[1629394503178] //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+[1629394503178] //   - NOT USING main activity com.android.music.MusicBrowserActivity (from package com.android.music)
+[1629394503178] //   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+[1629394503178] //   - NOT USING main activity com.android.widgetpreview.WidgetPreviewActivity (from package com.android.widgetpreview)
+[1629394503178] //   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+[1629394503178] //   - NOT USING main activity com.android.customlocale2.CustomLocaleActivity (from package com.android.customlocale2)
+[1629394503178] //   - NOT USING main activity com.android.development.Development (from package com.android.development)
+[1629394503178] //   - NOT USING main activity android.app.AliasActivity (from package com.android.development_settings)
+[1629394503178] //   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+[1629394503178] //   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+[1629394503178] //   - NOT USING main activity com.google.android.gms.games.ui.destination.main.MainActivity (from package com.google.android.play.games)
+[1629394503178] //   - NOT USING main activity com.android.quicksearchbox.SearchActivity (from package com.android.quicksearchbox)
+[1629394503179] //   - NOT USING main activity com.android.speechrecorder.SpeechRecorderActivity (from package com.android.speechrecorder)
+[1629394503179] //   + Using main activity com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher (from package com.shatteredpixel.shatteredpixeldungeon)
+[1629394503181] // Selecting main activities from category android.intent.category.MONKEY
+[1629394503181] //   - NOT USING main activity com.android.launcher2.Launcher (from package com.android.launcher)
+[1629394503181] //   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+[1629394503181] //   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+[1629394503181] //   - NOT USING main activity com.google.android.street.Street (from package com.google.android.street)
+[1629394506195] // Special Event: 
+[1629394506196] // Black Widget: 
+[1629394507089] 
+
+[1629394507091] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394507092] fastbot exec shell: 
+[1629394507097] fastbot exec schema: 
+[1629394507098] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394507099]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394507116] Sleep for 0 ms
+[1629394507117] Sleep for 2000 ms
+[1629394507163]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394507171]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394509118] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394509118] Sleep for 0 ms
+[1629394509120] :schema :
+[1629394509122] Sleep for 0 ms
+[1629394509122] Sleep for 2000 ms
+[1629394511123] Sleep for 0 ms
+[1629394511124] Sleep for 500 ms
+[1629394511625] Sleep for 0 ms
+[1629394511806] Exception for get action resouece: g0a3@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=0][throttle=200][, UNVISITED]
+[1629394511807] Exception for get action class: g0a3@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=0][throttle=200][, UNVISITED]
+[1629394511807] *** Get guitree ***
+[1629394511820]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394511821] using nstep-q agent
+[1629394511822] select new action from unvisited
+[1629394511822] current state or current action is null
+[1629394511822] new state visited : 1
+[1629394511823] new action visited : 0
+[1629394511824] *** Making decisions *** 
+[1629394511824] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394511825] New action: g0a3@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=6][throttle=200][]
+[1629394511825] *** Inject event ***
+[1629394511831] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394511835] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394511838] Sleep for 0 ms
+[1629394511838] Sleep for 700 ms
+[1629394512540] Sleep for 0 ms
+[1629394512541] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394512546] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394512699] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394512702] Sleep for 0 ms
+[1629394512703] Sleep for 280 ms
+[1629394512985] Sleep for 0 ms
+[1629394512985] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394512988] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394512991] Sleep for 0 ms
+[1629394512992] Sleep for 216 ms
+[1629394513211] Sleep for 0 ms
+[1629394513212] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394513215] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394513217] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394513219] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394513220] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394513222] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394513223] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394513225] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394513227] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394513228] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394513229] Sleep for 239 ms
+[1629394513471] Sleep for 0 ms
+[1629394513471] :Sending Touch (ACTION_DOWN): 0:(1003.0,287.0)
+[1629394513473] :Sending Touch (ACTION_MOVE): 0:(1003.35016,286.36038)
+[1629394513475] Waiting Event for 50 milliseconds
+[1629394513527] Sleep for 0 ms
+[1629394513528] :Sending Touch (ACTION_MOVE): 0:(1003.3775,285.3727)
+[1629394513529] Waiting Event for 50 milliseconds
+[1629394513583] Sleep for 0 ms
+[1629394513584] :Sending Touch (ACTION_UP): 0:(1005.2426,284.0877)
+[1629394513586] Sleep for 0 ms
+[1629394513587] Sleep for 158 ms
+[1629394513747] Sleep for 0 ms
+[1629394513747] :Sending Touch (ACTION_DOWN): 0:(226.0,1509.0)
+[1629394513749] Waiting Event for 376 milliseconds
+[1629394514128] Sleep for 0 ms
+[1629394514129] :Sending Touch (ACTION_UP): 0:(226.0,1509.0)
+[1629394514130] Sleep for 0 ms
+[1629394514130] Sleep for 248 ms
+[1629394514382] Sleep for 0 ms
+[1629394514383] :Send Key (ACTION_DOWN): 161    // KEYCODE_NUMPAD_EQUALS
+[1629394514386] :Send Key (ACTION_UP): 161    // KEYCODE_NUMPAD_EQUALS
+[1629394514406]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394514412] Sleep for 0 ms
+[1629394514413] Sleep for 140 ms
+[1629394514555] Sleep for 0 ms
+[1629394514556] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394514560] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394514572] Sleep for 0 ms
+[1629394514572] Sleep for 238 ms
+[1629394514812] Sleep for 0 ms
+[1629394514813] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394514817] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394514820] Sleep for 0 ms
+[1629394514820] Sleep for 183 ms
+[1629394515005] Sleep for 0 ms
+[1629394515007] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394515011] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394515015] Sleep for 0 ms
+[1629394515015] Sleep for 253 ms
+[1629394515269] Sleep for 0 ms
+[1629394515272] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394515277] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394515280] Sleep for 0 ms
+[1629394515280] Sleep for 298 ms
+[1629394515581] Sleep for 0 ms
+[1629394515582] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394515584] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394515599] Sleep for 0 ms
+[1629394515600] Sleep for 133 ms
+[1629394515735] Sleep for 0 ms
+[1629394515736] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394515739] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394515745] Sleep for 0 ms
+[1629394515745] Sleep for 500 ms
+[1629394516248] Sleep for 0 ms
+[1629394516249] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394516254] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394516260] Sleep for 0 ms
+[1629394516261] Sleep for 265 ms
+[1629394516502]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394516528] Sleep for 0 ms
+[1629394516530] :Sending Touch (ACTION_DOWN): 0:(605.0,1710.0)
+[1629394516531] :Sending Touch (ACTION_MOVE): 0:(601.3347,1692.5132)
+[1629394516532] Waiting Event for 22 milliseconds
+[1629394516555] Sleep for 0 ms
+[1629394516556] :Sending Touch (ACTION_MOVE): 0:(599.90234,1684.0729)
+[1629394516560] Waiting Event for 22 milliseconds
+[1629394516584] Sleep for 0 ms
+[1629394516586] :Sending Touch (ACTION_MOVE): 0:(592.0478,1673.5004)
+[1629394516589] Waiting Event for 22 milliseconds
+[1629394516613] Sleep for 0 ms
+[1629394516614] :Sending Touch (ACTION_MOVE): 0:(586.6774,1655.37)
+[1629394516615] Waiting Event for 22 milliseconds
+[1629394516639] Sleep for 0 ms
+[1629394516641] :Sending Touch (ACTION_MOVE): 0:(579.2563,1641.5962)
+[1629394516643] Waiting Event for 22 milliseconds
+[1629394516666] Sleep for 0 ms
+[1629394516668] :Sending Touch (ACTION_MOVE): 0:(571.3869,1636.1245)
+[1629394516670] Waiting Event for 22 milliseconds
+[1629394516694] Sleep for 0 ms
+[1629394516695] :Sending Touch (ACTION_MOVE): 0:(567.6915,1620.7206)
+[1629394516697] Waiting Event for 22 milliseconds
+[1629394516721] Sleep for 0 ms
+[1629394516721] :Sending Touch (ACTION_UP): 0:(563.33954,1618.9976)
+[1629394516723] Sleep for 0 ms
+[1629394516725] Sleep for 213 ms
+[1629394516941] Sleep for 0 ms
+[1629394516941] :Sending Touch (ACTION_DOWN): 0:(1072.0,1594.0)
+[1629394516945] :Sending Touch (ACTION_MOVE): 0:(1076.1478,1588.5476)
+[1629394516947] Waiting Event for 50 milliseconds
+[1629394517000] Sleep for 0 ms
+[1629394517001] :Sending Touch (ACTION_MOVE): 0:(1077.7654,1587.9115)
+[1629394517004] Waiting Event for 50 milliseconds
+[1629394517056] Sleep for 0 ms
+[1629394517057] :Sending Touch (ACTION_UP): 0:(1079.8381,1567.4023)
+[1629394517060] Sleep for 0 ms
+[1629394517060] Sleep for 250 ms
+[1629394517314] Sleep for 0 ms
+[1629394517314] Sleep for 0 ms
+[1629394517315] Sleep for 0 ms
+[1629394517315] :Sending rotation degree : 0, persist : false
+[1629394517332] Sleep for 0 ms
+[1629394517332] Sleep for 500 ms
+[1629394517834] Sleep for 0 ms
+[1629394517835] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394517835] fastbot exec shell: 
+[1629394517838] fastbot exec schema: 
+[1629394517839] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394517840]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394517848] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394517848] Sleep for 0 ms
+[1629394517848] Sleep for 2000 ms
+[1629394517851]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394517857]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394519850] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394519850] Sleep for 0 ms
+[1629394519850] :schema :
+[1629394519853] Sleep for 0 ms
+[1629394519855] Sleep for 2000 ms
+[1629394521857] Sleep for 0 ms
+[1629394521857] Sleep for 500 ms
+[1629394522358] Sleep for 0 ms
+[1629394522392] Exception for get action resouece: g0a4@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=6][throttle=0][]
+[1629394522392] Exception for get action class: g0a4@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=6][throttle=0][]
+[1629394522392] *** Get guitree ***
+[1629394522393]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394522393] using nstep-q agent
+[1629394522394] select new action from ucb q value: g0a4@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394522394] current state or current action is null
+[1629394522394] new state visited : 2
+[1629394522395] new action visited : 1
+[1629394522395] *** Making decisions *** 
+[1629394522395] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394522395] New action: g0a4@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394522396] *** Inject event ***
+[1629394522396] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394522401] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394522403] Sleep for 0 ms
+[1629394522403] Sleep for 500 ms
+[1629394522905] Sleep for 0 ms
+[1629394522906] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394522907] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394522911] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394522914] Sleep for 0 ms
+[1629394522916] Sleep for 224 ms
+[1629394523143] Sleep for 0 ms
+[1629394523145] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394523146] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394523147] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394523149] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394523151] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394523153] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394523155] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394523158] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394523161] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394523163] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394523164] Sleep for 193 ms
+[1629394523360] Sleep for 0 ms
+[1629394523361] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394523515] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394523521] Sleep for 0 ms
+[1629394523522] Sleep for 270 ms
+[1629394523794] Sleep for 0 ms
+[1629394523794] :Send Key (ACTION_DOWN): 205    // KEYCODE_MANNER_MODE
+[1629394523797] :Send Key (ACTION_UP): 205    // KEYCODE_MANNER_MODE
+[1629394523799] Sleep for 0 ms
+[1629394523801] Sleep for 230 ms
+[1629394524034] Sleep for 0 ms
+[1629394524035] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394524038] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394524044] Sleep for 0 ms
+[1629394524047] Sleep for 252 ms
+[1629394524301] Sleep for 0 ms
+[1629394524302] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394524306] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394524311] Sleep for 0 ms
+[1629394524311] Sleep for 150 ms
+[1629394524464] Sleep for 0 ms
+[1629394524465] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394524467] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394524470] Sleep for 0 ms
+[1629394524471] Sleep for 294 ms
+[1629394524477]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+[1629394524767] Sleep for 0 ms
+[1629394524768] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394524771] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394524773] Sleep for 0 ms
+[1629394524774] Sleep for 291 ms
+[1629394525066] Sleep for 0 ms
+[1629394525067] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394525071] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394525073] Sleep for 0 ms
+[1629394525074] Sleep for 272 ms
+[1629394525350] Sleep for 0 ms
+[1629394525352] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394525355] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394525357] Sleep for 0 ms
+[1629394525357] Sleep for 168 ms
+[1629394525361]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394525528] Sleep for 0 ms
+[1629394525529] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394525531] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394525533]     //[calendar_time:2021-08-19 13:35:25.533  system_uptime:8795750]
+[1629394525533]     // Sending event #100
+[1629394525533] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394525535] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394525537] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394525539] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394525541] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394525543] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394525545] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394525548] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394525550] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394525552] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394525553] Sleep for 0 ms
+[1629394525555] Sleep for 100 ms
+[1629394525657] Sleep for 0 ms
+[1629394525658] Sleep for 0 ms
+[1629394525659] Sleep for 0 ms
+[1629394525659] :Sending rotation degree : 0, persist : false
+[1629394525709] Sleep for 0 ms
+[1629394525711] Sleep for 500 ms
+[1629394526214] Sleep for 0 ms
+[1629394526215] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394526215] fastbot exec shell: 
+[1629394526220] fastbot exec schema: 
+[1629394526220] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394526222]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394526227] Sleep for 0 ms
+[1629394526228] Sleep for 2000 ms
+[1629394526257]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394526262]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394528230] Sleep for 0 ms
+[1629394528230] :schema :
+[1629394528231] Sleep for 0 ms
+[1629394528232] Sleep for 2000 ms
+[1629394530234] Sleep for 0 ms
+[1629394530235] Sleep for 500 ms
+[1629394530736] Sleep for 0 ms
+[1629394530783] Exception for get action resouece: g0a5@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394530784] Exception for get action class: g0a5@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394530785] *** Get guitree ***
+[1629394530786]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394530786] using nstep-q agent
+[1629394530787] select new action from ucb q value: g0a5@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394530787] current state or current action is null
+[1629394530787] new state visited : 3
+[1629394530787] new action visited : 2
+[1629394530787] *** Making decisions *** 
+[1629394530787] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394530787] New action: g0a5@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394530788] *** Inject event ***
+[1629394530789] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394530794] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394530795] Sleep for 0 ms
+[1629394530796] Sleep for 500 ms
+[1629394531298] Sleep for 0 ms
+[1629394531906] Exception for get action resouece: g0a6@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394531907] Exception for get action class: g0a6@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394531908] *** Get guitree ***
+[1629394531909]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394531910] using nstep-q agent
+[1629394531911] select new action from ucb q value: g0a6@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394531911] new state visited : 4
+[1629394531912] new action visited : 3
+[1629394531912] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394531912] state is saturated, get reward -5.714285714285714
+[1629394531912] *** Making decisions *** 
+[1629394531913] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394531913] New action: g0a6@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394531913] *** Inject event ***
+[1629394531914] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394531919] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394531920] Sleep for 0 ms
+[1629394531921] Sleep for 500 ms
+[1629394532423] Sleep for 0 ms
+[1629394532425] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394532428] :Sending rotation degree : 1, persist : false
+[1629394532482] Sleep for 0 ms
+[1629394532482] Sleep for 209 ms
+[1629394532694] Sleep for 0 ms
+[1629394532696] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394532699] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394532705] Sleep for 0 ms
+[1629394532705] Sleep for 104 ms
+[1629394532811] Sleep for 0 ms
+[1629394532814] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394532817] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394532821] Sleep for 0 ms
+[1629394532821] Sleep for 205 ms
+[1629394533029] Sleep for 0 ms
+[1629394533030] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394533032] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394533034] Sleep for 0 ms
+[1629394533035] Sleep for 138 ms
+[1629394533176] Sleep for 0 ms
+[1629394533177] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394533181] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394533186] Sleep for 0 ms
+[1629394533190] Sleep for 126 ms
+[1629394533318] Sleep for 0 ms
+[1629394533318] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394533321] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394533330] Sleep for 0 ms
+[1629394533332] Sleep for 172 ms
+[1629394533505] Sleep for 0 ms
+[1629394533505] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394533508] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394533510] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394533512] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394533514] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394533515] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394533518] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394533520] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394533521] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394533522] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394533524] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394533525] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394533527] Sleep for 0 ms
+[1629394533527] Sleep for 125 ms
+[1629394533550]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394533654] Sleep for 0 ms
+[1629394533654] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394533657] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394533660] Sleep for 0 ms
+[1629394533661] Sleep for 293 ms
+[1629394533956] Sleep for 0 ms
+[1629394533957] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394533961] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394533969] Sleep for 0 ms
+[1629394533971] Sleep for 200 ms
+[1629394534172] Sleep for 0 ms
+[1629394534174] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394534176] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394534177] Sleep for 0 ms
+[1629394534178] Sleep for 163 ms
+[1629394534181]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629394534343] Sleep for 0 ms
+[1629394534345] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394534347] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394534351] Sleep for 0 ms
+[1629394534352] Sleep for 133 ms
+[1629394534487] Sleep for 0 ms
+[1629394534490] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394534493] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394534496] Sleep for 0 ms
+[1629394534497] Sleep for 127 ms
+[1629394534625] Sleep for 0 ms
+[1629394534627] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394534628] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394534630] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394534631] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394534633] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394534635] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394534636] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394534637] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394534638] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394534640] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394534641] Sleep for 217 ms
+[1629394534859] Sleep for 0 ms
+[1629394534859] :Sending rotation degree : 1, persist : true
+[1629394534878] Sleep for 0 ms
+[1629394534879] Sleep for 165 ms
+[1629394535046] Sleep for 0 ms
+[1629394535047] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394535052] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394535055] Sleep for 0 ms
+[1629394535055] Sleep for 145 ms
+[1629394535201] Sleep for 0 ms
+[1629394535202] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394535207] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394535212] Sleep for 0 ms
+[1629394535212] Sleep for 168 ms
+[1629394535382] Sleep for 0 ms
+[1629394535383] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394535386] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394535388] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394535390] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394535391] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394535393] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394535395] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394535396] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394535397] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394535399] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394535400] Sleep for 298 ms
+[1629394535700] Sleep for 0 ms
+[1629394535701] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394535705] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394535707] Sleep for 0 ms
+[1629394535707] Sleep for 238 ms
+[1629394535947] Sleep for 0 ms
+[1629394535948] :Sending Touch (ACTION_DOWN): 0:(676.0,463.0)
+[1629394535952] Waiting Event for 427 milliseconds
+[1629394536381] Sleep for 0 ms
+[1629394536383] :Sending Touch (ACTION_UP): 0:(676.0,463.0)
+[1629394536385] Sleep for 0 ms
+[1629394536386] Sleep for 162 ms
+[1629394536550] Sleep for 0 ms
+[1629394536551] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394536560] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394536566] Sleep for 0 ms
+[1629394536567] Sleep for 282 ms
+[1629394536850] Sleep for 0 ms
+[1629394536851] Sleep for 0 ms
+[1629394536851] Sleep for 0 ms
+[1629394536852] :Sending rotation degree : 0, persist : false
+[1629394536883] Sleep for 0 ms
+[1629394536883] Sleep for 500 ms
+[1629394537386] Sleep for 0 ms
+[1629394537387] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394537387] fastbot exec shell: 
+[1629394537390] fastbot exec schema: 
+[1629394537391] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394537392]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394537422] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394537422] Sleep for 0 ms
+[1629394537422] Sleep for 2000 ms
+[1629394537428]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394537438]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394539424] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394539424] Sleep for 0 ms
+[1629394539425] :schema :
+[1629394539427] Sleep for 0 ms
+[1629394539428] Sleep for 2000 ms
+[1629394541429] Sleep for 0 ms
+[1629394541429] Sleep for 500 ms
+[1629394541931] Sleep for 0 ms
+[1629394541961] Exception for get action resouece: g0a7@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394541961] Exception for get action class: g0a7@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394541961] *** Get guitree ***
+[1629394541962]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394541962] using nstep-q agent
+[1629394541962] select new action from ucb q value: g0a7@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394541963] current state or current action is null
+[1629394541963] new state visited : 5
+[1629394541963] new action visited : 4
+[1629394541963] *** Making decisions *** 
+[1629394541963] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394541964] New action: g0a7@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394541965] *** Inject event ***
+[1629394541967] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394541970] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394541971] Sleep for 0 ms
+[1629394541971] Sleep for 500 ms
+[1629394542473] Sleep for 0 ms
+[1629394543138] Exception for get action resouece: g0a8@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394543138] Exception for get action class: g0a8@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394543138] *** Get guitree ***
+[1629394543140]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394543140] using nstep-q agent
+[1629394543141] select new action from ucb q value: g0a8@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394543141] new state visited : 6
+[1629394543141] new action visited : 5
+[1629394543141] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394543141] state is saturated, get reward -6.666666666666667
+[1629394543141] update Q value
+[1629394543142] // previous State and action polled
+[1629394543142] *** Making decisions *** 
+[1629394543142] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394543142] New action: g0a8@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394543142] *** Inject event ***
+[1629394543143] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394543145] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394543147] Sleep for 0 ms
+[1629394543148] Sleep for 500 ms
+[1629394543649] Sleep for 0 ms
+[1629394543650] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394543656] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394543659] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394543664] Sleep for 0 ms
+[1629394543665] Sleep for 262 ms
+[1629394543929] Sleep for 0 ms
+[1629394543930] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394543932] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394543935] Sleep for 0 ms
+[1629394543935] Sleep for 275 ms
+[1629394544214] Sleep for 0 ms
+[1629394544214] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394544218] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394544223] Sleep for 0 ms
+[1629394544225] Sleep for 162 ms
+[1629394544389] Sleep for 0 ms
+[1629394544391] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394544394] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394544404] Sleep for 0 ms
+[1629394544405] Sleep for 239 ms
+[1629394544413]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629394544646] Sleep for 0 ms
+[1629394544647] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394544649] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394544651] Sleep for 0 ms
+[1629394544651] Sleep for 142 ms
+[1629394544794] Sleep for 0 ms
+[1629394544795] :Sending Touch (ACTION_DOWN): 0:(686.0,258.0)
+[1629394544797]     //[calendar_time:2021-08-19 13:35:44.797  system_uptime:8815014]
+[1629394544797]     // Sending event #200
+[1629394544797] Waiting Event for 377 milliseconds
+[1629394545177] Sleep for 0 ms
+[1629394545177] :Sending Touch (ACTION_UP): 0:(686.0,258.0)
+[1629394545179] Sleep for 0 ms
+[1629394545179] Sleep for 276 ms
+[1629394545457] Sleep for 0 ms
+[1629394545459] :Sending Touch (ACTION_DOWN): 0:(43.0,303.0)
+[1629394545463] :Sending Touch (ACTION_MOVE): 0:(33.152,302.2022)
+[1629394545465] Waiting Event for 66 milliseconds
+[1629394545534] Sleep for 0 ms
+[1629394545535] :Sending Touch (ACTION_UP): 0:(31.569223,293.97104)
+[1629394545538] Sleep for 0 ms
+[1629394545540] Sleep for 236 ms
+[1629394545780] Sleep for 0 ms
+[1629394545781] :Send Key (ACTION_DOWN): 46    // KEYCODE_R
+[1629394545783] :Send Key (ACTION_UP): 46    // KEYCODE_R
+[1629394545808]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394545811] Sleep for 0 ms
+[1629394545811] Sleep for 220 ms
+[1629394546033] Sleep for 0 ms
+[1629394546035] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394546039] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394546045] Sleep for 0 ms
+[1629394546045] Sleep for 191 ms
+[1629394546240] Sleep for 0 ms
+[1629394546241] Sleep for 0 ms
+[1629394546242] Sleep for 0 ms
+[1629394546244] :Sending rotation degree : 0, persist : false
+[1629394546271] Sleep for 0 ms
+[1629394546272] Sleep for 500 ms
+[1629394546774] Sleep for 0 ms
+[1629394546775] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394546775] fastbot exec shell: 
+[1629394546781] fastbot exec schema: 
+[1629394546781] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394546783]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394546790] Sleep for 0 ms
+[1629394546790] Sleep for 2000 ms
+[1629394546802]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394546822]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394548792] Sleep for 0 ms
+[1629394548792] :schema :
+[1629394548793] Sleep for 0 ms
+[1629394548794] Sleep for 2000 ms
+[1629394550795] Sleep for 0 ms
+[1629394550795] Sleep for 500 ms
+[1629394551296] Sleep for 0 ms
+[1629394551327] Exception for get action resouece: g0a9@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394551327] Exception for get action class: g0a9@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394551328] *** Get guitree ***
+[1629394551328]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394551328] using nstep-q agent
+[1629394551329] select new action from ucb q value: g0a9@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394551329] current state or current action is null
+[1629394551329] new state visited : 7
+[1629394551329] new action visited : 6
+[1629394551329] update Q value
+[1629394551329] // previous State and action polled
+[1629394551330] *** Making decisions *** 
+[1629394551330] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394551330] New action: g0a9@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394551330] *** Inject event ***
+[1629394551331] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394551333] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394551336] Sleep for 0 ms
+[1629394551336] Sleep for 500 ms
+[1629394551837] Sleep for 0 ms
+[1629394552006] Exception for get action resouece: g0a10@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394552007] Exception for get action class: g0a10@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394552007] *** Get guitree ***
+[1629394552009]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394552010] using nstep-q agent
+[1629394552010] select new action from ucb q value: g0a10@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394552010] new state visited : 8
+[1629394552010] new action visited : 7
+[1629394552010] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394552010] state is saturated, get reward -7.2727272727272725
+[1629394552010] update Q value
+[1629394552011] // previous State and action polled
+[1629394552011] *** Making decisions *** 
+[1629394552011] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394552012] New action: g0a10@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394552012] *** Inject event ***
+[1629394552013] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394552015] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394552017] Sleep for 0 ms
+[1629394552017] Sleep for 500 ms
+[1629394552519] Sleep for 0 ms
+[1629394552519] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394552522] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394552528] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394552531] Sleep for 0 ms
+[1629394552533] Sleep for 236 ms
+[1629394552771] Sleep for 0 ms
+[1629394552771] :Sending Touch (ACTION_DOWN): 0:(493.0,961.0)
+[1629394552779] :Sending Touch (ACTION_MOVE): 0:(495.06284,955.5564)
+[1629394552781] Waiting Event for 33 milliseconds
+[1629394552817] Sleep for 0 ms
+[1629394552818] :Sending Touch (ACTION_MOVE): 0:(500.28677,945.5603)
+[1629394552820] Waiting Event for 33 milliseconds
+[1629394552854] Sleep for 0 ms
+[1629394552854] :Sending Touch (ACTION_MOVE): 0:(506.81998,944.3576)
+[1629394552858] Waiting Event for 33 milliseconds
+[1629394552894] Sleep for 0 ms
+[1629394552895] :Sending Touch (ACTION_MOVE): 0:(511.36972,935.383)
+[1629394552897] Waiting Event for 33 milliseconds
+[1629394552932] Sleep for 0 ms
+[1629394552933] :Sending Touch (ACTION_UP): 0:(519.0924,922.16473)
+[1629394552936] Sleep for 0 ms
+[1629394552937] Sleep for 296 ms
+[1629394553236] Sleep for 0 ms
+[1629394553236] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394553240] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394553245] Sleep for 0 ms
+[1629394553246] Sleep for 500 ms
+[1629394553748] Sleep for 0 ms
+[1629394553749] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394553752] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394553758] Sleep for 0 ms
+[1629394553759] Sleep for 292 ms
+[1629394554036]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394554052] Sleep for 0 ms
+[1629394554053] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394554055] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394554058] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394554061] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394554063] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394554064] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394554065] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394554067] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394554068] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394554069] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394554071] Sleep for 124 ms
+[1629394554197] Sleep for 0 ms
+[1629394554197] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394554199] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394554202] Sleep for 0 ms
+[1629394554203] Sleep for 294 ms
+[1629394554499] Sleep for 0 ms
+[1629394554500] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394554503] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394554508] Sleep for 0 ms
+[1629394554509] Sleep for 156 ms
+[1629394554667] Sleep for 0 ms
+[1629394554668] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394554671] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394554676] Sleep for 0 ms
+[1629394554676] Sleep for 103 ms
+[1629394554781] Sleep for 0 ms
+[1629394554782] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394554784] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394554789] Sleep for 0 ms
+[1629394554792] Sleep for 247 ms
+[1629394555042] Sleep for 0 ms
+[1629394555044] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394555046] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394555049] Sleep for 0 ms
+[1629394555051] Sleep for 174 ms
+[1629394555228] Sleep for 0 ms
+[1629394555229] :Sending rotation degree : 1, persist : true
+[1629394555327] Sleep for 0 ms
+[1629394555327] Sleep for 158 ms
+[1629394555486] Sleep for 0 ms
+[1629394555487] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394555716] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394555718] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394555719] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394555720] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394555722] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394555724] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394555727] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394555729] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394555731] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394555734] Sleep for 193 ms
+[1629394555930] Sleep for 0 ms
+[1629394555931] :Sending Touch (ACTION_DOWN): 0:(1053.0,444.0)
+[1629394555932] Waiting Event for 203 milliseconds
+[1629394556137] Sleep for 0 ms
+[1629394556137] :Sending Touch (ACTION_UP): 0:(1053.0,444.0)
+[1629394556141] Sleep for 0 ms
+[1629394556142] Sleep for 184 ms
+[1629394556328] Sleep for 0 ms
+[1629394556329] Sleep for 0 ms
+[1629394556330] Sleep for 0 ms
+[1629394556330] :Sending rotation degree : 0, persist : false
+[1629394556394] Sleep for 0 ms
+[1629394556395] Sleep for 500 ms
+[1629394556897] Sleep for 0 ms
+[1629394556899] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394556899] fastbot exec shell: 
+[1629394556904] fastbot exec schema: 
+[1629394556904] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394556906]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394556916] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394556916] Sleep for 0 ms
+[1629394556917] Sleep for 2000 ms
+[1629394556918]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394556940]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394558919] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394558919] Sleep for 0 ms
+[1629394558920] :schema :
+[1629394558921] Sleep for 0 ms
+[1629394558921] Sleep for 2000 ms
+[1629394560923] Sleep for 0 ms
+[1629394560923] Sleep for 500 ms
+[1629394561425] Sleep for 0 ms
+[1629394561458] Exception for get action resouece: g0a11@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394561458] Exception for get action class: g0a11@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394561458] *** Get guitree ***
+[1629394561462]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394561462] using nstep-q agent
+[1629394561463] select new action from ucb q value: g0a11@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394561464] current state or current action is null
+[1629394561465] new state visited : 9
+[1629394561466] new action visited : 8
+[1629394561466] update Q value
+[1629394561466] // previous State and action polled
+[1629394561466] *** Making decisions *** 
+[1629394561467] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394561467] New action: g0a11@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394561467] *** Inject event ***
+[1629394561468] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394561475] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394561477] Sleep for 0 ms
+[1629394561480] Sleep for 500 ms
+[1629394561981] Sleep for 0 ms
+[1629394561981] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394561986] :Sending Touch (ACTION_DOWN): 0:(335.0,1657.0)
+[1629394561988] :Sending Touch (ACTION_MOVE): 0:(332.4802,1655.977)
+[1629394561989] Waiting Event for 28 milliseconds
+[1629394562018] Sleep for 0 ms
+[1629394562019] :Sending Touch (ACTION_MOVE): 0:(330.82977,1652.2292)
+[1629394562020] Waiting Event for 28 milliseconds
+[1629394562051] Sleep for 0 ms
+[1629394562052] :Sending Touch (ACTION_MOVE): 0:(328.40143,1650.9116)
+[1629394562054] Waiting Event for 28 milliseconds
+[1629394562085] Sleep for 0 ms
+[1629394562085] :Sending Touch (ACTION_MOVE): 0:(328.04266,1650.6069)
+[1629394562089] Waiting Event for 28 milliseconds
+[1629394562118] Sleep for 0 ms
+[1629394562119] :Sending Touch (ACTION_MOVE): 0:(327.80075,1646.7191)
+[1629394562121] Waiting Event for 28 milliseconds
+[1629394562152] Sleep for 0 ms
+[1629394562154] :Sending Touch (ACTION_UP): 0:(324.63947,1643.1376)
+[1629394562156] Sleep for 0 ms
+[1629394562157] Sleep for 179 ms
+[1629394562160]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+[1629394562338] Sleep for 0 ms
+[1629394562338] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394562341] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394562343] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394562345] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394562347] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394562349] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394562350] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394562352] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394562353] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394562355] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394562357] Sleep for 222 ms
+[1629394562581] Sleep for 0 ms
+[1629394562582] :Sending Touch (ACTION_DOWN): 0:(345.0,1157.0)
+[1629394562585] Waiting Event for 229 milliseconds
+[1629394562817] Sleep for 0 ms
+[1629394562818] :Sending Touch (ACTION_UP): 0:(345.0,1157.0)
+[1629394562821] Sleep for 0 ms
+[1629394562821] Sleep for 265 ms
+[1629394563088] Sleep for 0 ms
+[1629394563089] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394563094] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394563098] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394563100]     //[calendar_time:2021-08-19 13:36:03.099  system_uptime:8833317]
+[1629394563100]     // Sending event #300
+[1629394563100] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394563102] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394563103] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394563104] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394563107] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394563112] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394563114] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394563116] Sleep for 231 ms
+[1629394563350] Sleep for 0 ms
+[1629394563350] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394563354] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394563357] Sleep for 0 ms
+[1629394563357] Sleep for 168 ms
+[1629394563527] Sleep for 0 ms
+[1629394563529] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394563530] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394563532] Sleep for 0 ms
+[1629394563534] Sleep for 279 ms
+[1629394563537]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394563816] Sleep for 0 ms
+[1629394563817] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394563819] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394563822] Sleep for 0 ms
+[1629394563823] Sleep for 295 ms
+[1629394564120] Sleep for 0 ms
+[1629394564120] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394564123] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394564126] Sleep for 0 ms
+[1629394564126] Sleep for 191 ms
+[1629394564129]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394564319] Sleep for 0 ms
+[1629394564320] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394564323] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394564326] Sleep for 0 ms
+[1629394564326] Sleep for 126 ms
+[1629394564454] Sleep for 0 ms
+[1629394564454] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394564460] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394564463] Sleep for 0 ms
+[1629394564464] Sleep for 242 ms
+[1629394564709] Sleep for 0 ms
+[1629394564710] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394564713] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394564716] Sleep for 0 ms
+[1629394564718] Sleep for 143 ms
+[1629394564720]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629394564863] Sleep for 0 ms
+[1629394564864] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394564866] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394564869] Sleep for 0 ms
+[1629394564869] Sleep for 190 ms
+[1629394565061] Sleep for 0 ms
+[1629394565063] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394565066] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394565068] Sleep for 0 ms
+[1629394565069] Sleep for 220 ms
+[1629394565291] Sleep for 0 ms
+[1629394565294] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394565298] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394565300] Sleep for 0 ms
+[1629394565300] Sleep for 143 ms
+[1629394565444] Sleep for 0 ms
+[1629394565446] :Sending Touch (ACTION_DOWN): 0:(18.0,79.0)
+[1629394565448] :Sending Touch (ACTION_MOVE): 0:(19.889925,79.0)
+[1629394565450] Waiting Event for 25 milliseconds
+[1629394565477] Sleep for 0 ms
+[1629394565478] :Sending Touch (ACTION_MOVE): 0:(23.355135,79.0)
+[1629394565481] Waiting Event for 25 milliseconds
+[1629394565508] Sleep for 0 ms
+[1629394565509] :Sending Touch (ACTION_MOVE): 0:(23.878338,79.0)
+[1629394565512] Waiting Event for 25 milliseconds
+[1629394565539] Sleep for 0 ms
+[1629394565540] :Sending Touch (ACTION_MOVE): 0:(26.401558,79.0)
+[1629394565544] Waiting Event for 25 milliseconds
+[1629394565571] Sleep for 0 ms
+[1629394565571] :Sending Touch (ACTION_MOVE): 0:(26.8343,79.0)
+[1629394565575] Waiting Event for 25 milliseconds
+[1629394565601] Sleep for 0 ms
+[1629394565602] :Sending Touch (ACTION_MOVE): 0:(28.456255,79.0)
+[1629394565605] Waiting Event for 25 milliseconds
+[1629394565633] Sleep for 0 ms
+[1629394565634] :Sending Touch (ACTION_UP): 0:(33.84196,79.0)
+[1629394565637] Sleep for 0 ms
+[1629394565639] Sleep for 124 ms
+[1629394565765] Sleep for 0 ms
+[1629394565765] :Sending Touch (ACTION_DOWN): 0:(589.0,766.0)
+[1629394565767] Waiting Event for 741 milliseconds
+[1629394566512] Sleep for 0 ms
+[1629394566512] :Sending Touch (ACTION_UP): 0:(589.0,766.0)
+[1629394566516] Sleep for 0 ms
+[1629394566516] Sleep for 125 ms
+[1629394566645] Sleep for 0 ms
+[1629394566646] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394566648] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394566651] Sleep for 0 ms
+[1629394566651] Sleep for 500 ms
+[1629394567152] Sleep for 0 ms
+[1629394567152] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394567156] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394567158] Sleep for 0 ms
+[1629394567158] Sleep for 271 ms
+[1629394567401]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394567432] Sleep for 0 ms
+[1629394567432] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394567435] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394567438] Sleep for 0 ms
+[1629394567440] Sleep for 117 ms
+[1629394567559] Sleep for 0 ms
+[1629394567560] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394567564] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394567567] Sleep for 0 ms
+[1629394567568] Sleep for 100 ms
+[1629394567670] Sleep for 0 ms
+[1629394567671] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394567673] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394567676] Sleep for 0 ms
+[1629394567676] Sleep for 102 ms
+[1629394567781] Sleep for 0 ms
+[1629394567783] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394567786] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394567790] Sleep for 0 ms
+[1629394567791] Sleep for 186 ms
+[1629394567979] Sleep for 0 ms
+[1629394567980] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394567983] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394567985] Sleep for 0 ms
+[1629394567985] Sleep for 138 ms
+[1629394568126] Sleep for 0 ms
+[1629394568128] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394568129] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394568131] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394568132] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394568134] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394568136] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394568138] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394568139] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394568141] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394568142] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394568143] Sleep for 216 ms
+[1629394568362] Sleep for 0 ms
+[1629394568363] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394568365] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394568367] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394568369] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394568372] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394568376] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394568380] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394568381] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394568383] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394568384] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394568385] Sleep for 180 ms
+[1629394568566] Sleep for 0 ms
+[1629394568567] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394568571] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394568576] Sleep for 0 ms
+[1629394568577] Sleep for 289 ms
+[1629394568868] Sleep for 0 ms
+[1629394568869] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394568872] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394568877] Sleep for 0 ms
+[1629394568878] Sleep for 290 ms
+[1629394569171] Sleep for 0 ms
+[1629394569174] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394569177] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394569182] Sleep for 0 ms
+[1629394569182] Sleep for 209 ms
+[1629394569394] Sleep for 0 ms
+[1629394569395] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394569398] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394569399] Sleep for 0 ms
+[1629394569400] Sleep for 112 ms
+[1629394569514] Sleep for 0 ms
+[1629394569515] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394569519] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394569524] Sleep for 0 ms
+[1629394569526] Sleep for 110 ms
+[1629394569638] Sleep for 0 ms
+[1629394569640] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394569646] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394569648] Sleep for 0 ms
+[1629394569649] Sleep for 299 ms
+[1629394569950] Sleep for 0 ms
+[1629394569952] Sleep for 0 ms
+[1629394569954] Sleep for 0 ms
+[1629394569955] :Sending rotation degree : 0, persist : false
+[1629394569982] Sleep for 0 ms
+[1629394569984] Sleep for 500 ms
+[1629394570487] Sleep for 0 ms
+[1629394570488] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394570488] fastbot exec shell: 
+[1629394570494] fastbot exec schema: 
+[1629394570494] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394570495]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394570509] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394570509] Sleep for 0 ms
+[1629394570510]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394570514] Sleep for 2000 ms
+[1629394570515]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394572516] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394572516] Sleep for 0 ms
+[1629394572516] :schema :
+[1629394572518] Sleep for 0 ms
+[1629394572519] Sleep for 2000 ms
+[1629394574520] Sleep for 0 ms
+[1629394574521] Sleep for 500 ms
+[1629394575022] Sleep for 0 ms
+[1629394575058] Exception for get action resouece: g0a12@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394575059] Exception for get action class: g0a12@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394575059] *** Get guitree ***
+[1629394575061]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394575061] using nstep-q agent
+[1629394575061] select new action from ucb q value: g0a12@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394575061] current state or current action is null
+[1629394575063] new state visited : 10
+[1629394575063] new action visited : 9
+[1629394575063] update Q value
+[1629394575063] // previous State and action polled
+[1629394575063] *** Making decisions *** 
+[1629394575063] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394575063] New action: g0a12@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394575063] *** Inject event ***
+[1629394575064] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394575067] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394575070] Sleep for 0 ms
+[1629394575071] Sleep for 500 ms
+[1629394575572] Sleep for 0 ms
+[1629394576111] Exception for get action resouece: g0a13@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394576113] Exception for get action class: g0a13@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394576113] *** Get guitree ***
+[1629394576114]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394576114] using nstep-q agent
+[1629394576114] select new action from ucb q value: g0a13@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394576114] new state visited : 11
+[1629394576114] new action visited : 10
+[1629394576114] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394576115] state is saturated, get reward -7.857142857142857
+[1629394576115] update Q value
+[1629394576115] // previous State and action polled
+[1629394576119] // update change value
+[1629394576120] get n step new reward
+[1629394576120] 0step reward is 0.0
+[1629394576120] 1step reward is -5.818181818181818
+[1629394576120] 2step reward is -5.818181818181818
+[1629394576120] 3step reward is -5.818181818181818
+[1629394576120] 4step reward is -9.036467532467533
+[1629394576120] // got reward : -9.036467532467533
+[1629394576120] // got qvalue : 0.0
+[1629394576120] Qt=0.0, Reward=-9.036467532467533, Qt+1=0.0, Qt'=-5.42188051948052
+[1629394576121] *** Making decisions *** 
+[1629394576121] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394576121] New action: g0a13@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394576121] *** Inject event ***
+[1629394576121] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394576124] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394576126] Sleep for 0 ms
+[1629394576126] Sleep for 500 ms
+[1629394576628] Sleep for 0 ms
+[1629394576629] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394576635] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394576636] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394576638] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394576639]     //[calendar_time:2021-08-19 13:36:16.639  system_uptime:8846856]
+[1629394576640]     // Sending event #400
+[1629394576640] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394576641] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394576642] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394576644] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394576645] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394576646] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394576647] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394576648] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394576649] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394576650] Sleep for 0 ms
+[1629394576650] Sleep for 140 ms
+[1629394576794] Sleep for 0 ms
+[1629394576794] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394576796] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394576838] Sleep for 0 ms
+[1629394576840] Sleep for 267 ms
+[1629394577111] Sleep for 0 ms
+[1629394577113] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394577116] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394577119] Sleep for 0 ms
+[1629394577119] Sleep for 208 ms
+[1629394577330] Sleep for 0 ms
+[1629394577331] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394577335] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394577351] Sleep for 0 ms
+[1629394577352] Sleep for 155 ms
+[1629394577508] Sleep for 0 ms
+[1629394577509] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394577513] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394577515] Sleep for 0 ms
+[1629394577515] Sleep for 289 ms
+[1629394577805] Sleep for 0 ms
+[1629394577806] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394577811] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394577814] Sleep for 0 ms
+[1629394577815] Sleep for 142 ms
+[1629394577959] Sleep for 0 ms
+[1629394577961] :Sending Touch (ACTION_DOWN): 0:(283.0,1457.0)
+[1629394577964] Waiting Event for 900 milliseconds
+[1629394578865] Sleep for 0 ms
+[1629394578866] :Sending Touch (ACTION_UP): 0:(283.0,1457.0)
+[1629394578867] Sleep for 0 ms
+[1629394578868] Sleep for 193 ms
+[1629394579063] Sleep for 0 ms
+[1629394579064] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394579066] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394579074] Sleep for 0 ms
+[1629394579074] Sleep for 284 ms
+[1629394579169]     // Rejecting start of Intent { act=android.intent.action.CREATE_SHORTCUT cmp=com.google.android.gm/.CreateShortcutActivityGmail } in package com.google.android.gm
+[1629394579359] Sleep for 0 ms
+[1629394579360] :Sending Touch (ACTION_DOWN): 0:(914.0,1475.0)
+[1629394579366] Waiting Event for 131 milliseconds
+[1629394579498] Sleep for 0 ms
+[1629394579499] :Sending Touch (ACTION_UP): 0:(914.0,1475.0)
+[1629394579502] Sleep for 0 ms
+[1629394579503] Sleep for 294 ms
+[1629394579798] Sleep for 0 ms
+[1629394579800] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394579802] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394579804] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394579806] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394579808] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394579810] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394579811] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394579813] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394579814] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394579816] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394579818] Sleep for 250 ms
+[1629394580071] Sleep for 0 ms
+[1629394580071] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394580075] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394580078] Sleep for 0 ms
+[1629394580079] Sleep for 257 ms
+[1629394580337] Sleep for 0 ms
+[1629394580338] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394580341] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394580346] Sleep for 0 ms
+[1629394580347] Sleep for 104 ms
+[1629394580452] Sleep for 0 ms
+[1629394580453] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394580456] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394580461] Sleep for 0 ms
+[1629394580461] Sleep for 180 ms
+[1629394580643] Sleep for 0 ms
+[1629394580644] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394580648] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394580649] Sleep for 0 ms
+[1629394580651] Sleep for 249 ms
+[1629394580901] Sleep for 0 ms
+[1629394580901] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394580904] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394580907] Sleep for 0 ms
+[1629394580908] Sleep for 256 ms
+[1629394581167] Sleep for 0 ms
+[1629394581168] Sleep for 0 ms
+[1629394581168] Sleep for 0 ms
+[1629394581169] :Sending rotation degree : 0, persist : false
+[1629394581192] Sleep for 0 ms
+[1629394581192] Sleep for 500 ms
+[1629394581696] Sleep for 0 ms
+[1629394581696] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394581697] fastbot exec shell: 
+[1629394581701] fastbot exec schema: 
+[1629394581701] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394581702]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394581711] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394581711] Sleep for 0 ms
+[1629394581711] Sleep for 2000 ms
+[1629394581713]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394581716]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394583713] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394583713] Sleep for 0 ms
+[1629394583714] :schema :
+[1629394583716] Sleep for 0 ms
+[1629394583716] Sleep for 2000 ms
+[1629394585718] Sleep for 0 ms
+[1629394585718] Sleep for 500 ms
+[1629394586219] Sleep for 0 ms
+[1629394586262] Exception for get action resouece: g0a14@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394586262] Exception for get action class: g0a14@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394586262] *** Get guitree ***
+[1629394586262]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394586263] using nstep-q agent
+[1629394586263] select new action from ucb q value: g0a14@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394586263] current state or current action is null
+[1629394586263] new state visited : 12
+[1629394586263] new action visited : 11
+[1629394586264] update Q value
+[1629394586264] // previous State and action polled
+[1629394586264] *** Making decisions *** 
+[1629394586264] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394586264] New action: g0a14@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394586264] *** Inject event ***
+[1629394586265] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394586269] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394586271] Sleep for 0 ms
+[1629394586271] Sleep for 500 ms
+[1629394586774] Sleep for 0 ms
+[1629394586775] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394586781] :Sending Touch (ACTION_DOWN): 0:(821.0,1575.0)
+[1629394586783] Waiting Event for 777 milliseconds
+[1629394587564] Sleep for 0 ms
+[1629394587566] :Sending Touch (ACTION_UP): 0:(821.0,1575.0)
+[1629394587568] Sleep for 0 ms
+[1629394587568] Sleep for 214 ms
+[1629394587784] Sleep for 0 ms
+[1629394587786] :Sending Touch (ACTION_DOWN): 0:(910.0,967.0)
+[1629394587788] Waiting Event for 857 milliseconds
+[1629394588648] Sleep for 0 ms
+[1629394588650] :Sending Touch (ACTION_UP): 0:(910.0,967.0)
+[1629394588654] Sleep for 0 ms
+[1629394588654] Sleep for 179 ms
+[1629394588835] Sleep for 0 ms
+[1629394588836] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394588841] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394588845] Sleep for 0 ms
+[1629394588847] Sleep for 500 ms
+[1629394589349] Sleep for 0 ms
+[1629394589350] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394589354] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394589359] Sleep for 0 ms
+[1629394589360] Sleep for 108 ms
+[1629394589470] Sleep for 0 ms
+[1629394589470] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394589474] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394589480] Sleep for 0 ms
+[1629394589482] Sleep for 139 ms
+[1629394589622] Sleep for 0 ms
+[1629394589624] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394589626] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394589628] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394589630] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394589631] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394589633] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394589634] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394589636] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394589636] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394589638] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394589639] Sleep for 169 ms
+[1629394589667]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394589810] Sleep for 0 ms
+[1629394589811] Sleep for 0 ms
+[1629394589812] Sleep for 0 ms
+[1629394589812] :Sending rotation degree : 0, persist : false
+[1629394589836] Sleep for 0 ms
+[1629394589837] Sleep for 500 ms
+[1629394590340] Sleep for 0 ms
+[1629394590340] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394590341] fastbot exec shell: 
+[1629394590345] fastbot exec schema: 
+[1629394590345] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394590346]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394590382] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394590382] Sleep for 0 ms
+[1629394590383] Sleep for 2000 ms
+[1629394590385]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394590391]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394592384] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394592384] Sleep for 0 ms
+[1629394592385] :schema :
+[1629394592387] Sleep for 0 ms
+[1629394592388] Sleep for 2000 ms
+[1629394594389] Sleep for 0 ms
+[1629394594389] Sleep for 500 ms
+[1629394594891] Sleep for 0 ms
+[1629394594921] Exception for get action resouece: g0a15@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394594922] Exception for get action class: g0a15@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394594922] *** Get guitree ***
+[1629394594922]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394594923] using nstep-q agent
+[1629394594923] select new action from ucb q value: g0a15@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394594923] current state or current action is null
+[1629394594923] new state visited : 13
+[1629394594923] new action visited : 12
+[1629394594923] update Q value
+[1629394594923] // previous State and action polled
+[1629394594924] *** Making decisions *** 
+[1629394594924] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394594924] New action: g0a15@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394594924] *** Inject event ***
+[1629394594924] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394594927] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394594929] Sleep for 0 ms
+[1629394594930] Sleep for 500 ms
+[1629394595433] Sleep for 0 ms
+[1629394595434] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394595436] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394595441] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394595445] Sleep for 0 ms
+[1629394595552] Sleep for 234 ms
+[1629394595788] Sleep for 0 ms
+[1629394595788] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394595791] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394595796] Sleep for 0 ms
+[1629394595797] Sleep for 193 ms
+[1629394595991] Sleep for 0 ms
+[1629394595993] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394595995] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394595999] Sleep for 0 ms
+[1629394595999] Sleep for 248 ms
+[1629394596250] Sleep for 0 ms
+[1629394596251] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394596254] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394596257] Sleep for 0 ms
+[1629394596258] Sleep for 278 ms
+[1629394596538] Sleep for 0 ms
+[1629394596539] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394596542] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394596546] Sleep for 0 ms
+[1629394596548] Sleep for 285 ms
+[1629394596835] Sleep for 0 ms
+[1629394596836] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394596839] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394596841] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394596843] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394596845] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394596846] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394596847] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394596848] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394596849] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394596850] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394596852] Sleep for 140 ms
+[1629394596994] Sleep for 0 ms
+[1629394596995] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394596997]     //[calendar_time:2021-08-19 13:36:36.997  system_uptime:8867214]
+[1629394596997]     // Sending event #500
+[1629394596999] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394597000] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394597002] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394597004] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394597005] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394597007] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394597008] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394597009] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394597010] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394597012] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394597013] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394597014] Sleep for 0 ms
+[1629394597015] Sleep for 119 ms
+[1629394597134] Sleep for 0 ms
+[1629394597135] :Sending Touch (ACTION_DOWN): 0:(767.0,1624.0)
+[1629394597138] Waiting Event for 969 milliseconds
+[1629394598108] Sleep for 0 ms
+[1629394598108] :Sending Touch (ACTION_UP): 0:(767.0,1624.0)
+[1629394598112] Sleep for 0 ms
+[1629394598112] Sleep for 217 ms
+[1629394598332] Sleep for 0 ms
+[1629394598333] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394598339] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394598346] Sleep for 0 ms
+[1629394598347] Sleep for 121 ms
+[1629394598469] Sleep for 0 ms
+[1629394598469] Sleep for 0 ms
+[1629394598470] Sleep for 0 ms
+[1629394598471] :Sending rotation degree : 0, persist : false
+[1629394598495] Sleep for 0 ms
+[1629394598495] Sleep for 500 ms
+[1629394598998] Sleep for 0 ms
+[1629394598998] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394598998] fastbot exec shell: 
+[1629394599005] fastbot exec schema: 
+[1629394599005] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394599007]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394599041] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394599041] Sleep for 0 ms
+[1629394599042] Sleep for 2000 ms
+[1629394599043]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394599048]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394601043] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394601043] Sleep for 0 ms
+[1629394601044] :schema :
+[1629394601044] Sleep for 0 ms
+[1629394601045] Sleep for 2000 ms
+[1629394603045] Sleep for 0 ms
+[1629394603046] Sleep for 500 ms
+[1629394603547] Sleep for 0 ms
+[1629394603576] Exception for get action resouece: g0a16@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394603577] Exception for get action class: g0a16@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394603577] *** Get guitree ***
+[1629394603578]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394603579] using nstep-q agent
+[1629394603579] select new action from ucb q value: g0a16@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394603579] current state or current action is null
+[1629394603580] new state visited : 14
+[1629394603580] new action visited : 13
+[1629394603580] update Q value
+[1629394603580] // previous State and action polled
+[1629394603581] *** Making decisions *** 
+[1629394603581] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394603581] New action: g0a16@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394603581] *** Inject event ***
+[1629394603582] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394603586] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394603597] Sleep for 0 ms
+[1629394603597] Sleep for 500 ms
+[1629394604099] Sleep for 0 ms
+[1629394604769] Exception for get action resouece: g0a17@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394604769] Exception for get action class: g0a17@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394604770] *** Get guitree ***
+[1629394604771]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394604771] using nstep-q agent
+[1629394604771] select new action from ucb q value: g0a17@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394604772] new state visited : 15
+[1629394604772] new action visited : 14
+[1629394604772] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394604772] state is saturated, get reward -8.333333333333334
+[1629394604772] update Q value
+[1629394604773] // previous State and action polled
+[1629394604773] *** Making decisions *** 
+[1629394604773] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394604773] New action: g0a17@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394604774] *** Inject event ***
+[1629394604775] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394604777] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394604780] Sleep for 0 ms
+[1629394604780] Sleep for 500 ms
+[1629394605282] Sleep for 0 ms
+[1629394605282] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394605286] :Send Key (ACTION_DOWN): 190    // KEYCODE_BUTTON_3
+[1629394605290] :Send Key (ACTION_UP): 190    // KEYCODE_BUTTON_3
+[1629394605295] Sleep for 0 ms
+[1629394605296] Sleep for 110 ms
+[1629394605408] Sleep for 0 ms
+[1629394605410] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394605413] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394605415] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394605417] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394605418] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394605419] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394605420] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394605421] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394605425] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394605428] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394605429] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394605430] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394605431] Sleep for 0 ms
+[1629394605431] Sleep for 104 ms
+[1629394605537] Sleep for 0 ms
+[1629394605537] :Send Key (ACTION_DOWN): 115    // KEYCODE_CAPS_LOCK
+[1629394605540] :Send Key (ACTION_UP): 115    // KEYCODE_CAPS_LOCK
+[1629394605552] Sleep for 0 ms
+[1629394605553] Sleep for 151 ms
+[1629394605704] Sleep for 0 ms
+[1629394605705] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394605708] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394605710] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394605713] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394605714] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394605715] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394605718] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394605720] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394605722] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394605723] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394605724] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394605726] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394605728] Sleep for 0 ms
+[1629394605729] Sleep for 115 ms
+[1629394605846] Sleep for 0 ms
+[1629394605846] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394606000] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394606004] Sleep for 0 ms
+[1629394606005] Sleep for 217 ms
+[1629394606223] Sleep for 0 ms
+[1629394606223] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394606226] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394606230] Sleep for 0 ms
+[1629394606231] Sleep for 137 ms
+[1629394606369] Sleep for 0 ms
+[1629394606370] :Sending Touch (ACTION_DOWN): 0:(132.0,428.0)
+[1629394606372] :Sending Touch (ACTION_MOVE): 0:(115.24153,421.48038)
+[1629394606374] Waiting Event for 33 milliseconds
+[1629394606410] Sleep for 0 ms
+[1629394606410] :Sending Touch (ACTION_MOVE): 0:(105.0882,416.3519)
+[1629394606414] Waiting Event for 33 milliseconds
+[1629394606449] Sleep for 0 ms
+[1629394606450] :Sending Touch (ACTION_MOVE): 0:(86.68831,400.945)
+[1629394606451] Waiting Event for 33 milliseconds
+[1629394606486] Sleep for 0 ms
+[1629394606487] :Sending Touch (ACTION_MOVE): 0:(70.93498,392.3345)
+[1629394606490] Waiting Event for 33 milliseconds
+[1629394606524] Sleep for 0 ms
+[1629394606525] :Sending Touch (ACTION_UP): 0:(63.11604,377.74353)
+[1629394606528] Sleep for 0 ms
+[1629394606529] Sleep for 110 ms
+[1629394606640] Sleep for 0 ms
+[1629394606641] :Send Key (ACTION_DOWN): 38    // KEYCODE_J
+[1629394606644] :Send Key (ACTION_UP): 38    // KEYCODE_J
+[1629394606659]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394606661] Sleep for 0 ms
+[1629394606662] Sleep for 129 ms
+[1629394606792] Sleep for 0 ms
+[1629394606794] :Send Key (ACTION_DOWN): 135    // KEYCODE_F5
+[1629394606797] :Send Key (ACTION_UP): 135    // KEYCODE_F5
+[1629394606799] Sleep for 0 ms
+[1629394606800] Sleep for 116 ms
+[1629394606918] Sleep for 0 ms
+[1629394606918] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394606922] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394606924] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394606927] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394606928] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394606930] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394606931] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394606932] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394606935] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394606936] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394606937] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394606939] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394606942] Sleep for 0 ms
+[1629394606942] Sleep for 257 ms
+[1629394607201] Sleep for 0 ms
+[1629394607202] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394607205] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394607209] Sleep for 0 ms
+[1629394607210] Sleep for 168 ms
+[1629394607380] Sleep for 0 ms
+[1629394607381] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394607383] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394607386] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394607389] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394607390] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394607393] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394607396] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394607398] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394607399] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394607401] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394607403] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394607405] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394607407] Sleep for 0 ms
+[1629394607408] Sleep for 229 ms
+[1629394607638] Sleep for 0 ms
+[1629394607640] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394607644] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394607647] Sleep for 0 ms
+[1629394607647] Sleep for 183 ms
+[1629394607831] Sleep for 0 ms
+[1629394607832] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394607836] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394607839] Sleep for 0 ms
+[1629394607840] Sleep for 283 ms
+[1629394608125] Sleep for 0 ms
+[1629394608127] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394608130]     //[calendar_time:2021-08-19 13:36:48.130  system_uptime:8878347]
+[1629394608130]     // Sending event #600
+[1629394608130] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394608132] Sleep for 0 ms
+[1629394608133] Sleep for 249 ms
+[1629394608383] Sleep for 0 ms
+[1629394608385] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394608388] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394608390] Sleep for 0 ms
+[1629394608390] Sleep for 248 ms
+[1629394608640] Sleep for 0 ms
+[1629394608641] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394608646] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394608649] Sleep for 0 ms
+[1629394608649] Sleep for 111 ms
+[1629394608763] Sleep for 0 ms
+[1629394608765] Sleep for 0 ms
+[1629394608766] Sleep for 0 ms
+[1629394608767] :Sending rotation degree : 0, persist : false
+[1629394608784] Sleep for 0 ms
+[1629394608784] Sleep for 500 ms
+[1629394609286] Sleep for 0 ms
+[1629394609286] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394609287] fastbot exec shell: 
+[1629394609291] fastbot exec schema: 
+[1629394609291] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394609293]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394609301] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394609301] Sleep for 0 ms
+[1629394609301] Sleep for 2000 ms
+[1629394609303]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394609308]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394611303] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394611304] Sleep for 0 ms
+[1629394611305] :schema :
+[1629394611307] Sleep for 0 ms
+[1629394611308] Sleep for 2000 ms
+[1629394613309] Sleep for 0 ms
+[1629394613309] Sleep for 500 ms
+[1629394613811] Sleep for 0 ms
+[1629394613840] Exception for get action resouece: g0a18@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394613840] Exception for get action class: g0a18@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394613841] *** Get guitree ***
+[1629394613841]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394613841] using nstep-q agent
+[1629394613841] select new action from ucb q value: g0a18@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394613842] current state or current action is null
+[1629394613842] new state visited : 16
+[1629394613842] new action visited : 15
+[1629394613842] update Q value
+[1629394613842] // previous State and action polled
+[1629394613842] *** Making decisions *** 
+[1629394613843] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394613843] New action: g0a18@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394613843] *** Inject event ***
+[1629394613843] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394613846] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394613848] Sleep for 0 ms
+[1629394613848] Sleep for 500 ms
+[1629394614349] Sleep for 0 ms
+[1629394614729] Exception for get action resouece: g0a19@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394614729] Exception for get action class: g0a19@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394614729] *** Get guitree ***
+[1629394614730]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394614731] using nstep-q agent
+[1629394614731] select new action from ucb q value: g0a19@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394614731] new state visited : 17
+[1629394614732] new action visited : 16
+[1629394614732] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394614732] state is saturated, get reward -8.5
+[1629394614732] update Q value
+[1629394614732] // previous State and action polled
+[1629394614732] *** Making decisions *** 
+[1629394614732] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394614733] New action: g0a19@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394614733] *** Inject event ***
+[1629394614734] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394614736] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394614738] Sleep for 0 ms
+[1629394614739] Sleep for 500 ms
+[1629394615241] Sleep for 0 ms
+[1629394615242] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394615245] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394615250] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394615255] Sleep for 0 ms
+[1629394615256] Sleep for 170 ms
+[1629394615429] Sleep for 0 ms
+[1629394615430] :Sending Touch (ACTION_DOWN): 0:(1010.0,1383.0)
+[1629394615432] :Sending Touch (ACTION_MOVE): 0:(1014.16547,1383.5071)
+[1629394615434] Waiting Event for 28 milliseconds
+[1629394615465] Sleep for 0 ms
+[1629394615465] :Sending Touch (ACTION_MOVE): 0:(1021.10065,1385.2803)
+[1629394615469] Waiting Event for 28 milliseconds
+[1629394615498] Sleep for 0 ms
+[1629394615499] :Sending Touch (ACTION_MOVE): 0:(1024.4905,1385.8877)
+[1629394615502] Waiting Event for 28 milliseconds
+[1629394615532] Sleep for 0 ms
+[1629394615534] :Sending Touch (ACTION_MOVE): 0:(1026.8911,1386.504)
+[1629394615536] Waiting Event for 28 milliseconds
+[1629394615565] Sleep for 0 ms
+[1629394615566] :Sending Touch (ACTION_MOVE): 0:(1033.855,1388.5756)
+[1629394615568] Waiting Event for 28 milliseconds
+[1629394615598] Sleep for 0 ms
+[1629394615599] :Sending Touch (ACTION_UP): 0:(1035.4478,1394.9304)
+[1629394615602] Sleep for 0 ms
+[1629394615602] Sleep for 146 ms
+[1629394615750] Sleep for 0 ms
+[1629394615751] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394615905] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394615912] Sleep for 0 ms
+[1629394615914] Sleep for 156 ms
+[1629394616073] Sleep for 0 ms
+[1629394616075] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394616078] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394616080] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394616082] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394616084] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394616085] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394616087] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394616088] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394616091] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394616094] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394616095] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394616097] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394616098] Sleep for 0 ms
+[1629394616098] Sleep for 145 ms
+[1629394616246] Sleep for 0 ms
+[1629394616246] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394616247] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394616249] Sleep for 0 ms
+[1629394616252] Sleep for 257 ms
+[1629394616511] Sleep for 0 ms
+[1629394616512] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394616514] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394616517] Sleep for 0 ms
+[1629394616518] Sleep for 192 ms
+[1629394616712] Sleep for 0 ms
+[1629394616712] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394616715] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394616717] Sleep for 0 ms
+[1629394616717] Sleep for 220 ms
+[1629394616938] Sleep for 0 ms
+[1629394616939] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394616942] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394616944] Sleep for 0 ms
+[1629394616945] Sleep for 209 ms
+[1629394617157] Sleep for 0 ms
+[1629394617158] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394617162] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394617165] Sleep for 0 ms
+[1629394617165] Sleep for 249 ms
+[1629394617416] Sleep for 0 ms
+[1629394617417] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394617422] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394617425] Sleep for 0 ms
+[1629394617426] Sleep for 192 ms
+[1629394617620] Sleep for 0 ms
+[1629394617620] :Send Key (ACTION_DOWN): 232    // KEYCODE_TV_RADIO_SERVICE
+[1629394617623] :Send Key (ACTION_UP): 232    // KEYCODE_TV_RADIO_SERVICE
+[1629394617625] Sleep for 0 ms
+[1629394617626] Sleep for 104 ms
+[1629394617731] Sleep for 0 ms
+[1629394617733] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394617735] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394617737] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394617739] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394617741] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394617742] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394617744] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394617746] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394617747] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394617748] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394617749] Sleep for 143 ms
+[1629394617894] Sleep for 0 ms
+[1629394617895] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394617899] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394617901] Sleep for 0 ms
+[1629394617904] Sleep for 297 ms
+[1629394618202] Sleep for 0 ms
+[1629394618204] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394618208] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394618212] Sleep for 0 ms
+[1629394618214] Sleep for 232 ms
+[1629394618450] Sleep for 0 ms
+[1629394618451] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394618454] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394618456] Sleep for 0 ms
+[1629394618456] Sleep for 286 ms
+[1629394618746] Sleep for 0 ms
+[1629394618747] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394618751] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394618755] Sleep for 0 ms
+[1629394618755] Sleep for 296 ms
+[1629394619053] Sleep for 0 ms
+[1629394619054] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394619057] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394619060] Sleep for 0 ms
+[1629394619061] Sleep for 291 ms
+[1629394619354] Sleep for 0 ms
+[1629394619355] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394619357] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394619361] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394619364] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394619365] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394619366] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394619367] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394619369] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394619370] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394619371] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394619372] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394619373] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394619374] Sleep for 0 ms
+[1629394619375] Sleep for 145 ms
+[1629394619399]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394619521] Sleep for 0 ms
+[1629394619522] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394619530] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394619533] Sleep for 0 ms
+[1629394619533] Sleep for 212 ms
+[1629394619747] Sleep for 0 ms
+[1629394619748] Sleep for 0 ms
+[1629394619748] Sleep for 0 ms
+[1629394619749] :Sending rotation degree : 0, persist : false
+[1629394619771] Sleep for 0 ms
+[1629394619771] Sleep for 500 ms
+[1629394620273] Sleep for 0 ms
+[1629394620274] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394620274] fastbot exec shell: 
+[1629394620277] fastbot exec schema: 
+[1629394620277] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394620278]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394620313] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394620314] Sleep for 0 ms
+[1629394620314] Sleep for 2000 ms
+[1629394620315]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394620326]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394622315] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394622315] Sleep for 0 ms
+[1629394622315] :schema :
+[1629394622317] Sleep for 0 ms
+[1629394622317] Sleep for 2000 ms
+[1629394624318] Sleep for 0 ms
+[1629394624319] Sleep for 500 ms
+[1629394624820] Sleep for 0 ms
+[1629394624852] Exception for get action resouece: g0a20@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394624852] Exception for get action class: g0a20@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394624853] *** Get guitree ***
+[1629394624855]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394624855] using nstep-q agent
+[1629394624855] select new action from ucb q value: g0a20@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394624855] current state or current action is null
+[1629394624855] new state visited : 18
+[1629394624855] new action visited : 17
+[1629394624855] update Q value
+[1629394624856] // previous State and action polled
+[1629394624856] *** Making decisions *** 
+[1629394624856] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394624856] New action: g0a20@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394624856] *** Inject event ***
+[1629394624857] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394624862] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394624864] Sleep for 0 ms
+[1629394624864] Sleep for 500 ms
+[1629394625366] Sleep for 0 ms
+[1629394625367] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394625371] :Sending Touch (ACTION_DOWN): 0:(743.0,1379.0)
+[1629394625373] :Sending Touch (ACTION_MOVE): 0:(741.6193,1367.5015)
+[1629394625375] Waiting Event for 25 milliseconds
+[1629394625401] Sleep for 0 ms
+[1629394625402] :Sending Touch (ACTION_MOVE): 0:(733.31665,1362.3201)
+[1629394625404] Waiting Event for 25 milliseconds
+[1629394625431] Sleep for 0 ms
+[1629394625432] :Sending Touch (ACTION_MOVE): 0:(732.5246,1355.8629)
+[1629394625436] Waiting Event for 25 milliseconds
+[1629394625463]     //[calendar_time:2021-08-19 13:37:05.462  system_uptime:8895680]
+[1629394625463]     // Sending event #700
+[1629394625464] Sleep for 0 ms
+[1629394625465]     //[calendar_time:2021-08-19 13:37:05.465  system_uptime:8895682]
+[1629394625465]     // Sending event #700
+[1629394625465] :Sending Touch (ACTION_MOVE): 0:(723.05035,1344.7709)
+[1629394625469] Waiting Event for 25 milliseconds
+[1629394625495] Sleep for 0 ms
+[1629394625496] :Sending Touch (ACTION_MOVE): 0:(704.5114,1333.0222)
+[1629394625498] Waiting Event for 25 milliseconds
+[1629394625525] Sleep for 0 ms
+[1629394625526] :Sending Touch (ACTION_MOVE): 0:(692.85956,1325.6095)
+[1629394625530] Waiting Event for 25 milliseconds
+[1629394625557] Sleep for 0 ms
+[1629394625558] :Sending Touch (ACTION_UP): 0:(690.81024,1324.9224)
+[1629394625562] Sleep for 0 ms
+[1629394625563] Sleep for 148 ms
+[1629394625713] Sleep for 0 ms
+[1629394625715] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394625719] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394625725] Sleep for 0 ms
+[1629394625726] Sleep for 235 ms
+[1629394625963] Sleep for 0 ms
+[1629394625964] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394625968] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394625970] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394625972] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394625974] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394625975] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394625977] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394625979] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394625980] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394625981] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394625982] Sleep for 113 ms
+[1629394626097] Sleep for 0 ms
+[1629394626098] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394626101] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394626108] Sleep for 0 ms
+[1629394626109] Sleep for 191 ms
+[1629394626302] Sleep for 0 ms
+[1629394626304] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394626306] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394626314] Sleep for 0 ms
+[1629394626314] Sleep for 229 ms
+[1629394626545] Sleep for 0 ms
+[1629394626545] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394626548] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394626553] Sleep for 0 ms
+[1629394626554] Sleep for 101 ms
+[1629394626657] Sleep for 0 ms
+[1629394626657] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394626660] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394626663] Sleep for 0 ms
+[1629394626664] Sleep for 137 ms
+[1629394626804] Sleep for 0 ms
+[1629394626805] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394626807] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394626811] Sleep for 0 ms
+[1629394626812] Sleep for 154 ms
+[1629394626968] Sleep for 0 ms
+[1629394626968] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394626972] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394626974] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394626976] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394626977] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394626979] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394626982] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394626984] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394626985] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394626986] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394626988] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394626989] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394626991] Sleep for 0 ms
+[1629394626992] Sleep for 289 ms
+[1629394627284] Sleep for 0 ms
+[1629394627284] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394627287] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394627290] Sleep for 0 ms
+[1629394627291] Sleep for 124 ms
+[1629394627417] Sleep for 0 ms
+[1629394627418] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394627421] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394627423] Sleep for 0 ms
+[1629394627424] Sleep for 188 ms
+[1629394627614] Sleep for 0 ms
+[1629394627615] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394627618] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394627628] Sleep for 0 ms
+[1629394627629] Sleep for 125 ms
+[1629394627755] Sleep for 0 ms
+[1629394627755] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394627758] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394627764] Sleep for 0 ms
+[1629394627765] Sleep for 264 ms
+[1629394628032] Sleep for 0 ms
+[1629394628033] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394628037] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394628043] Sleep for 0 ms
+[1629394628044] Sleep for 182 ms
+[1629394628227] Sleep for 0 ms
+[1629394628228] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394628230] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394628233] Sleep for 0 ms
+[1629394628235] Sleep for 500 ms
+[1629394628736] Sleep for 0 ms
+[1629394628736] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394628740] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394628744] Sleep for 0 ms
+[1629394628744] Sleep for 158 ms
+[1629394628903] Sleep for 0 ms
+[1629394628904] :Sending Touch (ACTION_DOWN): 0:(361.0,1585.0)
+[1629394628908] :Sending Touch (ACTION_MOVE): 0:(342.85205,1570.9077)
+[1629394628910] Waiting Event for 22 milliseconds
+[1629394628935] Sleep for 0 ms
+[1629394628935] :Sending Touch (ACTION_MOVE): 0:(331.09995,1562.947)
+[1629394628937] Waiting Event for 22 milliseconds
+[1629394628962] Sleep for 0 ms
+[1629394628964] :Sending Touch (ACTION_MOVE): 0:(324.10867,1553.7401)
+[1629394628966] Waiting Event for 22 milliseconds
+[1629394628986]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394628990] Sleep for 0 ms
+[1629394628992] :Sending Touch (ACTION_MOVE): 0:(311.57556,1544.5819)
+[1629394628997] Waiting Event for 22 milliseconds
+[1629394629022] Sleep for 0 ms
+[1629394629023] :Sending Touch (ACTION_MOVE): 0:(311.12753,1535.2208)
+[1629394629025] Waiting Event for 22 milliseconds
+[1629394629049] Sleep for 0 ms
+[1629394629051] :Sending Touch (ACTION_MOVE): 0:(305.67072,1528.4644)
+[1629394629054] Waiting Event for 22 milliseconds
+[1629394629078] Sleep for 0 ms
+[1629394629079] :Sending Touch (ACTION_MOVE): 0:(305.54358,1517.1942)
+[1629394629081] Waiting Event for 22 milliseconds
+[1629394629105] Sleep for 0 ms
+[1629394629106] :Sending Touch (ACTION_UP): 0:(290.1383,1510.3986)
+[1629394629110] Sleep for 0 ms
+[1629394629110] Sleep for 146 ms
+[1629394629259] Sleep for 0 ms
+[1629394629260] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394629262] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394629263] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394629265] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394629267] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394629268] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394629270] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394629271] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394629274] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394629275] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394629277] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394629279] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394629282] Sleep for 0 ms
+[1629394629283] Sleep for 268 ms
+[1629394629553] Sleep for 0 ms
+[1629394629554] :Sending Touch (ACTION_DOWN): 0:(559.0,932.0)
+[1629394629557] :Sending Touch (ACTION_MOVE): 0:(545.8663,938.59015)
+[1629394629560] Waiting Event for 18 milliseconds
+[1629394629581] Sleep for 0 ms
+[1629394629582] :Sending Touch (ACTION_MOVE): 0:(535.8996,942.1661)
+[1629394629584] Waiting Event for 18 milliseconds
+[1629394629604] Sleep for 0 ms
+[1629394629605] :Sending Touch (ACTION_MOVE): 0:(518.83905,944.84326)
+[1629394629608] Waiting Event for 18 milliseconds
+[1629394629628] Sleep for 0 ms
+[1629394629628] :Sending Touch (ACTION_MOVE): 0:(504.84726,955.0518)
+[1629394629630] Waiting Event for 18 milliseconds
+[1629394629650] Sleep for 0 ms
+[1629394629651] :Sending Touch (ACTION_MOVE): 0:(496.48703,961.7183)
+[1629394629654] Waiting Event for 18 milliseconds
+[1629394629674] Sleep for 0 ms
+[1629394629675] :Sending Touch (ACTION_MOVE): 0:(485.52618,972.39264)
+[1629394629677] Waiting Event for 18 milliseconds
+[1629394629697] Sleep for 0 ms
+[1629394629698] :Sending Touch (ACTION_MOVE): 0:(471.5697,977.5618)
+[1629394629700] Waiting Event for 18 milliseconds
+[1629394629719] Sleep for 0 ms
+[1629394629720] :Sending Touch (ACTION_MOVE): 0:(462.9029,979.9177)
+[1629394629724] Waiting Event for 18 milliseconds
+[1629394629744]     //[calendar_time:2021-08-19 13:37:09.743  system_uptime:8899961]
+[1629394629744]     // Sending event #800
+[1629394629745] Sleep for 0 ms
+[1629394629745]     //[calendar_time:2021-08-19 13:37:09.745  system_uptime:8899962]
+[1629394629746]     // Sending event #800
+[1629394629746] :Sending Touch (ACTION_MOVE): 0:(461.9435,989.77136)
+[1629394629748] Waiting Event for 18 milliseconds
+[1629394629767] Sleep for 0 ms
+[1629394629767] :Sending Touch (ACTION_UP): 0:(454.96176,1001.2387)
+[1629394629769] Sleep for 0 ms
+[1629394629770] Sleep for 123 ms
+[1629394629894] Sleep for 0 ms
+[1629394629895] :Sending Touch (ACTION_DOWN): 0:(668.0,405.0)
+[1629394629896] :Sending Touch (ACTION_MOVE): 0:(668.0428,400.03534)
+[1629394629898] Waiting Event for 50 milliseconds
+[1629394629951] Sleep for 0 ms
+[1629394629952] :Sending Touch (ACTION_MOVE): 0:(668.072,393.5537)
+[1629394629953] Waiting Event for 50 milliseconds
+[1629394630004] Sleep for 0 ms
+[1629394630005] :Sending Touch (ACTION_UP): 0:(668.15314,388.57346)
+[1629394630007] Sleep for 0 ms
+[1629394630008] Sleep for 285 ms
+[1629394630294] Sleep for 0 ms
+[1629394630294] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394630301] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394630303] Sleep for 0 ms
+[1629394630303] Sleep for 500 ms
+[1629394630804] Sleep for 0 ms
+[1629394630805] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394630808] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394630812] Sleep for 0 ms
+[1629394630814] Sleep for 284 ms
+[1629394631100] Sleep for 0 ms
+[1629394631100] Sleep for 0 ms
+[1629394631101] Sleep for 0 ms
+[1629394631102] :Sending rotation degree : 0, persist : false
+[1629394631128] Sleep for 0 ms
+[1629394631129] Sleep for 500 ms
+[1629394631630] Sleep for 0 ms
+[1629394631631] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394631631] fastbot exec shell: 
+[1629394631639] fastbot exec schema: 
+[1629394631639] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394631641]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394631662] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394631662] Sleep for 0 ms
+[1629394631664] Sleep for 2000 ms
+[1629394631665]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394631670]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394633665] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394633665] Sleep for 0 ms
+[1629394633666] :schema :
+[1629394633668] Sleep for 0 ms
+[1629394633668] Sleep for 2000 ms
+[1629394635669] Sleep for 0 ms
+[1629394635670] Sleep for 500 ms
+[1629394636171] Sleep for 0 ms
+[1629394636205] Exception for get action resouece: g0a21@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394636205] Exception for get action class: g0a21@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394636206] *** Get guitree ***
+[1629394636208]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394636208] using nstep-q agent
+[1629394636208] select new action from ucb q value: g0a21@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394636208] current state or current action is null
+[1629394636209] new state visited : 19
+[1629394636209] new action visited : 18
+[1629394636209] update Q value
+[1629394636209] // previous State and action polled
+[1629394636210] *** Making decisions *** 
+[1629394636210] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394636210] New action: g0a21@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394636210] *** Inject event ***
+[1629394636211] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394636214] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394636215] Sleep for 0 ms
+[1629394636216] Sleep for 500 ms
+[1629394636718] Sleep for 0 ms
+[1629394636719] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394636720] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394636722] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394636724] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394636726] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394636727] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394636729] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394636730] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394636731] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394636733] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394636735] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394636738] Sleep for 101 ms
+[1629394636895] Sleep for 0 ms
+[1629394636896] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394636917] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394636962] Sleep for 0 ms
+[1629394636963] Sleep for 165 ms
+[1629394637131] Sleep for 0 ms
+[1629394637131] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394637134] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394637137] Sleep for 0 ms
+[1629394637137] Sleep for 136 ms
+[1629394637275] Sleep for 0 ms
+[1629394637276] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394637279] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394637281] Sleep for 0 ms
+[1629394637282]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394637286] Sleep for 109 ms
+[1629394637397] Sleep for 0 ms
+[1629394637398] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394637402] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394637409] Sleep for 0 ms
+[1629394637410] Sleep for 114 ms
+[1629394637526] Sleep for 0 ms
+[1629394637526] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394637530] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394637532] Sleep for 0 ms
+[1629394637534] Sleep for 192 ms
+[1629394637728] Sleep for 0 ms
+[1629394637728] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394637731] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394637733] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394637736] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394637738] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394637739] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394637744] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394637746] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394637748] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394637749] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394637752] Sleep for 161 ms
+[1629394637915] Sleep for 0 ms
+[1629394637915] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394637921] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394637926] Sleep for 0 ms
+[1629394637927] Sleep for 109 ms
+[1629394638038] Sleep for 0 ms
+[1629394638039] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394638041] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394638043] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394638045] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394638046] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394638048] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394638050] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394638052] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394638054] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394638056] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394638057] Sleep for 197 ms
+[1629394638255] Sleep for 0 ms
+[1629394638255] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394638258] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394638261] Sleep for 0 ms
+[1629394638261] Sleep for 213 ms
+[1629394638476] Sleep for 0 ms
+[1629394638477] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394638481] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394638485]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394638487] Sleep for 0 ms
+[1629394638488] Sleep for 101 ms
+[1629394638592] Sleep for 0 ms
+[1629394638594] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394638596] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394638599] Sleep for 0 ms
+[1629394638600] Sleep for 281 ms
+[1629394638884] Sleep for 0 ms
+[1629394638884] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394638888] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394638892] Sleep for 0 ms
+[1629394638895] Sleep for 218 ms
+[1629394638897]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394639114] Sleep for 0 ms
+[1629394639115] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394639119] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394639124] Sleep for 0 ms
+[1629394639125] Sleep for 103 ms
+[1629394639231] Sleep for 0 ms
+[1629394639232] Sleep for 0 ms
+[1629394639234] Sleep for 0 ms
+[1629394639234] :Sending rotation degree : 0, persist : false
+[1629394639269] Sleep for 0 ms
+[1629394639270] Sleep for 500 ms
+[1629394639773] Sleep for 0 ms
+[1629394639774] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394639774] fastbot exec shell: 
+[1629394639777] fastbot exec schema: 
+[1629394639777] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394639778]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394639785] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394639785] Sleep for 0 ms
+[1629394639786] Sleep for 2000 ms
+[1629394639787]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394639792]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394641787] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394641787] Sleep for 0 ms
+[1629394641789] :schema :
+[1629394641791] Sleep for 0 ms
+[1629394641792] Sleep for 2000 ms
+[1629394643794] Sleep for 0 ms
+[1629394643795] Sleep for 500 ms
+[1629394644296] Sleep for 0 ms
+[1629394644324] Exception for get action resouece: g0a22@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394644324] Exception for get action class: g0a22@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394644324] *** Get guitree ***
+[1629394644326]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394644327] using nstep-q agent
+[1629394644329] select new action from ucb q value: g0a22@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394644329] current state or current action is null
+[1629394644330] new state visited : 20
+[1629394644331] new action visited : 19
+[1629394644331] update Q value
+[1629394644332] // previous State and action polled
+[1629394644332] *** Making decisions *** 
+[1629394644332] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394644333] New action: g0a22@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394644333] *** Inject event ***
+[1629394644334] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394644337] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394644340] Sleep for 0 ms
+[1629394644341] Sleep for 500 ms
+[1629394644844] Sleep for 0 ms
+[1629394644845] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394644847] :Send Key (ACTION_DOWN): 160    // KEYCODE_NUMPAD_ENTER
+[1629394644850] :Send Key (ACTION_UP): 160    // KEYCODE_NUMPAD_ENTER
+[1629394644858] Sleep for 0 ms
+[1629394644860] Sleep for 109 ms
+[1629394644976] Sleep for 0 ms
+[1629394644976] :Sending rotation degree : 1, persist : true
+[1629394644996] Sleep for 0 ms
+[1629394644996] Sleep for 160 ms
+[1629394645159] Sleep for 0 ms
+[1629394645160] :Sending rotation degree : 3, persist : true
+[1629394645184] Sleep for 0 ms
+[1629394645185] Sleep for 164 ms
+[1629394645352] Sleep for 0 ms
+[1629394645352] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629394645358] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629394645363] Sleep for 0 ms
+[1629394645363] Sleep for 500 ms
+[1629394645865] Sleep for 0 ms
+[1629394645865] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629394645870] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629394645875] Sleep for 0 ms
+[1629394645875] Sleep for 251 ms
+[1629394646129] Sleep for 0 ms
+[1629394646130] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394646133] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394646135] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394646137] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394646138] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394646140] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394646142] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394646144] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394646146] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394646147] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394646149] Sleep for 123 ms
+[1629394646152]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629394646274] Sleep for 0 ms
+[1629394646275] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394646278] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394646280] Sleep for 0 ms
+[1629394646281] Sleep for 193 ms
+[1629394646475] Sleep for 0 ms
+[1629394646476] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394646480] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394646484] Sleep for 0 ms
+[1629394646484] Sleep for 181 ms
+[1629394646667] Sleep for 0 ms
+[1629394646668] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394646672] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394646677] Sleep for 0 ms
+[1629394646678] Sleep for 132 ms
+[1629394646811] Sleep for 0 ms
+[1629394646812] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394646815]     //[calendar_time:2021-08-19 13:37:26.815  system_uptime:8917032]
+[1629394646815]     // Sending event #900
+[1629394646816] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394646821] Sleep for 0 ms
+[1629394646822] Sleep for 224 ms
+[1629394647049] Sleep for 0 ms
+[1629394647049] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394647054] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394647058] Sleep for 0 ms
+[1629394647060] Sleep for 178 ms
+[1629394647240] Sleep for 0 ms
+[1629394647240] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394647243] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394647247] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394647250] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394647253] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394647255] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394647257] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394647260] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394647261] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394647263] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394647265] Sleep for 111 ms
+[1629394647379] Sleep for 0 ms
+[1629394647379] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394647381] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394647384] Sleep for 0 ms
+[1629394647386] Sleep for 230 ms
+[1629394647618] Sleep for 0 ms
+[1629394647618] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394647620] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394647622] Sleep for 0 ms
+[1629394647622] Sleep for 100 ms
+[1629394647724] Sleep for 0 ms
+[1629394647726] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394647728] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394647730] Sleep for 0 ms
+[1629394647730] Sleep for 126 ms
+[1629394647859] Sleep for 0 ms
+[1629394647861] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394647862] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394647863] Sleep for 0 ms
+[1629394647863] Sleep for 272 ms
+[1629394648136] Sleep for 0 ms
+[1629394648139] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394648143] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394648146] Sleep for 0 ms
+[1629394648146] Sleep for 190 ms
+[1629394648338] Sleep for 0 ms
+[1629394648339] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394648341] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394648347] Sleep for 0 ms
+[1629394648355] Sleep for 177 ms
+[1629394648534] Sleep for 0 ms
+[1629394648535] :Sending Touch (ACTION_DOWN): 0:(661.0,1015.0)
+[1629394648537] :Sending Touch (ACTION_MOVE): 0:(653.16736,1008.1039)
+[1629394648539] Waiting Event for 50 milliseconds
+[1629394648592] Sleep for 0 ms
+[1629394648594] :Sending Touch (ACTION_MOVE): 0:(645.33167,1005.1851)
+[1629394648595] Waiting Event for 50 milliseconds
+[1629394648647] Sleep for 0 ms
+[1629394648648] :Sending Touch (ACTION_UP): 0:(632.4082,993.477)
+[1629394648652] Sleep for 0 ms
+[1629394648652] Sleep for 282 ms
+[1629394648935] Sleep for 0 ms
+[1629394648935] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394648938] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394648941] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394648944] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394648948] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394648951] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394648953] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394648954] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394648958] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394648959] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394648961] Sleep for 160 ms
+[1629394649124] Sleep for 0 ms
+[1629394649125] Sleep for 0 ms
+[1629394649127] Sleep for 0 ms
+[1629394649128] :Sending rotation degree : 0, persist : false
+[1629394649217] Sleep for 0 ms
+[1629394649218] Sleep for 500 ms
+[1629394649719] Sleep for 0 ms
+[1629394649719] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[1629394649719] fastbot exec shell: 
+[1629394649722] fastbot exec schema: 
+[1629394649722] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394649724]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394649746] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394649746] Sleep for 0 ms
+[1629394649747] Sleep for 2000 ms
+[1629394649749]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394649759]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394651749] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394651749] Sleep for 0 ms
+[1629394651749] :schema :
+[1629394651754] Sleep for 0 ms
+[1629394651754] Sleep for 2000 ms
+[1629394653756] Sleep for 0 ms
+[1629394653757] Sleep for 500 ms
+[1629394654258] Sleep for 0 ms
+[1629394654326] Exception for get action resouece: g0a23@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394654330] Exception for get action class: g0a23@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394654334] *** Get guitree ***
+[1629394654336]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394654337] using nstep-q agent
+[1629394654337] select new action from ucb q value: g0a23@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394654337] current state or current action is null
+[1629394654337] new state visited : 21
+[1629394654337] new action visited : 20
+[1629394654337] update Q value
+[1629394654337] // previous State and action polled
+[1629394654337] *** Making decisions *** 
+[1629394654338] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394654338] New action: g0a23@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394654338] *** Inject event ***
+[1629394654340] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394654348] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394654430] Sleep for 0 ms
+[1629394654430] Sleep for 500 ms
+[1629394654932] Sleep for 0 ms
+[1629394655357] Exception for get action resouece: g0a24@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394655357] Exception for get action class: g0a24@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394655357] *** Get guitree ***
+[1629394655358]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394655361] using nstep-q agent
+[1629394655361] select new action from ucb q value: g0a24@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394655362] new state visited : 22
+[1629394655362] new action visited : 21
+[1629394655362] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394655362] state is saturated, get reward -8.8
+[1629394655362] update Q value
+[1629394655362] // previous State and action polled
+[1629394655362] // update change value
+[1629394655362] get n step new reward
+[1629394655362] 0step reward is 0.0
+[1629394655362] 1step reward is 0.0
+[1629394655362] 2step reward is 0.0
+[1629394655362] 3step reward is 0.0
+[1629394655362] 4step reward is -3.604480000000001
+[1629394655362] // got reward : -3.604480000000001
+[1629394655362] // got qvalue : -5.42188051948052
+[1629394655362] Qt=-5.42188051948052, Reward=-3.604480000000001, Qt+1=-5.42188051948052, Qt'=-6.933942857142858
+[1629394655362] *** Making decisions *** 
+[1629394655362] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394655363] New action: g0a24@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394655363] *** Inject event ***
+[1629394655363] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394655368] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394655375] Sleep for 0 ms
+[1629394655376] Sleep for 500 ms
+[1629394655877] Sleep for 0 ms
+[1629394655877] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394655888] :Sending Touch (ACTION_DOWN): 0:(251.0,198.0)
+[1629394655897] Waiting Event for 349 milliseconds
+[1629394656248] Sleep for 0 ms
+[1629394656249] :Sending Touch (ACTION_UP): 0:(251.0,198.0)
+[1629394656251] Sleep for 0 ms
+[1629394656252] Sleep for 292 ms
+[1629394656261]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629394656547] Sleep for 0 ms
+[1629394656548] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394656550] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394656553] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394656555] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394656556] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394656558] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394656559] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394656561] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394656562] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394656564] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394656565] Sleep for 227 ms
+[1629394656795] Sleep for 0 ms
+[1629394656795] :Send Key (ACTION_DOWN): 253    // KEYCODE_TV_AUDIO_DESCRIPTION_MIX_UP
+[1629394656799] :Send Key (ACTION_UP): 253    // KEYCODE_TV_AUDIO_DESCRIPTION_MIX_UP
+[1629394656801] Sleep for 0 ms
+[1629394656801] Sleep for 123 ms
+[1629394656926] Sleep for 0 ms
+[1629394656927] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394656930] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394656932] Sleep for 0 ms
+[1629394656934] Sleep for 280 ms
+[1629394657216] Sleep for 0 ms
+[1629394657218] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394657221] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394657230] Sleep for 0 ms
+[1629394657231] Sleep for 273 ms
+[1629394657505] Sleep for 0 ms
+[1629394657506] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394657509] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394657511] Sleep for 0 ms
+[1629394657511] Sleep for 106 ms
+[1629394657618] Sleep for 0 ms
+[1629394657619] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394657625] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394657628] Sleep for 0 ms
+[1629394657628] Sleep for 273 ms
+[1629394657905] Sleep for 0 ms
+[1629394657906] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394657909] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394657912] Sleep for 0 ms
+[1629394657912] Sleep for 284 ms
+[1629394658199] Sleep for 0 ms
+[1629394658203] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394658205] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394658207] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394658208] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394658209] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394658212] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394658213] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394658215] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394658219] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394658222] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394658224] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394658233] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394658235] Sleep for 0 ms
+[1629394658236] Sleep for 177 ms
+[1629394658416] Sleep for 0 ms
+[1629394658417] :Send Key (ACTION_DOWN): 212    // KEYCODE_EISU
+[1629394658421] :Send Key (ACTION_UP): 212    // KEYCODE_EISU
+[1629394658426] Sleep for 0 ms
+[1629394658426] Sleep for 170 ms
+[1629394658598] Sleep for 0 ms
+[1629394658599] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629394658606] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629394658610] Sleep for 0 ms
+[1629394658610] Sleep for 135 ms
+[1629394658747] Sleep for 0 ms
+[1629394658748] :Sending Touch (ACTION_DOWN): 0:(149.0,1424.0)
+[1629394658749] Waiting Event for 272 milliseconds
+[1629394659025] Sleep for 0 ms
+[1629394659025] :Sending Touch (ACTION_UP): 0:(149.0,1424.0)
+[1629394659028] Sleep for 0 ms
+[1629394659029] Sleep for 146 ms
+[1629394659178] Sleep for 0 ms
+[1629394659180] :Sending Touch (ACTION_DOWN): 0:(176.0,257.0)
+[1629394659181] Waiting Event for 514 milliseconds
+[1629394659699] Sleep for 0 ms
+[1629394659699] :Sending Touch (ACTION_UP): 0:(176.0,257.0)
+[1629394659701] Sleep for 0 ms
+[1629394659702] Sleep for 241 ms
+[1629394659945] Sleep for 0 ms
+[1629394659946] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394659949] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394659951] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394659952] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394659954] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394659955]     //[calendar_time:2021-08-19 13:37:39.955  system_uptime:8930172]
+[1629394659955]     // Sending event #1000
+[1629394659956] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394659957] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394659958] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394659960] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394659961] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394659962] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394659963] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394659964] Sleep for 0 ms
+[1629394659965] Sleep for 200 ms
+[1629394660167] Sleep for 0 ms
+[1629394660168] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394660172] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394660176] Sleep for 0 ms
+[1629394660177] Sleep for 210 ms
+[1629394660391] Sleep for 0 ms
+[1629394660392] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394660396] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394660398] Sleep for 0 ms
+[1629394660399] Sleep for 193 ms
+[1629394660594] Sleep for 0 ms
+[1629394660596] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394660598] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394660602] Sleep for 0 ms
+[1629394660603] Sleep for 152 ms
+[1629394660609]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394660757] Sleep for 0 ms
+[1629394660758] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394660760] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394660763] Sleep for 0 ms
+[1629394660764] Sleep for 273 ms
+[1629394661040] Sleep for 0 ms
+[1629394661041] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394661044] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394661046] Sleep for 0 ms
+[1629394661046] Sleep for 207 ms
+[1629394661254] Sleep for 0 ms
+[1629394661255] :Sending Touch (ACTION_DOWN): 0:(476.0,539.0)
+[1629394661259] :Sending Touch (ACTION_MOVE): 0:(481.96716,540.94275)
+[1629394661263] Waiting Event for 50 milliseconds
+[1629394661315] Sleep for 0 ms
+[1629394661316] :Sending Touch (ACTION_MOVE): 0:(482.32983,544.94324)
+[1629394661321]     // Injection Failed com.android.commands.monkey.E@6bc4ec0
+[1629394661322] Waiting Event for 50 milliseconds
+[1629394661374] Sleep for 0 ms
+[1629394661376] :Sending Touch (ACTION_UP): 0:(498.58334,546.77795)
+[1629394661377]     // Injection Failed com.android.commands.monkey.E@26ac37f9
+[1629394661378] Sleep for 0 ms
+[1629394661378] Sleep for 274 ms
+[1629394661655] Sleep for 0 ms
+[1629394661656] Sleep for 0 ms
+[1629394661657] Sleep for 0 ms
+[1629394661658] :Sending rotation degree : 0, persist : false
+[1629394661679] Sleep for 0 ms
+[1629394661679] Sleep for 500 ms
+[1629394662181] Sleep for 0 ms
+[1629394662182] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394662182] fastbot exec shell: 
+[1629394662186] fastbot exec schema: 
+[1629394662186] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394662188]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394662197] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394662197] Sleep for 0 ms
+[1629394662197] Sleep for 2000 ms
+[1629394662200]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394662231]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394664199] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394664199] Sleep for 0 ms
+[1629394664199] :schema :
+[1629394664202] Sleep for 0 ms
+[1629394664202] Sleep for 2000 ms
+[1629394666204] Sleep for 0 ms
+[1629394666205] Sleep for 500 ms
+[1629394666707] Sleep for 0 ms
+[1629394666742] Exception for get action resouece: g0a25@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394666743] Exception for get action class: g0a25@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394666744] *** Get guitree ***
+[1629394666758]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394666758] using nstep-q agent
+[1629394666758] select new action from ucb q value: g0a25@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394666758] current state or current action is null
+[1629394666758] new state visited : 23
+[1629394666758] new action visited : 22
+[1629394666759] update Q value
+[1629394666759] // previous State and action polled
+[1629394666759] *** Making decisions *** 
+[1629394666759] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394666759] New action: g0a25@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394666759] *** Inject event ***
+[1629394666762] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394666773] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394666776] Sleep for 0 ms
+[1629394666776] Sleep for 500 ms
+[1629394667278] Sleep for 0 ms
+[1629394667513] Exception for get action resouece: g0a26@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394667515] Exception for get action class: g0a26@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394667516] *** Get guitree ***
+[1629394667517]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394667518] using nstep-q agent
+[1629394667518] select new action from ucb q value: g0a26@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394667519] new state visited : 24
+[1629394667519] new action visited : 23
+[1629394667519] alpha is : 0.6 default is : 0.2 moving alpha is 0.6
+[1629394667519] state is saturated, get reward -8.88888888888889
+[1629394667520] update Q value
+[1629394667520] // previous State and action polled
+[1629394667520] *** Making decisions *** 
+[1629394667520] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394667520] New action: g0a26@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394667520] *** Inject event ***
+[1629394667521] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394667525] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394667529] Sleep for 0 ms
+[1629394667529] Sleep for 500 ms
+[1629394668031] Sleep for 0 ms
+[1629394668031] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394668042] :Sending Touch (ACTION_DOWN): 0:(942.0,1761.0)
+[1629394668045] Waiting Event for 85 milliseconds
+[1629394668132] Sleep for 0 ms
+[1629394668133] :Sending Touch (ACTION_UP): 0:(942.0,1761.0)
+[1629394668136] Sleep for 0 ms
+[1629394668136] Sleep for 219 ms
+[1629394668141]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+[1629394668357] Sleep for 0 ms
+[1629394668358] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629394668362] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629394668365] Sleep for 0 ms
+[1629394668365] Sleep for 201 ms
+[1629394668568] Sleep for 0 ms
+[1629394668568] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394668571] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394668576] Sleep for 0 ms
+[1629394668577] Sleep for 219 ms
+[1629394668798] Sleep for 0 ms
+[1629394668800] :Sending Touch (ACTION_DOWN): 0:(158.0,1227.0)
+[1629394668803] Waiting Event for 76 milliseconds
+[1629394668880] Sleep for 0 ms
+[1629394668881] :Sending Touch (ACTION_UP): 0:(158.0,1227.0)
+[1629394668883] Sleep for 0 ms
+[1629394668884] Sleep for 210 ms
+[1629394669096] Sleep for 0 ms
+[1629394669097] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394669100] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394669103] Sleep for 0 ms
+[1629394669104] Sleep for 244 ms
+[1629394669351] Sleep for 0 ms
+[1629394669351] :Sending Touch (ACTION_DOWN): 0:(209.0,1240.0)
+[1629394669353] Waiting Event for 693 milliseconds
+[1629394669860]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629394670049] Sleep for 0 ms
+[1629394670052] :Sending Touch (ACTION_UP): 0:(209.0,1240.0)
+[1629394670055] Sleep for 0 ms
+[1629394670055] Sleep for 251 ms
+[1629394670308] Sleep for 0 ms
+[1629394670309] Sleep for 0 ms
+[1629394670309] Sleep for 0 ms
+[1629394670310] :Sending rotation degree : 0, persist : false
+[1629394670329] Sleep for 0 ms
+[1629394670329] Sleep for 500 ms
+[1629394670831] Sleep for 0 ms
+[1629394670832] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629394670832] fastbot exec shell: 
+[1629394670837] fastbot exec schema: 
+[1629394670837] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher;end
+[1629394670840]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidLauncher } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394670875] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394670875] Sleep for 0 ms
+[1629394670876] Sleep for 2000 ms
+[1629394670877]     // Allowing start of Intent { cmp=com.shatteredpixel.shatteredpixeldungeon/.android.AndroidGame } in package com.shatteredpixel.shatteredpixeldungeon
+[1629394670889]     // activityResuming(com.shatteredpixel.shatteredpixeldungeon)
+[1629394672877] : debug, currentActivity is com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394672877] Sleep for 0 ms
+[1629394672878] :schema :
+[1629394672878] Sleep for 0 ms
+[1629394672879] Sleep for 2000 ms
+[1629394674880] Sleep for 0 ms
+[1629394674880] Sleep for 500 ms
+[1629394675384] Sleep for 0 ms
+[1629394675428] Exception for get action resouece: g0a27@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394675428] Exception for get action class: g0a27@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394675429] *** Get guitree ***
+[1629394675430]     <?xml version="1.0" encoding="UTF-8"?><node index="0" text="" resource-id="" class="android.widget.FrameLayout" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]">
+  <node index="0" text="" resource-id="" class="android.view.View" content-desc="" package="com.shatteredpixel.shatteredpixeldungeon" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" scroll-type="none" bounds="[0,0][1080,1794]"/>
+</node>
+
+[1629394675431] using nstep-q agent
+[1629394675431] select new action from ucb q value: g0a27@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394675432] current state or current action is null
+[1629394675432] new state visited : 25
+[1629394675433] new action visited : 24
+[1629394675433] update Q value
+[1629394675433] // previous State and action polled
+[1629394675434] *** Making decisions *** 
+[1629394675434] New  state: g0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382
+[1629394675434] New action: g0a27@BACKg0s0@com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame@-2140247382[priority=1][throttle=0][]
+[1629394675435] *** Inject event ***
+[1629394675439] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629394675442] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629394675445] Sleep for 0 ms
+[1629394675445] Sleep for 500 ms
+[1629394675947] Sleep for 0 ms
+[1629394675947] :Sending Touch (ACTION_DOWN): 0:(831.0,1246.0)
+[1629394675950] :Sending Touch (ACTION_UP): 0:(812.76935,1246.148)
+[1629394675953] Sleep for 0 ms
+[1629394675954] Sleep for 198 ms
+[1629394676153] Sleep for 0 ms
+[1629394676154] :Sending Touch (ACTION_DOWN): 0:(456.0,1703.0)
+[1629394676157] Waiting Event for 978 milliseconds
+[1629394677137] Sleep for 0 ms
+[1629394677137] :Sending Touch (ACTION_UP): 0:(456.0,1703.0)
+[1629394677140] Sleep for 0 ms
+[1629394677141] Sleep for 159 ms
+[1629394677302] Sleep for 0 ms
+[1629394677302] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394677305] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394677321] Sleep for 0 ms
+[1629394677322] Sleep for 299 ms
+[1629394677623] Sleep for 0 ms
+[1629394677624] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394677626] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394677628] Sleep for 0 ms
+[1629394677628] Sleep for 225 ms
+[1629394677855] Sleep for 0 ms
+[1629394677856] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394677859] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394677862] Sleep for 0 ms
+[1629394677863] Sleep for 196 ms
+[1629394678061] Sleep for 0 ms
+[1629394678062] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394678065] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394678068] Sleep for 0 ms
+[1629394678069] Sleep for 276 ms
+[1629394678347] Sleep for 0 ms
+[1629394678348] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394678351] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394678361] Sleep for 0 ms
+[1629394678362] Sleep for 140 ms
+[1629394678505] Sleep for 0 ms
+[1629394678507] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394678509] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394678510] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394678512] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394678513] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394678515] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394678518] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394678520] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394678521] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394678525] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394678528] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394678530] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394678531] Sleep for 0 ms
+[1629394678531] Sleep for 299 ms
+[1629394678832] Sleep for 0 ms
+[1629394678835] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394678837] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394678841] Sleep for 0 ms
+[1629394678842] Sleep for 157 ms
+[1629394679001] Sleep for 0 ms
+[1629394679002] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394679005] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394679013] Sleep for 0 ms
+[1629394679013] Sleep for 221 ms
+[1629394679236] Sleep for 0 ms
+[1629394679237] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394679240] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394679242] Sleep for 0 ms
+[1629394679242] Sleep for 114 ms
+[1629394679359] Sleep for 0 ms
+[1629394679360] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394679363] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394679366] Sleep for 0 ms
+[1629394679369] Sleep for 288 ms
+[1629394679658] Sleep for 0 ms
+[1629394679659] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394679661] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394679663] Sleep for 0 ms
+[1629394679664] Sleep for 224 ms
+[1629394679666]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629394679890] Sleep for 0 ms
+[1629394679892] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394679894] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394679895] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394679896] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394679898] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394679901] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394679902] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394679904] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394679905] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394679907] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394679908] Sleep for 212 ms
+[1629394680123] Sleep for 0 ms
+[1629394680124] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394680126] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394680132] Sleep for 0 ms
+[1629394680133] Sleep for 209 ms
+[1629394680345] Sleep for 0 ms
+[1629394680346] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394680349]     //[calendar_time:2021-08-19 13:38:00.349  system_uptime:8950566]
+[1629394680350]     // Sending event #1100
+[1629394680352] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394680356] Sleep for 0 ms
+[1629394680358] Sleep for 207 ms
+[1629394680567] Sleep for 0 ms
+[1629394680568] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394680571] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394680579] Sleep for 0 ms
+[1629394680579] Sleep for 275 ms
+[1629394680855] Sleep for 0 ms
+[1629394680857] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394680859] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394680862] Sleep for 0 ms
+[1629394680862] Sleep for 288 ms
+[1629394681152] Sleep for 0 ms
+[1629394681152] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394681155] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394681159] Sleep for 0 ms
+[1629394681159] Sleep for 225 ms
+[1629394681386] Sleep for 0 ms
+[1629394681387] :Sending rotation degree : 3, persist : false
+[1629394681419] Sleep for 0 ms
+[1629394681419] Sleep for 140 ms
+[1629394681563] Sleep for 0 ms
+[1629394681564] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394681567] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394681569] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394681571] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394681572] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394681574] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394681575] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394681576] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394681578] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394681579] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394681580] Sleep for 185 ms
+[1629394681768] Sleep for 0 ms
+[1629394681769] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394681772] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394681774] Sleep for 0 ms
+[1629394681775] Sleep for 131 ms
+[1629394681908] Sleep for 0 ms
+[1629394681909] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394681912] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394681916] Sleep for 0 ms
+[1629394681916] Sleep for 218 ms
+[1629394682136] Sleep for 0 ms
+[1629394682138] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394682140] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394682145] Sleep for 0 ms
+[1629394682146] Sleep for 257 ms
+[1629394682405] Sleep for 0 ms
+[1629394682407] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629394682411] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629394682414] Sleep for 0 ms
+[1629394682414] Sleep for 158 ms
+[1629394682574] Sleep for 0 ms
+[1629394682575] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629394682579] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629394682582] Sleep for 0 ms
+[1629394682582] Sleep for 215 ms
+[1629394682799] Sleep for 0 ms
+[1629394682801] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394682802] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394682804] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394682806] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394682808] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394682809] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629394682811] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394682813] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394682816] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394682818] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629394682819] Sleep for 181 ms
+[1629394683001] Sleep for 0 ms
+[1629394683002] :Sending Touch (ACTION_DOWN): 0:(940.0,1304.0)
+[1629394683005] :Sending Touch (ACTION_MOVE): 0:(940.07385,1325.0757)
+[1629394683007] Waiting Event for 33 milliseconds
+[1629394683044] Sleep for 0 ms
+[1629394683045] :Sending Touch (ACTION_MOVE): 0:(940.159,1345.2434)
+[1629394683047]     // Injection Failed com.android.commands.monkey.E@dbd84a1
+[1629394683048] Waiting Event for 33 milliseconds
+[1629394683084] Sleep for 0 ms
+[1629394683085] :Sending Touch (ACTION_MOVE): 0:(940.25555,1360.5302)
+[1629394683086]     // Injection Failed com.android.commands.monkey.E@da0b6c6
+[1629394683087] Waiting Event for 33 milliseconds
+[1629394683120] Sleep for 0 ms
+[1629394683121] :Sending Touch (ACTION_MOVE): 0:(940.3148,1376.208)
+[1629394683123]     // Injection Failed com.android.commands.monkey.E@28425687
+[1629394683124] Waiting Event for 33 milliseconds
+[1629394683161] Sleep for 0 ms
+[1629394683162] :Sending Touch (ACTION_UP): 0:(940.40375,1376.9376)
+[1629394683164]     // Injection Failed com.android.commands.monkey.E@e0629b4
+[1629394683164] Sleep for 0 ms
+[1629394683165] Sleep for 145 ms
+[1629394683312] Sleep for 0 ms
+[1629394683312] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394683315] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394683318] Sleep for 0 ms
+[1629394683319] Sleep for 147 ms
+[1629394683468] Sleep for 0 ms
+[1629394683469] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629394683472] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629394683476] Sleep for 0 ms
+[1629394683480] Sleep for 286 ms
+[1629394683768] Sleep for 0 ms
+[1629394683770] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394683772] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394683774] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394683776] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394683778] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394683779] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629394683781] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394683782] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394683783] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394683784] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629394683785] Sleep for 259 ms
+[1629394684047] Sleep for 0 ms
+[1629394684048] Sleep for 0 ms
+[1629394684049] Sleep for 0 ms
+[1629394684050] :Sending rotation degree : 0, persist : false
+[1629394684078] Sleep for 0 ms
+[1629394684078] Sleep for 500 ms
+[1629394684580] Sleep for 0 ms
+[1629394684581] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629394684588] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394684744] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394684746] Sleep for 0 ms
+[1629394684747] Sleep for 171 ms
+[1629394684920] Sleep for 0 ms
+[1629394684921] :Sending Touch (ACTION_DOWN): 0:(550.0,1551.0)
+[1629394684923] Waiting Event for 77 milliseconds
+[1629394685002] Sleep for 0 ms
+[1629394685003] :Sending Touch (ACTION_UP): 0:(550.0,1551.0)
+[1629394685006] Sleep for 0 ms
+[1629394685006] Sleep for 174 ms
+[1629394685182] Sleep for 0 ms
+[1629394685183] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394685185] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394685186] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394685188] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629394685190] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394685192] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394685193] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394685194] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394685195] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394685196] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394685197] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394685198] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394685199] Sleep for 0 ms
+[1629394685200] Sleep for 296 ms
+[1629394685498] Sleep for 0 ms
+[1629394685498] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629394685653] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629394685658] Sleep for 0 ms
+[1629394685659] Sleep for 158 ms
+[1629394685819] Sleep for 0 ms
+[1629394685820] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394685824] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394685825] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629394685827] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394685831] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394685833] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629394685834] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629394685836] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629394685838] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394685842] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629394685843] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629394685844] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629394685845] Sleep for 0 ms
+[1629394685846] Sleep for 276 ms
+[1629394686123] Sleep for 0 ms
+[1629394686123] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629394686128] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629394686132] Sleep for 0 ms
+[1629394686133] Sleep for 208 ms
+[1629394686344] Sleep for 0 ms
+[1629394686346] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394686348] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394686355] Sleep for 0 ms
+[1629394686355] Sleep for 231 ms
+[1629394686587] Sleep for 0 ms
+[1629394686588] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629394686591] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629394686595]     //[calendar_time:2021-08-19 13:38:06.595  system_uptime:8956812]
+[1629394686595]     // Sending event #1200
+[1629394686596] Sleep for 0 ms
+[1629394686597]     //[calendar_time:2021-08-19 13:38:06.596  system_uptime:8956814]
+[1629394686597]     // Sending event #1200
+[1629394686597] Sleep for 124 ms
+[1629394686722]     //[calendar_time:2021-08-19 13:38:06.722  system_uptime:8956939]
+[1629394686722]     // Sending event #1200
+[1629394686724] Sleep for 0 ms
+[1629394686725]     //[calendar_time:2021-08-19 13:38:06.725  system_uptime:8956942]
+[1629394686725]     // Sending event #1200
+[1629394686726] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629394686728] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629394686730] Sleep for 0 ms
+[1629394686731] Sleep for 228 ms
+[1629394686963] Sleep for 0 ms
+[1629394686964] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629394686966] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629394686970] Sleep for 0 ms
+[1629394686970] Sleep for 142 ms
+[1629394687114] Events injected : 1204
+[1629394687114] // Monkey is over!
+[1629394687114] :Sending rotation degree : 0, persist : false
+[1629394687145] Total app activities:
+[1629394687146]    1 com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394687146]    2 com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394687146] Explored app activities:
+[1629394687146]    1 com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame
+[1629394687146]    2 com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher
+[1629394687146] Acitity of Coverage: 100.0%
+[1629394687146] Activity of Times:
+[1629394687146] com.shatteredpixel.shatteredpixeldungeon.android.AndroidGame     25 
+:Dropped : keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+[1629394687160] // Monkey finished

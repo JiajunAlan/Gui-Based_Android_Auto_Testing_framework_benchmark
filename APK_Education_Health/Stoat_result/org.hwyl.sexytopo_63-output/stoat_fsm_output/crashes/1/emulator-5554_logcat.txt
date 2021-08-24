@@ -1,0 +1,64 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 3254): FATAL EXCEPTION: main
+E/AndroidRuntime( 3254): Process: org.hwyl.sexytopo, PID: 3254
+E/AndroidRuntime( 3254): java.lang.IllegalStateException: Could not execute method for android:onClick
+E/AndroidRuntime( 3254): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:414)
+E/AndroidRuntime( 3254): 	at android.view.View.performClick(View.java:4438)
+E/AndroidRuntime( 3254): 	at android.view.View$PerformClick.run(View.java:18422)
+E/AndroidRuntime( 3254): 	at android.os.Handler.handleCallback(Handler.java:733)
+E/AndroidRuntime( 3254): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+E/AndroidRuntime( 3254): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3254): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3254): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3254): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3254): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3254): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3254): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3254): Caused by: java.lang.reflect.InvocationTargetException
+E/AndroidRuntime( 3254): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3254): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3254): 	at androidx.appcompat.app.AppCompatViewInflater$DeclaredOnClickListener.onClick(AppCompatViewInflater.java:409)
+E/AndroidRuntime( 3254): 	... 11 more
+E/AndroidRuntime( 3254): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 3254): 	at org.hwyl.sexytopo.control.activity.DeviceActivity.requestPair(DeviceActivity.java:214)
+E/AndroidRuntime( 3254): 	... 14 more
+***********
+package name: org.hwyl.sexytopo
+app code version: 1.6.0
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 171613 Realtime: 171613
+
+** MEMINFO in pid 3254 [org.hwyl.sexytopo] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3953     3916        0        0     8388     8077      310
+  Dalvik Heap     4094     3944        0        0     6380     6109      271
+ Dalvik Other     1556     1388        0        0                           
+        Stack       96       96        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1448      524       56        0                           
+    .apk mmap      149        0       16        0                           
+    .ttf mmap      111        0       88        0                           
+    .dex mmap     2541      128     1972        0                           
+   Other mmap       14        4        0        0                           
+      Unknown       68       68        0        0                           
+        TOTAL    14034    10068     2136        0    14768    14186      581
+ 
+ Objects
+               Views:       55         ViewRootImpl:        5
+         AppContexts:        5           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       15        Proxy Binders:       21
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

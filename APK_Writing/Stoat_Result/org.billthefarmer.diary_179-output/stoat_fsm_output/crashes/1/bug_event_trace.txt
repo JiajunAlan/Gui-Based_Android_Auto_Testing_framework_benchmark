@@ -1,0 +1,333 @@
+clickLong(resource-id='org.billthefarmer.diary:id/cancel')@
+menu@
+click(className='android.widget.TextView',instance='3')@Search…
+menu@
+menu@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@Today
+click(className='android.widget.TextView',instance='4')@Go to date…
+back@
+click(resource-id='org.billthefarmer.diary:id/cancel')@
+click(resource-id='android:id/home')@
+click(resource-id='org.billthefarmer.diary:id/nextEntry')@
+clickLong(resource-id='org.billthefarmer.diary:id/nextEntry')@
+clickLong(resource-id='org.billthefarmer.diary:id/prevEntry')@
+click(className='android.widget.TextView',instance='0')@Aug 19, 2021
+click(content-desc='More options')@
+menu@
+click(resource-id='org.billthefarmer.diary:id/prevEntry')@
+menu@
+click(className='android.widget.TextView',instance='8')@Edit script…
+click(className='android.widget.TextView',instance='0')@script.js
+clickLong(resource-id='org.billthefarmer.diary:id/prevEntry')@
+scroll(direction='down')@
+click(resource-id='org.billthefarmer.diary:id/prevEntry')@
+scroll(direction='up')@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='6')@Add events
+menu@
+click(className='android.widget.TextView',instance='11')@Settings
+click(className='android.widget.TextView',instance='13')@Index page
+click(resource-id='android:id/home')@
+click(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='4')@Add time
+click(resource-id='org.billthefarmer.diary:id/accept')@
+menu@
+click(className='android.widget.TextView',instance='6')@Add media…
+keyevent_back@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit styles…
+clickLong(resource-id='org.billthefarmer.diary:id/accept')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Share…
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='9')@Backup
+menu@
+click(className='android.widget.TextView',instance='2')@Search…
+click(resource-id='org.billthefarmer.diary:id/edit')@
+clickLong(resource-id='org.billthefarmer.diary:id/accept')@
+menu@
+click(className='android.widget.TextView',instance='5')@Add events
+menu@
+click(className='android.widget.TextView',instance='10')@Settings
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/icon')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='0')@Settings
+menu@
+click(className='android.widget.TextView',instance='10')@Settings
+scroll(direction='down')@
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/up')@
+menu@
+click(className='android.widget.TextView',instance='11')@Settings
+click(className='android.widget.TextView',instance='9')@Diary
+back@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='8')@Folder
+edit(resource-id='android:id/edit')@Diary
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='19')@Dec 31, 1999
+click(className='android.widget.TextView',instance='10')@Index
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='7')@Folder
+click(className='android.widget.TextView',instance='18')@Template page
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='12')@Use index page for journal
+click(className='android.widget.TextView',instance='4')@Markdown
+click(className='android.widget.TextView',instance='14')@Dec 31, 1999
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='15')@Template
+click(className='android.widget.TextView',instance='5')@Use markdown
+click(className='android.widget.TextView',instance='6')@Use markdown to format entries
+click(className='android.widget.TextView',instance='2')@Use custom calendar
+click(className='android.widget.TextView',instance='3')@Use custom calendar rather than date picker
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='9')@12ary
+edit(resource-id='android:id/edit')@12ary
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='16')@Use template
+click(className='android.widget.TextView',instance='1')@Calendar
+click(className='android.widget.TextView',instance='11')@Use index
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='17')@Use template for diary entries
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='12')@Copy images
+click(className='android.widget.TextView',instance='17')@About
+click(className='android.widget.TextView',instance='15')@Dark
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@Index page
+clickLong(className='android.widget.Button',instance='3')@01
+scroll(direction='down')@
+edit(resource-id='android:id/numberpicker_input')@01
+click(className='android.widget.Button',instance='3')@02
+clickLong(className='android.widget.Button',instance='0')@May
+click(className='android.widget.Button',instance='4')@Cancel
+click(className='android.widget.TextView',instance='4')@Template
+click(className='android.widget.TextView',instance='13')@Copy inserted images to the current folder
+click(className='android.widget.TextView',instance='8')@Dec 31, 1999
+click(className='android.widget.TextView',instance='7')@Template page
+click(className='android.widget.TextView',instance='9')@Media
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/icon')@
+click(resource-id='android:id/icon')@
+click(className='android.widget.TextView',instance='18')@About
+clickLong(className='android.widget.TextView',instance='4')@Licence GNU GPLv3 
+keyevent_back@
+click(className='android.widget.Button',instance='0')@OK
+menu@
+click(className='android.widget.TextView',instance='1')@Go to date…
+clickLong(className='android.widget.Button',instance='2')@18
+click(className='android.widget.Button',instance='4')@2020
+click(className='android.widget.Button',instance='1')@Sep
+click(className='android.widget.Button',instance='6')@Done
+click(resource-id='android:id/home')@
+click(resource-id='android:id/up')@
+menu@
+click(className='android.widget.TextView',instance='0')@Today
+click(className='android.widget.TextView',instance='1')@Go to date…
+edit(resource-id='android:id/numberpicker_input')@19
+clickLong(className='android.widget.Button',instance='4')@2020
+edit(resource-id='android:id/numberpicker_input')@2020
+scroll(direction='up')@
+click(className='android.widget.Button',instance='5')@2021
+click(className='android.widget.Button',instance='3')@20
+edit(resource-id='android:id/numberpicker_input')@2021
+edit(resource-id='android:id/numberpicker_input')@S
+click(className='android.widget.Button',instance='2')@19
+clickLong(className='android.widget.Button',instance='3')@20
+clickLong(className='android.widget.Button',instance='0')@Dec
+edit(resource-id='android:id/numberpicker_input')@20
+clickLong(className='android.widget.Button',instance='5')@2021
+clickLong(className='android.widget.Button',instance='2')@19
+edit(resource-id='android:id/numberpicker_input')@Jan
+click(className='android.widget.Button',instance='0')@Dec
+click(className='android.widget.Button',instance='5')@2022
+click(className='android.widget.Button',instance='0')@Sep
+click(className='android.widget.Button',instance='1')@Oct
+clickLong(className='android.widget.Button',instance='0')@Sep
+click(className='android.widget.Button',instance='2')@18
+scroll(direction='down')@
+click(className='android.widget.Button',instance='4')@2021
+click(className='android.widget.Button',instance='2')@17
+clickLong(className='android.widget.Button',instance='5')@2022
+clickLong(className='android.widget.Button',instance='2')@16
+click(className='android.widget.Button',instance='0')@Oct
+click(className='android.widget.Button',instance='5')@2023
+click(className='android.widget.Button',instance='3')@17
+click(className='android.widget.Button',instance='2')@16
+click(className='android.widget.Button',instance='2')@15
+clickLong(className='android.widget.Button',instance='5')@2024
+click(className='android.widget.Button',instance='3')@16
+edit(resource-id='android:id/numberpicker_input')@16
+clickLong(className='android.widget.Button',instance='5')@2025
+click(className='android.widget.Button',instance='1')@Feb
+clickLong(className='android.widget.Button',instance='2')@15
+edit(resource-id='android:id/numberpicker_input')@Feb
+click(className='android.widget.Button',instance='1')@Mar
+clickLong(className='android.widget.Button',instance='4')@2024
+edit(resource-id='android:id/numberpicker_input')@15
+click(className='android.widget.Button',instance='4')@2023
+click(className='android.widget.Button',instance='4')@2022
+clickLong(className='android.widget.Button',instance='3')@16
+clickLong(className='android.widget.Button',instance='4')@2021
+edit(resource-id='android:id/numberpicker_input')@Sep
+clickLong(className='android.widget.Button',instance='1')@Oct
+click(className='android.widget.Button',instance='1')@Nov
+clickLong(className='android.widget.Button',instance='3')@17
+click(className='android.widget.Button',instance='3')@18
+click(className='android.widget.Button',instance='1')@Dec
+clickLong(className='android.widget.Button',instance='3')@19
+click(className='android.widget.Button',instance='0')@Nov
+clickLong(className='android.widget.Button',instance='0')@Oct
+clickLong(className='android.widget.Button',instance='1')@Nov
+clickLong(className='android.widget.Button',instance='1')@Dec
+clickLong(className='android.widget.Button',instance='0')@Nov
+edit(resource-id='android:id/numberpicker_input')@Nov
+edit(resource-id='android:id/numberpicker_input')@v
+edit(resource-id='android:id/numberpicker_input')@n
+scroll(direction='up')@
+edit(resource-id='android:id/numberpicker_input')@Jul
+click(className='android.widget.Button',instance='0')@Jun
+clickLong(className='android.widget.Button',instance='1')@Jul
+clickLong(className='android.widget.Button',instance='0')@Jun
+click(className='android.widget.Button',instance='1')@Jul
+clickLong(className='android.widget.Button',instance='1')@Aug
+clickLong(className='android.widget.Button',instance='1')@Sep
+clickLong(className='android.widget.Button',instance='0')@Aug
+click(className='android.widget.Button',instance='0')@Jul
+click(className='android.widget.Button',instance='1')@Aug
+clickLong(className='android.widget.Button',instance='0')@Jul
+click(className='android.widget.Button',instance='2')@18
+click(className='android.widget.Button',instance='3')@19
+clickLong(className='android.widget.Button',instance='0')@Jun
+clickLong(className='android.widget.Button',instance='0')@May
+clickLong(className='android.widget.Button',instance='1')@Jun
+click(className='android.widget.Button',instance='0')@May
+edit(resource-id='android:id/numberpicker_input')@May
+clickLong(className='android.widget.Button',instance='0')@Apr
+edit(resource-id='android:id/numberpicker_input')@Aug
+edit(resource-id='android:id/numberpicker_input')@g
+clickLong(className='android.widget.Button',instance='1')@Feb
+edit(resource-id='android:id/numberpicker_input')@Oct
+clickLong(className='android.widget.Button',instance='4')@2020
+click(className='android.widget.Button',instance='0')@Aug
+clickLong(className='android.widget.Button',instance='4')@2019
+clickLong(className='android.widget.Button',instance='5')@2020
+click(className='android.widget.Button',instance='4')@2019
+clickLong(className='android.widget.Button',instance='4')@2018
+click(className='android.widget.Button',instance='5')@2019
+edit(resource-id='android:id/numberpicker_input')@2019
+click(className='android.widget.Button',instance='5')@2020
+click(className='android.widget.Button',instance='1')@Feb
+clickLong(className='android.widget.Button',instance='1')@Mar
+click(className='android.widget.Button',instance='0')@Feb
+clickLong(className='android.widget.Button',instance='0')@Jan
+clickLong(className='android.widget.Button',instance='0')@Dec
+click(className='android.widget.Button',instance='4')@2018
+edit(resource-id='android:id/numberpicker_input')@2018
+clickLong(className='android.widget.Button',instance='1')@Jan
+clickLong(className='android.widget.Button',instance='5')@2019
+click(className='android.widget.Button',instance='4')@2018
+clickLong(className='android.widget.Button',instance='4')@2017
+click(className='android.widget.Button',instance='5')@2018
+click(className='android.widget.Button',instance='4')@2017
+clickLong(className='android.widget.Button',instance='5')@2018
+clickLong(className='android.widget.Button',instance='4')@2017
+edit(resource-id='android:id/numberpicker_input')@2017
+clickLong(className='android.widget.Button',instance='4')@2016
+clickLong(className='android.widget.Button',instance='5')@2026
+click(className='android.widget.Button',instance='4')@2016
+click(className='android.widget.Button',instance='4')@2024
+edit(resource-id='android:id/numberpicker_input')@2024
+clickLong(className='android.widget.Button',instance='4')@2023
+click(className='android.widget.Button',instance='5')@2024
+click(className='android.widget.Button',instance='5')@2025
+edit(resource-id='android:id/numberpicker_input')@2025
+click(className='android.widget.Button',instance='5')@2026
+click(className='android.widget.Button',instance='6')@Done
+click(resource-id='org.billthefarmer.diary:id/edit')@
+click(className='android.widget.TextView',instance='0')@Sep 19, 2017
+menu@
+click(className='android.widget.TextView',instance='2')@Search…
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Previous
+click(className='android.widget.TextView',instance='4')@Find all…
+click(resource-id='android:id/search_go_btn')@
+edit(resource-id='android:id/search_src_text')@ 
+scroll(direction='up')@
+edit(resource-id='android:id/search_src_text')@test
+scroll(direction='down')@
+edit(resource-id='android:id/search_src_text')@12st
+click(resource-id='android:id/search_close_btn')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='8')@Add media…
+keyevent_back@
+click(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit styles…
+click(resource-id='org.billthefarmer.diary:id/accept')@
+menu@
+click(className='android.widget.TextView',instance='8')@Edit script…
+click(resource-id='android:id/home')@
+menu@
+click(className='android.widget.TextView',instance='4')@Add time
+clickLong(resource-id='org.billthefarmer.diary:id/accept')@
+back@
+keyevent_back@
+clickLong(resource-id='org.billthefarmer.diary:id/nextEntry')@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+click(resource-id='org.billthefarmer.diary:id/prevEntry')@
+click(resource-id='android:id/home')@
+click(resource-id='org.billthefarmer.diary:id/nextEntry')@
+clickLong(resource-id='org.billthefarmer.diary:id/prevEntry')@
+click(className='android.widget.TextView',instance='0')@Aug 19, 2021
+scroll(direction='down')@
+scroll(direction='up')@
+menu@
+click(className='android.widget.TextView',instance='9')@Backup
+menu@
+click(className='android.widget.TextView',instance='0')@Today
+click(className='android.widget.TextView',instance='6')@Add media…
+keyevent_back@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='3')@Share…
+keyevent_back@
+click(resource-id='org.billthefarmer.diary:id/edit')@
+click(resource-id='org.billthefarmer.diary:id/accept')@
+clickLong(resource-id='org.billthefarmer.diary:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit styles…
+click(resource-id='android:id/up')@
+menu@
+click(className='android.widget.TextView',instance='5')@Add events
+menu@
+click(className='android.widget.TextView',instance='2')@Search…
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='9')@Edit styles…
+edit(resource-id='org.billthefarmer.diary:id/text')@
+click(className='android.widget.TextView',instance='0')@styles.css
+click(className='android.widget.Button',instance='0')@Discard
+menu@
+click(className='android.widget.TextView',instance='2')@Search…
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='12')@Settings
+click(className='android.widget.TextView',instance='7')@Add events
+menu@
+click(className='android.widget.TextView',instance='3')@Share…
+keyevent_back@
+menu@
+click(className='android.widget.TextView',instance='4')@Add time

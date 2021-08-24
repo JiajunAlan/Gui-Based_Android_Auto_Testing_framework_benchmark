@@ -1,0 +1,14 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/ActivityManager( 1563): ANR in de.rwth_aachen.phyphox (de.rwth_aachen.phyphox/.Experiment)
+E/ActivityManager( 1563): PID: 2733
+E/ActivityManager( 1563): Reason: Input dispatching timed out (Waiting because the focused window has not finished processing the input events that were previously delivered to it.)
+E/ActivityManager( 1563): Load: 1.28 / 0.69 / 0.28
+E/ActivityManager( 1563): CPU usage from 5088ms to 0ms ago:
+E/ActivityManager( 1563):   100% 1144/surfaceflinger: 100% user + 0% kernel
+E/ActivityManager( 1563):   0% 1154/adbd: 0% user + 0% kernel / faults: 124 minor
+E/ActivityManager( 1563):   0.1% 1563/system_server: 0.1% user + 0% kernel / faults: 267 minor
+E/ActivityManager( 1563):   0% 1931/com.google.android.gms: 0% user + 0% kernel / faults: 12 minor
+E/ActivityManager( 1563): 49% TOTAL: 49% user + 0% kernel
+E/ActivityManager( 1563): CPU usage from 500ms to 1002ms later:
+E/ActivityManager( 1563): 50% TOTAL: 50% user + 0% kernel

@@ -1,0 +1,17 @@
+[1629376153708] Events injected : 988
+[1629376153708] // Monkey is over!
+[1629376153708] :Sending rotation degree : 0, persist : false
+[1629376153736] Total app activities:
+[1629376153736]    1 de.hauke_stieler.geonotes.note_list.NoteListActivity
+[1629376153736]    2 de.hauke_stieler.geonotes.MainActivity
+[1629376153736]    3 de.hauke_stieler.geonotes.settings.SettingsActivity
+[1629376153736] Explored app activities:
+[1629376153736]    1 de.hauke_stieler.geonotes.MainActivity
+[1629376153736]    2 de.hauke_stieler.geonotes.note_list.NoteListActivity
+[1629376153736]    3 de.hauke_stieler.geonotes.settings.SettingsActivity
+[1629376153736] Acitity of Coverage: 100.0%
+[1629376153736] Activity of Times:
+[1629376153736] de.hauke_stieler.geonotes.note_list.NoteListActivity      5
+[1629376153736] de.hauke_stieler.geonotes.MainActivity    245
+[1629376153736] de.hauke_stieler.geonotes.settings.SettingsActivity     31
+:Dropped : keys=0 pointers=0 trackballs=0 flips=0 rotations=0

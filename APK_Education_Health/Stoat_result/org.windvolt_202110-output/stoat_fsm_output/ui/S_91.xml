@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,66][1070,1292]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,1271]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[534,87][1049,213]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[534,87][1049,213]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[576,121][1007,178]">
+            <node index="0" text="Nachrichten" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" bounds="[576,121][1007,178]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]">
+            <node index="0" text="Motivation" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,247][1007,304]" />
+          </node>
+        </node>
+      </node>
+      <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,339][1049,465]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,339][1049,465]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][1007,430]">
+            <node index="0" text="persönlich" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,373][1007,430]" />
+          </node>
+        </node>
+      </node>
+      <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,465][1049,616]">
+        <node index="0" text="" resource-id="org.windvolt:id/group_divider" class="android.widget.ImageView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,476][1049,479]" />
+        <node index="1" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,490][1049,616]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,524][1007,581]">
+            <node index="0" text="Galerie" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,524][1007,581]" />
+          </node>
+        </node>
+      </node>
+      <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,616][1049,742]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,616][1049,742]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,650][1007,707]">
+            <node index="0" text="Ökonomie" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,650][1007,707]" />
+          </node>
+        </node>
+      </node>
+      <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,742][1049,868]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,742][1049,868]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,776][1007,833]">
+            <node index="0" text="Fotos" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,776][1007,833]" />
+          </node>
+        </node>
+      </node>
+      <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,868][1049,1019]">
+        <node index="0" text="" resource-id="org.windvolt:id/group_divider" class="android.widget.ImageView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,879][1049,882]" />
+        <node index="1" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,893][1049,1019]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,927][1007,984]">
+            <node index="0" text="Einstellungen" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,927][1007,984]" />
+          </node>
+        </node>
+      </node>
+      <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,1019][1049,1145]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,1019][1049,1145]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,1053][1007,1110]">
+            <node index="0" text="Geräte" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,1053][1007,1110]" />
+          </node>
+        </node>
+      </node>
+      <node index="8" text="" resource-id="" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,1145][1049,1271]">
+        <node index="0" text="" resource-id="org.windvolt:id/content" class="android.widget.LinearLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,1145][1049,1271]">
+          <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,1179][1007,1236]">
+            <node index="0" text="Über" resource-id="org.windvolt:id/title" class="android.widget.TextView" package="org.windvolt" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[576,1179][1007,1236]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

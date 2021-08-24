@@ -1,0 +1,8 @@
+    6166@click(resource-id='ch.hgdev.toposuite:id/text_item'):android.widget.TextView@""
+    6175@back
+    6163@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    6159@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    6172@edit(resource-id='ch.hgdev.toposuite:id/imposed_surface'):android.widget.EditText@""
+    6173@edit(resource-id='ch.hgdev.toposuite:id/point_number_west'):android.widget.EditText@""
+    7704@edit(resource-id='ch.hgdev.toposuite:id/imposed_surface'):android.widget.EditText@"12"
+    7877@click(className='android.widget.TextView',instance='19'):android.widget.TextView@"Points Manager"

@@ -1,0 +1,16 @@
+    93@click(resource-id='com.foobnix.pro.pdf.reader:id/starIcon'):android.widget.ImageView@""
+    94@click(resource-id='com.foobnix.pro.pdf.reader:id/image'):android.widget.ImageView@""
+    6319@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Microsoft Word - Costs and Benefits in the Digital Underground 3.doc"
+    6320@clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Microsoft Word - Costs and Benefits in the Digital Underground 3.doc"
+    6321@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Ptleeson"
+    6322@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"Ptleeson"
+    6323@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"2005"
+    6324@clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"2005"
+    101@click(resource-id='com.foobnix.pro.pdf.reader:id/publisher'):android.widget.TextView@""
+    102@clickLong(resource-id='com.foobnix.pro.pdf.reader:id/publisher'):android.widget.TextView@""
+    103@click(className='android.widget.Button',instance='0'):android.widget.Button@"Close"
+    104@click(className='android.widget.Button',instance='1'):android.widget.Button@"Read!"
+    89@menu
+    90@back
+    107@scroll(direction='down')
+    108@scroll(direction='up')

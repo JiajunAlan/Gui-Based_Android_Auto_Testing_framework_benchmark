@@ -1,0 +1,255 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626396162782 count=1000
+:AllowPackage: fr.fdesousa.bikesharinghub
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity } in package fr.fdesousa.bikesharinghub
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(179.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(169.90999,1283.2422)
+:Sending Touch (ACTION_DOWN): 0:(960.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(954.2821,1528.255)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(886.0,315.0)
+:Sending Touch (ACTION_UP): 0:(877.17694,306.23636)
+:Sending Touch (ACTION_DOWN): 0:(155.0,598.0)
+:Sending Touch (ACTION_UP): 0:(163.30896,652.9535)
+:Sending Touch (ACTION_DOWN): 0:(869.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(883.0684,1548.6582)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,889.0)
+:Sending Touch (ACTION_UP): 0:(995.76953,899.438)
+:Sending Touch (ACTION_DOWN): 0:(685.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(730.2868,1185.1198)
+:Sending Touch (ACTION_DOWN): 0:(341.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(341.01617,1042.1405)
+:Sending Touch (ACTION_DOWN): 0:(495.0,135.0)
+:Sending Touch (ACTION_UP): 0:(492.23868,140.42963)
+:Sending Touch (ACTION_DOWN): 0:(392.0,790.0)
+:Sending Touch (ACTION_UP): 0:(390.58728,769.73505)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,225.0)
+:Sending Touch (ACTION_UP): 0:(1052.036,225.6717)
+:Sending Touch (ACTION_DOWN): 0:(901.0,912.0)
+:Sending Touch (ACTION_UP): 0:(885.30365,923.61206)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity } in package fr.fdesousa.bikesharinghub
+    //[calendar_time:2021-08-04 02:54:57.978  system_uptime:15510222]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(659.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(656.45276,1397.2404)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,964.0)
+:Sending Touch (ACTION_UP): 0:(35.88328,972.391)
+:Sending Touch (ACTION_DOWN): 0:(597.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(605.1357,1012.6543)
+:Sending Touch (ACTION_DOWN): 0:(369.0,552.0)
+:Sending Touch (ACTION_UP): 0:(359.30615,551.1289)
+:Sending Touch (ACTION_DOWN): 0:(189.0,147.0)
+:Sending Touch (ACTION_UP): 0:(188.92947,147.39655)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(573.43115,1776.1648)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(293.0,1749.0)
+:Sending Touch (ACTION_UP): 0:(225.6138,1749.4264)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,201.0)
+:Sending Touch (ACTION_UP): 0:(990.4408,202.99818)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2021-08-04 02:55:07.691  system_uptime:15519915]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(529.56067,1049.3625)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(233.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(250.24037,1156.6265)
+:Sending Touch (ACTION_DOWN): 0:(744.0,515.0)
+:Sending Touch (ACTION_UP): 0:(730.9846,516.41486)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(691.1978,1296.4391)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1016.0)
+:Sending Touch (ACTION_UP): 0:(984.12616,1010.4435)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(240.09251,1486.5552)
+    //[calendar_time:2021-08-04 02:55:17.434  system_uptime:15529658]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(293.0,337.0)
+:Sending Touch (ACTION_UP): 0:(321.7452,351.99365)
+:Sending Touch (ACTION_DOWN): 0:(465.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(429.60406,1595.9249)
+:Sending Touch (ACTION_DOWN): 0:(690.0,13.0)
+:Sending Touch (ACTION_UP): 0:(689.1488,17.62029)
+:Sending Touch (ACTION_DOWN): 0:(599.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(594.5752,1405.9464)
+:Sending Touch (ACTION_DOWN): 0:(331.0,234.0)
+:Sending Touch (ACTION_UP): 0:(312.28534,239.36777)
+:Sending Touch (ACTION_DOWN): 0:(918.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(864.8121,989.2152)
+:Sending Touch (ACTION_DOWN): 0:(61.0,663.0)
+:Sending Touch (ACTION_UP): 0:(39.780945,664.538)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(948.04083,1191.7069)
+    //[calendar_time:2021-08-04 02:55:35.642  system_uptime:15547865]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(934.0,631.0)
+:Sending Touch (ACTION_UP): 0:(937.6328,632.0937)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1523.0)
+:Sending Touch (ACTION_UP): 0:(190.3952,1533.916)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(153.53012,1238.5322)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,302.0)
+:Sending Touch (ACTION_UP): 0:(548.8512,296.78522)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(260.11185,1664.8119)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(43.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(23.2864,1463.4869)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity } in package fr.fdesousa.bikesharinghub
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // activityResuming(com.google.android.gms)
+    // Rejecting resume of package com.google.android.gms
+:Sending Touch (ACTION_DOWN): 0:(664.0,1446.0)
+:Sending Touch (ACTION_UP): 0:(655.05896,1449.2362)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2021-08-04 02:55:44.847  system_uptime:15557071]
+    // Sending event #500
+    // activityResuming(com.google.android.gms)
+    // Rejecting resume of package com.google.android.gms
+:Sending Touch (ACTION_DOWN): 0:(167.0,350.0)
+:Sending Touch (ACTION_UP): 0:(97.83754,333.74066)
+:Sending Touch (ACTION_DOWN): 0:(248.0,143.0)
+:Sending Touch (ACTION_UP): 0:(244.40446,133.9365)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(735.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(734.7383,1656.7341)
+:Sending Touch (ACTION_DOWN): 0:(211.0,3.0)
+:Sending Touch (ACTION_UP): 0:(146.29553,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(111.0,94.0)
+:Sending Touch (ACTION_UP): 0:(100.879776,101.779976)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(757.03345,1414.0907)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(109.85675,1065.9869)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2021-08-04 02:55:54.993  system_uptime:15567217]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(970.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(980.1115,1313.9349)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(1072.2194,1480.6246)
+:Sending Touch (ACTION_DOWN): 0:(280.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(281.5286,1752.7421)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2021-08-04 02:56:05.721  system_uptime:15577945]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(186.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(186.18819,1501.8796)
+:Sending Touch (ACTION_DOWN): 0:(723.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(701.37823,1037.0579)
+:Sending Touch (ACTION_DOWN): 0:(921.0,333.0)
+:Sending Touch (ACTION_UP): 0:(936.6658,288.40936)
+:Sending Touch (ACTION_DOWN): 0:(399.0,595.0)
+:Sending Touch (ACTION_UP): 0:(405.99075,602.04895)
+:Sending Touch (ACTION_DOWN): 0:(661.0,91.0)
+:Sending Touch (ACTION_UP): 0:(655.8423,89.941284)
+:Sending Touch (ACTION_DOWN): 0:(340.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(340.41452,1573.6656)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(1003.07733,1362.1584)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(550.4373,1422.8848)
+:Sending Touch (ACTION_DOWN): 0:(881.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(881.1891,1698.4762)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1548.0)
+:Sending Touch (ACTION_UP): 0:(560.58887,1557.4955)
+:Sending Touch (ACTION_DOWN): 0:(426.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(426.04874,1487.7806)
+:Sending Touch (ACTION_DOWN): 0:(830.0,957.0)
+:Sending Touch (ACTION_UP): 0:(830.7373,953.70715)
+:Sending Touch (ACTION_DOWN): 0:(989.0,817.0)
+:Sending Touch (ACTION_UP): 0:(992.93414,801.64325)
+:Sending Touch (ACTION_DOWN): 0:(373.0,560.0)
+:Sending Touch (ACTION_UP): 0:(353.60294,557.09546)
+:Sending Touch (ACTION_DOWN): 0:(215.0,142.0)
+:Sending Touch (ACTION_UP): 0:(238.55902,159.54375)
+:Sending Touch (ACTION_DOWN): 0:(924.0,591.0)
+    //[calendar_time:2021-08-04 02:56:25.450  system_uptime:15597674]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(909.1189,594.09906)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity } in package fr.fdesousa.bikesharinghub
+:Sending Touch (ACTION_DOWN): 0:(922.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(921.6857,1082.0061)
+:Sending Touch (ACTION_DOWN): 0:(785.0,702.0)
+:Sending Touch (ACTION_UP): 0:(778.1051,696.83545)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,660.0)
+:Sending Touch (ACTION_UP): 0:(642.7666,660.5454)
+:Sending Touch (ACTION_DOWN): 0:(120.0,752.0)
+:Sending Touch (ACTION_UP): 0:(119.09678,750.054)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity } in package fr.fdesousa.bikesharinghub
+:Sending Touch (ACTION_DOWN): 0:(312.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(228.86986,1149.3706)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1410.0)
+:Sending Touch (ACTION_UP): 0:(450.67883,1410.6821)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(691.0,151.0)
+    //[calendar_time:2021-08-04 02:56:36.158  system_uptime:15608382]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(699.4767,144.68161)
+:Sending Touch (ACTION_DOWN): 0:(322.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(321.84396,1752.7288)
+:Sending Touch (ACTION_DOWN): 0:(309.0,931.0)
+:Sending Touch (ACTION_UP): 0:(310.17603,962.13617)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(908.0,1761.0)
+:Sending Touch (ACTION_UP): 0:(875.6707,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(578.0,974.0)
+:Sending Touch (ACTION_UP): 0:(557.3765,980.783)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,572.0)
+:Sending Touch (ACTION_UP): 0:(1079.01,571.8962)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1586.0)
+:Sending Touch (ACTION_UP): 0:(271.29144,1579.6373)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(939.0,127.0)
+:Sending Touch (ACTION_UP): 0:(942.1649,141.82474)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=127765ms (0ms mobile, 0ms wifi, 127765ms not connected)
+// Monkey finished

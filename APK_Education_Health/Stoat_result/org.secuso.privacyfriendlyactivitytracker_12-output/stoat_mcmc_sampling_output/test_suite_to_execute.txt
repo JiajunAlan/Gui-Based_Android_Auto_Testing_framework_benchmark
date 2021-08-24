@@ -1,0 +1,335 @@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Distance Measurement"
+click(content-desc='More options'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"15. - 21. August"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"18"
+scroll(direction='up')
+scroll(direction='down')
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"2021"
+**
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+scroll(direction='up')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/next_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+scroll(direction='down')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+scroll(direction='down')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Walking"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"Aug"
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"Sep"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"Aug"
+**
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"16"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"S"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"Sep"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"S"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"Aug"
+**
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"August 21"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+scroll(direction='down')
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Done"
+back
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/next_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Correct steps"
+**
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"Sep"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Sep"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"17"
+**
+back
+**
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Distance Measurement"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"Sep"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Sep"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@""
+**
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Pedometer"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+scroll(direction='up')
+scroll(direction='down')
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+**
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(content-desc='More options'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Walking"
+clickLong(content-desc='More options'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Start distance measurement"
+click(content-desc='More options'):android.widget.ImageView@""
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"End training now"
+back
+click(className='android.widget.TextView',instance='15'):android.widget.TextView@"0.00"
+clickLong(content-desc='More options'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+**
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+back
+**
+scroll(direction='up')
+scroll(direction='up')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+back
+**
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+scroll(direction='down')
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@""
+**
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Correct steps"
+**
+scroll(direction='up')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/next_btn'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Walking"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+scroll(direction='down')
+scroll(direction='down')
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Sep"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"Aug"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"17"
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"15. - 21. August"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Done"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"15. - 21. August"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@""
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Distance Measurement"
+clickLong(content-desc='More options'):android.widget.ImageView@""
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"August 21"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"Done"
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"2021"
+**
+scroll(direction='up')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Walking"
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Help"
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Walking Modes"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Correct steps"
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+scroll(direction='down')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(content-desc='More options'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Distance Measurement"
+clickLong(content-desc='More options'):android.widget.ImageView@""
+back
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Walking"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+scroll(direction='up')
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+**
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Pedometer"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+scroll(direction='up')
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Pedometer"
+back
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Correct steps"
+**
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Stop distance measurement"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Stop distance measurement"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Start distance measurement"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Start distance measurement"
+back
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/prev_btn'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"16. August"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"17"
+**
+back
+**
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Day"
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+scroll(direction='up')
+scroll(direction='up')
+scroll(direction='up')
+clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio'):android.widget.RadioButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"About"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"SECUSO-Website"
+**
+scroll(direction='up')
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"About"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"SECUSO-Website"
+**
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Week"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"About"
+click(className='android.widget.TextView',instance='11'):android.widget.TextView@"SECUSO-Website"
+**
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection'):android.widget.TextView@""
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton'):android.widget.ImageButton@""
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Running"
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection'):android.widget.TextView@""
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"17. August"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"16"
+scroll(direction='down')
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Done"
+clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Month"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"August 21"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"18"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"Jul"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"Sep"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"17"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"18"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+**
+back
+**

@@ -1,0 +1,238 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626392581554 count=1000
+:AllowPackage: org.petero.droidfish
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.petero.droidfish/.DroidFish;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.petero.droidfish/.DroidFish } in package org.petero.droidfish
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,766.0)
+:Sending Touch (ACTION_UP): 0:(54.94632,794.7257)
+:Sending Touch (ACTION_DOWN): 0:(331.0,961.0)
+:Sending Touch (ACTION_UP): 0:(271.35645,839.1501)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(372.8984,1758.8846)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(804.0,96.0)
+:Sending Touch (ACTION_UP): 0:(770.1435,80.36128)
+    //[calendar_time:2021-08-04 01:49:42.383  system_uptime:11594627]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(639.1473,1279.4546)
+:Sending Touch (ACTION_DOWN): 0:(994.0,263.0)
+:Sending Touch (ACTION_UP): 0:(990.88275,264.51825)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(29.7153,1438.7936)
+:Sending Touch (ACTION_DOWN): 0:(945.0,412.0)
+:Sending Touch (ACTION_UP): 0:(907.57196,446.5844)
+:Sending Touch (ACTION_DOWN): 0:(201.0,221.0)
+:Sending Touch (ACTION_UP): 0:(206.47842,190.22559)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(502.02695,1073.5533)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.petero.droidfish/.DroidFish;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.petero.droidfish/.DroidFish } in package org.petero.droidfish
+:Sending Touch (ACTION_DOWN): 0:(394.0,317.0)
+:Sending Touch (ACTION_UP): 0:(251.60397,337.0181)
+:Sending Touch (ACTION_DOWN): 0:(40.0,246.0)
+:Sending Touch (ACTION_UP): 0:(45.206905,237.86028)
+:Sending Touch (ACTION_DOWN): 0:(426.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(426.50632,1618.579)
+:Sending Touch (ACTION_DOWN): 0:(409.0,712.0)
+:Sending Touch (ACTION_UP): 0:(335.78015,766.56964)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2021-08-04 01:49:56.587  system_uptime:11608811]
+    // Sending event #200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(903.0,107.0)
+:Sending Touch (ACTION_UP): 0:(969.4644,0.0)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(921.16125,1169.9456)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(882.0,136.0)
+:Sending Touch (ACTION_UP): 0:(884.33563,121.051)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(254.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(211.93732,1563.233)
+:Sending Touch (ACTION_DOWN): 0:(697.0,851.0)
+:Sending Touch (ACTION_UP): 0:(767.2875,895.552)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(1055.0,445.0)
+:Sending Touch (ACTION_UP): 0:(1062.7338,439.5075)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2021-08-04 01:50:05.223  system_uptime:11617447]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(84.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(83.52618,1466.0803)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,163.0)
+:Sending Touch (ACTION_UP): 0:(470.28683,115.43606)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(138.0,470.0)
+:Sending Touch (ACTION_UP): 0:(137.67403,458.00717)
+    // Allowing start of Intent { act=rnbqkbnr/pppp1ppp/4p3/8/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2 cmp=org.petero.droidfish/.activities.EditBoard } in package org.petero.droidfish
+:Sending Touch (ACTION_DOWN): 0:(445.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(440.91608,1561.6664)
+    // activityResuming(org.petero.droidfish)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(456.0,953.0)
+    //[calendar_time:2021-08-04 01:50:12.879  system_uptime:11625103]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(540.75525,977.4249)
+:Sending Touch (ACTION_DOWN): 0:(238.0,411.0)
+:Sending Touch (ACTION_UP): 0:(287.78555,393.1885)
+    // Allowing start of Intent { act=rnbqkbnr/pppp1ppp/4p3/8/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2 cmp=org.petero.droidfish/.activities.EditBoard } in package org.petero.droidfish
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.petero.droidfish/.DroidFish;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.petero.droidfish/.DroidFish } in package org.petero.droidfish
+:Sending Touch (ACTION_DOWN): 0:(422.0,938.0)
+:Sending Touch (ACTION_UP): 0:(470.83527,912.75446)
+:Sending Touch (ACTION_DOWN): 0:(952.0,151.0)
+:Sending Touch (ACTION_UP): 0:(943.1864,201.4884)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(org.petero.droidfish)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,562.0)
+:Sending Touch (ACTION_UP): 0:(1030.4436,550.3402)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(539.0,667.0)
+:Sending Touch (ACTION_UP): 0:(536.1322,686.99396)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(940.7996,1270.1626)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 01:50:21.515  system_uptime:11633738]
+    // Sending event #500
+    //[calendar_time:2021-08-04 01:50:22.018  system_uptime:11634241]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(780.0,661.0)
+:Sending Touch (ACTION_UP): 0:(779.7834,670.4151)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,514.0)
+:Sending Touch (ACTION_UP): 0:(376.27988,527.6893)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(911.0,893.0)
+:Sending Touch (ACTION_UP): 0:(807.4749,837.75073)
+:Sending Touch (ACTION_DOWN): 0:(56.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(49.220688,1215.2578)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(834.0,592.0)
+:Sending Touch (ACTION_UP): 0:(780.9655,652.05084)
+:Sending Touch (ACTION_DOWN): 0:(141.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(160.22089,1201.9535)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(591.0,1071.0)
+    //[calendar_time:2021-08-04 01:50:33.689  system_uptime:11645912]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(593.33124,1061.7224)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/peterosterlund2/droidfish/raw/master/doc/droidfish_manual.pdf cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(896.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(913.76306,1660.5399)
+:Sending Touch (ACTION_DOWN): 0:(729.0,46.0)
+:Sending Touch (ACTION_UP): 0:(720.0061,0.0)
+:Sending Touch (ACTION_DOWN): 0:(539.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(545.25757,1523.0033)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(858.0035,1094.9058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(836.0,477.0)
+:Sending Touch (ACTION_UP): 0:(833.05914,495.61737)
+:Sending Touch (ACTION_DOWN): 0:(652.0,931.0)
+:Sending Touch (ACTION_UP): 0:(718.32135,980.4315)
+:Sending Touch (ACTION_DOWN): 0:(135.0,624.0)
+    //[calendar_time:2021-08-04 01:50:42.390  system_uptime:11654613]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(116.153366,656.33014)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,421.0)
+:Sending Touch (ACTION_UP): 0:(231.17168,403.3201)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=com.kgroth.chessocr cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.petero.droidfish/.DroidFish;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.petero.droidfish/.DroidFish } in package org.petero.droidfish
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1705.0)
+:Sending Touch (ACTION_UP): 0:(782.8758,1715.4822)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.scid.android cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.scid.android cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(674.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(678.13745,1151.9695)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+    //[calendar_time:2021-08-04 01:50:54.629  system_uptime:11666852]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.openintents.filemanager cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.openintents.filemanager cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.openintents.filemanager cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(828.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(823.7034,1264.4221)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(1011.0393,1213.523)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http://play.google.com/store/apps/details?id=org.openintents.filemanager cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(997.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(1050.5171,1347.2618)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2021-08-04 01:51:05.392  system_uptime:11677616]
+    // Sending event #900
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2021-08-04 01:51:05.894  system_uptime:11678117]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(941.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(855.39923,1095.7925)
+:Sending Touch (ACTION_DOWN): 0:(922.0,432.0)
+:Sending Touch (ACTION_UP): 0:(924.2977,428.16763)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/peterosterlund2/droidfish/blob/master/README.md cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(1014.14026,1087.6132)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(581.16846,1644.4613)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.petero.droidfish/.DroidFish;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.petero.droidfish/.DroidFish } in package org.petero.droidfish
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1632.0)
+:Sending Touch (ACTION_UP): 0:(808.76874,1621.7416)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(780.07404,1011.4325)
+:Sending Touch (ACTION_DOWN): 0:(450.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(451.09546,1355.8405)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=101410ms (0ms mobile, 0ms wifi, 101410ms not connected)
+// Monkey finished

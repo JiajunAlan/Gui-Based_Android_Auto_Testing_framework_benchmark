@@ -1,0 +1,54 @@
+click(className='android.widget.Button',instance='1')@OK
+click(content-desc='Navigate up')@
+back@
+click(className='android.widget.Button',instance='0')@No
+clickLong(resource-id='de.blau.android:id/menu_transfer')@
+click(resource-id='de.blau.android:id/simpleButton')@
+click(resource-id='de.blau.android:id/follow')@
+clickLong(resource-id='de.blau.android:id/floatingLock')@
+click(className='android.widget.TextView',instance='4')@C-Mode
+click(resource-id='de.blau.android:id/zoom_out')@
+click(resource-id='de.blau.android:id/layers')@
+click(className='android.widget.TextView',instance='0')@Tasks
+click(className='android.widget.TextView',instance='0')@Configure…
+click(className='android.widget.CheckedTextView',instance='1')@Osmose error
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.ImageButton',instance='0')@
+click(className='android.widget.Button',instance='0')@Done
+click(resource-id='de.blau.android:id/floatingLock')@
+clickLong(resource-id='de.blau.android:id/menu_tools')@
+click(resource-id='de.blau.android:id/menu_camera')@
+keyevent_back@
+clickLong(resource-id='de.blau.android:id/menu_config')@
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@Share position
+keyevent_back@
+clickLong(resource-id='de.blau.android:id/menu_camera')@
+click(resource-id='de.blau.android:id/zoom_in')@
+click(resource-id='de.blau.android:id/menu_gps')@
+click(className='android.widget.TextView',instance='8')@Clear GPX track and its waypoints
+click(className='android.widget.TextView',instance='9')@GPX track management…
+click(className='android.widget.TextView',instance='0')@GPX track management…
+click(className='android.widget.TextView',instance='2')@Export GPX track
+click(resource-id='de.blau.android:id/menu_transfer')@
+clickLong(resource-id='de.blau.android:id/menu_gps')@
+click(resource-id='de.blau.android:id/menu_config')@
+click(className='android.widget.TextView',instance='9')@Large node drag area
+click(resource-id='android:id/checkbox')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='4')@Color Round Nodes
+back@
+click(className='android.widget.TextView',instance='3')@Data style
+click(className='android.widget.CheckedTextView',instance='0')@Default
+click(className='android.widget.TextView',instance='6')@Configure layers not in the default configuration.
+click(resource-id='de.blau.android:id/add')@
+edit(resource-id='de.blau.android:id/display')@0
+click(className='android.widget.Button',instance='0')@-
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='5')@QA
+edit(resource-id='de.blau.android:id/top')@Top
+edit(resource-id='de.blau.android:id/left')@Left
+click(resource-id='de.blau.android:id/file_button')@
+keyevent_back@
+click(className='android.widget.Button',instance='1')@Yes

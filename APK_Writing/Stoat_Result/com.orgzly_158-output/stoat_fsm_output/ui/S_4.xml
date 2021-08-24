@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,657][1053,1203]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,657][1053,1203]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,657][1053,1203]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,657][1032,1203]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,657][1032,851]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,678][969,846]">
+              <node index="0" text="New notebook" resource-id="android:id/alertTitle" class="android.widget.TextView" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,723][969,801]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,846][1011,851]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/customPanel" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,851][1032,1053]">
+            <node index="0" text="" resource-id="android:id/custom" class="android.widget.FrameLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,851][1011,1053]">
+              <node index="0" text="" resource-id="com.orgzly:id/dialog_new_book_container" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,851][1011,1053]">
+                <node index="0" text="Name" resource-id="com.orgzly:id/dialog_input" class="android.widget.EditText" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[111,893][969,1011]" />
+              </node>
+            </node>
+          </node>
+          <node index="2" text="" resource-id="android:id/buttonPanel" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,1053][1032,1203]">
+            <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1056][1011,1182]">
+              <node index="0" text="Cancel" resource-id="android:id/button2" class="android.widget.Button" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,1056][538,1182]" />
+              <node index="1" text="Create" resource-id="android:id/button1" class="android.widget.Button" package="com.orgzly" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[541,1056][1011,1182]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

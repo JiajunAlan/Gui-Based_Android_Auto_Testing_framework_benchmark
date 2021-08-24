@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][1080,1794]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+        <node index="0" text="" resource-id="com.stypox.mastercom_workbook:id/action_bar_root" class="android.widget.LinearLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+            <node index="0" text="" resource-id="com.stypox.mastercom_workbook:id/drawer_layout" class="androidx.drawerlayout.widget.DrawerLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+              <node index="0" text="" resource-id="" class="android.view.View" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,1794]">
+                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+                  <node index="0" text="" resource-id="com.stypox.mastercom_workbook:id/toolbar" class="android.view.View" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][1080,213]">
+                    <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="com.stypox.mastercom_workbook" content-desc="Open navigation drawer" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,66][147,213]" />
+                    <node index="1" text="Mastercom Workbook" resource-id="" class="android.widget.TextView" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[157,104][678,175]" />
+                  </node>
+                </node>
+                <node index="1" text="" resource-id="com.stypox.mastercom_workbook:id/refreshLayout" class="android.view.View" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]">
+                  <node index="0" text="" resource-id="com.stypox.mastercom_workbook:id/subjectList" class="android.view.View" package="com.stypox.mastercom_workbook" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,213][1080,1794]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

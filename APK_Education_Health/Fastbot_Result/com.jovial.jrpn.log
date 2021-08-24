@@ -1,0 +1,22 @@
+[1629373336369] Events injected : 2727
+[1629373336370] // Monkey is over!
+[1629373336370] :Sending rotation degree : 0, persist : false
+[1629373336465] Total app activities:
+[1629373336465]    1 com.jovial.jrpn.fmConfigure
+[1629373336466]    2 com.jovial.jrpn.fmAbout
+[1629373336466]    3 com.jovial.jrpn.fmMain
+[1629373336466]    4 com.jovial.jrpn.fmBackPanel
+[1629373336466] Explored app activities:
+[1629373336466]    1 com.jovial.jrpn.fmAbout
+[1629373336466]    2 com.jovial.jrpn.fmBackPanel
+[1629373336466]    3 com.jovial.jrpn.fmConfigure
+[1629373336466]    4 com.jovial.jrpn.fmMain
+[1629373336466] Acitity of Coverage: 100.0%
+[1629373336466] Activity of Times:
+[1629373336466] com.jovial.jrpn.fmAbout      2
+[1629373336470] com.jovial.jrpn.fmConfigure      9
+[1629373336470] com.jovial.jrpn.fmMain    702
+[1629373336471] com.jovial.jrpn.fmBackPanel      1
+:Dropped : keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+[1629373336507] // App appears 1 crash, 0 anr, monkey using seed : 1629794727092
+[1629373336507] // Monkey finished

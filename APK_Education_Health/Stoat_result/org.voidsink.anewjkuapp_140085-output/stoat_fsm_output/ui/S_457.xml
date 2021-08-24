@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,717][1053,1142]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,717][1053,1142]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,717][1053,1142]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,717][1032,1142]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,717][1032,911]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,738][969,906]">
+              <node index="1" text="Please wait…" resource-id="android:id/alertTitle" class="android.widget.TextView" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[132,783][969,861]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,906][1011,911]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/customPanel" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,911][1032,1142]">
+            <node index="0" text="" resource-id="android:id/custom" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,911][1011,1121]">
+              <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,911][1011,1121]">
+                <node index="0" text="" resource-id="android:id/body" class="android.widget.LinearLayout" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,911][1011,1121]">
+                  <node index="0" text="" resource-id="android:id/progress" class="android.widget.ProgressBar" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,953][237,1079]" />
+                  <node index="1" text="Logging in…" resource-id="android:id/message" class="android.widget.TextView" package="org.voidsink.anewjkuapp" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[279,990][969,1041]" />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

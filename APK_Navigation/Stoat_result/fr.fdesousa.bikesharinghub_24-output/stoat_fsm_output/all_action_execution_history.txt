@@ -1,0 +1,200 @@
+    4@back
+    3@menu
+    20@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Settings"
+    24@click(resource-id='android:id/home'):android.widget.ImageView@""
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    39@click(resource-id='android:id/home'):android.widget.ImageView@""
+    9@click(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    88@click(resource-id='fr.fdesousa.bikesharinghub:id/action_my_location'):android.widget.TextView@""
+    87@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Map"
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    101@keyevent_back
+    102@reset
+    3@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    40@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Choose a network"
+    10@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    17@scroll(direction='down')
+    6@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"BikeSharingHub"
+    8@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    5@click(resource-id='android:id/home'):android.widget.ImageView@""
+    18@scroll(direction='up')
+    12@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Nearby"
+    14@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All stations"
+    11@click(content-desc='More options'):android.widget.ImageButton@""
+    19@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Refresh"
+    13@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Favorites"
+    7@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    280@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Favorites"
+    275@click(resource-id='android:id/up'):android.widget.ImageView@""
+    7@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    279@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Nearby"
+    278@click(content-desc='More options'):android.widget.ImageButton@""
+    335@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Settings"
+    27@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Map layer"
+    33@back
+    30@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Nearby"
+    352@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    29@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Default tab"
+    366@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Favorites"
+    31@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Advanced"
+    400@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"https://api.citybik.es/v2/"
+    407@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    398@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Advanced"
+    402@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Remove ID from station name (only useful for some networks)"
+    397@click(resource-id='android:id/home'):android.widget.ImageView@""
+    403@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    401@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Strip station ID"
+    399@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"API URL"
+    406@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    399@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"API URL"
+    405@edit(resource-id='android:id/edit'):android.widget.EditText@"https://api.citybik.es/v2/"
+    474@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Delete"
+    476@edit(resource-id='android:id/edit'):android.widget.EditText@"https:///v2/"
+    480@edit(resource-id='android:id/edit'):android.widget.EditText@"tests:///v2/"
+    407@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    491@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"tests:///v2/"
+    480@edit(resource-id='android:id/edit'):android.widget.EditText@"tests:///v2/"
+    500@edit(resource-id='android:id/edit'):android.widget.EditText@"12sts:///v2/"
+    33@back
+    403@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    398@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Advanced"
+    491@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"tests:///v2/"
+    406@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    402@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Remove ID from station name (only useful for some networks)"
+    401@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Strip station ID"
+    397@click(resource-id='android:id/home'):android.widget.ImageView@""
+    398@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Advanced"
+    399@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"API URL"
+    480@edit(resource-id='android:id/edit'):android.widget.EditText@"tests:///v2/"
+    407@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    402@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Remove ID from station name (only useful for some networks)"
+    403@click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+    491@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"tests:///v2/"
+    406@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    33@back
+    28@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Mapnik"
+    350@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Hike & Bike Map"
+    23@click(resource-id='android:id/up'):android.widget.ImageView@""
+    4@back
+    9@click(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    89@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_my_location'):android.widget.TextView@""
+    90@back
+    7@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    284@scroll(direction='down')
+    277@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    276@click(resource-id='android:id/home'):android.widget.ImageView@""
+    14@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All stations"
+    12@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Nearby"
+    17@scroll(direction='down')
+    18@scroll(direction='up')
+    10@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    5@click(resource-id='android:id/home'):android.widget.ImageView@""
+    11@click(content-desc='More options'):android.widget.ImageButton@""
+    20@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Settings"
+    25@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    38@click(resource-id='android:id/up'):android.widget.ImageView@""
+    13@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Favorites"
+    8@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    6@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"BikeSharingHub"
+    9@click(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    86@click(resource-id='android:id/home'):android.widget.ImageView@""
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    101@keyevent_back
+    102@reset
+    3@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    43@back
+    7@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    285@scroll(direction='up')
+    281@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"All stations"
+    278@click(content-desc='More options'):android.widget.ImageButton@""
+    334@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Refresh"
+    277@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    716@click(resource-id='android:id/search_close_btn'):android.widget.ImageView@""
+    284@scroll(direction='down')
+    281@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"All stations"
+    279@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Nearby"
+    285@scroll(direction='up')
+    276@click(resource-id='android:id/home'):android.widget.ImageView@""
+    5@click(resource-id='android:id/home'):android.widget.ImageView@""
+    6@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"BikeSharingHub"
+    14@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All stations"
+    18@scroll(direction='up')
+    17@scroll(direction='down')
+    13@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Favorites"
+    12@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Nearby"
+    4@back
+    101@keyevent_back
+    102@reset
+    3@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    101@keyevent_back
+    102@reset
+    3@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    101@keyevent_back
+    102@reset
+    4@back
+    8@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    11@click(content-desc='More options'):android.widget.ImageButton@""
+    20@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Settings"
+    393@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Favorites"
+    367@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"All stations"
+    26@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Choose a network"
+    41@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    1265@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    1270@click(resource-id='android:id/search_close_btn'):android.widget.ImageView@""
+    1265@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    1269@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"12"
+    43@back
+    1269@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"12"
+    39@click(resource-id='android:id/home'):android.widget.ImageView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    38@click(resource-id='android:id/up'):android.widget.ImageView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    41@click(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    39@click(resource-id='android:id/home'):android.widget.ImageView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    43@back
+    1265@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    1350@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"test"
+    1270@click(resource-id='android:id/search_close_btn'):android.widget.ImageView@""
+    38@click(resource-id='android:id/up'):android.widget.ImageView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    1265@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"   "
+    1350@edit(resource-id='android:id/search_src_text'):android.widget.EditText@"test"
+    1270@click(resource-id='android:id/search_close_btn'):android.widget.ImageView@""
+    38@click(resource-id='android:id/up'):android.widget.ImageView@""
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    40@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Choose a network"
+    641@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Hike & Bike Map"
+    351@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"OSMPublicTransport"
+    1253@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"All stations"
+    365@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Nearby"
+    1419@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"OSMPublicTransport"
+    349@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Mapnik"
+    32@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"About"
+    1464@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"OpenBikeSharing"
+    1461@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Source code"
+    101@keyevent_back
+    102@reset
+    3@menu
+    1@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    101@keyevent_back
+    102@reset
+    3@menu
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    42@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_search'):android.widget.TextView@""
+    40@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Choose a network"
+    10@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    9@click(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""
+    85@click(resource-id='android:id/up'):android.widget.ImageView@""
+    4@back
+    12@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Nearby"
+    5@click(resource-id='android:id/home'):android.widget.ImageView@""
+    10@clickLong(resource-id='fr.fdesousa.bikesharinghub:id/action_map'):android.widget.TextView@""

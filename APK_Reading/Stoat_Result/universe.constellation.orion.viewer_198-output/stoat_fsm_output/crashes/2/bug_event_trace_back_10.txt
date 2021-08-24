@@ -1,0 +1,10 @@
+click(resource-id='universe.constellation.orion.viewer:id/fileImage')@
+click(resource-id='universe.constellation.orion.viewer:id/fileImage')@
+click(className='android.widget.TextView',instance='3')@acct
+click(resource-id='universe.constellation.orion.viewer:id/fileImage')@
+click(className='android.widget.TextView',instance='14')@sdcard
+click(className='android.widget.TextView',instance='10')@Music
+click(className='android.widget.ImageView',instance='1')@
+click(resource-id='universe.constellation.orion.viewer:id/exit_menu_item')@
+keyevent_back@
+click(className='android.widget.TextView',instance='16')@Hacking_Secrets_Revealed.pdf

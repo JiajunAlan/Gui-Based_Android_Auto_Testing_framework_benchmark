@@ -1,0 +1,10 @@
+click(resource-id='de.blau.android:id/add')@
+edit(resource-id='de.blau.android:id/display')@0
+click(className='android.widget.Button',instance='0')@-
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='5')@QA
+edit(resource-id='de.blau.android:id/top')@Top
+edit(resource-id='de.blau.android:id/left')@Left
+click(resource-id='de.blau.android:id/file_button')@
+keyevent_back@
+click(className='android.widget.Button',instance='1')@Yes

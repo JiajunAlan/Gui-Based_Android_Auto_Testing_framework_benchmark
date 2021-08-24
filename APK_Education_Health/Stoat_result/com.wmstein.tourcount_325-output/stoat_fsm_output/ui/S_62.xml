@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[523,66][1080,234]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,87][1059,213]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,87][1059,213]">
+        <node index="0" text="" resource-id="com.wmstein.tourcount:id/content" class="android.widget.LinearLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[544,87][1059,213]">
+          <node index="0" text="" resource-id="com.wmstein.tourcount:id/icon" class="android.widget.ImageView" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[565,108][649,192]" />
+          <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[671,121][1017,178]">
+            <node index="0" text="Share" resource-id="com.wmstein.tourcount:id/title" class="android.widget.TextView" package="com.wmstein.tourcount" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[671,121][1017,178]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

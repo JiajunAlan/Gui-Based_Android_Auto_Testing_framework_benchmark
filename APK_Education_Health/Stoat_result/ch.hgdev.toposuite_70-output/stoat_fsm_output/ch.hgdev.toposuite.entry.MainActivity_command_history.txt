@@ -1,0 +1,41 @@
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    4@menu
+    91@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Settings"
+    2@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    17@scroll(direction='down')
+    10@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Orthogonal calculations"
+    9@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Polar calculations"
+    3@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    18@scroll(direction='up')
+    5@back
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    92@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Help"
+    89@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"History"
+    2@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    13@click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Various"
+    12@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Surfaces"
+    11@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Intersections"
+    9@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Polar calculations"
+    338@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Axis implantation"
+    4@menu
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    88@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Points Manager"
+    3@clickLong(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    14@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Mathematics"
+    10@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Orthogonal calculations"
+    56@click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Surfaces"
+    322@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Surface"
+    17@scroll(direction='down')
+    5@back
+    18@scroll(direction='up')
+    4@menu
+    1@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    90@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Jobs"
+    18@scroll(direction='up')
+    17@scroll(direction='down')
+    4@menu
+    2@click(resource-id='ch.hgdev.toposuite:id/toggle_right_menu_button'):android.widget.TextView@""
+    11@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Intersections"
+    359@click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Mathematics"
+    41@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Triangle solver"
+    5@back

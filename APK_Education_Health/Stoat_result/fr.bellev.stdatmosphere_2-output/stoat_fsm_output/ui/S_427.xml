@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[727,912][1059,1467]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,933][1038,1446]">
+      <node index="0" text="1e6/m" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,933][1038,1059]" />
+      <node index="1" text="1/m" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,1062][1038,1188]" />
+      <node index="2" text="1e6/ft" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,1191][1038,1317]" />
+      <node index="3" text="1/ft" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,1320][1038,1446]" />
+    </node>
+  </node>
+</hierarchy>

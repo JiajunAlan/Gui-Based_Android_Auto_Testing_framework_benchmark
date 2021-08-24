@@ -1,0 +1,69 @@
+keyevent_back@
+click(resource-id='org.windvolt:id/recommendation_symbol')@
+click(resource-id='org.windvolt:id/open_page1')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+scroll(direction='up')@
+scroll(direction='down')@
+back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@Wähle einen Ort
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='6')@Einstellungen
+click(className='android.widget.TextView',instance='7')@Ortsdaten zeigen
+scroll(direction='down')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='12')@Ortsdienste verwenden
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='8')@*Länge und Breite anzeigen.
+click(className='android.widget.TextView',instance='10')@*Ich interessiere mich für den Stromverbrauch meines Smartphones.
+back@
+edit(resource-id='org.windvolt:id/location_chooser')@Wähle einen Ort
+edit(resource-id='org.windvolt:id/location_chooser')@12
+edit(resource-id='org.windvolt:id/location_chooser')@test2
+menu@
+click(className='android.widget.TextView',instance='5')@Fotos
+back@
+menu@
+click(className='android.widget.TextView',instance='7')@Geräte
+click(resource-id='org.windvolt:id/device_share')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Galerie
+back@
+menu@
+click(className='android.widget.TextView',instance='2')@persönlich
+back@
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@Wähle einen Ort
+click(resource-id='org.windvolt:id/services_open')@
+click(resource-id='org.windvolt:id/open_page3')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Online-Modell nicht geladen
+keyevent_back@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.TextView',instance='2')@Online-Modell nicht geladen
+keyevent_back@
+click(className='android.widget.ImageView',instance='2')@
+menu@
+click(className='android.widget.TextView',instance='0')@Nachrichten
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Motivation
+scroll(direction='up')@
+scroll(direction='down')@
+back@
+click(className='android.widget.ImageView',instance='2')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Online-Modell nicht geladen
+keyevent_back@
+back@
+click(resource-id='org.windvolt:id/open_page1')@
+back@
+click(resource-id='org.windvolt:id/open_page2')@
+keyevent_back@

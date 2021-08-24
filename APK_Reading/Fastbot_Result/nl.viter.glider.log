@@ -1,0 +1,1513 @@
+▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ 
+▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░▌     
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌     
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌          ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌     ▐░▌     
+ ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀       ▀
+[1629486746183]  @Version : 2.2.1.0304.2039_git
+[1629486746200] // Monkey : seed=1630485097382 count=1000
+
+
+[1629486746201] // Valid Package: nl.viter.glider
+[1629486746201] // IncludeCategory : android.intent.category.LAUNCHER
+[1629486746201] // IncludeCategory : android.intent.category.MONKEY
+[1629486746206] // Selecting main activities from category android.intent.category.LAUNCHER
+[1629486746206] //   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+[1629486746206] //   - NOT USING main activity com.android.dialer.DialtactsActivity (from package com.android.dialer)
+[1629486746206] //   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+[1629486746207] //   - NOT USING main activity com.google.android.gms.app.settings.GoogleSettingsActivity (from package com.google.android.gms)
+[1629486746207] //   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+[1629486746207] //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+[1629486746207] //   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.google.android.calendar)
+[1629486746207] //   - NOT USING main activity com.android.deskclock.DeskClock (from package com.android.deskclock)
+[1629486746207] //   - NOT USING main activity com.android.camera.GalleryPicker (from package com.android.gallery)
+[1629486746207] //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+[1629486746207] //   - NOT USING main activity com.android.music.MusicBrowserActivity (from package com.android.music)
+[1629486746207] //   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+[1629486746207] //   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+[1629486746207] //   - NOT USING main activity com.android.customlocale2.CustomLocaleActivity (from package com.android.customlocale2)
+[1629486746207] //   - NOT USING main activity com.android.development.Development (from package com.android.development)
+[1629486746207] //   - NOT USING main activity android.app.AliasActivity (from package com.android.development_settings)
+[1629486746208] //   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+[1629486746208] //   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+[1629486746208] //   - NOT USING main activity com.google.android.gms.games.ui.destination.main.MainActivity (from package com.google.android.play.games)
+[1629486746208] //   - NOT USING main activity com.android.quicksearchbox.SearchActivity (from package com.android.quicksearchbox)
+[1629486746208] //   - NOT USING main activity com.android.speechrecorder.SpeechRecorderActivity (from package com.android.speechrecorder)
+[1629486746208] //   + Using main activity nl.viter.glider.MainActivity (from package nl.viter.glider)
+[1629486746210] // Selecting main activities from category android.intent.category.MONKEY
+[1629486746210] //   - NOT USING main activity com.android.launcher2.Launcher (from package com.android.launcher)
+[1629486746210] //   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+[1629486746210] //   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+[1629486746211] //   - NOT USING main activity com.google.android.street.Street (from package com.google.android.street)
+[1629486749223] // Special Event: 
+[1629486749224] // Black Widget: 
+[1629486749535] 
+
+[1629486749536] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629486749538] fastbot exec shell: 
+[1629486749541] fastbot exec schema: 
+[1629486749542] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486749543]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486749573] Sleep for 0 ms
+[1629486749577] : debug, currentActivity is nl.viter.glider.MainActivity
+[1629486749578] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 6380) (elapsed nanos  : 8119712336559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 6408) (elapsed nanos  : 8119862108559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 6439) (elapsed nanos  : 8119988811559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_12_31.578_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_12_31.578_.txt status was 0
+Logcat_20210820151229.log:
+[WARNING] // Logcat_20210820151229.log status was 0
+[1629486776291] Encounter abort but we are in continuous mode.
+[1629486776291] Sleep for 0 ms
+[1629486776291] :schema :
+[1629486776293] Sleep for 0 ms
+[1629486776293] Sleep for 2000 ms
+[1629486778295] Sleep for 0 ms
+[1629486778295] Sleep for 500 ms
+[1629486778799] Sleep for 0 ms
+[1629486778800] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629486778814] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486778816] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486778817] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486778818] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486778821] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486778822] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486778823] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486778824] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486778826] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486778827] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486778828] Sleep for 231 ms
+[1629486779062] Sleep for 0 ms
+[1629486779065] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486779068] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486779070] Sleep for 0 ms
+[1629486779070] Sleep for 230 ms
+[1629486779302] Sleep for 0 ms
+[1629486779303] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486779307] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486779309] Sleep for 0 ms
+[1629486779310] Sleep for 284 ms
+[1629486779313]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629486779596] Sleep for 0 ms
+[1629486779597] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486779600] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486779602] Sleep for 0 ms
+[1629486779602] Sleep for 135 ms
+[1629486779739] Sleep for 0 ms
+[1629486779739] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486779745] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486779770] Sleep for 0 ms
+[1629486779771] Sleep for 199 ms
+[1629486779972] Sleep for 0 ms
+[1629486779972] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629486779976] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629486780002] Sleep for 0 ms
+[1629486780002] Sleep for 217 ms
+[1629486780221] Sleep for 0 ms
+[1629486780222] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486780224] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486780226] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486780227] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486780230] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780232] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486780234] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780237] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486780240] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780241] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486780242] Sleep for 114 ms
+[1629486780357] Sleep for 0 ms
+[1629486780357] :Sending Touch (ACTION_DOWN): 0:(260.0,1155.0)
+[1629486780360] :Sending Touch (ACTION_MOVE): 0:(259.3073,1152.944)
+[1629486780362] Waiting Event for 22 milliseconds
+[1629486780385] Sleep for 0 ms
+[1629486780385] :Sending Touch (ACTION_MOVE): 0:(257.0138,1150.186)
+[1629486780388] Waiting Event for 22 milliseconds
+[1629486780412] Sleep for 0 ms
+[1629486780413] :Sending Touch (ACTION_MOVE): 0:(248.61725,1148.2123)
+[1629486780415] Waiting Event for 22 milliseconds
+[1629486780439] Sleep for 0 ms
+[1629486780440] :Sending Touch (ACTION_MOVE): 0:(247.169,1147.2445)
+[1629486780442] Waiting Event for 22 milliseconds
+[1629486780465] Sleep for 0 ms
+[1629486780466] :Sending Touch (ACTION_MOVE): 0:(244.8257,1145.493)
+[1629486780468] Waiting Event for 22 milliseconds
+[1629486780492] Sleep for 0 ms
+[1629486780492] :Sending Touch (ACTION_MOVE): 0:(244.75287,1142.9689)
+[1629486780497] Waiting Event for 22 milliseconds
+[1629486780520] Sleep for 0 ms
+[1629486780521] :Sending Touch (ACTION_MOVE): 0:(242.53613,1141.646)
+[1629486780523] Waiting Event for 22 milliseconds
+[1629486780547] Sleep for 0 ms
+[1629486780548] :Sending Touch (ACTION_UP): 0:(239.79314,1141.4176)
+[1629486780550] Sleep for 0 ms
+[1629486780551] Sleep for 209 ms
+[1629486780556]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+[1629486780762] Sleep for 0 ms
+[1629486780764] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486780765] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486780767] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780768] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486780771] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780772] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486780774] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780776] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780777] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486780779] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486780781] Sleep for 166 ms
+[1629486780949] Sleep for 0 ms
+[1629486780950] :Sending Touch (ACTION_DOWN): 0:(995.0,793.0)
+[1629486780952] Waiting Event for 557 milliseconds
+[1629486781511] Sleep for 0 ms
+[1629486781511] :Sending Touch (ACTION_UP): 0:(995.0,793.0)
+[1629486781514] Sleep for 0 ms
+[1629486781514] Sleep for 209 ms
+[1629486781726] Sleep for 0 ms
+[1629486781727] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486781729] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486781731] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486781733] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486781734] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486781736] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486781737] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781739] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486781740] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486781741] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781742] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486781743] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486781744] Sleep for 0 ms
+[1629486781745] Sleep for 226 ms
+[1629486781781]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486781973] Sleep for 0 ms
+[1629486781974] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486781976] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781977] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486781978] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486781980] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781982] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781983] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486781985] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781992] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486781993] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486781995] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486781996] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486781998] Sleep for 0 ms
+[1629486781998] Sleep for 244 ms
+[1629486782019]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486782245] Sleep for 0 ms
+[1629486782248] :Sending Touch (ACTION_DOWN): 0:(259.0,483.0)
+[1629486782251] :Sending Touch (ACTION_UP): 0:(254.4455,477.1094)
+[1629486782253] Sleep for 0 ms
+[1629486782254] Sleep for 245 ms
+[1629486782267]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+[1629486782502] Sleep for 0 ms
+[1629486782503] :Sending Touch (ACTION_DOWN): 0:(774.0,1650.0)
+[1629486782505] :Sending Touch (ACTION_UP): 0:(770.24994,1646.6919)
+[1629486782507] Sleep for 0 ms
+[1629486782508] Sleep for 124 ms
+[1629486782635] Sleep for 0 ms
+[1629486782635] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486782637] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486782639] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486782642] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486782643] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486782646] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486782648] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486782649] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486782655] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486782656] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486782657] Sleep for 196 ms
+[1629486782856] Sleep for 0 ms
+[1629486782857] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629486782861]     //[calendar_time:2021-08-20 15:13:02.861  system_uptime:8152881]
+[1629486782861]     // Sending event #100
+[1629486782861] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629486782872] Sleep for 0 ms
+[1629486782873] Sleep for 257 ms
+[1629486783131] Sleep for 0 ms
+[1629486783132] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486783135] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486783136] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486783138] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486783140] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486783142] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486783144] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486783145] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486783147] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486783148] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486783150] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486783151] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486783152] Sleep for 0 ms
+[1629486783152] Sleep for 175 ms
+[1629486783189]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486783330] Sleep for 0 ms
+[1629486783330] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629486783333] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629486783337] Sleep for 0 ms
+[1629486783337] Sleep for 229 ms
+[1629486783569] Sleep for 0 ms
+[1629486783571] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486783574] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486783574]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+[1629486783577] Sleep for 0 ms
+[1629486783578] Sleep for 121 ms
+[1629486783702] Sleep for 0 ms
+[1629486783702] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486783705] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486783708] Sleep for 0 ms
+[1629486783708] Sleep for 117 ms
+[1629486783827] Sleep for 0 ms
+[1629486783828] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629486783833] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629486783835] Sleep for 0 ms
+[1629486783836] Sleep for 256 ms
+[1629486784093] Sleep for 0 ms
+[1629486784094] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486784096] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486784099] Sleep for 0 ms
+[1629486784100] Sleep for 176 ms
+[1629486784279] Sleep for 0 ms
+[1629486784280] :Sending Touch (ACTION_DOWN): 0:(846.0,1594.0)
+[1629486784285] Waiting Event for 32 milliseconds
+[1629486784319] Sleep for 0 ms
+[1629486784321] :Sending Touch (ACTION_UP): 0:(846.0,1594.0)
+[1629486784323] Sleep for 0 ms
+[1629486784324] Sleep for 289 ms
+[1629486784615] Sleep for 0 ms
+[1629486784616] Sleep for 0 ms
+[1629486784617] Sleep for 0 ms
+[1629486784618] :Sending rotation degree : 0, persist : false
+[1629486784661] Sleep for 0 ms
+[1629486784661] Sleep for 500 ms
+[1629486785165] Sleep for 0 ms
+[1629486785165] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629486785459] fastbot exec shell: 
+[1629486785463] fastbot exec schema: 
+[1629486785463] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486785464]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486785504] Sleep for 0 ms
+[1629486785505] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 6859) (elapsed nanos  : 8155627422559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 6888) (elapsed nanos  : 8155757105559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 6920) (elapsed nanos  : 8155883767559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_13_07.507_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_13_07.507_.txt status was 0
+Logcat_20210820151305.log:
+[WARNING] // Logcat_20210820151305.log status was 0
+[1629486810273] Encounter abort but we are in continuous mode.
+[1629486810274] Sleep for 0 ms
+[1629486810274] :schema :
+[1629486810275] Sleep for 0 ms
+[1629486810275] Sleep for 2000 ms
+[1629486812277] Sleep for 0 ms
+[1629486812278] Sleep for 500 ms
+[1629486812783] Sleep for 0 ms
+[1629486812783] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629486812787] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629486812789] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629486812793] Sleep for 0 ms
+[1629486812793] Sleep for 500 ms
+[1629486813296] Sleep for 0 ms
+[1629486813297] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629486813301] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629486813307] Sleep for 0 ms
+[1629486813308] Sleep for 149 ms
+[1629486813310]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629486813458] Sleep for 0 ms
+[1629486813459] :Send Key (ACTION_DOWN): 33    // KEYCODE_E
+[1629486813462] :Send Key (ACTION_UP): 33    // KEYCODE_E
+[1629486813467] Sleep for 0 ms
+[1629486813467] Sleep for 216 ms
+[1629486813685] Sleep for 0 ms
+[1629486813686] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486813688] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486813691] Sleep for 0 ms
+[1629486813692] Sleep for 228 ms
+[1629486813922] Sleep for 0 ms
+[1629486813923] :Sending Touch (ACTION_DOWN): 0:(1058.0,1595.0)
+[1629486813925] :Sending Touch (ACTION_UP): 0:(1051.2092,1594.3488)
+[1629486813927] Sleep for 0 ms
+[1629486813927] Sleep for 216 ms
+[1629486814146] Sleep for 0 ms
+[1629486814148] :Sending Touch (ACTION_DOWN): 0:(269.0,405.0)
+[1629486814150] :Sending Touch (ACTION_MOVE): 0:(250.6117,401.67242)
+[1629486814152] Waiting Event for 40 milliseconds
+[1629486814195] Sleep for 0 ms
+[1629486814197] :Sending Touch (ACTION_MOVE): 0:(239.74709,381.14648)
+[1629486814199] Waiting Event for 40 milliseconds
+[1629486814242] Sleep for 0 ms
+[1629486814243] :Sending Touch (ACTION_MOVE): 0:(236.48718,379.44495)
+[1629486814246] Waiting Event for 40 milliseconds
+[1629486814289] Sleep for 0 ms
+[1629486814291] :Sending Touch (ACTION_UP): 0:(224.3577,358.88126)
+[1629486814294] Sleep for 0 ms
+[1629486814295] Sleep for 117 ms
+[1629486814414] Sleep for 0 ms
+[1629486814415] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486814418] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486814419] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486814421] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486814423] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486814425] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486814426] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486814428] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486814429] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486814431] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486814433] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486814434] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486814435] Sleep for 0 ms
+[1629486814436] Sleep for 263 ms
+[1629486814701] Sleep for 0 ms
+[1629486814703] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486814705] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486814708] Sleep for 0 ms
+[1629486814708] Sleep for 286 ms
+[1629486814997] Sleep for 0 ms
+[1629486814999] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629486815002] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629486815005] Sleep for 0 ms
+[1629486815006] Sleep for 297 ms
+[1629486815306] Sleep for 0 ms
+[1629486815306] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629486815309] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629486815312] Sleep for 0 ms
+[1629486815313] Sleep for 215 ms
+[1629486815532] Sleep for 0 ms
+[1629486815533] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629486815537] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629486815539] Sleep for 0 ms
+[1629486815539] Sleep for 228 ms
+[1629486815770] Sleep for 0 ms
+[1629486815771] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486815774] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486815777] Sleep for 0 ms
+[1629486815778] Sleep for 192 ms
+[1629486815971] Sleep for 0 ms
+[1629486815972] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486815973] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486815975] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486815977] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486815978] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486815979] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486815981] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486815982] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486815983] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486815985] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486815986] Sleep for 230 ms
+[1629486816219] Sleep for 0 ms
+[1629486816221] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486816223] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486816225] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486816227] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486816229] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486816231] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486816233] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486816235] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486816236] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629486816238] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486816240] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486816241] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486816243] Sleep for 0 ms
+[1629486816243] Sleep for 124 ms
+[1629486816369] Sleep for 0 ms
+[1629486816371] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629486816374] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629486816377] Sleep for 0 ms
+[1629486816377] Sleep for 104 ms
+[1629486816482] Sleep for 0 ms
+[1629486816483] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486816486] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486816488] Sleep for 0 ms
+[1629486816488] Sleep for 293 ms
+[1629486816783] Sleep for 0 ms
+[1629486816783] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629486816786] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629486816788] Sleep for 0 ms
+[1629486816788] Sleep for 164 ms
+[1629486816955] Sleep for 0 ms
+[1629486816956] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629486816958] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629486816961] Sleep for 0 ms
+[1629486816962] Sleep for 110 ms
+[1629486817074] Sleep for 0 ms
+[1629486817075] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629486817078]     //[calendar_time:2021-08-20 15:13:37.077  system_uptime:8187098]
+[1629486817078]     // Sending event #200
+[1629486817078] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629486817081] Sleep for 0 ms
+[1629486817081] Sleep for 246 ms
+[1629486817329] Sleep for 0 ms
+[1629486817331] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486817333] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629486817335] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486817337] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486817338] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486817340] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486817341] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486817343] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486817344] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629486817346] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486817348] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486817349] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486817350] Sleep for 0 ms
+[1629486817351] Sleep for 168 ms
+[1629486817523] Sleep for 0 ms
+[1629486817523] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629486817528] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629486817531] Sleep for 0 ms
+[1629486817532] Sleep for 109 ms
+[1629486817643] Sleep for 0 ms
+[1629486817645] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629486817648] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629486817650] Sleep for 0 ms
+[1629486817651] Sleep for 258 ms
+[1629486817914] Sleep for 0 ms
+[1629486817914] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629486817917] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629486817919] Sleep for 0 ms
+[1629486817920] Sleep for 100 ms
+[1629486818024] Sleep for 0 ms
+[1629486818024] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486818028] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486818032] Sleep for 0 ms
+[1629486818033] Sleep for 219 ms
+[1629486818254] Sleep for 0 ms
+[1629486818255] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629486818257] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629486818260] Sleep for 0 ms
+[1629486818260] Sleep for 163 ms
+[1629486818426] Sleep for 0 ms
+[1629486818428] :Sending Touch (ACTION_DOWN): 0:(406.0,1043.0)
+[1629486818430] :Sending Touch (ACTION_MOVE): 0:(407.70166,1037.636)
+[1629486818432] Waiting Event for 20 milliseconds
+[1629486818456] Sleep for 0 ms
+[1629486818458] :Sending Touch (ACTION_MOVE): 0:(407.897,1030.8708)
+[1629486818460]     // Injection Failed com.android.commands.monkey.E@bdf4099
+[1629486818461] Waiting Event for 20 milliseconds
+[1629486818482] Sleep for 0 ms
+[1629486818484] :Sending Touch (ACTION_MOVE): 0:(409.9424,1025.9652)
+[1629486818487]     // Injection Failed com.android.commands.monkey.E@23134f5e
+[1629486818487] Waiting Event for 20 milliseconds
+[1629486818510] Sleep for 0 ms
+[1629486818511] :Sending Touch (ACTION_MOVE): 0:(412.18497,1015.77057)
+[1629486818513]     // Injection Failed com.android.commands.monkey.E@121b9f3f
+[1629486818514] Waiting Event for 20 milliseconds
+[1629486818536] Sleep for 0 ms
+[1629486818539] :Sending Touch (ACTION_MOVE): 0:(414.946,1009.10376)
+[1629486818541]     // Injection Failed com.android.commands.monkey.E@a02300c
+[1629486818541] Waiting Event for 20 milliseconds
+[1629486818565] Sleep for 0 ms
+[1629486818566] :Sending Touch (ACTION_MOVE): 0:(415.11148,999.71844)
+[1629486818569]     // Injection Failed com.android.commands.monkey.E@22da4d55
+[1629486818570] Waiting Event for 20 milliseconds
+[1629486818592] Sleep for 0 ms
+[1629486818592] :Sending Touch (ACTION_MOVE): 0:(417.32452,999.35156)
+[1629486818594]     // Injection Failed com.android.commands.monkey.E@3f41036a
+[1629486818594] Waiting Event for 20 milliseconds
+[1629486818616] Sleep for 0 ms
+[1629486818617] :Sending Touch (ACTION_MOVE): 0:(418.84543,991.34064)
+[1629486818619]     // Injection Failed com.android.commands.monkey.E@bb4f05b
+[1629486818621] Waiting Event for 20 milliseconds
+[1629486818644] Sleep for 0 ms
+[1629486818644] :Sending Touch (ACTION_UP): 0:(419.2797,984.7217)
+[1629486818647]     // Injection Failed com.android.commands.monkey.E@1ea840f8
+[1629486818648] Sleep for 0 ms
+[1629486818648] Sleep for 265 ms
+[1629486818915] Sleep for 0 ms
+[1629486818917] Sleep for 0 ms
+[1629486818917] Sleep for 0 ms
+[1629486818918] :Sending rotation degree : 0, persist : false
+[1629486818943] Sleep for 0 ms
+[1629486818944] Sleep for 500 ms
+[1629486819445] Sleep for 0 ms
+[1629486819446] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629486819735] fastbot exec shell: 
+[1629486819740] fastbot exec schema: 
+[1629486819740] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486819741]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486819746] Sleep for 0 ms
+[1629486819746] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 7275) (elapsed nanos  : 8189957211559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 7305) (elapsed nanos  : 8190184596559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 7336) (elapsed nanos  : 8190308983559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_13_41.748_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_13_41.748_.txt status was 0
+Logcat_20210820151340.log:
+[WARNING] // Logcat_20210820151340.log status was 0
+[1629486844557] Encounter abort but we are in continuous mode.
+[1629486844558] Sleep for 0 ms
+[1629486844558] :schema :
+[1629486844560] Sleep for 0 ms
+[1629486844561] Sleep for 2000 ms
+[1629486846563] Sleep for 0 ms
+[1629486846564] Sleep for 500 ms
+[1629486847066] Sleep for 0 ms
+[1629486847066] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629486847073] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486847075] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486847078] Sleep for 0 ms
+[1629486847080] Sleep for 108 ms
+[1629486847191] Sleep for 0 ms
+[1629486847191] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629486847193] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629486847229] Sleep for 0 ms
+[1629486847230] Sleep for 179 ms
+[1629486847411] Sleep for 0 ms
+[1629486847412] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629486847415] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629486847424] Sleep for 0 ms
+[1629486847425] Sleep for 277 ms
+[1629486847703] Sleep for 0 ms
+[1629486847704] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629486847708] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629486847709] Sleep for 0 ms
+[1629486847710] Sleep for 241 ms
+[1629486847952] Sleep for 0 ms
+[1629486847953] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486847956] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486847957] Sleep for 0 ms
+[1629486847958] Sleep for 274 ms
+[1629486847960]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629486848234] Sleep for 0 ms
+[1629486848235] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629486848237] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629486848243] Sleep for 0 ms
+[1629486848244] Sleep for 134 ms
+[1629486848381] Sleep for 0 ms
+[1629486848382] :Send Key (ACTION_DOWN): 242    // KEYCODE_TV_ANTENNA_CABLE
+[1629486848385] :Send Key (ACTION_UP): 242    // KEYCODE_TV_ANTENNA_CABLE
+[1629486848387] Sleep for 0 ms
+[1629486848387] Sleep for 239 ms
+[1629486848629] Sleep for 0 ms
+[1629486848631] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629486848634] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629486848637] Sleep for 0 ms
+[1629486848638] Sleep for 500 ms
+[1629486849140] Sleep for 0 ms
+[1629486849141] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629486849144] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629486849147] Sleep for 0 ms
+[1629486849148] Sleep for 251 ms
+[1629486849148]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629486849400] Sleep for 0 ms
+[1629486849402] :Sending Touch (ACTION_DOWN): 0:(576.0,105.0)
+[1629486849404] Waiting Event for 955 milliseconds
+[1629486850364] Sleep for 0 ms
+[1629486850365] :Sending Touch (ACTION_UP): 0:(576.0,105.0)
+[1629486850368] Sleep for 0 ms
+[1629486850368] Sleep for 154 ms
+[1629486850525] Sleep for 0 ms
+[1629486850526] :Sending Touch (ACTION_DOWN): 0:(460.0,1056.0)
+[1629486850528] Waiting Event for 325 milliseconds
+[1629486850856] Sleep for 0 ms
+[1629486850856] :Sending Touch (ACTION_UP): 0:(460.0,1056.0)
+[1629486850858] Sleep for 0 ms
+[1629486850858] Sleep for 226 ms
+[1629486851087] Sleep for 0 ms
+[1629486851088] Sleep for 0 ms
+[1629486851089] Sleep for 0 ms
+[1629486851090] :Sending rotation degree : 0, persist : false
+[1629486851112] Sleep for 0 ms
+[1629486851112] Sleep for 500 ms
+[1629486851615] Sleep for 0 ms
+[1629486851615] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629486851906] fastbot exec shell: 
+[1629486851909] fastbot exec schema: 
+[1629486851909] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486851910]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486851968] Sleep for 0 ms
+[1629486851970] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 7691) (elapsed nanos  : 8222201235559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 7721) (elapsed nanos  : 8222402388559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 7751) (elapsed nanos  : 8222517346559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_14_13.972_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_14_13.972_.txt status was 0
+Logcat_20210820151412.log:
+[WARNING] // Logcat_20210820151412.log status was 0
+[1629486876849] Encounter abort but we are in continuous mode.
+[1629486876850] Sleep for 0 ms
+[1629486876851] :schema :
+[1629486876852] Sleep for 0 ms
+[1629486876852] Sleep for 2000 ms
+[1629486878854] Sleep for 0 ms
+[1629486878855] Sleep for 500 ms
+[1629486879357] Sleep for 0 ms
+[1629486879357] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629486879362] :Send Key (ACTION_DOWN): 138    // KEYCODE_F8
+[1629486879366] :Send Key (ACTION_UP): 138    // KEYCODE_F8
+[1629486879368] Sleep for 0 ms
+[1629486879369] Sleep for 272 ms
+[1629486879643] Sleep for 0 ms
+[1629486879644] :Send Key (ACTION_DOWN): 108    // KEYCODE_BUTTON_START
+[1629486879647] :Send Key (ACTION_UP): 108    // KEYCODE_BUTTON_START
+[1629486879653] Sleep for 0 ms
+[1629486879655] Sleep for 209 ms
+[1629486879865] Sleep for 0 ms
+[1629486879866] :Sending Touch (ACTION_DOWN): 0:(202.0,738.0)
+[1629486879870] :Sending Touch (ACTION_UP): 0:(209.38916,736.7806)
+[1629486879872] Sleep for 0 ms
+[1629486879872] Sleep for 287 ms
+[1629486880162] Sleep for 0 ms
+[1629486880162] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629486880165] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629486880169] Sleep for 0 ms
+[1629486880170] Sleep for 235 ms
+[1629486880407] Sleep for 0 ms
+[1629486880408] :Sending Touch (ACTION_DOWN): 0:(958.0,598.0)
+[1629486880411] Waiting Event for 519 milliseconds
+[1629486880933] Sleep for 0 ms
+[1629486880934] :Sending Touch (ACTION_UP): 0:(958.0,598.0)
+[1629486880937] Sleep for 0 ms
+[1629486880937] Sleep for 227 ms
+[1629486881165] Sleep for 0 ms
+[1629486881166] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629486881318] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629486881323] Sleep for 0 ms
+[1629486881323] Sleep for 245 ms
+[1629486881571] Sleep for 0 ms
+[1629486881573] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629486881576] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629486881578] Sleep for 0 ms
+[1629486881578] Sleep for 108 ms
+[1629486881689] Sleep for 0 ms
+[1629486881690] :Sending Touch (ACTION_DOWN): 0:(69.0,1353.0)
+[1629486881693] :Sending Touch (ACTION_UP): 0:(62.97034,1352.7642)
+[1629486881696] Sleep for 0 ms
+[1629486881697] Sleep for 288 ms
+[1629486881701]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+[1629486881987] Sleep for 0 ms
+[1629486881988] Sleep for 0 ms
+[1629486881989] Sleep for 0 ms
+[1629486881991] :Sending rotation degree : 0, persist : false
+[1629486882020] Sleep for 0 ms
+[1629486882020] Sleep for 500 ms
+[1629486882523] Sleep for 0 ms
+[1629486882523] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629486882816] fastbot exec shell: 
+[1629486882819] fastbot exec schema: 
+[1629486882820] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486882822]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486882851] Sleep for 0 ms
+[1629486882853] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 8107) (elapsed nanos  : 8252977704559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 8135) (elapsed nanos  : 8253101429559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 8166) (elapsed nanos  : 8253219874559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_14_44.854_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_14_44.854_.txt status was 0
+Logcat_20210820151443.log:
+[WARNING] // Logcat_20210820151443.log status was 0
+[1629486907849] Encounter abort but we are in continuous mode.
+[1629486907850] Sleep for 0 ms
+[1629486907850] :schema :
+[1629486907852] Sleep for 0 ms
+[1629486907853] Sleep for 2000 ms
+[1629486909855] Sleep for 0 ms
+[1629486909856] Sleep for 500 ms
+[1629486910359] Sleep for 0 ms
+[1629486910359] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629486910362] :Sending Touch (ACTION_DOWN): 0:(738.0,1198.0)
+[1629486910364] :Sending Touch (ACTION_UP): 0:(721.6675,1204.2473)
+[1629486910366] Sleep for 0 ms
+[1629486910367] Sleep for 151 ms
+[1629486910385]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity } in package com.google.android.play.games
+[1629486910519] Sleep for 0 ms
+[1629486910519] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629486910523] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629486910526] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486910528] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486910531] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629486910532] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629486910536] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629486910541]     //[calendar_time:2021-08-20 15:15:10.541  system_uptime:8280561]
+[1629486910541]     // Sending event #300
+[1629486910542] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629486910543] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486910544] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629486910545] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629486910546] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629486910547] Sleep for 0 ms
+[1629486910547] Sleep for 213 ms
+[1629486910599]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486910761] Sleep for 0 ms
+[1629486910762] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486910765] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486910767]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486910769] Sleep for 0 ms
+[1629486910769] Sleep for 213 ms
+[1629486910985] Sleep for 0 ms
+[1629486910986] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486910988] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486910989]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486910992] Sleep for 0 ms
+[1629486910993] Sleep for 279 ms
+[1629486911274] Sleep for 0 ms
+[1629486911276] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629486911278] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629486911281] Sleep for 0 ms
+[1629486911282] Sleep for 123 ms
+[1629486911409] Sleep for 0 ms
+[1629486911409] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629486911414] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629486911414]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629486911418] Sleep for 0 ms
+[1629486911419] Sleep for 201 ms
+[1629486911622] Sleep for 0 ms
+[1629486911622] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629486911625] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629486911627] Sleep for 0 ms
+[1629486911627] Sleep for 174 ms
+[1629486911804] Sleep for 0 ms
+[1629486911805] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629486911808] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629486911811] Sleep for 0 ms
+[1629486911812] Sleep for 500 ms
+[1629486912314] Sleep for 0 ms
+[1629486912314] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629486912318] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629486912320] Sleep for 0 ms
+[1629486912321] Sleep for 204 ms
+[1629486912322]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629486912528] Sleep for 0 ms
+[1629486912528] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629486912532] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629486912534] Sleep for 0 ms
+[1629486912535] Sleep for 500 ms
+[1629486913037] Sleep for 0 ms
+[1629486913037] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629486913040] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629486913043] Sleep for 0 ms
+[1629486913043] Sleep for 107 ms
+[1629486913151] Sleep for 0 ms
+[1629486913152] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629486913154] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629486913158] Sleep for 0 ms
+[1629486913159] Sleep for 132 ms
+[1629486913293] Sleep for 0 ms
+[1629486913293] Sleep for 0 ms
+[1629486913294] Sleep for 0 ms
+[1629486913294] :Sending rotation degree : 0, persist : false
+[1629486913319] Sleep for 0 ms
+[1629486913320] Sleep for 500 ms
+[1629486913822] Sleep for 0 ms
+[1629486913822] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629486914123] fastbot exec shell: 
+[1629486914126] fastbot exec schema: 
+[1629486914126] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=nl.viter.glider/.MainActivity;end
+[1629486914128]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=nl.viter.glider/.MainActivity } in package nl.viter.glider
+[1629486914131] Sleep for 0 ms
+[1629486914132] Sleep for 2000 ms
+[ERROR] // CRASH  : nl.viter.glider (pid 8537) (elapsed nanos  : 8284459781559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 8566) (elapsed nanos  : 8284602385559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+[ERROR] // CRASH  : nl.viter.glider (pid 8597) (elapsed nanos  : 8284714415559)
+[ERROR] // Version  : 
+[ERROR] // Short Msg  : org.xmlpull.v1.XmlPullParserException
+[ERROR] // Long Msg  : org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+[ERROR] // java.lang.RuntimeException: Unable to start activity ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2298)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2360)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:144)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1278)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:135)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:372)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+// Caused by: android.content.res.Resources$NotFoundException: File res/bM.xml from drawable resource ID #0x7f040001
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2428)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2330)
+// 	at android.content.res.Resources.getDrawable(Resources.java:758)
+// 	at android.content.res.Resources.getDrawable(Resources.java:724)
+// 	at io.flutter.embedding.android.e.H()
+// 	at io.flutter.embedding.android.e.x()
+// 	at io.flutter.embedding.android.f.m()
+// 	at io.flutter.embedding.android.e.D()
+// 	at io.flutter.embedding.android.e.onCreate()
+// 	at nl.viter.glider.MainActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5937)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1105)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2251)
+// 	... 10 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #4: <item> tag requires a 'drawable' attribute or child tag defining a drawable
+// 	at android.graphics.drawable.LayerDrawable.inflateLayers(LayerDrawable.java:202)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:147)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1095)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1017)
+// 	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2418)
+// 	... 22 more
+// 
+app_crashnl.viter.glider_2021-08-20_15_15_16.134_.txt:
+[WARNING] // app_crashnl.viter.glider_2021-08-20_15_15_16.134_.txt status was 0
+Logcat_20210820151514.log:
+[WARNING] // Logcat_20210820151514.log status was 0
+[1629486938902] Encounter abort but we are in continuous mode.
+[1629486938902] Sleep for 0 ms
+[1629486938903] Events injected : 327
+[1629486938904] // Monkey is over!
+[1629486938904] :Sending rotation degree : 0, persist : false
+[1629486938925] Total app activities:
+[1629486938925]    1 io.flutter.plugins.urllauncher.WebViewActivity
+[1629486938925]    2 nl.viter.glider.MainActivity
+[1629486938926] Explored app activities:
+[1629486938926]    1 nl.viter.glider.MainActivity
+[1629486938926] Acitity of Coverage: 50.0%
+[1629486938926] Activity of Times:
+:Dropped : keys=0 pointers=8 trackballs=0 flips=0 rotations=0
+[1629486938938] // App appears 18 crash, 0 anr, monkey using seed : 1630485097382

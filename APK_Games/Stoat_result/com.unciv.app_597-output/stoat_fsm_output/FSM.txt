@@ -1,0 +1,11 @@
+# the app FSM, including all unique app states and transitions. Please keep this file unchanged. 
+2;5
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml
+S_1;com.unciv.app.AndroidLauncher;3
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;1;menu;1;220;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;2;back;2;57;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_4.xml;1;menu;3;1;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_4.xml
+S_4;com.unciv.app.AndroidLauncher;2
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_4.xml;/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;1;menu;4;216;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_4.xml;/Users/jiajunzhou/Downloads/APK_Games/com.unciv.app_597-output/stoat_fsm_output/ui/S_1.xml;2;back;10;4;0.0

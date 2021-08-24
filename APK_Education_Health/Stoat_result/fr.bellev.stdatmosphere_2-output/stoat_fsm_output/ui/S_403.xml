@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[727,816][1059,1113]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="fr.bellev.stdatmosphere" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,837][1038,1092]">
+      <node index="0" text="1e6.Pl" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,837][1038,963]" />
+      <node index="1" text="Poises" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="fr.bellev.stdatmosphere" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[748,966][1038,1092]" />
+    </node>
+  </node>
+</hierarchy>

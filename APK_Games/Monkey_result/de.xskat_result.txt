@@ -1,0 +1,264 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626391506743 count=1000
+:AllowPackage: de.xskat
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+:Sending Touch (ACTION_DOWN): 0:(320.0,13.0)
+:Sending Touch (ACTION_UP): 0:(321.61133,15.002441)
+:Sending Touch (ACTION_DOWN): 0:(53.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(32.13147,1469.2306)
+:Sending Touch (ACTION_DOWN): 0:(605.0,914.0)
+:Sending Touch (ACTION_UP): 0:(627.7357,840.0631)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,948.0)
+:Sending Touch (ACTION_UP): 0:(1033.1563,952.5724)
+:Sending Touch (ACTION_DOWN): 0:(699.0,915.0)
+:Sending Touch (ACTION_UP): 0:(703.93335,919.3155)
+:Sending Touch (ACTION_DOWN): 0:(380.0,323.0)
+:Sending Touch (ACTION_UP): 0:(389.6823,311.97104)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(600.0663,1453.2776)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,549.0)
+:Sending Touch (ACTION_UP): 0:(1027.6136,498.93323)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(175.0,407.0)
+    //[calendar_time:2021-08-04 01:23:28.534  system_uptime:10020775]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(81.543015,383.70355)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(549.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(539.80634,1522.9983)
+:Sending Touch (ACTION_DOWN): 0:(484.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(445.90445,1509.259)
+:Sending Touch (ACTION_DOWN): 0:(382.0,513.0)
+:Sending Touch (ACTION_UP): 0:(279.8515,558.19653)
+:Sending Touch (ACTION_DOWN): 0:(978.0,116.0)
+:Sending Touch (ACTION_UP): 0:(982.7529,106.17476)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,863.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,868.92004)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1628.0)
+:Sending Touch (ACTION_UP): 0:(859.1304,1651.661)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1345.0)
+:Sending Touch (ACTION_UP): 0:(90.95389,1341.6984)
+:Sending Touch (ACTION_DOWN): 0:(597.0,644.0)
+:Sending Touch (ACTION_UP): 0:(614.85114,631.1943)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(167.01042,1306.0116)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2021-08-04 01:23:41.238  system_uptime:10033462]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,863.0)
+:Sending Touch (ACTION_UP): 0:(68.1055,835.5233)
+:Sending Touch (ACTION_DOWN): 0:(851.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(844.202,1144.1812)
+:Sending Touch (ACTION_DOWN): 0:(243.0,473.0)
+:Sending Touch (ACTION_UP): 0:(264.74316,470.30267)
+:Sending Touch (ACTION_DOWN): 0:(753.0,166.0)
+:Sending Touch (ACTION_UP): 0:(755.3627,174.88246)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,972.0)
+:Sending Touch (ACTION_UP): 0:(1.7981383,973.9903)
+:Sending Touch (ACTION_DOWN): 0:(837.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(906.55963,1664.0032)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(260.0,162.0)
+:Sending Touch (ACTION_UP): 0:(259.8573,161.19864)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1361.0)
+:Sending Touch (ACTION_UP): 0:(667.9469,1343.8442)
+    //[calendar_time:2021-08-04 01:23:55.433  system_uptime:10047657]
+    // Sending event #300
+    //[calendar_time:2021-08-04 01:23:55.934  system_uptime:10048158]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(775.0,320.0)
+:Sending Touch (ACTION_UP): 0:(802.83966,348.2071)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(850.0,682.0)
+:Sending Touch (ACTION_UP): 0:(902.7949,698.85077)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(207.52109,1573.3536)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2021-08-04 01:24:06.641  system_uptime:10058865]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(140.0,266.0)
+:Sending Touch (ACTION_UP): 0:(149.03976,253.85785)
+:Sending Touch (ACTION_DOWN): 0:(912.0,354.0)
+:Sending Touch (ACTION_UP): 0:(916.52637,345.63617)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(461.0,723.0)
+:Sending Touch (ACTION_UP): 0:(462.77036,737.6249)
+:Sending Touch (ACTION_DOWN): 0:(939.0,945.0)
+:Sending Touch (ACTION_UP): 0:(938.2363,945.0064)
+:Sending Touch (ACTION_DOWN): 0:(135.0,345.0)
+:Sending Touch (ACTION_UP): 0:(132.6057,350.33286)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,465.0)
+:Sending Touch (ACTION_UP): 0:(1075.029,445.71362)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+:Sending Touch (ACTION_DOWN): 0:(828.0,1253.0)
+:Sending Touch (ACTION_UP): 0:(866.1906,1322.9554)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(842.53345,1658.8356)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(120.773834,1072.4648)
+:Sending Touch (ACTION_DOWN): 0:(183.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(190.13423,1285.0754)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2021-08-04 01:24:19.328  system_uptime:10071551]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(270.0,193.0)
+:Sending Touch (ACTION_UP): 0:(258.6368,188.86589)
+:Sending Touch (ACTION_DOWN): 0:(326.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(331.59015,1046.438)
+:Sending Touch (ACTION_DOWN): 0:(376.0,28.0)
+:Sending Touch (ACTION_UP): 0:(360.687,34.34058)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(128.0,858.0)
+:Sending Touch (ACTION_UP): 0:(132.16496,851.42694)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(569.0,826.0)
+:Sending Touch (ACTION_UP): 0:(538.14136,886.4829)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(502.2597,1683.8)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1703.0)
+    //[calendar_time:2021-08-04 01:24:32.077  system_uptime:10084301]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(453.7488,1620.7238)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,796.0)
+:Sending Touch (ACTION_UP): 0:(1063.0115,792.76685)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1694.0)
+:Sending Touch (ACTION_UP): 0:(1026.4427,1700.053)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(506.0,586.0)
+:Sending Touch (ACTION_UP): 0:(518.247,577.8868)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(133.88054,1557.9153)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,878.0)
+:Sending Touch (ACTION_UP): 0:(703.01666,885.6317)
+:Sending Touch (ACTION_DOWN): 0:(442.0,382.0)
+:Sending Touch (ACTION_UP): 0:(440.7296,394.50836)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(96.82449,1663.1979)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(554.9796,1587.8363)
+    //[calendar_time:2021-08-04 01:24:43.295  system_uptime:10095518]
+    // Sending event #700
+    //[calendar_time:2021-08-04 01:24:43.796  system_uptime:10096020]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(304.0,438.0)
+:Sending Touch (ACTION_UP): 0:(290.13232,374.5869)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(253.42538,1542.4159)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(264.0,272.0)
+:Sending Touch (ACTION_UP): 0:(263.4286,275.57697)
+:Sending Touch (ACTION_DOWN): 0:(926.0,852.0)
+:Sending Touch (ACTION_UP): 0:(919.43365,898.10626)
+:Sending Touch (ACTION_DOWN): 0:(141.0,1727.0)
+:Sending Touch (ACTION_UP): 0:(142.73286,1733.3529)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(316.32983,1669.5006)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(902.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(895.804,1547.7761)
+    //[calendar_time:2021-08-04 01:24:56.031  system_uptime:10108255]
+    // Sending event #800
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.xskat/.XSkat;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.xskat/.XSkat } in package de.xskat
+:Sending Touch (ACTION_DOWN): 0:(134.0,1350.0)
+:Sending Touch (ACTION_UP): 0:(140.78355,1357.6028)
+:Sending Touch (ACTION_DOWN): 0:(990.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(974.1332,1627.3351)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(216.0,363.0)
+:Sending Touch (ACTION_UP): 0:(226.86131,364.7637)
+:Sending Touch (ACTION_DOWN): 0:(450.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(441.43558,1126.7853)
+:Sending Touch (ACTION_DOWN): 0:(59.0,447.0)
+:Sending Touch (ACTION_UP): 0:(65.50685,449.17975)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,779.0)
+:Sending Touch (ACTION_UP): 0:(1018.181,783.6139)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1282.0)
+    //[calendar_time:2021-08-04 01:25:09.745  system_uptime:10121969]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(930.8368,1280.3018)
+:Sending Touch (ACTION_DOWN): 0:(231.0,149.0)
+:Sending Touch (ACTION_UP): 0:(233.37054,136.67097)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(195.40553,1034.4714)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(482.0,71.0)
+:Sending Touch (ACTION_UP): 0:(476.54742,63.749245)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(926.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(930.6829,1291.4927)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1309.0)
+:Sending Touch (ACTION_UP): 0:(796.938,1302.5432)
+:Sending Touch (ACTION_DOWN): 0:(438.0,167.0)
+:Sending Touch (ACTION_UP): 0:(443.24185,167.44191)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1266.0)
+:Sending Touch (ACTION_UP): 0:(1016.8624,1260.0321)
+:Sending Touch (ACTION_DOWN): 0:(667.0,825.0)
+:Sending Touch (ACTION_UP): 0:(705.5839,875.29376)
+:Sending Touch (ACTION_DOWN): 0:(562.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(555.6098,1665.0546)
+:Sending Touch (ACTION_DOWN): 0:(858.0,471.0)
+:Sending Touch (ACTION_UP): 0:(872.60175,490.0907)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=12 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=132659ms (0ms mobile, 0ms wifi, 132659ms not connected)
+// Monkey finished

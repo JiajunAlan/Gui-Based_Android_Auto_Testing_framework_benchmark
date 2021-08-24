@@ -1,0 +1,30 @@
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+**
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"testt"
+menu
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"Type a French verb"
+**
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12est"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+**
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"Type a conjugated verb"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_deconjugate'):android.widget.EditText@"12st"
+**
+menu
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12st"
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"12est"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Conjugate"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+menu
+edit(resource-id='com.allansimon.verbisteandroid:id/enter_verb'):android.widget.EditText@"testt"
+**

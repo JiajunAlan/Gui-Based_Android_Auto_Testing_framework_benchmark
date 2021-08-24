@@ -1,0 +1,18 @@
+1629373837714] *** Inject event ***
+[1629373837716] :Sending Touch (ACTION_DOWN): 0:(1032.5,139.0)
+[1629373837719] Waiting Event for 1000 milliseconds
+[1629373838721] Events injected : 1368
+[1629373838721] // Monkey is over!
+[1629373838721] :Sending rotation degree : 0, persist : false
+[1629373838753] Total app activities:
+[1629373838754]    1 com.ktprograms.ohmsnow.MainActivity
+[1629373838754]    2 com.ktprograms.ohmsnow.CapacitorActivity
+[1629373838754] Explored app activities:
+[1629373838754]    1 com.ktprograms.ohmsnow.CapacitorActivity
+[1629373838754]    2 com.ktprograms.ohmsnow.MainActivity
+[1629373838754] Acitity of Coverage: 100.0%
+[1629373838754] Activity of Times:
+[1629373838754] com.ktprograms.ohmsnow.MainActivity    131
+[1629373838754] com.ktprograms.ohmsnow.CapacitorActivity    184
+:Dropped : keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+[1629373838767] // Monkey finished

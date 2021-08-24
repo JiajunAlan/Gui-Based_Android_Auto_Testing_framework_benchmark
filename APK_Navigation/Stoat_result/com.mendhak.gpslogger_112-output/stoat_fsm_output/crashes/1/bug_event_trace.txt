@@ -1,0 +1,193 @@
+click(resource-id='com.mendhak.gpslogger:id/simpleview_txtSatelliteCount')@
+menu@
+click(resource-id='com.mendhak.gpslogger:id/simpleview_imgAltitude')@
+scroll(direction='up')@
+back@
+clickLong(resource-id='com.mendhak.gpslogger:id/mnuUpload')@
+click(className='android.widget.TextView',instance='0')@Auto Send Now
+click(className='android.widget.TextView',instance='6')@ownCloud
+click(className='android.widget.TextView',instance='3')@Username
+back@
+click(className='android.widget.TextView',instance='7')@Validate SSL Certificate
+click(resource-id='com.mendhak.gpslogger:id/expand_collapse')@
+click(className='android.widget.TextView',instance='3')@Details
+click(className='android.widget.TextView',instance='3')@Copy
+click(className='android.widget.TextView',instance='5')@Folder
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='2')@ownCloud Base URL
+click(className='android.widget.TextView',instance='1')@Cancel
+click(content-desc='Navigate up')@
+clickLong(resource-id='com.mendhak.gpslogger:id/simpleview_txtDirection')@
+click(resource-id='com.mendhak.gpslogger:id/simpleview_imgAccuracy')@
+clickLong(resource-id='com.mendhak.gpslogger:id/mnuOnePoint')@
+clickLong(resource-id='com.mendhak.gpslogger:id/simpleview_txtAccuracy')@
+click(resource-id='com.mendhak.gpslogger:id/simpleview_txtAccuracy')@
+edit(resource-id='com.mendhak.gpslogger:id/simple_lon_text')@
+click(className='android.widget.Button',instance='0')@Start Logging
+click(resource-id='com.mendhak.gpslogger:id/simpleview_imgSpeed')@
+click(className='android.widget.TextView',instance='4')@0°
+click(className='android.widget.Button',instance='0')@Stop Logging
+click(resource-id='com.mendhak.gpslogger:id/simpleview_imgDirection')@
+click(resource-id='com.mendhak.gpslogger:id/mnuShare')@
+click(className='android.widget.TextView',instance='1')@Location only
+click(className='android.widget.TextView',instance='3')@OK
+click(resource-id='com.mendhak.gpslogger:id/simpleview_distance')@
+click(className='android.widget.TextView',instance='2')@20 meters
+clickLong(resource-id='com.mendhak.gpslogger:id/mnuAnnotate')@
+edit(resource-id='com.mendhak.gpslogger:id/custom_autocomplete')@Use only letters and numbers
+click(className='android.widget.TextView',instance='2')@OK
+clickLong(className='android.widget.TextView',instance='7')@0°
+click(resource-id='com.mendhak.gpslogger:id/notification_bulb')@
+click(className='android.widget.TextView',instance='7')@0°
+click(className='android.widget.TextView',instance='7')@0°
+click(className='android.widget.TextView',instance='8')@0.13 s
+click(className='android.widget.TextView',instance='0')@Simple View
+click(className='android.widget.TextView',instance='1')@Detailed View
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.TextView',instance='1')@Allow auto sending
+click(className='android.widget.TextView',instance='6')@Folder
+edit(resource-id='android:id/edit')@GPSLogger
+edit(resource-id='android:id/edit')@12SLogger
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='7')@Test upload
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='8')@Upload a test file to the FTP server
+clickLong(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='4')@Username
+edit(resource-id='android:id/edit')@
+edit(resource-id='android:id/edit')@test
+edit(resource-id='android:id/edit')@12st
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='2')@Server
+edit(resource-id='android:id/edit')@Hostname or IP
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@1test
+edit(resource-id='android:id/edit')@testt
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='12')@Enable FTP over SSL. SSL/TLS and Implicit are ignored if this is unchecked.
+click(className='android.widget.TextView',instance='11')@Use FTPS
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='10')@Port
+click(className='android.widget.TextView',instance='1')@Cancel
+scroll(direction='down')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='5')@Advanced settings
+click(className='android.widget.TextView',instance='8')@Enable FTP over SSL. SSL/TLS and Implicit are ignored if this is unchecked.
+click(className='android.widget.TextView',instance='7')@Use FTPS
+click(className='android.widget.TextView',instance='2')@Folder
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='1')@Password
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='11')@Validate SSL Certificate
+click(className='android.widget.TextView',instance='2')@Details
+click(className='android.widget.TextView',instance='5')@OK
+click(className='android.widget.TextView',instance='12')@Implicit FTP over SSL
+click(className='android.widget.TextView',instance='9')@SSL/TLS
+click(className='android.widget.TextView',instance='4')@Cancel
+click(className='android.widget.TextView',instance='10')@None, SSL or TLS. Use none for regular unsecured connections.
+click(className='android.widget.TextView',instance='2')@SSL
+click(className='android.widget.TextView',instance='4')@Upload a test file to the FTP server
+back@
+click(className='android.widget.TextView',instance='6')@Port
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='3')@Test upload
+clickLong(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='2')@OK
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@OK
+click(content-desc='Navigate up')@
+back@
+click(className='android.widget.TextView',instance='10')@None, SSL or TLS. Use none for regular unsecured connections.
+click(resource-id='com.mendhak.gpslogger:id/md_control')@
+click(className='android.widget.TextView',instance='9')@SSL/TLS
+click(resource-id='com.mendhak.gpslogger:id/md_control')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+clickLong(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='2')@OK
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@OK
+click(content-desc='Navigate up')@
+clickLong(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+click(className='android.widget.TextView',instance='1')@Some of your settings are invalid. Please ensure that you have filled out all relevant fields.
+back@
+click(className='android.widget.TextView',instance='11')@Validate SSL Certificate
+click(className='android.widget.TextView',instance='4')@OK
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@OK
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='8')@Enable FTP over SSL. SSL/TLS and Implicit are ignored if this is unchecked.
+click(className='android.widget.TextView',instance='6')@Port
+edit(resource-id='android:id/edit')@12
+edit(resource-id='android:id/edit')@2
+edit(resource-id='android:id/edit')@
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='2')@Folder
+edit(resource-id='android:id/edit')@12SLogger
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='5')@Advanced settings
+click(className='android.widget.TextView',instance='3')@Test upload
+click(className='android.widget.TextView',instance='2')@OK
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@Hostname or IP
+edit(resource-id='android:id/edit')@Hostname or IP
+edit(resource-id='android:id/edit')@test
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='9')@Advanced settings
+click(className='android.widget.TextView',instance='13')@SSL/TLS
+click(resource-id='com.mendhak.gpslogger:id/md_control')@
+click(className='android.widget.TextView',instance='5')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='13')@SSL/TLS
+click(className='android.widget.TextView',instance='3')@TLS
+click(className='android.widget.TextView',instance='10')@Port
+edit(resource-id='android:id/edit')@12
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='2')@Server
+edit(resource-id='android:id/edit')@test
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='9')@Advanced settings
+click(className='android.widget.TextView',instance='8')@Upload a test file to the FTP server
+click(className='android.widget.TextView',instance='3')@Copy
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='4')@Upload a test file to the FTP server
+click(resource-id='com.mendhak.gpslogger:id/expand_collapse')@
+click(className='android.widget.TextView',instance='4')@Copy
+click(className='android.widget.TextView',instance='12')@Implicit FTP over SSL
+click(className='android.widget.TextView',instance='7')@Use FTPS
+click(className='android.widget.TextView',instance='1')@Password
+edit(resource-id='android:id/edit')@
+click(className='android.widget.TextView',instance='1')@Cancel
+click(content-desc='Navigate up')@
+click(content-desc='Open navigation drawer')@
+clickLong(className='android.widget.TextView',instance='26')@OpenGTS
+click(className='android.widget.TextView',instance='12')@Validate SSL Certificate
+click(className='android.widget.TextView',instance='2')@Details
+click(className='android.widget.TextView',instance='3')@Copy
+click(className='android.widget.TextView',instance='2')@OpenGTS Settings
+click(className='android.widget.TextView',instance='9')@Optional and only for HTTP-based communication. For example /gprmc/Data
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='3')@Server
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='4')@Hostname or IP
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='8')@Server Path
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='5')@Port
+click(className='android.widget.TextView',instance='1')@Cancel
+click(className='android.widget.TextView',instance='11')@Device ID
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='10')@Account name
+click(className='android.widget.TextView',instance='2')@OK
+click(className='android.widget.TextView',instance='6')@Communication Method
+click(className='android.widget.TextView',instance='2')@HTTPS
+click(className='android.widget.TextView',instance='7')@HTTP-based or Raw Socket Based communication
+click(className='android.widget.TextView',instance='1')@HTTP
+click(content-desc='Navigate up')@
+click(content-desc='Open navigation drawer')@

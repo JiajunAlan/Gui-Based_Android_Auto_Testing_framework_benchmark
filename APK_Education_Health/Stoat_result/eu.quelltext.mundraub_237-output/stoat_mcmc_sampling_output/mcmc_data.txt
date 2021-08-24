@@ -1,0 +1,12 @@
+---- 1th iteration in MCMC Sampling -----
+nodeCoverage: 0.0, edgeCoverage: 0.0, lineCoverage: 0.0, diversity_value: 0.0, fintess value substraction: 0.0, current fitness value: 0.0, accept ration: 0.0, --> accept(1) or reject(0): -1, best_markov_model_id(iteration): 0
+-----
+
+---- 2th iteration in MCMC Sampling -----
+nodeCoverage: 0.8888888888888888, edgeCoverage: 0.6862745098039216, lineCoverage: 0.5, diversity_value: 0.5888443510942831, fintess value substraction: -58.253565826946144, current fitness value: 0.5825356582694614, accept ration: 0.0, --> accept(1) or reject(0): 1, best_markov_model_id(iteration): 2
+-----
+
+---- 3th iteration in MCMC Sampling -----
+nodeCoverage: 0.9259259259259259, edgeCoverage: 0.696078431372549, lineCoverage: 0.5, diversity_value: 0.564097851549574, fintess value substraction: 0.4482773392824546, current fitness value: 0.5780528848766369, accept ration: 0.8624901745537833, --> accept(1) or reject(0): 1, best_markov_model_id(iteration): 2
+-----
+

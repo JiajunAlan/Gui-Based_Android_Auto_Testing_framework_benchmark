@@ -1,0 +1,322 @@
+edit(resource-id='android:id/search_src_text')@
+menu@
+click(className='android.widget.TextView',instance='2')@Help
+back@
+back@
+edit(resource-id='android:id/search_src_text')@12
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+back@
+edit(resource-id='android:id/search_src_text')@1test
+click(className='android.widget.Button',instance='0')@⺡
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@About
+scroll(direction='up')@
+click(className='android.widget.Button',instance='2')@Install mozc
+keyevent_back@
+click(className='android.widget.Button',instance='1')@View sources
+back@
+keyevent_back@
+click(resource-id='android:id/search_close_btn')@
+menu@
+click(className='android.widget.TextView',instance='0')@Manage Dictionaries
+click(content-desc='Navigate up')@
+edit(resource-id='android:id/search_src_text')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Settings
+click(className='android.widget.TextView',instance='1')@Radicals Size
+click(className='android.widget.CheckedTextView',instance='1')@normal
+click(content-desc='Navigate up')@
+click(className='android.widget.Button',instance='0')@⺡
+clickLong(content-desc='More options')@
+back@
+menu@
+click(className='android.widget.TextView',instance='3')@About
+click(className='android.widget.Button',instance='0')@Report a bug
+keyevent_back@
+click(className='android.widget.Button',instance='0')@⺡
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Help
+click(className='android.widget.Button',instance='0')@Using romaji in search input
+back@
+click(content-desc='Navigate up')@
+menu@
+click(className='android.widget.TextView',instance='0')@Manage Dictionaries
+back@
+back@
+edit(resource-id='android:id/search_src_text')@
+edit(resource-id='android:id/search_src_text')@test
+click(resource-id='android:id/search_close_btn')@
+menu@
+click(className='android.widget.TextView',instance='0')@Manage Dictionaries
+click(className='android.widget.TextView',instance='9')@JMdict_dut
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='20')@121,378 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='13')@JMdict_fre
+back@
+click(className='android.widget.TextView',instance='18')@Japanese/German dictionary from the Electronic Dictionary Research and Development Group.
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='21')@JMdict_hun
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@JMdict_e
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@JMdict_rus
+click(content-desc='Navigate up')@
+back@
+click(className='android.widget.TextView',instance='17')@JMdict_ger
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@Japanese/French dictionary from the Jibiki project.
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='12')@JMdict_swe
+click(content-desc='Navigate up')@
+back@
+click(className='android.widget.TextView',instance='24')@41,772 entries
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='12')@39,027 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='14')@Japanese/French dictionary from the Electronic Dictionary Research and Development Group.
+back@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/Hungarian dictionary from the Electronic Dictionary Research and Development Group.
+back@
+click(className='android.widget.TextView',instance='4')@153,379 entries
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='16')@15,311 entries
+back@
+scroll(direction='up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='6')@Japanese/English dictionary from the Electronic Dictionary Research and Development Group.
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='1')@jibiki_fre
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='10')@Japanese/Dutch dictionary from the Electronic Dictionary Research and Development Group.
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='8')@192,500 entries
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='8')@JMdict_spa
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='15')@14,575 entries
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='25')@Pitch accent dictionary from Wadoku.
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='19')@12,156 entries
+click(resource-id='eu.lepiller.nani:id/download_button')@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='11')@JMdict_rus
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(resource-id='eu.lepiller.nani:id/download_button')@
+back@
+click(className='android.widget.TextView',instance='6')@192,500 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='9')@JMdict_swe
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@Pitch accent dictionary from Wadoku.
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='13')@JMdict_spa
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='10')@Japanese/Swedish dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@412,519 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='9')@radicals
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@wadoku_ger
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='14')@Japanese/Swedish dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='17')@JMdict_spa
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/Russian dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@JMdict_hun
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='6')@Japanese/German dictionary from Wadoku.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='8')@402,804 entries
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='26')@Japanese/Hungarian dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='13')@JMdict_swe
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='20')@34,021 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='1')@wadoku_pitch
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='18')@Japanese/Spanish dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='12')@12,156 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='21')@JMdict_rus
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='10')@Radical to Kanji dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@JMdict_dut
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='16')@14,575 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='26')@Japanese/Dutch dictionary from the Electronic Dictionary Research and Development Group.
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='26')@Japanese/English dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@JMdict_e
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='26')@8,741 entries
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@192,500 entries
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='18')@121,378 entries
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='16')@Japanese/German dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='14')@15,311 entries
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='23')@JMdict_slv
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='8')@Japanese/Dutch dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='20')@Japanese/Russian dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='6')@153,379 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/Hungarian dictionary from the Electronic Dictionary Research and Development Group.
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@jibiki_fre
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/English dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='21')@JMdict_e
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='24')@153,379 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='21')@jibiki_fre
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/French dictionary from the Jibiki project.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@412,519 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='16')@14,575 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/French dictionary from the Jibiki project.
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/icon_view')@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='14')@Japanese/Spanish dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='2')@Japanese/German dictionary from Wadoku.
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='20')@153,379 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='17')@jibiki_fre
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='12')@14,575 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='1')@wadoku_ger
+click(content-desc='Navigate up')@
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='5')@radicals
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='6')@Radical to Kanji dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='20')@192,500 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='22')@Japanese/Dutch dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='25')@JMdict_fre
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='18')@Japanese/English dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='17')@JMdict_e
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='14')@Japanese/French dictionary from the Jibiki project.
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='8')@12,156 entries
+click(resource-id='eu.lepiller.nani:id/remove_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='4')@402,804 entries
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='17')@JMdict_dut
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='10')@Japanese/French dictionary from the Jibiki project.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='26')@Japanese/German dictionary from the Electronic Dictionary Research and Development Group.
+click(content-desc='Navigate up')@
+click(className='android.widget.TextView',instance='24')@15,311 entries
+click(content-desc='Navigate up')@

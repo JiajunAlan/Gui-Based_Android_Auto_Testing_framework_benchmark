@@ -1,0 +1,10 @@
+# the app FSM, including all unique app states and transitions. Please keep this file unchanged. 
+2;4
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_5.xml
+S_5;jgame.platform.JGActivity;2
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_5.xml;/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_1.xml;7;click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Resume";4;62;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_5.xml;/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_1.xml;8;click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Quit To Menu";6;62;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_1.xml
+S_1;jgame.platform.JGActivity;2
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_1.xml;/EMPTY_APP_STATE.xml;2;back;1;83;0.0
+/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_1.xml;/Users/jiajunzhou/Downloads/APK_Games/com.kaeruct.raumballer_2-output/stoat_fsm_output/ui/S_5.xml;1;menu;3;125;0.0

@@ -1,0 +1,274 @@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+back@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+click(className='android.widget.TextView',instance='8')@ongakuer
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+clickLong(className='android.widget.TextView',instance='1')@AboutLibraries
+click(resource-id='apps.amine.bou.readerforselfoss:id/aboutIcon')@
+click(className='android.widget.TextView',instance='5')@Mike Penz
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+click(content-desc='Navigate up')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='1')@ongakuer
+click(resource-id='com.android.browser:id/more')@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+clickLong(className='android.widget.TextView',instance='3')@AboutLibraries is a library to offer you all the information you need of your libraries! Most modern apps feature a Used Library-section, which requires information about those respective libs. As it gets annoying to always copy those strings to your app, I have developed this small helper library to provide the required information.
+click(resource-id='com.android.browser:id/tab_switcher')@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+clickLong(resource-id='apps.amine.bou.readerforselfoss:id/aboutIcon')@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='2')@Mike Penz
+click(resource-id='com.android.browser:id/favicon')@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.Button',instance='0')@Go
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+clickLong(className='android.widget.TextView',instance='9')@A lightweight viewpager indicator like in nexus 5 launcher
+clickLong(className='android.widget.TextView',instance='2')@Mike Penz
+back@
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+click(className='android.widget.TextView',instance='9')@A lightweight viewpager indicator like in nexus 5 launcher
+keyevent_back@
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+click(className='android.widget.TextView',instance='4')@Android-Iconics
+clickLong(className='android.widget.TextView',instance='7')@CircleIndicator
+clickLong(className='android.widget.TextView',instance='6')@This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any Color at any time, provide a contour, and many additional customizations
+clickLong(className='android.widget.TextView',instance='4')@Android-Iconics
+clickLong(className='android.widget.TextView',instance='8')@ongakuer
+click(className='android.widget.TextView',instance='7')@CircleIndicator
+click(className='android.widget.TextView',instance='1')@AboutLibraries
+click(className='android.widget.TextView',instance='6')@This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any Color at any time, provide a contour, and many additional customizations
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+click(className='android.widget.TextView',instance='3')@AboutLibraries is a library to offer you all the information you need of your libraries! Most modern apps feature a Used Library-section, which requires information about those respective libs. As it gets annoying to always copy those strings to your app, I have developed this small helper library to provide the required information.
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+clickLong(content-desc='More options')@
+back@
+keyevent_back@
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+clickLong(className='android.widget.TextView',instance='5')@Mike Penz
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(content-desc='More options')@
+back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+clickLong(content-desc='More options')@
+click(className='android.widget.Button',instance='0')@Go
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+click(content-desc='More options')@
+back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+click(className='android.widget.Button',instance='0')@Go
+click(className='android.widget.Button',instance='0')@OK
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+click(content-desc='More options')@
+back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='10')@Mike Penz
+clickLong(className='android.widget.TextView',instance='3')@FastAdapter
+click(className='android.widget.TextView',instance='6')@MaterialDrawer
+clickLong(className='android.widget.TextView',instance='4')@Mike Penz
+click(className='android.widget.TextView',instance='11')@Materialize comes with useful helper classes, the complete material color palette, and many additional utils. Use its theme as base. Let it manage your StatusBar, NavigationBar, Fullscreen behavior…
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='12')@PhotoView
+clickLong(className='android.widget.TextView',instance='6')@MaterialDrawer
+clickLong(className='android.widget.TextView',instance='14')@Implementation of ImageView for Android that supports zooming, by various touch gestures.
+click(className='android.widget.TextView',instance='7')@Mike Penz
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+back@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@A lightweight viewpager indicator like in nexus 5 launcher
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='9')@Materialize
+clickLong(className='android.widget.TextView',instance='2')@A lightweight viewpager indicator like in nexus 5 launcher
+keyevent_back@
+clickLong(content-desc='More options')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='12')@PhotoView
+clickLong(className='android.widget.TextView',instance='13')@Chris Banes
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Go
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About
+scroll(direction='down')@
+clickLong(className='android.widget.TextView',instance='14')@Implementation of ImageView for Android that supports zooming, by various touch gestures.
+click(className='android.widget.TextView',instance='4')@Mike Penz
+keyevent_back@
+click(className='android.widget.TextView',instance='14')@Implementation of ImageView for Android that supports zooming, by various touch gestures.
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@1test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12est
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+click(className='android.widget.Button',instance='0')@Go
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12stt
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+clickLong(content-desc='More options')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@testt
+back@
+keyevent_back@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@12st
+edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView')@test
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@About

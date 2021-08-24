@@ -1,0 +1,13 @@
+    3035@click(resource-id='org.hwyl.sexytopo:id/action_save'):android.widget.TextView@""
+    3036@clickLong(resource-id='org.hwyl.sexytopo:id/action_save'):android.widget.TextView@""
+    3037@click(resource-id='org.hwyl.sexytopo:id/action_table'):android.widget.TextView@""
+    3038@clickLong(resource-id='org.hwyl.sexytopo:id/action_table'):android.widget.TextView@""
+    3039@click(resource-id='org.hwyl.sexytopo:id/action_plan'):android.widget.TextView@""
+    3040@clickLong(resource-id='org.hwyl.sexytopo:id/action_plan'):android.widget.TextView@""
+    3041@click(resource-id='org.hwyl.sexytopo:id/action_elevation'):android.widget.TextView@""
+    3042@clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation'):android.widget.TextView@""
+    3043@click(content-desc='More options'):android.widget.ImageView@""
+    3044@clickLong(content-desc='More options'):android.widget.ImageView@""
+    3045@back
+    7475@scroll(direction='down')
+    7476@scroll(direction='up')

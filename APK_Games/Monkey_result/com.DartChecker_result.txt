@@ -1,0 +1,259 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626387684005 count=1000
+:AllowPackage: com.DartChecker
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(367.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(322.01266,1716.7072)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,330.0)
+:Sending Touch (ACTION_UP): 0:(1021.5434,264.90405)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(405.35333,1219.9739)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(427.0,944.0)
+:Sending Touch (ACTION_UP): 0:(411.9616,945.7577)
+:Sending Touch (ACTION_DOWN): 0:(11.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(15.808186,1206.5133)
+:Sending Touch (ACTION_DOWN): 0:(117.0,887.0)
+:Sending Touch (ACTION_UP): 0:(114.7847,880.2393)
+:Sending Touch (ACTION_DOWN): 0:(693.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(692.7279,1235.603)
+    //[calendar_time:2021-08-04 00:25:50.615  system_uptime:6562857]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(686.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(686.2302,1031.1449)
+:Sending Touch (ACTION_DOWN): 0:(395.0,1488.0)
+:Sending Touch (ACTION_UP): 0:(406.01807,1496.6217)
+:Sending Touch (ACTION_DOWN): 0:(828.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(822.2362,1197.4775)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(473.0,783.0)
+:Sending Touch (ACTION_UP): 0:(468.51834,783.68805)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Touch (ACTION_DOWN): 0:(698.0,562.0)
+:Sending Touch (ACTION_UP): 0:(706.3002,545.501)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1082.0)
+:Sending Touch (ACTION_UP): 0:(837.4057,1096.6205)
+:Sending Touch (ACTION_DOWN): 0:(320.0,557.0)
+:Sending Touch (ACTION_UP): 0:(292.7363,596.0192)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Touch (ACTION_DOWN): 0:(583.0,96.0)
+:Sending Touch (ACTION_UP): 0:(590.7849,99.94534)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2021-08-04 00:26:05.383  system_uptime:6577606]
+    // Sending event #200
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,745.0)
+:Sending Touch (ACTION_UP): 0:(496.96848,729.6972)
+:Sending Touch (ACTION_DOWN): 0:(142.0,660.0)
+:Sending Touch (ACTION_UP): 0:(157.50551,636.8846)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(810.0666,1103.6671)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(492.33276,1443.7778)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(957.0,755.0)
+:Sending Touch (ACTION_UP): 0:(969.59094,736.39703)
+:Sending Touch (ACTION_DOWN): 0:(596.0,313.0)
+:Sending Touch (ACTION_UP): 0:(597.04535,325.86893)
+:Sending Touch (ACTION_DOWN): 0:(538.0,596.0)
+:Sending Touch (ACTION_UP): 0:(481.67267,667.1545)
+:Sending Touch (ACTION_DOWN): 0:(629.0,906.0)
+:Sending Touch (ACTION_UP): 0:(625.036,810.69525)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 00:26:18.068  system_uptime:6590292]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.DartChecker/.statistik } in package com.DartChecker
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(361.0,701.0)
+:Sending Touch (ACTION_UP): 0:(348.35178,699.0554)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(996.6775,1479.8173)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,734.0)
+:Sending Touch (ACTION_UP): 0:(960.33215,748.6071)
+:Sending Touch (ACTION_DOWN): 0:(59.0,1480.0)
+:Sending Touch (ACTION_UP): 0:(57.02374,1478.0005)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Touch (ACTION_DOWN): 0:(1068.0,197.0)
+:Sending Touch (ACTION_UP): 0:(1055.4614,211.3663)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(268.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(271.77597,1132.4065)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(498.83563,1350.0186)
+:Sending Touch (ACTION_DOWN): 0:(238.0,266.0)
+:Sending Touch (ACTION_UP): 0:(238.98293,258.69183)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2021-08-04 00:26:31.732  system_uptime:6603956]
+    // Sending event #400
+    //[calendar_time:2021-08-04 00:26:32.234  system_uptime:6604458]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(568.0,938.0)
+:Sending Touch (ACTION_UP): 0:(491.68704,858.5119)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,1436.0)
+:Sending Touch (ACTION_UP): 0:(1074.0314,1421.3376)
+:Sending Touch (ACTION_DOWN): 0:(453.0,482.0)
+:Sending Touch (ACTION_UP): 0:(451.79208,480.73312)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,182.0)
+:Sending Touch (ACTION_UP): 0:(503.1382,197.8629)
+:Sending Touch (ACTION_DOWN): 0:(371.0,588.0)
+:Sending Touch (ACTION_UP): 0:(357.1879,580.3758)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,289.0)
+    //[calendar_time:2021-08-04 00:26:39.373  system_uptime:6611597]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(394.26996,310.76782)
+:Sending Touch (ACTION_DOWN): 0:(15.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(15.544071,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(681.03394,954.46967)
+:Sending Touch (ACTION_DOWN): 0:(268.0,95.0)
+:Sending Touch (ACTION_UP): 0:(301.5902,77.336006)
+:Sending Touch (ACTION_DOWN): 0:(244.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(255.71785,1132.2651)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(914.4088,1425.5852)
+:Sending Touch (ACTION_DOWN): 0:(56.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(71.53215,1625.7264)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(179.0,443.0)
+:Sending Touch (ACTION_UP): 0:(182.66454,442.2365)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,866.0)
+:Sending Touch (ACTION_UP): 0:(161.55186,859.71674)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2021-08-04 00:26:56.108  system_uptime:6628331]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(949.06995,1124.1874)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(889.10736,1606.418)
+    // activityResuming(com.DartChecker)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(311.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(290.3737,1127.9863)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(468.0,233.0)
+:Sending Touch (ACTION_UP): 0:(463.43756,231.54048)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(233.0,865.0)
+:Sending Touch (ACTION_UP): 0:(247.18129,841.0296)
+:Sending Touch (ACTION_DOWN): 0:(24.0,170.0)
+:Sending Touch (ACTION_UP): 0:(33.907253,176.6818)
+:Sending Touch (ACTION_DOWN): 0:(243.0,205.0)
+:Sending Touch (ACTION_UP): 0:(240.75055,199.05138)
+    //[calendar_time:2021-08-04 00:27:07.441  system_uptime:6639665]
+    // Sending event #700
+    //[calendar_time:2021-08-04 00:27:07.943  system_uptime:6640167]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(488.0,883.0)
+:Sending Touch (ACTION_UP): 0:(596.8281,806.1061)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1173.0)
+:Sending Touch (ACTION_UP): 0:(643.3929,1174.9945)
+:Sending Touch (ACTION_DOWN): 0:(896.0,874.0)
+:Sending Touch (ACTION_UP): 0:(853.86115,917.9619)
+:Sending Touch (ACTION_DOWN): 0:(313.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(337.70822,1577.9559)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Touch (ACTION_DOWN): 0:(457.0,811.0)
+:Sending Touch (ACTION_UP): 0:(448.12625,819.00195)
+:Sending Touch (ACTION_DOWN): 0:(150.0,619.0)
+:Sending Touch (ACTION_UP): 0:(114.37289,697.68634)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(371.42535,1292.3496)
+:Sending Touch (ACTION_DOWN): 0:(16.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(24.278255,1752.2466)
+:Sending Touch (ACTION_DOWN): 0:(731.0,509.0)
+:Sending Touch (ACTION_UP): 0:(728.9334,510.63077)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2021-08-04 00:27:20.103  system_uptime:6652327]
+    // Sending event #800
+    //[calendar_time:2021-08-04 00:27:20.606  system_uptime:6652830]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(313.0,36.0)
+:Sending Touch (ACTION_UP): 0:(237.55159,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.DartChecker/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.DartChecker/.MainActivity } in package com.DartChecker
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(739.32666,1425.0598)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(961.0,159.0)
+:Sending Touch (ACTION_UP): 0:(951.57654,142.05869)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 00:27:28.276  system_uptime:6660499]
+    // Sending event #900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,132.0)
+:Sending Touch (ACTION_UP): 0:(264.8373,141.03995)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(720.221,1195.0734)
+:Sending Touch (ACTION_DOWN): 0:(881.0,936.0)
+:Sending Touch (ACTION_UP): 0:(913.2003,916.0357)
+:Sending Touch (ACTION_DOWN): 0:(680.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(678.86993,1554.6986)
+    // Allowing start of Intent { cmp=com.DartChecker/.match } in package com.DartChecker
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(123.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(132.5483,1245.8533)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(102.0,712.0)
+:Sending Touch (ACTION_UP): 0:(102.98705,712.2951)
+:Sending Touch (ACTION_DOWN): 0:(583.0,887.0)
+:Sending Touch (ACTION_UP): 0:(580.01434,886.93677)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(393.0,467.0)
+:Sending Touch (ACTION_UP): 0:(420.1456,459.01904)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=122881ms (0ms mobile, 0ms wifi, 122881ms not connected)
+// Monkey finished

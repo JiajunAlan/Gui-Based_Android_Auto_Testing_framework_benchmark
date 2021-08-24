@@ -1,0 +1,10 @@
+click(className='android.widget.CheckedTextView',instance='0')@360p
+click(className='android.widget.TextView',instance='10')@Enable 5.1 or 7.1 surround sound for home-theater systems
+click(className='android.widget.CheckedTextView',instance='0')@Stereo
+click(className='android.widget.TextView',instance='3')@Video frame rate
+click(className='android.widget.CheckedTextView',instance='0')@30 FPS
+click(className='android.widget.TextView',instance='14')@Automatic gamepad presence detection
+click(className='android.widget.TextView',instance='0')@Basic Settings
+click(resource-id='android:id/checkbox')@
+scroll(direction='down')@
+back@

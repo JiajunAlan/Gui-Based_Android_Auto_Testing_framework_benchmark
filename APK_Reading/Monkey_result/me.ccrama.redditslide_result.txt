@@ -1,0 +1,291 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626401902248 count=1000
+:AllowPackage: me.ccrama.redditslide
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(90.0,1689.0)
+:Sending Touch (ACTION_UP): 0:(83.35313,1669.8944)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.Tutorial } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(921.0,48.0)
+:Sending Touch (ACTION_UP): 0:(910.40845,48.142624)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(299.15292,1578.2236)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(833.3609,1017.1868)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(185.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(143.17212,1750.2859)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(121.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(125.105644,1522.4711)
+:Sending Touch (ACTION_DOWN): 0:(377.0,364.0)
+:Sending Touch (ACTION_UP): 0:(382.05072,359.60516)
+:Sending Touch (ACTION_DOWN): 0:(567.0,433.0)
+:Sending Touch (ACTION_UP): 0:(556.8112,374.30264)
+:Sending Touch (ACTION_DOWN): 0:(485.0,295.0)
+:Sending Touch (ACTION_UP): 0:(453.4288,280.79062)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(217.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(217.34099,1206.8792)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(797.0,1663.0)
+:Sending Touch (ACTION_UP): 0:(794.26306,1649.679)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2021-08-04 04:18:10.966  system_uptime:20503208]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(64.0,293.0)
+:Sending Touch (ACTION_UP): 0:(0.0,392.00366)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(815.0,771.0)
+:Sending Touch (ACTION_UP): 0:(833.078,778.57214)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(849.0,802.0)
+:Sending Touch (ACTION_UP): 0:(792.36646,773.5159)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.Tutorial } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/com.jakewharton.processphoenix.ProcessPhoenix } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.Tutorial } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(41.0,754.0)
+:Sending Touch (ACTION_UP): 0:(44.066402,754.39984)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.gallery/com.android.camera.GalleryPicker } in package com.android.gallery
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,862.0)
+:Sending Touch (ACTION_UP): 0:(762.15125,869.64343)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2021-08-04 04:18:20.824  system_uptime:20513048]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(488.0,421.0)
+:Sending Touch (ACTION_UP): 0:(497.93307,465.95166)
+:Sending Touch (ACTION_DOWN): 0:(336.0,1675.0)
+:Sending Touch (ACTION_UP): 0:(384.36505,1677.9822)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/com.jakewharton.processphoenix.ProcessPhoenix } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+:Sending Touch (ACTION_DOWN): 0:(783.0,690.0)
+:Sending Touch (ACTION_UP): 0:(793.7738,680.4257)
+:Sending Touch (ACTION_DOWN): 0:(535.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(533.5872,1145.2843)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/com.jakewharton.processphoenix.ProcessPhoenix } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(894.0,942.0)
+:Sending Touch (ACTION_UP): 0:(887.9028,964.0643)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/com.jakewharton.processphoenix.ProcessPhoenix } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/com.jakewharton.processphoenix.ProcessPhoenix } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.MainActivity } in package me.ccrama.redditslide
+    // activityResuming(me.ccrama.redditslide)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(430.0,812.0)
+:Sending Touch (ACTION_UP): 0:(423.67258,810.15594)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+    //[calendar_time:2021-08-04 04:18:36.230  system_uptime:20528454]
+    // Sending event #300
+    //[calendar_time:2021-08-04 04:18:36.731  system_uptime:20528955]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(623.0,763.0)
+:Sending Touch (ACTION_UP): 0:(621.6763,738.842)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(964.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(973.6484,1737.1573)
+:Sending Touch (ACTION_DOWN): 0:(822.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(814.6304,1687.2659)
+:Sending Touch (ACTION_DOWN): 0:(600.0,164.0)
+:Sending Touch (ACTION_UP): 0:(601.59186,146.03688)
+:Sending Touch (ACTION_DOWN): 0:(531.0,86.0)
+:Sending Touch (ACTION_UP): 0:(541.35364,8.691259)
+:Sending Touch (ACTION_DOWN): 0:(363.0,152.0)
+:Sending Touch (ACTION_UP): 0:(358.71906,149.32178)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Allowing start of Intent { cmp=me.ccrama.redditslide/.Activities.Search } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(1052.0,406.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,357.45227)
+    // activityResuming(me.ccrama.redditslide)
+    //[calendar_time:2021-08-04 04:18:49.744  system_uptime:20541968]
+    // Sending event #400
+    //[calendar_time:2021-08-04 04:18:50.245  system_uptime:20542469]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(355.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(370.79712,1316.7682)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(54.28793,1198.6849)
+:Sending Touch (ACTION_DOWN): 0:(987.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(1079.8146,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(889.0,167.0)
+:Sending Touch (ACTION_UP): 0:(868.23615,187.0615)
+:Sending Touch (ACTION_DOWN): 0:(834.0,441.0)
+:Sending Touch (ACTION_UP): 0:(742.1446,334.87817)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(63.0,499.0)
+    //[calendar_time:2021-08-04 04:18:59.141  system_uptime:20551365]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(0.0,478.74203)
+:Sending Flip keyboardOpen=true
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(906.0,620.0)
+:Sending Touch (ACTION_UP): 0:(909.4266,608.2965)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(1077.0,82.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(820.0,805.0)
+:Sending Touch (ACTION_UP): 0:(821.113,768.19977)
+:Sending Touch (ACTION_DOWN): 0:(37.0,685.0)
+:Sending Touch (ACTION_UP): 0:(45.49999,700.36707)
+:Sending Touch (ACTION_DOWN): 0:(739.0,689.0)
+:Sending Touch (ACTION_UP): 0:(660.05505,619.84753)
+:Sending Touch (ACTION_DOWN): 0:(41.0,331.0)
+:Sending Touch (ACTION_UP): 0:(52.45205,286.81943)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(411.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(409.43253,1258.9435)
+    //[calendar_time:2021-08-04 04:19:15.762  system_uptime:20567985]
+    // Sending event #600
+    //[calendar_time:2021-08-04 04:19:16.263  system_uptime:20568487]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(423.0,804.0)
+:Sending Touch (ACTION_UP): 0:(488.9155,870.0321)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(786.0,715.0)
+:Sending Touch (ACTION_UP): 0:(871.97003,730.7424)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(300.81653,1388.5868)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(121.0,231.0)
+:Sending Touch (ACTION_UP): 0:(186.90977,356.46414)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,159.0)
+:Sending Touch (ACTION_UP): 0:(1025.5544,163.76178)
+:Sending Touch (ACTION_DOWN): 0:(459.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(457.6363,1502.2928)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2021-08-04 04:19:24.750  system_uptime:20576973]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(643.0,914.0)
+:Sending Touch (ACTION_UP): 0:(660.5286,913.4296)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(292.0,325.0)
+:Sending Touch (ACTION_UP): 0:(292.49313,321.75568)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(559.0,586.0)
+:Sending Touch (ACTION_UP): 0:(564.99835,570.3853)
+:Sending Touch (ACTION_DOWN): 0:(46.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1679.4384)
+:Sending Touch (ACTION_DOWN): 0:(166.0,970.0)
+:Sending Touch (ACTION_UP): 0:(116.436,995.6301)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(890.0,747.0)
+:Sending Touch (ACTION_UP): 0:(899.88544,773.4487)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,73.0)
+:Sending Touch (ACTION_UP): 0:(1003.4334,75.44626)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    //[calendar_time:2021-08-04 04:19:34.102  system_uptime:20586325]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(301.0,1402.0)
+:Sending Touch (ACTION_UP): 0:(312.39282,1388.9664)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,668.0)
+:Sending Touch (ACTION_UP): 0:(371.85858,666.47565)
+:Sending Touch (ACTION_DOWN): 0:(845.0,335.0)
+:Sending Touch (ACTION_UP): 0:(844.45374,327.29382)
+:Sending Touch (ACTION_DOWN): 0:(95.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(97.077965,1374.4956)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(446.99106,1384.0114)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(919.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(923.9496,1197.2793)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+:Sending Touch (ACTION_DOWN): 0:(486.0,982.0)
+:Sending Touch (ACTION_UP): 0:(463.64337,976.19403)
+:Sending Touch (ACTION_DOWN): 0:(499.0,549.0)
+:Sending Touch (ACTION_UP): 0:(505.0296,543.4892)
+:Sending Touch (ACTION_DOWN): 0:(632.0,20.0)
+:Sending Touch (ACTION_UP): 0:(627.2703,40.80338)
+    //[calendar_time:2021-08-04 04:19:46.237  system_uptime:20598460]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(200.0,995.0)
+:Sending Touch (ACTION_UP): 0:(234.84123,996.47375)
+:Sending Touch (ACTION_DOWN): 0:(836.0,793.0)
+:Sending Touch (ACTION_UP): 0:(848.41797,784.78186)
+:Sending Touch (ACTION_DOWN): 0:(457.0,218.0)
+:Sending Touch (ACTION_UP): 0:(456.25647,216.89038)
+:Sending Touch (ACTION_DOWN): 0:(536.0,368.0)
+:Sending Touch (ACTION_UP): 0:(641.8768,437.48843)
+:Sending Touch (ACTION_DOWN): 0:(274.0,282.0)
+:Sending Touch (ACTION_UP): 0:(200.9511,283.00775)
+:Sending Touch (ACTION_DOWN): 0:(663.0,514.0)
+:Sending Touch (ACTION_UP): 0:(648.9205,506.5219)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(195.99864,1274.0676)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,956.0)
+:Sending Touch (ACTION_UP): 0:(600.43964,957.77435)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=me.ccrama.redditslide/.Activities.Slide;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=me.ccrama.redditslide/.Activities.Slide } in package me.ccrama.redditslide
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(348.0,462.0)
+:Sending Touch (ACTION_UP): 0:(215.39142,317.63965)
+:Sending Touch (ACTION_DOWN): 0:(838.0,461.0)
+:Sending Touch (ACTION_UP): 0:(836.10645,461.71616)
+:Sending Touch (ACTION_DOWN): 0:(32.0,283.0)
+:Sending Touch (ACTION_UP): 0:(48.220264,281.8676)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=3 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=119634ms (0ms mobile, 0ms wifi, 119634ms not connected)
+// Monkey finished

@@ -1,0 +1,223 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626389799792 count=1000
+:AllowPackage: com.serwylo.retrowars
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+:Sending Touch (ACTION_DOWN): 0:(1174.0,386.0)
+:Sending Touch (ACTION_UP): 0:(1244.6436,494.65802)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1307.0,335.0)
+:Sending Touch (ACTION_UP): 0:(1324.3915,339.90753)
+:Sending Touch (ACTION_DOWN): 0:(146.0,373.0)
+:Sending Touch (ACTION_UP): 0:(161.51845,335.19888)
+:Sending Touch (ACTION_DOWN): 0:(831.0,22.0)
+:Sending Touch (ACTION_UP): 0:(902.5719,50.5805)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1353.0,563.0)
+:Sending Touch (ACTION_UP): 0:(1450.8939,539.9782)
+:Sending Touch (ACTION_DOWN): 0:(1429.0,237.0)
+:Sending Touch (ACTION_UP): 0:(1457.0214,290.27063)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,131.0)
+:Sending Touch (ACTION_UP): 0:(1156.7744,114.71114)
+:Sending Flip keyboardOpen=true
+    //[calendar_time:2021-08-04 01:03:56.867  system_uptime:8849112]
+    // Sending event #100
+    //[calendar_time:2021-08-04 01:03:57.389  system_uptime:8849613]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(109.0,448.0)
+:Sending Touch (ACTION_UP): 0:(103.87616,444.4941)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1568.0,53.0)
+:Sending Touch (ACTION_UP): 0:(1435.767,105.19483)
+:Sending Touch (ACTION_DOWN): 0:(1092.0,733.0)
+:Sending Touch (ACTION_UP): 0:(1138.3062,731.42175)
+:Sending Touch (ACTION_DOWN): 0:(1516.0,92.0)
+:Sending Touch (ACTION_UP): 0:(1506.9193,91.66384)
+    //[calendar_time:2021-08-04 01:04:11.071  system_uptime:8863295]
+    // Sending event #200
+    //[calendar_time:2021-08-04 01:04:11.572  system_uptime:8863796]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(159.0,940.0)
+:Sending Touch (ACTION_UP): 0:(163.09517,939.86774)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,952.0)
+:Sending Touch (ACTION_UP): 0:(1011.0982,955.39844)
+:Sending Touch (ACTION_DOWN): 0:(1771.0,385.0)
+:Sending Touch (ACTION_UP): 0:(1757.8428,380.09256)
+:Sending Touch (ACTION_DOWN): 0:(1463.0,918.0)
+:Sending Touch (ACTION_UP): 0:(1447.433,901.3997)
+:Sending Touch (ACTION_DOWN): 0:(1299.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(1295.6731,1065.3411)
+:Sending Touch (ACTION_DOWN): 0:(1359.0,603.0)
+:Sending Touch (ACTION_UP): 0:(1358.3787,603.1616)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,956.0)
+:Sending Touch (ACTION_UP): 0:(1019.6587,925.36993)
+:Sending Touch (ACTION_DOWN): 0:(1387.0,78.0)
+:Sending Touch (ACTION_UP): 0:(1385.9385,95.78913)
+:Sending Touch (ACTION_DOWN): 0:(968.0,419.0)
+:Sending Touch (ACTION_UP): 0:(921.37836,381.86438)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(892.0,78.0)
+:Sending Touch (ACTION_UP): 0:(883.5186,83.75347)
+    //[calendar_time:2021-08-04 01:04:24.226  system_uptime:8876450]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(30.0,415.0)
+:Sending Touch (ACTION_UP): 0:(16.625864,346.88242)
+:Sending Touch (ACTION_DOWN): 0:(1550.0,593.0)
+:Sending Touch (ACTION_UP): 0:(1529.9663,593.06696)
+:Sending Touch (ACTION_DOWN): 0:(269.0,805.0)
+:Sending Touch (ACTION_UP): 0:(265.11896,825.3602)
+:Sending Touch (ACTION_DOWN): 0:(9.0,272.0)
+:Sending Touch (ACTION_UP): 0:(17.201588,272.57523)
+:Sending Touch (ACTION_DOWN): 0:(280.0,288.0)
+:Sending Touch (ACTION_UP): 0:(287.0778,292.01288)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2021-08-04 01:04:41.410  system_uptime:8893633]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1150.0,252.0)
+:Sending Touch (ACTION_UP): 0:(1149.7317,263.80972)
+:Sending Touch (ACTION_DOWN): 0:(785.0,13.0)
+:Sending Touch (ACTION_UP): 0:(788.8122,16.316582)
+:Sending Touch (ACTION_DOWN): 0:(1511.0,542.0)
+:Sending Touch (ACTION_UP): 0:(1503.396,548.2857)
+:Sending Touch (ACTION_DOWN): 0:(766.0,56.0)
+:Sending Touch (ACTION_UP): 0:(763.0319,39.42821)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(994.0,323.0)
+:Sending Touch (ACTION_UP): 0:(932.02094,359.22708)
+:Sending Touch (ACTION_DOWN): 0:(779.0,557.0)
+:Sending Touch (ACTION_UP): 0:(792.24475,538.9675)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2021-08-04 01:04:54.087  system_uptime:8906311]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1577.0,663.0)
+:Sending Touch (ACTION_UP): 0:(1580.9109,659.91693)
+:Sending Touch (ACTION_DOWN): 0:(1383.0,820.0)
+:Sending Touch (ACTION_UP): 0:(1385.9312,822.7478)
+:Sending Touch (ACTION_DOWN): 0:(173.0,830.0)
+:Sending Touch (ACTION_UP): 0:(146.7639,785.56067)
+:Sending Touch (ACTION_DOWN): 0:(1259.0,680.0)
+:Sending Touch (ACTION_UP): 0:(1254.7297,680.2908)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(604.0,152.0)
+:Sending Touch (ACTION_UP): 0:(598.63043,163.76064)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(863.0,526.0)
+:Sending Touch (ACTION_UP): 0:(793.1726,521.3704)
+:Sending Touch (ACTION_DOWN): 0:(1741.0,565.0)
+:Sending Touch (ACTION_UP): 0:(1762.3378,468.68915)
+:Sending Touch (ACTION_DOWN): 0:(1050.0,835.0)
+:Sending Touch (ACTION_UP): 0:(1040.7887,832.4888)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2021-08-04 01:05:01.711  system_uptime:8913934]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1727.0,831.0)
+:Sending Touch (ACTION_UP): 0:(1780.029,903.9929)
+:Sending Touch (ACTION_DOWN): 0:(790.0,244.0)
+:Sending Touch (ACTION_UP): 0:(828.36816,283.24042)
+:Sending Touch (ACTION_DOWN): 0:(832.0,974.0)
+:Sending Touch (ACTION_UP): 0:(830.4088,975.31433)
+:Sending Touch (ACTION_DOWN): 0:(875.0,327.0)
+:Sending Touch (ACTION_UP): 0:(867.4914,326.96863)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,943.0)
+:Sending Touch (ACTION_UP): 0:(196.24055,953.9481)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(775.0,173.0)
+:Sending Touch (ACTION_UP): 0:(781.0009,174.82092)
+:Sending Touch (ACTION_DOWN): 0:(740.0,593.0)
+:Sending Touch (ACTION_UP): 0:(738.6193,592.8585)
+:Sending Touch (ACTION_DOWN): 0:(1681.0,394.0)
+:Sending Touch (ACTION_UP): 0:(1738.5042,327.7106)
+:Sending Touch (ACTION_DOWN): 0:(1774.0,68.0)
+:Sending Touch (ACTION_UP): 0:(1774.9382,65.96043)
+    //[calendar_time:2021-08-04 01:05:15.388  system_uptime:8927611]
+    // Sending event #700
+    //[calendar_time:2021-08-04 01:05:15.889  system_uptime:8928112]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1378.0,49.0)
+:Sending Touch (ACTION_UP): 0:(1373.0854,38.18939)
+:Sending Touch (ACTION_DOWN): 0:(1776.0,66.0)
+:Sending Touch (ACTION_UP): 0:(1810.0,147.99625)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1717.0,932.0)
+:Sending Touch (ACTION_UP): 0:(1739.2004,793.2663)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(778.0,490.0)
+:Sending Touch (ACTION_UP): 0:(781.6653,493.534)
+:Sending Touch (ACTION_DOWN): 0:(706.0,430.0)
+:Sending Touch (ACTION_UP): 0:(671.137,409.5116)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2021-08-04 01:05:25.506  system_uptime:8937730]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(972.0,523.0)
+:Sending Touch (ACTION_UP): 0:(930.8728,528.645)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(904.0,500.0)
+:Sending Touch (ACTION_UP): 0:(837.1131,580.35034)
+:Sending Touch (ACTION_DOWN): 0:(48.0,814.0)
+:Sending Touch (ACTION_UP): 0:(48.98136,943.4765)
+:Sending Touch (ACTION_DOWN): 0:(653.0,708.0)
+:Sending Touch (ACTION_UP): 0:(665.3898,665.1475)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(422.0,899.0)
+    //[calendar_time:2021-08-04 01:05:34.177  system_uptime:8946401]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(449.31345,837.5803)
+:Sending Touch (ACTION_DOWN): 0:(1237.0,954.0)
+:Sending Touch (ACTION_UP): 0:(1231.0057,955.06006)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.serwylo.retrowars/.AndroidLauncher;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.serwylo.retrowars/.AndroidLauncher } in package com.serwylo.retrowars
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(277.0,279.0)
+:Sending Touch (ACTION_UP): 0:(271.29742,305.02408)
+:Sending Touch (ACTION_DOWN): 0:(548.0,198.0)
+:Sending Touch (ACTION_UP): 0:(573.81274,201.35005)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1381.0,704.0)
+:Sending Touch (ACTION_UP): 0:(1396.5629,690.22034)
+:Sending Touch (ACTION_DOWN): 0:(1136.0,183.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=1 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=123952ms (0ms mobile, 0ms wifi, 123952ms not connected)
+// Monkey finished

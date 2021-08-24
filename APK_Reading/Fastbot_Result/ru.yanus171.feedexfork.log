@@ -1,0 +1,2488 @@
+▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀ 
+▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░▌     
+▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌     
+▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌          ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌     ▐░▌     
+▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌     ▐░▌     
+ ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀       ▀
+[1629490516615]  @Version : 2.2.1.0304.2039_git
+[1629490516630] // Monkey : seed=1629541041446 count=1000
+
+
+[1629490516630] // Valid Package: ru.yanus171.feedexfork
+[1629490516630] // IncludeCategory : android.intent.category.LAUNCHER
+[1629490516630] // IncludeCategory : android.intent.category.MONKEY
+[1629490516635] // Selecting main activities from category android.intent.category.LAUNCHER
+[1629490516635] //   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+[1629490516636] //   - NOT USING main activity com.android.dialer.DialtactsActivity (from package com.android.dialer)
+[1629490516636] //   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+[1629490516636] //   - NOT USING main activity com.google.android.gms.app.settings.GoogleSettingsActivity (from package com.google.android.gms)
+[1629490516636] //   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+[1629490516636] //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+[1629490516636] //   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.google.android.calendar)
+[1629490516636] //   - NOT USING main activity com.android.deskclock.DeskClock (from package com.android.deskclock)
+[1629490516636] //   - NOT USING main activity com.android.camera.GalleryPicker (from package com.android.gallery)
+[1629490516636] //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+[1629490516636] //   - NOT USING main activity com.android.music.MusicBrowserActivity (from package com.android.music)
+[1629490516636] //   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+[1629490516636] //   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+[1629490516636] //   - NOT USING main activity com.android.customlocale2.CustomLocaleActivity (from package com.android.customlocale2)
+[1629490516636] //   - NOT USING main activity com.android.development.Development (from package com.android.development)
+[1629490516636] //   - NOT USING main activity android.app.AliasActivity (from package com.android.development_settings)
+[1629490516636] //   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+[1629490516636] //   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+[1629490516636] //   - NOT USING main activity com.google.android.gms.games.ui.destination.main.MainActivity (from package com.google.android.play.games)
+[1629490516636] //   - NOT USING main activity com.android.quicksearchbox.SearchActivity (from package com.android.quicksearchbox)
+[1629490516636] //   - NOT USING main activity com.android.speechrecorder.SpeechRecorderActivity (from package com.android.speechrecorder)
+[1629490516636] //   + Using main activity ru.yanus171.feedexfork.activity.HomeActivity (from package ru.yanus171.feedexfork)
+[1629490516638] // Selecting main activities from category android.intent.category.MONKEY
+[1629490516638] //   - NOT USING main activity com.android.launcher2.Launcher (from package com.android.launcher)
+[1629490516638] //   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+[1629490516638] //   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+[1629490516638] //   - NOT USING main activity com.google.android.street.Street (from package com.google.android.street)
+[1629490519661] // Special Event: 
+[1629490519662] // Black Widget: 
+[1629490521961] 
+
+[1629490521962] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[1629490521963] fastbot exec shell: 
+[1629490521966] fastbot exec schema: 
+[1629490521966] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490521967]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490521982] Sleep for 0 ms
+[1629490521982] Sleep for 2000 ms
+[1629490522502]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490522505]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490523986] Sleep for 0 ms
+[1629490523986] :schema :
+[1629490523988] Sleep for 0 ms
+[1629490523988] Sleep for 2000 ms
+[1629490525991] Sleep for 0 ms
+[1629490525993] Sleep for 500 ms
+[1629490526496] Sleep for 0 ms
+[1629490526497] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490526506] :Sending Touch (ACTION_DOWN): 0:(891.0,1138.0)
+[1629490526508] Waiting Event for 72 milliseconds
+[1629490526584] Sleep for 0 ms
+[1629490526584] :Sending Touch (ACTION_UP): 0:(891.0,1138.0)
+[1629490526586] Sleep for 0 ms
+[1629490526587] Sleep for 100 ms
+[1629490526690] Sleep for 0 ms
+[1629490526691] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490526692] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490526693] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490526695] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490526695] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490526696] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490526698] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490526700] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490526701] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490526702] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490526703] Sleep for 242 ms
+[1629490526949] Sleep for 0 ms
+[1629490526954] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490526956] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490526957] Sleep for 0 ms
+[1629490526958] Sleep for 115 ms
+[1629490527074] Sleep for 0 ms
+[1629490527075] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490527078] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490527082] Sleep for 0 ms
+[1629490527084] Sleep for 178 ms
+[1629490527264] Sleep for 0 ms
+[1629490527264] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490527267] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490527271] Sleep for 0 ms
+[1629490527274] Sleep for 247 ms
+[1629490527522] Sleep for 0 ms
+[1629490527523] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490527526] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490527541]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+[1629490527546] Sleep for 0 ms
+[1629490527547] Sleep for 120 ms
+[1629490527668] Sleep for 0 ms
+[1629490527669] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490527671] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490527676] Sleep for 0 ms
+[1629490527677] Sleep for 100 ms
+[1629490527778] Sleep for 0 ms
+[1629490527778] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490527779] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490527780] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490527783] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490527783] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490527784] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490527785] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490527788] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490527789] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490527791] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490527791] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490527793] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490527793] Sleep for 0 ms
+[1629490527794] Sleep for 171 ms
+[1629490527812]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490527965] Sleep for 0 ms
+[1629490527966] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490527967] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490527970]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490527973] Sleep for 0 ms
+[1629490527973] Sleep for 210 ms
+[1629490528186] Sleep for 0 ms
+[1629490528188] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490528191] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490528193] Sleep for 0 ms
+[1629490528193] Sleep for 285 ms
+[1629490528481] Sleep for 0 ms
+[1629490528481] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490528483] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490528484] Sleep for 0 ms
+[1629490528484] Sleep for 297 ms
+[1629490528783] Sleep for 0 ms
+[1629490528783] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490528786] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490528790] Sleep for 0 ms
+[1629490528791] Sleep for 232 ms
+[1629490529027] Sleep for 0 ms
+[1629490529028] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490529029] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490529030] Sleep for 0 ms
+[1629490529030] Sleep for 217 ms
+[1629490529248] Sleep for 0 ms
+[1629490529249] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490529250] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490529251] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490529251] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490529252] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490529253] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490529254] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490529255] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490529255] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490529256] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490529257] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490529258] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490529260] Sleep for 0 ms
+[1629490529260] Sleep for 264 ms
+[1629490529279]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490529527] Sleep for 0 ms
+[1629490529528] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490529681] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490529688] Sleep for 0 ms
+[1629490529688] Sleep for 213 ms
+[1629490529902] Sleep for 0 ms
+[1629490529904] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629490529909] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629490529910] Sleep for 0 ms
+[1629490529910] Sleep for 137 ms
+[1629490530048] Sleep for 0 ms
+[1629490530048] Sleep for 0 ms
+[1629490530049] Sleep for 0 ms
+[1629490530049] :Sending rotation degree : 0, persist : false
+[1629490530076] Sleep for 0 ms
+[1629490530077] Sleep for 500 ms
+[1629490530579] Sleep for 0 ms
+[1629490530579] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490532862] fastbot exec shell: 
+[1629490532866] fastbot exec schema: 
+[1629490532866] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490532868]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490532900] Sleep for 0 ms
+[1629490532902] Sleep for 2000 ms
+[1629490533319]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490534906] Sleep for 0 ms
+[1629490534906] :schema :
+[1629490534909] Sleep for 0 ms
+[1629490534909] Sleep for 2000 ms
+[1629490536912] Sleep for 0 ms
+[1629490536912] Sleep for 500 ms
+[1629490537415] Sleep for 0 ms
+[1629490537416] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490537420] :Sending rotation degree : 1, persist : true
+[1629490537448] Sleep for 0 ms
+[1629490537449] Sleep for 238 ms
+[1629490537691] Sleep for 0 ms
+[1629490537692] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490537694] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490537695] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490537696] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490537697] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490537699] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490537700] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490537701] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490537702] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490537702] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490537703] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490537703] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490537704] Sleep for 0 ms
+[1629490537705] Sleep for 270 ms
+[1629490537718]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490537979] Sleep for 0 ms
+[1629490537979] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490537981] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490537983] Sleep for 0 ms
+[1629490537983] Sleep for 110 ms
+[1629490538097] Sleep for 0 ms
+[1629490538097] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490538100] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490538101] Sleep for 0 ms
+[1629490538102] Sleep for 202 ms
+[1629490538305] Sleep for 0 ms
+[1629490538306] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490538308] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490538309] Sleep for 0 ms
+[1629490538310] Sleep for 110 ms
+[1629490538422] Sleep for 0 ms
+[1629490538423] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490538425] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490538427] Sleep for 0 ms
+[1629490538427] Sleep for 108 ms
+[1629490538535] Sleep for 0 ms
+[1629490538536] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490538541] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490538543]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490538544] Sleep for 0 ms
+[1629490538544] Sleep for 297 ms
+[1629490538844] Sleep for 0 ms
+[1629490538844] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490538846] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490538848] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490538849] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490538850] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490538851] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490538851] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490538852] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490538853] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490538854] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490538855] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490538856]     //[calendar_time:2021-08-20 16:15:38.856  system_uptime:283709]
+[1629490538856]     // Sending event #100
+[1629490538856] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490538858] Sleep for 0 ms
+[1629490538859] Sleep for 284 ms
+[1629490538866]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490539146] Sleep for 0 ms
+[1629490539146] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490539148] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490539150]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490539152] Sleep for 0 ms
+[1629490539152] Sleep for 287 ms
+[1629490539441] Sleep for 0 ms
+[1629490539442] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490539443] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490539444]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.speechrecorder/.SpeechRecorderActivity } in package com.android.speechrecorder
+[1629490539446] Sleep for 0 ms
+[1629490539447] Sleep for 296 ms
+[1629490539745] Sleep for 0 ms
+[1629490539746] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490539749] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490539751] Sleep for 0 ms
+[1629490539751] Sleep for 149 ms
+[1629490539903] Sleep for 0 ms
+[1629490539903] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490539905] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490539911] Sleep for 0 ms
+[1629490539911] Sleep for 293 ms
+[1629490540206] Sleep for 0 ms
+[1629490540207] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490540212] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490540220] Sleep for 0 ms
+[1629490540221] Sleep for 261 ms
+[1629490540483] Sleep for 0 ms
+[1629490540483] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490540484] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490540484] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490540485] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490540486] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490540487] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490540488] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490540488] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490540489] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490540491] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490540491] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490540493] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490540494] Sleep for 0 ms
+[1629490540494] Sleep for 157 ms
+[1629490540651] Sleep for 0 ms
+[1629490540651] :Sending Touch (ACTION_DOWN): 0:(463.0,1306.0)
+[1629490540654] :Sending Touch (ACTION_MOVE): 0:(470.16696,1301.5219)
+[1629490540655] Waiting Event for 25 milliseconds
+[1629490540682] Sleep for 0 ms
+[1629490540683] :Sending Touch (ACTION_MOVE): 0:(480.1402,1299.072)
+[1629490540684] Waiting Event for 25 milliseconds
+[1629490540710] Sleep for 0 ms
+[1629490540711] :Sending Touch (ACTION_MOVE): 0:(489.7449,1290.5331)
+[1629490540712] Waiting Event for 25 milliseconds
+[1629490540738] Sleep for 0 ms
+[1629490540738] :Sending Touch (ACTION_MOVE): 0:(492.44125,1282.096)
+[1629490540740] Waiting Event for 25 milliseconds
+[1629490540766] Sleep for 0 ms
+[1629490540767] :Sending Touch (ACTION_MOVE): 0:(495.12625,1273.4159)
+[1629490540770] Waiting Event for 25 milliseconds
+[1629490540797] Sleep for 0 ms
+[1629490540798] :Sending Touch (ACTION_MOVE): 0:(501.94943,1266.5327)
+[1629490540799] Waiting Event for 25 milliseconds
+[1629490540826] Sleep for 0 ms
+[1629490540826] :Sending Touch (ACTION_UP): 0:(507.65964,1256.2688)
+[1629490540827] Sleep for 0 ms
+[1629490540828] Sleep for 240 ms
+[1629490541069] Sleep for 0 ms
+[1629490541070] :Sending Touch (ACTION_DOWN): 0:(739.0,1037.0)
+[1629490541071] :Sending Touch (ACTION_UP): 0:(725.2645,1040.8928)
+[1629490541072] Sleep for 0 ms
+[1629490541072] Sleep for 294 ms
+[1629490541367] Sleep for 0 ms
+[1629490541367] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490541368] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490541370] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490541371] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490541372] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490541373] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490541375] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490541376] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490541378] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490541379] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490541380] Sleep for 228 ms
+[1629490541609] Sleep for 0 ms
+[1629490541610] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490541611] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490541612] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490541613] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490541614] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490541616] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490541617] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490541618] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490541619] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490541620] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490541621] Sleep for 123 ms
+[1629490541747] Sleep for 0 ms
+[1629490541747] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490541750] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490541751] Sleep for 0 ms
+[1629490541752] Sleep for 258 ms
+[1629490542011] Sleep for 0 ms
+[1629490542012] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490542013] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490542015] Sleep for 0 ms
+[1629490542015] Sleep for 162 ms
+[1629490542179] Sleep for 0 ms
+[1629490542179] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490542180] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490542182] Sleep for 0 ms
+[1629490542182] Sleep for 130 ms
+[1629490542314] Sleep for 0 ms
+[1629490542316] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490542318] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490542320] Sleep for 0 ms
+[1629490542321] Sleep for 139 ms
+[1629490542322]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629490542461] Sleep for 0 ms
+[1629490542462] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490542463] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490542466] Sleep for 0 ms
+[1629490542467] Sleep for 213 ms
+[1629490542683] Sleep for 0 ms
+[1629490542684] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490542686] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490542688] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490542689] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490542690] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490542691] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490542692] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490542692] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490542693] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490542695] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490542695] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490542696] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490542697] Sleep for 0 ms
+[1629490542697] Sleep for 174 ms
+[1629490542873] Sleep for 0 ms
+[1629490542874] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490542879] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490542880] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490542881] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490542883] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490542884] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490542884] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490542885] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490542885] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490542886] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490542887] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490542888] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490542888] Sleep for 0 ms
+[1629490542888] Sleep for 153 ms
+[1629490543043] Sleep for 0 ms
+[1629490543044] :Sending Touch (ACTION_DOWN): 0:(559.0,135.0)
+[1629490543045] :Sending Touch (ACTION_MOVE): 0:(556.8883,127.20714)
+[1629490543047] Waiting Event for 25 milliseconds
+[1629490543073] Sleep for 0 ms
+[1629490543074] :Sending Touch (ACTION_MOVE): 0:(540.3898,124.18445)
+[1629490543075] Waiting Event for 25 milliseconds
+[1629490543101] Sleep for 0 ms
+[1629490543102] :Sending Touch (ACTION_MOVE): 0:(518.7738,116.09236)
+[1629490543104] Waiting Event for 25 milliseconds
+[1629490543129]     //[calendar_time:2021-08-20 16:15:43.129  system_uptime:287982]
+[1629490543129]     // Sending event #200
+[1629490543130] Sleep for 0 ms
+[1629490543130]     //[calendar_time:2021-08-20 16:15:43.130  system_uptime:287983]
+[1629490543130]     // Sending event #200
+[1629490543131] :Sending Touch (ACTION_MOVE): 0:(513.8881,108.320946)
+[1629490543132] Waiting Event for 25 milliseconds
+[1629490543159] Sleep for 0 ms
+[1629490543160] :Sending Touch (ACTION_MOVE): 0:(509.36533,97.605446)
+[1629490543161] Waiting Event for 25 milliseconds
+[1629490543189] Sleep for 0 ms
+[1629490543189] :Sending Touch (ACTION_MOVE): 0:(497.43945,83.30407)
+[1629490543193] Waiting Event for 25 milliseconds
+[1629490543218] Sleep for 0 ms
+[1629490543221] :Sending Touch (ACTION_UP): 0:(476.57407,79.0)
+[1629490543224] Sleep for 0 ms
+[1629490543225] Sleep for 139 ms
+[1629490543365] Sleep for 0 ms
+[1629490543366] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490543520] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490543525] Sleep for 0 ms
+[1629490543526] Sleep for 136 ms
+[1629490543664] Sleep for 0 ms
+[1629490543665] Sleep for 0 ms
+[1629490543665] Sleep for 0 ms
+[1629490543665] :Sending rotation degree : 0, persist : false
+[1629490543699] Sleep for 0 ms
+[1629490543700] Sleep for 500 ms
+[1629490544204] Sleep for 0 ms
+[1629490544205] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490546558] fastbot exec shell: 
+[1629490546562] fastbot exec schema: 
+[1629490546562] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490546563]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490546565] Sleep for 0 ms
+[1629490546565] Sleep for 2000 ms
+[1629490547031]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490548568] Sleep for 0 ms
+[1629490548569] :schema :
+[1629490548570] Sleep for 0 ms
+[1629490548570] Sleep for 2000 ms
+[1629490550573] Sleep for 0 ms
+[1629490550574] Sleep for 500 ms
+[1629490551079] Sleep for 0 ms
+[1629490551079] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490551083] :Send Key (ACTION_DOWN): 93    // KEYCODE_PAGE_DOWN
+[1629490551086] :Send Key (ACTION_UP): 93    // KEYCODE_PAGE_DOWN
+[1629490551089] Sleep for 0 ms
+[1629490551089] Sleep for 147 ms
+[1629490551238] Sleep for 0 ms
+[1629490551239] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490551241] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490551244] Sleep for 0 ms
+[1629490551244] Sleep for 123 ms
+[1629490551369] Sleep for 0 ms
+[1629490551370] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490551372] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490551375] Sleep for 0 ms
+[1629490551376] Sleep for 215 ms
+[1629490551592] Sleep for 0 ms
+[1629490551593] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490551596] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490551599] Sleep for 0 ms
+[1629490551600] Sleep for 105 ms
+[1629490551706] Sleep for 0 ms
+[1629490551708] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490551709] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490551711] Sleep for 0 ms
+[1629490551712] Sleep for 195 ms
+[1629490551909] Sleep for 0 ms
+[1629490551909] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490551910] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490551912] Sleep for 0 ms
+[1629490551912] Sleep for 244 ms
+[1629490552158] Sleep for 0 ms
+[1629490552158] :Sending Touch (ACTION_DOWN): 0:(883.0,1348.0)
+[1629490552160] Waiting Event for 280 milliseconds
+[1629490552442] Sleep for 0 ms
+[1629490552442] :Sending Touch (ACTION_UP): 0:(883.0,1348.0)
+[1629490552443]     // Injection Failed com.android.commands.monkey.E@2394cdfa
+[1629490552443] Sleep for 0 ms
+[1629490552444] Sleep for 201 ms
+[1629490552648] Sleep for 0 ms
+[1629490552649] :Sending Touch (ACTION_DOWN): 0:(299.0,1540.0)
+[1629490552649] :Sending Touch (ACTION_MOVE): 0:(298.0771,1535.8263)
+[1629490552650] Waiting Event for 40 milliseconds
+[1629490552692] Sleep for 0 ms
+[1629490552693] :Sending Touch (ACTION_MOVE): 0:(297.4851,1531.7113)
+[1629490552695] Waiting Event for 40 milliseconds
+[1629490552737] Sleep for 0 ms
+[1629490552738] :Sending Touch (ACTION_MOVE): 0:(296.0521,1530.2903)
+[1629490552739] Waiting Event for 40 milliseconds
+[1629490552781] Sleep for 0 ms
+[1629490552782] :Sending Touch (ACTION_UP): 0:(290.4431,1529.5444)
+[1629490552783] Sleep for 0 ms
+[1629490552783] Sleep for 159 ms
+[1629490552945] Sleep for 0 ms
+[1629490552945] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490552947] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490552952] Sleep for 0 ms
+[1629490552954] Sleep for 264 ms
+[1629490553222] Sleep for 0 ms
+[1629490553223] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490553225] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490553227] Sleep for 0 ms
+[1629490553227] Sleep for 105 ms
+[1629490553333] Sleep for 0 ms
+[1629490553334] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490553337] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490553341] Sleep for 0 ms
+[1629490553342] Sleep for 259 ms
+[1629490553605] Sleep for 0 ms
+[1629490553606] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490553608] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490553610] Sleep for 0 ms
+[1629490553611] Sleep for 164 ms
+[1629490553778] Sleep for 0 ms
+[1629490553779] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490553780] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490553784] Sleep for 0 ms
+[1629490553784] Sleep for 229 ms
+[1629490554016] Sleep for 0 ms
+[1629490554017] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490554020] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490554021] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490554022] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490554023] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490554024] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490554024] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490554026] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490554029] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490554029] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490554030] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490554032] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490554032] Sleep for 0 ms
+[1629490554033] Sleep for 135 ms
+[1629490554169] Sleep for 0 ms
+[1629490554170] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490554172] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490554178] Sleep for 0 ms
+[1629490554178] Sleep for 223 ms
+[1629490554404] Sleep for 0 ms
+[1629490554404] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490554406] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490554407] Sleep for 0 ms
+[1629490554408] Sleep for 261 ms
+[1629490554670] Sleep for 0 ms
+[1629490554670] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490554673] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490554677] Sleep for 0 ms
+[1629490554678] Sleep for 266 ms
+[1629490554946] Sleep for 0 ms
+[1629490554946] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490554950] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490554953] Sleep for 0 ms
+[1629490554953] Sleep for 138 ms
+[1629490555095] Sleep for 0 ms
+[1629490555095] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490555098] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490555100] Sleep for 0 ms
+[1629490555100] Sleep for 256 ms
+[1629490555358] Sleep for 0 ms
+[1629490555358] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490555360] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490555361] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490555361] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490555363] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490555363] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490555364] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490555364] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490555365] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490555367] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490555368] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490555369] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490555369] Sleep for 0 ms
+[1629490555370] Sleep for 125 ms
+[1629490555374]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629490555497] Sleep for 0 ms
+[1629490555498] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490555499] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490555500] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490555502] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490555503] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490555504] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490555507] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490555512] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490555514] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490555515] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490555516] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490555516] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490555518] Sleep for 0 ms
+[1629490555518] Sleep for 127 ms
+[1629490555647] Sleep for 0 ms
+[1629490555648] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490555651] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490555657] Sleep for 0 ms
+[1629490555658] Sleep for 151 ms
+[1629490555810] Sleep for 0 ms
+[1629490555810] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490555812] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490555814] Sleep for 0 ms
+[1629490555814] Sleep for 143 ms
+[1629490555960] Sleep for 0 ms
+[1629490555960] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490555963] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490555964] Sleep for 0 ms
+[1629490555965] Sleep for 252 ms
+[1629490555967]     // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+[1629490556218] Sleep for 0 ms
+[1629490556218] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490556223] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490556228] Sleep for 0 ms
+[1629490556228] Sleep for 282 ms
+[1629490556513] Sleep for 0 ms
+[1629490556513] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490556515]     //[calendar_time:2021-08-20 16:15:56.514  system_uptime:301367]
+[1629490556515]     // Sending event #300
+[1629490556515] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490556518] Sleep for 0 ms
+[1629490556519] Sleep for 187 ms
+[1629490556710] Sleep for 0 ms
+[1629490556710] :Sending Touch (ACTION_DOWN): 0:(94.0,788.0)
+[1629490556712] :Sending Touch (ACTION_MOVE): 0:(98.41861,789.2213)
+[1629490556714] Waiting Event for 25 milliseconds
+[1629490556741] Sleep for 0 ms
+[1629490556741] :Sending Touch (ACTION_MOVE): 0:(100.066284,791.5677)
+[1629490556743] Waiting Event for 25 milliseconds
+[1629490556770] Sleep for 0 ms
+[1629490556771] :Sending Touch (ACTION_MOVE): 0:(100.92201,798.86676)
+[1629490556772] Waiting Event for 25 milliseconds
+[1629490556798] Sleep for 0 ms
+[1629490556798] :Sending Touch (ACTION_MOVE): 0:(113.496826,811.2976)
+[1629490556800] Waiting Event for 25 milliseconds
+[1629490556829] Sleep for 0 ms
+[1629490556830] :Sending Touch (ACTION_MOVE): 0:(119.031746,814.29767)
+[1629490556832] Waiting Event for 25 milliseconds
+[1629490556860] Sleep for 0 ms
+[1629490556861] :Sending Touch (ACTION_MOVE): 0:(127.346466,820.96387)
+[1629490556862] Waiting Event for 25 milliseconds
+[1629490556889] Sleep for 0 ms
+[1629490556890] :Sending Touch (ACTION_UP): 0:(128.97903,831.9478)
+[1629490556893] Sleep for 0 ms
+[1629490556895] Sleep for 152 ms
+[1629490557048] Sleep for 0 ms
+[1629490557049] :Sending Touch (ACTION_DOWN): 0:(69.0,1518.0)
+[1629490557050] :Sending Touch (ACTION_MOVE): 0:(65.28603,1520.9348)
+[1629490557052] Waiting Event for 25 milliseconds
+[1629490557078] Sleep for 0 ms
+[1629490557079] :Sending Touch (ACTION_MOVE): 0:(64.65357,1521.9038)
+[1629490557080] Waiting Event for 25 milliseconds
+[1629490557107] Sleep for 0 ms
+[1629490557108] :Sending Touch (ACTION_MOVE): 0:(62.61964,1526.5277)
+[1629490557111] Waiting Event for 25 milliseconds
+[1629490557139] Sleep for 0 ms
+[1629490557140] :Sending Touch (ACTION_MOVE): 0:(58.15791,1529.5459)
+[1629490557143] Waiting Event for 25 milliseconds
+[1629490557170] Sleep for 0 ms
+[1629490557173] :Sending Touch (ACTION_MOVE): 0:(54.914482,1537.8102)
+[1629490557175] Waiting Event for 25 milliseconds
+[1629490557202] Sleep for 0 ms
+[1629490557204] :Sending Touch (ACTION_MOVE): 0:(50.8269,1542.0858)
+[1629490557206] Waiting Event for 25 milliseconds
+[1629490557232] Sleep for 0 ms
+[1629490557234] :Sending Touch (ACTION_UP): 0:(46.40371,1542.3805)
+[1629490557235] Sleep for 0 ms
+[1629490557236] Sleep for 244 ms
+[1629490557481] Sleep for 0 ms
+[1629490557482] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490557484] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490557485] Sleep for 0 ms
+[1629490557486] Sleep for 500 ms
+[1629490557987] Sleep for 0 ms
+[1629490557988] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629490557990] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629490557995] Sleep for 0 ms
+[1629490557995] Sleep for 257 ms
+[1629490558003]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490558254] Sleep for 0 ms
+[1629490558255] Sleep for 0 ms
+[1629490558255] Sleep for 0 ms
+[1629490558256] :Sending rotation degree : 0, persist : false
+[1629490558272] Sleep for 0 ms
+[1629490558272] Sleep for 500 ms
+[1629490558774] Sleep for 0 ms
+[1629490558774] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490561154] fastbot exec shell: 
+[1629490561157] fastbot exec schema: 
+[1629490561157] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490561158]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490561160] Sleep for 0 ms
+[1629490561160] Sleep for 2000 ms
+[1629490561465]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490563164] Sleep for 0 ms
+[1629490563164] :schema :
+[1629490563165] Sleep for 0 ms
+[1629490563165] Sleep for 2000 ms
+[1629490565168] Sleep for 0 ms
+[1629490565169] Sleep for 500 ms
+[1629490565672] Sleep for 0 ms
+[1629490565672] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490565673] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490565675] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490565675] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490565676] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490565677] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490565678] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490565678] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490565679] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490565679] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490565682] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490565683] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490565683] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490565694] Sleep for 0 ms
+[1629490565694] Sleep for 251 ms
+[1629490565947] Sleep for 0 ms
+[1629490565948] :Sending rotation degree : 2, persist : false
+[1629490565980] Sleep for 0 ms
+[1629490565981] Sleep for 112 ms
+[1629490566094] Sleep for 0 ms
+[1629490566095] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490566096] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490566097] Sleep for 0 ms
+[1629490566097] Sleep for 122 ms
+[1629490566222] Sleep for 0 ms
+[1629490566223] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490566226] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490566228] Sleep for 0 ms
+[1629490566229] Sleep for 111 ms
+[1629490566343] Sleep for 0 ms
+[1629490566343] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490566345] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490566346] Sleep for 0 ms
+[1629490566347] Sleep for 104 ms
+[1629490566453] Sleep for 0 ms
+[1629490566454] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490566456] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490566456] Sleep for 0 ms
+[1629490566457] Sleep for 195 ms
+[1629490566653] Sleep for 0 ms
+[1629490566654] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490566656] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490566657] Sleep for 0 ms
+[1629490566657] Sleep for 128 ms
+[1629490566658]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629490566788] Sleep for 0 ms
+[1629490566790] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490566791] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490566795] Sleep for 0 ms
+[1629490566796] Sleep for 266 ms
+[1629490567064] Sleep for 0 ms
+[1629490567065] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490567067] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490567072] Sleep for 0 ms
+[1629490567073] Sleep for 100 ms
+[1629490567176] Sleep for 0 ms
+[1629490567176] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490567178] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490567180] Sleep for 0 ms
+[1629490567180] Sleep for 111 ms
+[1629490567292] Sleep for 0 ms
+[1629490567292] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490567295] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490567297] Sleep for 0 ms
+[1629490567297] Sleep for 176 ms
+[1629490567475] Sleep for 0 ms
+[1629490567476] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490567480] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490567481] Sleep for 0 ms
+[1629490567481]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629490567484] Sleep for 114 ms
+[1629490567599] Sleep for 0 ms
+[1629490567600] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629490567603] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629490567626] Sleep for 0 ms
+[1629490567626] Sleep for 166 ms
+[1629490567793] Sleep for 0 ms
+[1629490567794] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490567795] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490567796] Sleep for 0 ms
+[1629490567797] Sleep for 500 ms
+[1629490568299] Sleep for 0 ms
+[1629490568300] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490568302] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490568304] Sleep for 0 ms
+[1629490568304] Sleep for 207 ms
+[1629490568305]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490568513] Sleep for 0 ms
+[1629490568514] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490568516] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490568517] Sleep for 0 ms
+[1629490568518] Sleep for 265 ms
+[1629490568785] Sleep for 0 ms
+[1629490568785] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490568786] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490568788] Sleep for 0 ms
+[1629490568788] Sleep for 118 ms
+[1629490568908] Sleep for 0 ms
+[1629490568909] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490568911] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490568912] Sleep for 0 ms
+[1629490568912] Sleep for 132 ms
+[1629490569048] Sleep for 0 ms
+[1629490569049] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490569050] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490569052] Sleep for 0 ms
+[1629490569052] Sleep for 246 ms
+[1629490569299] Sleep for 0 ms
+[1629490569300] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490569302] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490569304] Sleep for 0 ms
+[1629490569305] Sleep for 226 ms
+[1629490569532] Sleep for 0 ms
+[1629490569532] :Send Key (ACTION_DOWN): 71    // KEYCODE_LEFT_BRACKET
+[1629490569533] :Send Key (ACTION_UP): 71    // KEYCODE_LEFT_BRACKET
+[1629490569534] Sleep for 0 ms
+[1629490569535] Sleep for 182 ms
+[1629490569719] Sleep for 0 ms
+[1629490569719] Sleep for 0 ms
+[1629490569721] Sleep for 0 ms
+[1629490569722] :Sending rotation degree : 0, persist : false
+[1629490569743] Sleep for 0 ms
+[1629490569743] Sleep for 500 ms
+[1629490570247] Sleep for 0 ms
+[1629490570248] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490572539] fastbot exec shell: 
+[1629490572543] fastbot exec schema: 
+[1629490572543] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490572544]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490572573] Sleep for 0 ms
+[1629490572577] : debug, currentActivity is ru.yanus171.feedexfork.activity.HomeActivity
+[1629490572577] Sleep for 2000 ms
+[1629490572863]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490572865]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490574580] Sleep for 0 ms
+[1629490574581] :schema :
+[1629490574583] Sleep for 0 ms
+[1629490574583] Sleep for 2000 ms
+[1629490576586] Sleep for 0 ms
+[1629490576587] Sleep for 500 ms
+[1629490577090] Sleep for 0 ms
+[1629490577090] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490577093] :Sending Touch (ACTION_DOWN): 0:(491.0,1358.0)
+[1629490577094] :Sending Touch (ACTION_MOVE): 0:(477.04556,1369.6191)
+[1629490577095] Waiting Event for 28 milliseconds
+[1629490577126] Sleep for 0 ms
+[1629490577126] :Sending Touch (ACTION_MOVE): 0:(470.7847,1373.3269)
+[1629490577127] Waiting Event for 28 milliseconds
+[1629490577158] Sleep for 0 ms
+[1629490577159] :Sending Touch (ACTION_MOVE): 0:(464.25558,1385.9945)
+[1629490577160] Waiting Event for 28 milliseconds
+[1629490577190] Sleep for 0 ms
+[1629490577191] :Sending Touch (ACTION_MOVE): 0:(454.086,1391.4132)
+[1629490577192] Waiting Event for 28 milliseconds
+[1629490577222] Sleep for 0 ms
+[1629490577223] :Sending Touch (ACTION_MOVE): 0:(436.3563,1392.7821)
+[1629490577223]     //[calendar_time:2021-08-20 16:16:17.223  system_uptime:322076]
+[1629490577223]     // Sending event #400
+[1629490577224] Waiting Event for 28 milliseconds
+[1629490577254] Sleep for 0 ms
+[1629490577256] :Sending Touch (ACTION_UP): 0:(425.80994,1401.5743)
+[1629490577258] Sleep for 0 ms
+[1629490577258] Sleep for 201 ms
+[1629490577460] Sleep for 0 ms
+[1629490577463] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490577466] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490577473] Sleep for 0 ms
+[1629490577474] Sleep for 230 ms
+[1629490577707] Sleep for 0 ms
+[1629490577708] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490577710] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490577713] Sleep for 0 ms
+[1629490577713] Sleep for 235 ms
+[1629490577950] Sleep for 0 ms
+[1629490577951] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490577953] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490577960] Sleep for 0 ms
+[1629490577961] Sleep for 109 ms
+[1629490578072] Sleep for 0 ms
+[1629490578073] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490578075] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490578076] Sleep for 0 ms
+[1629490578077] Sleep for 299 ms
+[1629490578377] Sleep for 0 ms
+[1629490578378] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490578381] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490578383] Sleep for 0 ms
+[1629490578383] Sleep for 253 ms
+[1629490578639] Sleep for 0 ms
+[1629490578640] :Send Key (ACTION_DOWN): 230    // KEYCODE_TV_DATA_SERVICE
+[1629490578642] :Send Key (ACTION_UP): 230    // KEYCODE_TV_DATA_SERVICE
+[1629490578644] Sleep for 0 ms
+[1629490578644] Sleep for 151 ms
+[1629490578798] Sleep for 0 ms
+[1629490578798] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629490578799] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629490578802] Sleep for 0 ms
+[1629490578802] Sleep for 112 ms
+[1629490578916] Sleep for 0 ms
+[1629490578916] :Sending Touch (ACTION_DOWN): 0:(119.0,409.0)
+[1629490578919] Waiting Event for 793 milliseconds
+[1629490579713] Sleep for 0 ms
+[1629490579715] :Sending Touch (ACTION_UP): 0:(119.0,409.0)
+[1629490579716] Sleep for 0 ms
+[1629490579716] Sleep for 121 ms
+[1629490579839] Sleep for 0 ms
+[1629490579840] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490579843] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490579845] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490579847] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490579849] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490579850] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490579850] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490579851] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490579852] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490579853] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490579856] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490579856] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490579858] Sleep for 0 ms
+[1629490579859] Sleep for 206 ms
+[1629490580066] Sleep for 0 ms
+[1629490580067] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490580069] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490580072] Sleep for 0 ms
+[1629490580073] Sleep for 171 ms
+[1629490580246] Sleep for 0 ms
+[1629490580247] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490580250] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490580252] Sleep for 0 ms
+[1629490580253] Sleep for 163 ms
+[1629490580417] Sleep for 0 ms
+[1629490580418] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490580422] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490580425] Sleep for 0 ms
+[1629490580426] Sleep for 201 ms
+[1629490580628] Sleep for 0 ms
+[1629490580629] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490580630] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490580632] Sleep for 0 ms
+[1629490580633] Sleep for 228 ms
+[1629490580863] Sleep for 0 ms
+[1629490580865] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490580866] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490580868] Sleep for 0 ms
+[1629490580868] Sleep for 282 ms
+[1629490581151] Sleep for 0 ms
+[1629490581151] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490581155] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490581160] Sleep for 0 ms
+[1629490581161] Sleep for 167 ms
+[1629490581330] Sleep for 0 ms
+[1629490581331] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490581333] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490581336] Sleep for 0 ms
+[1629490581337] Sleep for 167 ms
+[1629490581506] Sleep for 0 ms
+[1629490581508] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490581510] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490581512] Sleep for 0 ms
+[1629490581513] Sleep for 158 ms
+[1629490581515]     // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+[1629490581673] Sleep for 0 ms
+[1629490581675] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490581678] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490581680] Sleep for 0 ms
+[1629490581681] Sleep for 289 ms
+[1629490581973] Sleep for 0 ms
+[1629490581974] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490581976] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490581980] Sleep for 0 ms
+[1629490581980] Sleep for 279 ms
+[1629490582261] Sleep for 0 ms
+[1629490582262] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490582263] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490582264] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490582265] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490582266] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490582267] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490582268] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490582272] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490582272] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490582272] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490582273] Sleep for 255 ms
+[1629490582530] Sleep for 0 ms
+[1629490582530] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629490582532] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629490582535] Sleep for 0 ms
+[1629490582535] Sleep for 112 ms
+[1629490582649] Sleep for 0 ms
+[1629490582650] :Send Key (ACTION_DOWN): 31    // KEYCODE_C
+[1629490582651] :Send Key (ACTION_UP): 31    // KEYCODE_C
+[1629490582700]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629490582703] Sleep for 0 ms
+[1629490582704] Sleep for 228 ms
+[1629490582934] Sleep for 0 ms
+[1629490582934] :Send Key (ACTION_DOWN): 234    // KEYCODE_TV_NUMBER_ENTRY
+[1629490582935] :Send Key (ACTION_UP): 234    // KEYCODE_TV_NUMBER_ENTRY
+[1629490582938] Sleep for 0 ms
+[1629490582939] Sleep for 141 ms
+[1629490583082] Sleep for 0 ms
+[1629490583082] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490583084] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490583086] Sleep for 0 ms
+[1629490583086] Sleep for 500 ms
+[1629490583588] Sleep for 0 ms
+[1629490583589] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490583590] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490583592] Sleep for 0 ms
+[1629490583593]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490583593] Sleep for 112 ms
+[1629490583707] Sleep for 0 ms
+[1629490583708] :Sending Touch (ACTION_DOWN): 0:(805.0,802.0)
+[1629490583709] :Sending Touch (ACTION_MOVE): 0:(791.7605,797.3163)
+[1629490583711] Waiting Event for 66 milliseconds
+[1629490583779] Sleep for 0 ms
+[1629490583780] :Sending Touch (ACTION_UP): 0:(789.34204,790.97644)
+[1629490583782] Sleep for 0 ms
+[1629490583782] Sleep for 294 ms
+[1629490584080] Sleep for 0 ms
+[1629490584080] Sleep for 0 ms
+[1629490584081] Sleep for 0 ms
+[1629490584082] :Sending rotation degree : 0, persist : false
+[1629490584100] Sleep for 0 ms
+[1629490584101] Sleep for 500 ms
+[1629490584604] Sleep for 0 ms
+[1629490584604] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490586883] fastbot exec shell: 
+[1629490586886] fastbot exec schema: 
+[1629490586886] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490586888]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490586918] Sleep for 0 ms
+[1629490586922] Sleep for 2000 ms
+[1629490587225]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490588925] Sleep for 0 ms
+[1629490588926] :schema :
+[1629490588928] Sleep for 0 ms
+[1629490588928] Sleep for 2000 ms
+[1629490590930] Sleep for 0 ms
+[1629490590931] Sleep for 500 ms
+[1629490591433] Sleep for 0 ms
+[1629490591433] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490591438] :Sending Touch (ACTION_DOWN): 0:(985.0,380.0)
+[1629490591439] :Sending Touch (ACTION_MOVE): 0:(984.81085,379.0671)
+[1629490591440] Waiting Event for 66 milliseconds
+[1629490591509] Sleep for 0 ms
+[1629490591510] :Sending Touch (ACTION_UP): 0:(982.9045,364.0243)
+[1629490591511] Sleep for 0 ms
+[1629490591511] Sleep for 193 ms
+[1629490591707] Sleep for 0 ms
+[1629490591707] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490591709] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490591711] Sleep for 0 ms
+[1629490591711] Sleep for 249 ms
+[1629490591963] Sleep for 0 ms
+[1629490591964] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490591965] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490591970] Sleep for 0 ms
+[1629490591972] Sleep for 109 ms
+[1629490592081] Sleep for 0 ms
+[1629490592082] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490592084] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490592085] Sleep for 0 ms
+[1629490592087] Sleep for 196 ms
+[1629490592286] Sleep for 0 ms
+[1629490592286] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490592289] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490592293] Sleep for 0 ms
+[1629490592293] Sleep for 260 ms
+[1629490592554] Sleep for 0 ms
+[1629490592554] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490592557] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490592559] Sleep for 0 ms
+[1629490592559] Sleep for 232 ms
+[1629490592793] Sleep for 0 ms
+[1629490592793] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490592795] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490592796] Sleep for 0 ms
+[1629490592809] Sleep for 500 ms
+[1629490593311] Sleep for 0 ms
+[1629490593312] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629490593314] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629490593318] Sleep for 0 ms
+[1629490593318] Sleep for 139 ms
+[1629490593338]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490593458] Sleep for 0 ms
+[1629490593459] :Send Key (ACTION_DOWN): 218    // KEYCODE_KANA
+[1629490593462] :Send Key (ACTION_UP): 218    // KEYCODE_KANA
+[1629490593463] Sleep for 0 ms
+[1629490593464] Sleep for 240 ms
+[1629490593706] Sleep for 0 ms
+[1629490593707] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490593710] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490593710]     //[calendar_time:2021-08-20 16:16:33.710  system_uptime:338563]
+[1629490593710]     // Sending event #500
+[1629490593711] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490593712] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490593713] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490593715] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490593716] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490593718] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490593719] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490593720] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490593721] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490593723] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490593723] Sleep for 0 ms
+[1629490593724] Sleep for 297 ms
+[1629490594025] Sleep for 0 ms
+[1629490594026] :Sending Touch (ACTION_DOWN): 0:(705.0,107.0)
+[1629490594028] Waiting Event for 685 milliseconds
+[1629490594716] Sleep for 0 ms
+[1629490594716] :Sending Touch (ACTION_UP): 0:(705.0,107.0)
+[1629490594718] Sleep for 0 ms
+[1629490594718] Sleep for 261 ms
+[1629490594982] Sleep for 0 ms
+[1629490594983] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490594985] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490594986] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490594987] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490594988] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490594990] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490594991] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490594992] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490594993] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490594994] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490594994] Sleep for 134 ms
+[1629490595130] Sleep for 0 ms
+[1629490595131] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490595133] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490595135] Sleep for 0 ms
+[1629490595135] Sleep for 279 ms
+[1629490595417] Sleep for 0 ms
+[1629490595418] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490595420] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490595422] Sleep for 0 ms
+[1629490595422] Sleep for 143 ms
+[1629490595567] Sleep for 0 ms
+[1629490595567] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490595570] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490595572] Sleep for 0 ms
+[1629490595572] Sleep for 173 ms
+[1629490595747] Sleep for 0 ms
+[1629490595747] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490595750] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490595751] Sleep for 0 ms
+[1629490595751] Sleep for 280 ms
+[1629490596035] Sleep for 0 ms
+[1629490596036] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490596039] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490596040] Sleep for 0 ms
+[1629490596041] Sleep for 157 ms
+[1629490596203] Sleep for 0 ms
+[1629490596203] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490596205] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490596206] Sleep for 0 ms
+[1629490596207] Sleep for 500 ms
+[1629490596709] Sleep for 0 ms
+[1629490596709] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629490596712] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629490596716] Sleep for 0 ms
+[1629490596718] Sleep for 273 ms
+[1629490596996] Sleep for 0 ms
+[1629490596996] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490596997] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490596998] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490596999] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490597000] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490597001] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490597002] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490597004] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490597005] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490597005] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490597006] Sleep for 245 ms
+[1629490597254] Sleep for 0 ms
+[1629490597255] :Sending Touch (ACTION_DOWN): 0:(454.0,1606.0)
+[1629490597257] Waiting Event for 210 milliseconds
+[1629490597471] Sleep for 0 ms
+[1629490597471] :Sending Touch (ACTION_UP): 0:(454.0,1606.0)
+[1629490597473] Sleep for 0 ms
+[1629490597473] Sleep for 213 ms
+[1629490597688] Sleep for 0 ms
+[1629490597689] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490597691] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490597692] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490597693] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490597695] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490597695] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490597697] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490597699] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490597700] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490597701] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490597702] Sleep for 169 ms
+[1629490597874] Sleep for 0 ms
+[1629490597875] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490597876] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490597877] Sleep for 0 ms
+[1629490597877] Sleep for 241 ms
+[1629490598122] Sleep for 0 ms
+[1629490598122] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490598124] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490598125] Sleep for 0 ms
+[1629490598126] Sleep for 155 ms
+[1629490598284] Sleep for 0 ms
+[1629490598284] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490598286] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490598288] Sleep for 0 ms
+[1629490598289] Sleep for 290 ms
+[1629490598581] Sleep for 0 ms
+[1629490598582] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490598584] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490598585] Sleep for 0 ms
+[1629490598585] Sleep for 122 ms
+[1629490598709] Sleep for 0 ms
+[1629490598710] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490598713] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490598714] Sleep for 0 ms
+[1629490598715] Sleep for 256 ms
+[1629490598974] Sleep for 0 ms
+[1629490598975] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490598976] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490598977] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490598978] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490598979] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490598980] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490598982] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490598984] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490598988] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490598989] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490598990] Sleep for 154 ms
+[1629490599148] Sleep for 0 ms
+[1629490599148] Sleep for 0 ms
+[1629490599149] Sleep for 0 ms
+[1629490599150] :Sending rotation degree : 0, persist : false
+[1629490599167] Sleep for 0 ms
+[1629490599167] Sleep for 500 ms
+[1629490599669] Sleep for 0 ms
+[1629490599669] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490601948] fastbot exec shell: 
+[1629490601951] fastbot exec schema: 
+[1629490601951] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490601952]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490601984] Sleep for 0 ms
+[1629490601989] Sleep for 2000 ms
+[1629490602263]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490603992] Sleep for 0 ms
+[1629490603993] :schema :
+[1629490603993] Sleep for 0 ms
+[1629490603994] Sleep for 2000 ms
+[1629490605998] Sleep for 0 ms
+[1629490605998] Sleep for 500 ms
+[1629490606503] Sleep for 0 ms
+[1629490606503] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490606507] :Sending Touch (ACTION_DOWN): 0:(537.0,1403.0)
+[1629490606509] :Sending Touch (ACTION_MOVE): 0:(540.2052,1404.714)
+[1629490606511] Waiting Event for 18 milliseconds
+[1629490606530] Sleep for 0 ms
+[1629490606531] :Sending Touch (ACTION_MOVE): 0:(543.4288,1415.5455)
+[1629490606532] Waiting Event for 18 milliseconds
+[1629490606552] Sleep for 0 ms
+[1629490606553] :Sending Touch (ACTION_MOVE): 0:(548.02637,1418.1456)
+[1629490606554] Waiting Event for 18 milliseconds
+[1629490606574] Sleep for 0 ms
+[1629490606575] :Sending Touch (ACTION_MOVE): 0:(552.5113,1420.0947)
+[1629490606576] Waiting Event for 18 milliseconds
+[1629490606597] Sleep for 0 ms
+[1629490606598] :Sending Touch (ACTION_MOVE): 0:(555.1207,1426.745)
+[1629490606599] Waiting Event for 18 milliseconds
+[1629490606619] Sleep for 0 ms
+[1629490606619] :Sending Touch (ACTION_MOVE): 0:(560.0727,1437.1328)
+[1629490606620] Waiting Event for 18 milliseconds
+[1629490606639] Sleep for 0 ms
+[1629490606640] :Sending Touch (ACTION_MOVE): 0:(560.1033,1441.086)
+[1629490606641] Waiting Event for 18 milliseconds
+[1629490606660] Sleep for 0 ms
+[1629490606661] :Sending Touch (ACTION_MOVE): 0:(562.7677,1447.3793)
+[1629490606663] Waiting Event for 18 milliseconds
+[1629490606682]     //[calendar_time:2021-08-20 16:16:46.682  system_uptime:351535]
+[1629490606682]     // Sending event #600
+[1629490606683] Sleep for 0 ms
+[1629490606683]     //[calendar_time:2021-08-20 16:16:46.683  system_uptime:351536]
+[1629490606683]     // Sending event #600
+[1629490606683] :Sending Touch (ACTION_MOVE): 0:(565.3878,1459.8291)
+[1629490606684] Waiting Event for 18 milliseconds
+[1629490606705] Sleep for 0 ms
+[1629490606706] :Sending Touch (ACTION_UP): 0:(570.13824,1466.7833)
+[1629490606707] Sleep for 0 ms
+[1629490606708] Sleep for 159 ms
+[1629490606871] Sleep for 0 ms
+[1629490606871] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490606873] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490606875] Sleep for 0 ms
+[1629490606876] Sleep for 108 ms
+[1629490606987] Sleep for 0 ms
+[1629490606988] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490606989] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490606991] Sleep for 0 ms
+[1629490606992] Sleep for 247 ms
+[1629490607244] Sleep for 0 ms
+[1629490607245] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490607246] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490607248] Sleep for 0 ms
+[1629490607249] Sleep for 139 ms
+[1629490607390] Sleep for 0 ms
+[1629490607390] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490607391] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490607393] Sleep for 0 ms
+[1629490607394] Sleep for 273 ms
+[1629490607671] Sleep for 0 ms
+[1629490607671] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490607672] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490607675] Sleep for 0 ms
+[1629490607675] Sleep for 166 ms
+[1629490607843] Sleep for 0 ms
+[1629490607844] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490607997] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490607999] Sleep for 0 ms
+[1629490607999] Sleep for 295 ms
+[1629490608296] Sleep for 0 ms
+[1629490608297] :Sending Touch (ACTION_DOWN): 0:(341.0,1126.0)
+[1629490608299] Waiting Event for 758 milliseconds
+[1629490609059] Sleep for 0 ms
+[1629490609060] :Sending Touch (ACTION_UP): 0:(341.0,1126.0)
+[1629490609062]     // Injection Failed com.android.commands.monkey.E@67a0fab
+[1629490609062] Sleep for 0 ms
+[1629490609062] Sleep for 131 ms
+[1629490609196] Sleep for 0 ms
+[1629490609196] :Send Key (ACTION_DOWN): 192    // KEYCODE_BUTTON_5
+[1629490609199] :Send Key (ACTION_UP): 192    // KEYCODE_BUTTON_5
+[1629490609201] Sleep for 0 ms
+[1629490609201] Sleep for 271 ms
+[1629490609474] Sleep for 0 ms
+[1629490609475] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490609629] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490609632] Sleep for 0 ms
+[1629490609632] Sleep for 224 ms
+[1629490609858] Sleep for 0 ms
+[1629490609859] Sleep for 0 ms
+[1629490609859] Sleep for 0 ms
+[1629490609859] :Sending rotation degree : 0, persist : false
+[1629490609884] Sleep for 0 ms
+[1629490609885] Sleep for 500 ms
+[1629490610389] Sleep for 0 ms
+[1629490610389] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490612669] fastbot exec shell: 
+[1629490612674] fastbot exec schema: 
+[1629490612674] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490612675]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490612677] Sleep for 0 ms
+[1629490612704] Sleep for 2000 ms
+[1629490613076]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490614708] Sleep for 0 ms
+[1629490614708] :schema :
+[1629490614710] Sleep for 0 ms
+[1629490614710] Sleep for 2000 ms
+[1629490616713] Sleep for 0 ms
+[1629490616714] Sleep for 500 ms
+[1629490617219] Sleep for 0 ms
+[1629490617219] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490617226] :Sending rotation degree : 2, persist : true
+[1629490617238] Sleep for 0 ms
+[1629490617238] Sleep for 171 ms
+[1629490617412] Sleep for 0 ms
+[1629490617413] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629490617415] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629490617417] Sleep for 0 ms
+[1629490617418] Sleep for 122 ms
+[1629490617541] Sleep for 0 ms
+[1629490617542] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490617544] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490617545] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490617545] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490617545] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490617546] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490617547] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490617548] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490617549] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490617551] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490617552] Sleep for 122 ms
+[1629490617686] Sleep for 0 ms
+[1629490617687] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490617689] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490617693] Sleep for 0 ms
+[1629490617695] Sleep for 168 ms
+[1629490617865] Sleep for 0 ms
+[1629490617865] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490617867] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490617869] Sleep for 0 ms
+[1629490617869] Sleep for 299 ms
+[1629490618171] Sleep for 0 ms
+[1629490618172] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490618174] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490618179] Sleep for 0 ms
+[1629490618180] Sleep for 135 ms
+[1629490618317] Sleep for 0 ms
+[1629490618321] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490618322] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490618325] Sleep for 0 ms
+[1629490618326] Sleep for 157 ms
+[1629490618486] Sleep for 0 ms
+[1629490618487] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490618489] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490618493] Sleep for 0 ms
+[1629490618494] Sleep for 123 ms
+[1629490618618] Sleep for 0 ms
+[1629490618619] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490618622] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490618623] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490618624] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490618625] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490618629] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490618630] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490618631] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490618632] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490618633] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490618634] Sleep for 178 ms
+[1629490618813] Sleep for 0 ms
+[1629490618814] :Sending rotation degree : 0, persist : false
+[1629490618850] Sleep for 0 ms
+[1629490618850] Sleep for 251 ms
+[1629490619104] Sleep for 0 ms
+[1629490619104] :Send Key (ACTION_DOWN): 205    // KEYCODE_MANNER_MODE
+[1629490619107] :Send Key (ACTION_UP): 205    // KEYCODE_MANNER_MODE
+[1629490619108] Sleep for 0 ms
+[1629490619108] Sleep for 154 ms
+[1629490619265] Sleep for 0 ms
+[1629490619265] :Sending Touch (ACTION_DOWN): 0:(389.0,996.0)
+[1629490619266] Waiting Event for 432 milliseconds
+[1629490619701] Sleep for 0 ms
+[1629490619701] :Sending Touch (ACTION_UP): 0:(389.0,996.0)
+[1629490619702] Sleep for 0 ms
+[1629490619702] Sleep for 184 ms
+[1629490619889] Sleep for 0 ms
+[1629490619890] :Send Key (ACTION_DOWN): 148    // KEYCODE_NUMPAD_4
+[1629490619892] :Send Key (ACTION_UP): 148    // KEYCODE_NUMPAD_4
+[1629490619896] Sleep for 0 ms
+[1629490619896] Sleep for 124 ms
+[1629490620021] Sleep for 0 ms
+[1629490620022] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490620023] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490620024] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490620026] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490620029] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490620031] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490620032] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490620033] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490620036] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490620037] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490620037] Sleep for 247 ms
+[1629490620287] Sleep for 0 ms
+[1629490620290] :Sending Touch (ACTION_DOWN): 0:(209.0,79.0)
+[1629490620292] Waiting Event for 788 milliseconds
+[1629490621082] Sleep for 0 ms
+[1629490621083] :Sending Touch (ACTION_UP): 0:(209.0,79.0)
+[1629490621084] Sleep for 0 ms
+[1629490621084] Sleep for 264 ms
+[1629490621351] Sleep for 0 ms
+[1629490621351] Sleep for 0 ms
+[1629490621352] Sleep for 0 ms
+[1629490621352] :Sending rotation degree : 0, persist : false
+[1629490621373] Sleep for 0 ms
+[1629490621373] Sleep for 500 ms
+[1629490621876] Sleep for 0 ms
+[1629490621877] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490624241] fastbot exec shell: 
+[1629490624244] fastbot exec schema: 
+[1629490624245] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490624246]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490624256] Sleep for 0 ms
+[1629490624259] Sleep for 2000 ms
+[1629490624672]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490626262] Sleep for 0 ms
+[1629490626263] :schema :
+[1629490626264] Sleep for 0 ms
+[1629490626264] Sleep for 2000 ms
+[1629490628267] Sleep for 0 ms
+[1629490628267] Sleep for 500 ms
+[1629490628771] Sleep for 0 ms
+[1629490628771] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490628773] :Sending rotation degree : 3, persist : false
+[1629490628793] Sleep for 0 ms
+[1629490628793] Sleep for 122 ms
+[1629490628919] Sleep for 0 ms
+[1629490628920] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490628923] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490628924] Sleep for 0 ms
+[1629490628925] Sleep for 500 ms
+[1629490629428] Sleep for 0 ms
+[1629490629429] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490629431] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490629432] Sleep for 0 ms
+[1629490629432] Sleep for 120 ms
+[1629490629433]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490629557] Sleep for 0 ms
+[1629490629557] :Send Key (ACTION_DOWN): 194    // KEYCODE_BUTTON_7
+[1629490629559] :Send Key (ACTION_UP): 194    // KEYCODE_BUTTON_7
+[1629490629562] Sleep for 0 ms
+[1629490629562] Sleep for 213 ms
+[1629490629779] Sleep for 0 ms
+[1629490629780] :Sending rotation degree : 1, persist : true
+[1629490629844] Sleep for 0 ms
+[1629490629844] Sleep for 250 ms
+[1629490630095] Sleep for 0 ms
+[1629490630096] :Send Key (ACTION_DOWN): 159    // KEYCODE_NUMPAD_COMMA
+[1629490630099] :Send Key (ACTION_UP): 159    // KEYCODE_NUMPAD_COMMA
+[1629490630104] Sleep for 0 ms
+[1629490630105] Sleep for 243 ms
+[1629490630349] Sleep for 0 ms
+[1629490630350] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490630353] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490630355] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490630355] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490630357] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490630360] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490630362] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490630364] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490630364]     //[calendar_time:2021-08-20 16:17:10.364  system_uptime:375217]
+[1629490630364]     // Sending event #700
+[1629490630365] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490630365] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490630366] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490630367] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490630367] Sleep for 0 ms
+[1629490630368] Sleep for 146 ms
+[1629490630515] Sleep for 0 ms
+[1629490630516] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490630519] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490630521] Sleep for 0 ms
+[1629490630523] Sleep for 258 ms
+[1629490630784] Sleep for 0 ms
+[1629490630785] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490630787] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490630790] Sleep for 0 ms
+[1629490630790] Sleep for 111 ms
+[1629490630905] Sleep for 0 ms
+[1629490630906] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490630909] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490630911] Sleep for 0 ms
+[1629490630911] Sleep for 287 ms
+[1629490631201] Sleep for 0 ms
+[1629490631202] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490631204] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490631206] Sleep for 0 ms
+[1629490631206] Sleep for 226 ms
+[1629490631434] Sleep for 0 ms
+[1629490631435] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490631437] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490631440] Sleep for 0 ms
+[1629490631441] Sleep for 235 ms
+[1629490631679] Sleep for 0 ms
+[1629490631680] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490631682] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490631683] Sleep for 0 ms
+[1629490631684] Sleep for 500 ms
+[1629490631706]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490632186] Sleep for 0 ms
+[1629490632187] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490632189] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490632190] Sleep for 0 ms
+[1629490632191] Sleep for 287 ms
+[1629490632480] Sleep for 0 ms
+[1629490632481] Sleep for 0 ms
+[1629490632482] Sleep for 0 ms
+[1629490632482] :Sending rotation degree : 0, persist : false
+[1629490632582] Sleep for 0 ms
+[1629490632583] Sleep for 500 ms
+[1629490633084] Sleep for 0 ms
+[1629490633084] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490635397] fastbot exec shell: 
+[1629490635400] fastbot exec schema: 
+[1629490635400] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490635402]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490635434] Sleep for 0 ms
+[1629490635435] Sleep for 2000 ms
+[1629490635751]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490637437] Sleep for 0 ms
+[1629490637438] :schema :
+[1629490637439] Sleep for 0 ms
+[1629490637440] Sleep for 2000 ms
+[1629490639445] Sleep for 0 ms
+[1629490639446] Sleep for 500 ms
+[1629490639950] Sleep for 0 ms
+[1629490639950] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490639953] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490639954] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490639955] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490639956] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490639956] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490639957] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490639959] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490639960] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490639960] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490639961] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490639962] Sleep for 246 ms
+[1629490640210] Sleep for 0 ms
+[1629490640211] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490640364] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490640367] Sleep for 0 ms
+[1629490640367] Sleep for 199 ms
+[1629490640569] Sleep for 0 ms
+[1629490640571] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490640573] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490640574] Sleep for 0 ms
+[1629490640575] Sleep for 118 ms
+[1629490640696] Sleep for 0 ms
+[1629490640697] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490640700] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490640708] Sleep for 0 ms
+[1629490640709] Sleep for 267 ms
+[1629490640978] Sleep for 0 ms
+[1629490640979] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490640980] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490640982] Sleep for 0 ms
+[1629490640982] Sleep for 213 ms
+[1629490641197] Sleep for 0 ms
+[1629490641198] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490641200] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490641202] Sleep for 0 ms
+[1629490641202] Sleep for 216 ms
+[1629490641419] Sleep for 0 ms
+[1629490641420] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490641423] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490641425] Sleep for 0 ms
+[1629490641425] Sleep for 236 ms
+[1629490641664] Sleep for 0 ms
+[1629490641665] :Sending Touch (ACTION_DOWN): 0:(715.0,917.0)
+[1629490641668] :Sending Touch (ACTION_MOVE): 0:(704.37494,914.9079)
+[1629490641669] Waiting Event for 25 milliseconds
+[1629490641696] Sleep for 0 ms
+[1629490641696] :Sending Touch (ACTION_MOVE): 0:(695.0341,913.28687)
+[1629490641696]     // Injection Failed com.android.commands.monkey.E@3c00f608
+[1629490641697] Waiting Event for 25 milliseconds
+[1629490641723] Sleep for 0 ms
+[1629490641725] :Sending Touch (ACTION_MOVE): 0:(693.54675,897.2613)
+[1629490641725]     // Injection Failed com.android.commands.monkey.E@298f61a1
+[1629490641726] Waiting Event for 25 milliseconds
+[1629490641752] Sleep for 0 ms
+[1629490641754] :Sending Touch (ACTION_MOVE): 0:(683.5613,878.417)
+[1629490641756]     // Injection Failed com.android.commands.monkey.E@551cfc6
+[1629490641758] Waiting Event for 25 milliseconds
+[1629490641784] Sleep for 0 ms
+[1629490641785] :Sending Touch (ACTION_MOVE): 0:(666.4606,871.5108)
+[1629490641785]     // Injection Failed com.android.commands.monkey.E@2a47fb87
+[1629490641785] Waiting Event for 25 milliseconds
+[1629490641813] Sleep for 0 ms
+[1629490641814] :Sending Touch (ACTION_MOVE): 0:(657.3253,852.16064)
+[1629490641816]     // Injection Failed com.android.commands.monkey.E@b36ab4
+[1629490641816] Waiting Event for 25 milliseconds
+[1629490641843] Sleep for 0 ms
+[1629490641843] :Sending Touch (ACTION_UP): 0:(640.5052,848.746)
+[1629490641844]     // Injection Failed com.android.commands.monkey.E@321f76dd
+[1629490641844] Sleep for 0 ms
+[1629490641845] Sleep for 160 ms
+[1629490642007] Sleep for 0 ms
+[1629490642007] :Sending rotation degree : 2, persist : true
+[1629490642025] Sleep for 0 ms
+[1629490642025] Sleep for 266 ms
+[1629490642294] Sleep for 0 ms
+[1629490642295] :Sending Touch (ACTION_DOWN): 0:(726.0,1616.0)
+[1629490642296] :Sending Touch (ACTION_MOVE): 0:(738.57513,1611.1045)
+[1629490642296] Waiting Event for 28 milliseconds
+[1629490642327] Sleep for 0 ms
+[1629490642328] :Sending Touch (ACTION_MOVE): 0:(738.70154,1594.7338)
+[1629490642329] Waiting Event for 28 milliseconds
+[1629490642359] Sleep for 0 ms
+[1629490642360] :Sending Touch (ACTION_MOVE): 0:(748.50916,1593.1116)
+[1629490642362] Waiting Event for 28 milliseconds
+[1629490642392] Sleep for 0 ms
+[1629490642393] :Sending Touch (ACTION_MOVE): 0:(749.6569,1578.8771)
+[1629490642393] Waiting Event for 28 milliseconds
+[1629490642423] Sleep for 0 ms
+[1629490642425] :Sending Touch (ACTION_MOVE): 0:(753.27435,1569.0436)
+[1629490642426] Waiting Event for 28 milliseconds
+[1629490642456] Sleep for 0 ms
+[1629490642457] :Sending Touch (ACTION_UP): 0:(757.80475,1557.6088)
+[1629490642460] Sleep for 0 ms
+[1629490642461] Sleep for 100 ms
+[1629490642563] Sleep for 0 ms
+[1629490642564] :Sending rotation degree : 1, persist : true
+[1629490642576] Sleep for 0 ms
+[1629490642576] Sleep for 104 ms
+[1629490642682] Sleep for 0 ms
+[1629490642682] :Sending rotation degree : 1, persist : true
+[1629490642686] Sleep for 0 ms
+[1629490642687] Sleep for 171 ms
+[1629490642860] Sleep for 0 ms
+[1629490642860] :Sending Touch (ACTION_DOWN): 0:(966.0,716.0)
+[1629490642862] Waiting Event for 70 milliseconds
+[1629490642933] Sleep for 0 ms
+[1629490642934] :Sending Touch (ACTION_UP): 0:(966.0,716.0)
+[1629490642935] Sleep for 0 ms
+[1629490642936] Sleep for 264 ms
+[1629490643203] Sleep for 0 ms
+[1629490643204] Sleep for 0 ms
+[1629490643205] Sleep for 0 ms
+[1629490643205] :Sending rotation degree : 0, persist : false
+[1629490643221] Sleep for 0 ms
+[1629490643222] Sleep for 500 ms
+[1629490643725] Sleep for 0 ms
+[1629490643725] // the top activity is com.android.launcher2.Launcher, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490646066] fastbot exec shell: 
+[1629490646070] fastbot exec schema: 
+[1629490646070] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490646071]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490646078] Sleep for 0 ms
+[1629490646078] Sleep for 2000 ms
+[1629490646497]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490648081] Sleep for 0 ms
+[1629490648081] :schema :
+[1629490648083] Sleep for 0 ms
+[1629490648084] Sleep for 2000 ms
+[1629490650087] Sleep for 0 ms
+[1629490650088] Sleep for 500 ms
+[1629490650591] Sleep for 0 ms
+[1629490650591] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490650594] :Sending Touch (ACTION_DOWN): 0:(666.0,1555.0)
+[1629490650596] :Sending Touch (ACTION_UP): 0:(665.0572,1569.075)
+[1629490650598] Sleep for 0 ms
+[1629490650599] Sleep for 275 ms
+[1629490650875] Sleep for 0 ms
+[1629490650876] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629490650880] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629490650883] Sleep for 0 ms
+[1629490650884] Sleep for 233 ms
+[1629490651117] Sleep for 0 ms
+[1629490651118] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490651122] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490651123] Sleep for 0 ms
+[1629490651124] Sleep for 500 ms
+[1629490651626] Sleep for 0 ms
+[1629490651626] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490651628] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490651629] Sleep for 0 ms
+[1629490651630] Sleep for 166 ms
+[1629490651631]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490651798] Sleep for 0 ms
+[1629490651799] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629490651803] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629490651805] Sleep for 0 ms
+[1629490651805] Sleep for 221 ms
+[1629490652030] Sleep for 0 ms
+[1629490652031] :Send Key (ACTION_DOWN): 64    // KEYCODE_EXPLORER
+[1629490652033]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+[1629490652034] :Send Key (ACTION_UP): 64    // KEYCODE_EXPLORER
+[1629490652035] Sleep for 0 ms
+[1629490652035] Sleep for 262 ms
+[1629490652299] Sleep for 0 ms
+[1629490652300] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490652302] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490652303] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490652304] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490652305] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490652306] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490652308] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490652309] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490652310] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490652311] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490652312]     //[calendar_time:2021-08-20 16:17:32.312  system_uptime:397165]
+[1629490652312]     // Sending event #800
+[1629490652312] Sleep for 265 ms
+[1629490652579]     //[calendar_time:2021-08-20 16:17:32.579  system_uptime:397432]
+[1629490652579]     // Sending event #800
+[1629490652580] Sleep for 0 ms
+[1629490652580]     //[calendar_time:2021-08-20 16:17:32.580  system_uptime:397433]
+[1629490652580]     // Sending event #800
+[1629490652581] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490652583] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490652584] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490652585] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490652586] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490652587] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490652588] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490652590] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490652591] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490652592] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490652594] Sleep for 266 ms
+[1629490652863] Sleep for 0 ms
+[1629490652863] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490652865] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490652867] Sleep for 0 ms
+[1629490652870] Sleep for 243 ms
+[1629490653115] Sleep for 0 ms
+[1629490653116] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490653119] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490653121] Sleep for 0 ms
+[1629490653121] Sleep for 191 ms
+[1629490653316] Sleep for 0 ms
+[1629490653316] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490653320] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490653321] Sleep for 0 ms
+[1629490653322] Sleep for 280 ms
+[1629490653605] Sleep for 0 ms
+[1629490653606] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490653608] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490653609] Sleep for 0 ms
+[1629490653610] Sleep for 108 ms
+[1629490653720] Sleep for 0 ms
+[1629490653720] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490653722] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490653723] Sleep for 0 ms
+[1629490653723] Sleep for 136 ms
+[1629490653863] Sleep for 0 ms
+[1629490653863] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490653865] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490653866] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490653867] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490653868] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490653869] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490653870] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490653871] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490653873] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490653873] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490653874] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490653878] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490653878] Sleep for 0 ms
+[1629490653879] Sleep for 176 ms
+[1629490654059] Sleep for 0 ms
+[1629490654060] :Sending Touch (ACTION_DOWN): 0:(699.0,759.0)
+[1629490654061] :Sending Touch (ACTION_MOVE): 0:(696.89185,751.966)
+[1629490654063] Waiting Event for 40 milliseconds
+[1629490654104] Sleep for 0 ms
+[1629490654104] :Sending Touch (ACTION_MOVE): 0:(695.3048,741.7294)
+[1629490654105] Waiting Event for 40 milliseconds
+[1629490654147] Sleep for 0 ms
+[1629490654148] :Sending Touch (ACTION_MOVE): 0:(691.3001,735.20935)
+[1629490654151] Waiting Event for 40 milliseconds
+[1629490654193] Sleep for 0 ms
+[1629490654193] :Sending Touch (ACTION_UP): 0:(683.3528,724.6305)
+[1629490654195] Sleep for 0 ms
+[1629490654195] Sleep for 242 ms
+[1629490654439] Sleep for 0 ms
+[1629490654440] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490654441] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490654442] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490654444] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490654445] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490654445] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490654446] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490654447] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490654448] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490654449] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490654449] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490654450] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490654451] Sleep for 0 ms
+[1629490654451] Sleep for 224 ms
+[1629490654678] Sleep for 0 ms
+[1629490654679] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490654681] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490654682] Sleep for 0 ms
+[1629490654683] Sleep for 219 ms
+[1629490654905] Sleep for 0 ms
+[1629490654906] :Send Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+[1629490654909] :Send Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+[1629490654911] Sleep for 0 ms
+[1629490654911] Sleep for 245 ms
+[1629490655159] Sleep for 0 ms
+[1629490655160] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490655162] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490655164] Sleep for 0 ms
+[1629490655165] Sleep for 285 ms
+[1629490655453] Sleep for 0 ms
+[1629490655454] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490655456] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490655458] Sleep for 0 ms
+[1629490655459] Sleep for 246 ms
+[1629490655708] Sleep for 0 ms
+[1629490655708] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490655711] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490655713] Sleep for 0 ms
+[1629490655713] Sleep for 268 ms
+[1629490655985] Sleep for 0 ms
+[1629490655985] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490655988] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490655989] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490655990] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490655990] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490655991] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490655992] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490655992] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490655993] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490655994] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490655996] Sleep for 148 ms
+[1629490656147] Sleep for 0 ms
+[1629490656148] :Sending Touch (ACTION_DOWN): 0:(405.0,125.0)
+[1629490656150] :Sending Touch (ACTION_MOVE): 0:(420.19592,124.80023)
+[1629490656150] Waiting Event for 20 milliseconds
+[1629490656173] Sleep for 0 ms
+[1629490656174] :Sending Touch (ACTION_MOVE): 0:(434.61566,124.15127)
+[1629490656175] Waiting Event for 20 milliseconds
+[1629490656197] Sleep for 0 ms
+[1629490656198] :Sending Touch (ACTION_MOVE): 0:(450.81714,122.9471)
+[1629490656199] Waiting Event for 20 milliseconds
+[1629490656221] Sleep for 0 ms
+[1629490656221] :Sending Touch (ACTION_MOVE): 0:(455.49744,121.015205)
+[1629490656222] Waiting Event for 20 milliseconds
+[1629490656245] Sleep for 0 ms
+[1629490656245] :Sending Touch (ACTION_MOVE): 0:(458.0966,119.99348)
+[1629490656247] Waiting Event for 20 milliseconds
+[1629490656269] Sleep for 0 ms
+[1629490656270] :Sending Touch (ACTION_MOVE): 0:(465.54062,118.446846)
+[1629490656271] Waiting Event for 20 milliseconds
+[1629490656293] Sleep for 0 ms
+[1629490656294] :Sending Touch (ACTION_MOVE): 0:(480.05502,116.89967)
+[1629490656295] Waiting Event for 20 milliseconds
+[1629490656316] Sleep for 0 ms
+[1629490656317] :Sending Touch (ACTION_MOVE): 0:(498.3221,116.33106)
+[1629490656318] Waiting Event for 20 milliseconds
+[1629490656340] Sleep for 0 ms
+[1629490656340] :Sending Touch (ACTION_UP): 0:(502.77078,115.71421)
+[1629490656342] Sleep for 0 ms
+[1629490656342] Sleep for 194 ms
+[1629490656540] Sleep for 0 ms
+[1629490656540] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490656694] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490656696] Sleep for 0 ms
+[1629490656697] Sleep for 175 ms
+[1629490656874] Sleep for 0 ms
+[1629490656876] Sleep for 0 ms
+[1629490656877] Sleep for 0 ms
+[1629490656877] :Sending rotation degree : 0, persist : false
+[1629490656913] Sleep for 0 ms
+[1629490656913] Sleep for 500 ms
+[1629490657415] Sleep for 0 ms
+[1629490657416] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490659700] fastbot exec shell: 
+[1629490659703] fastbot exec schema: 
+[1629490659703] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490659705]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490659735] Sleep for 0 ms
+[1629490659741] Sleep for 2000 ms
+[1629490660034]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490661743] Sleep for 0 ms
+[1629490661744] :schema :
+[1629490661745] Sleep for 0 ms
+[1629490661745] Sleep for 2000 ms
+[1629490663749] Sleep for 0 ms
+[1629490663750] Sleep for 500 ms
+[1629490664254] Sleep for 0 ms
+[1629490664254] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490664260] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490664261] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490664263] Sleep for 0 ms
+[1629490664263] Sleep for 500 ms
+[1629490664767] Sleep for 0 ms
+[1629490664767] :Send Key (ACTION_DOWN): 3    // KEYCODE_HOME
+[1629490664770] :Send Key (ACTION_UP): 3    // KEYCODE_HOME
+[1629490664773] Sleep for 0 ms
+[1629490664774] Sleep for 189 ms
+[1629490664785]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490664965] Sleep for 0 ms
+[1629490664966] :Sending Touch (ACTION_DOWN): 0:(74.0,324.0)
+[1629490664969]     //[calendar_time:2021-08-20 16:17:44.968  system_uptime:409821]
+[1629490664969]     // Sending event #900
+[1629490664970] Waiting Event for 200 milliseconds
+[1629490665171] Sleep for 0 ms
+[1629490665172] :Sending Touch (ACTION_UP): 0:(74.0,324.0)
+[1629490665173] Sleep for 0 ms
+[1629490665174] Sleep for 168 ms
+[1629490665344] Sleep for 0 ms
+[1629490665344] :Sending Touch (ACTION_DOWN): 0:(556.0,417.0)
+[1629490665345] :Sending Touch (ACTION_UP): 0:(557.1507,417.31833)
+[1629490665346] Sleep for 0 ms
+[1629490665347] Sleep for 254 ms
+[1629490665606] Sleep for 0 ms
+[1629490665606] :Sending Touch (ACTION_DOWN): 0:(1012.0,1612.0)
+[1629490665608] Waiting Event for 74 milliseconds
+[1629490665685] Sleep for 0 ms
+[1629490665686] :Sending Touch (ACTION_UP): 0:(1012.0,1612.0)
+[1629490665688] Sleep for 0 ms
+[1629490665688] Sleep for 271 ms
+[1629490665962] Sleep for 0 ms
+[1629490665963] :Sending Touch (ACTION_DOWN): 0:(299.0,1486.0)
+[1629490665965] Waiting Event for 13 milliseconds
+[1629490665981] Sleep for 0 ms
+[1629490665981] :Sending Touch (ACTION_UP): 0:(299.0,1486.0)
+[1629490665982] Sleep for 0 ms
+[1629490665984] Sleep for 240 ms
+[1629490666226] Sleep for 0 ms
+[1629490666226] :Send Key (ACTION_DOWN): 173    // KEYCODE_DVR
+[1629490666230] :Send Key (ACTION_UP): 173    // KEYCODE_DVR
+[1629490666231] Sleep for 0 ms
+[1629490666232] Sleep for 182 ms
+[1629490666419] Sleep for 0 ms
+[1629490666419] :Sending rotation degree : 1, persist : false
+[1629490666504] Sleep for 0 ms
+[1629490666508] Sleep for 203 ms
+[1629490666714] Sleep for 0 ms
+[1629490666715] Sleep for 0 ms
+[1629490666716] Sleep for 0 ms
+[1629490666716] :Sending rotation degree : 0, persist : false
+[1629490666779] Sleep for 0 ms
+[1629490666781] Sleep for 500 ms
+[1629490667282] Sleep for 0 ms
+[1629490667282] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490669580] fastbot exec shell: 
+[1629490669584] fastbot exec schema: 
+[1629490669584] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490669585]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490669588] Sleep for 0 ms
+[1629490669593] Sleep for 2000 ms
+[1629490669907]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490671597] Sleep for 0 ms
+[1629490671598] :schema :
+[1629490671600] Sleep for 0 ms
+[1629490671600] Sleep for 2000 ms
+[1629490673603] Sleep for 0 ms
+[1629490673604] Sleep for 500 ms
+[1629490674107] Sleep for 0 ms
+[1629490674108] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490674112] :Send Key (ACTION_DOWN): 12    // KEYCODE_5
+[1629490674114] :Send Key (ACTION_UP): 12    // KEYCODE_5
+[1629490674127]     // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+[1629490674127] Sleep for 0 ms
+[1629490674128] Sleep for 244 ms
+[1629490674374] Sleep for 0 ms
+[1629490674375] :Send Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+[1629490674529] :Send Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+[1629490674531] Sleep for 0 ms
+[1629490674532] Sleep for 116 ms
+[1629490674649] Sleep for 0 ms
+[1629490674650] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490674652] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490674655] Sleep for 0 ms
+[1629490674658] Sleep for 500 ms
+[1629490675161] Sleep for 0 ms
+[1629490675162] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490675164] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490675166] Sleep for 0 ms
+[1629490675166] Sleep for 105 ms
+[1629490675166]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490675272] Sleep for 0 ms
+[1629490675273] :Send Key (ACTION_DOWN): 164    // KEYCODE_VOLUME_MUTE
+[1629490675277] :Send Key (ACTION_UP): 164    // KEYCODE_VOLUME_MUTE
+[1629490675278] Sleep for 0 ms
+[1629490675278] Sleep for 250 ms
+[1629490675533] Sleep for 0 ms
+[1629490675534] :Sending Touch (ACTION_DOWN): 0:(843.0,376.0)
+[1629490675535] :Sending Touch (ACTION_UP): 0:(837.5068,365.47568)
+[1629490675536] Sleep for 0 ms
+[1629490675536] Sleep for 154 ms
+[1629490675693] Sleep for 0 ms
+[1629490675694] :Send Key (ACTION_DOWN): 234    // KEYCODE_TV_NUMBER_ENTRY
+[1629490675699] :Send Key (ACTION_UP): 234    // KEYCODE_TV_NUMBER_ENTRY
+[1629490675701] Sleep for 0 ms
+[1629490675701] Sleep for 150 ms
+[1629490675853] Sleep for 0 ms
+[1629490675854] :Sending Touch (ACTION_DOWN): 0:(492.0,1063.0)
+[1629490675855] :Sending Touch (ACTION_MOVE): 0:(497.57004,1072.5114)
+[1629490675856] Waiting Event for 20 milliseconds
+[1629490675879] Sleep for 0 ms
+[1629490675879] :Sending Touch (ACTION_MOVE): 0:(506.5932,1091.0698)
+[1629490675881] Waiting Event for 20 milliseconds
+[1629490675903] Sleep for 0 ms
+[1629490675904] :Sending Touch (ACTION_MOVE): 0:(515.7156,1102.3433)
+[1629490675905] Waiting Event for 20 milliseconds
+[1629490675928] Sleep for 0 ms
+[1629490675929] :Sending Touch (ACTION_MOVE): 0:(518.41675,1111.8025)
+[1629490675931] Waiting Event for 20 milliseconds
+[1629490675953] Sleep for 0 ms
+[1629490675953] :Sending Touch (ACTION_MOVE): 0:(526.0543,1130.5032)
+[1629490675954] Waiting Event for 20 milliseconds
+[1629490675976] Sleep for 0 ms
+[1629490675977] :Sending Touch (ACTION_MOVE): 0:(529.5287,1143.9414)
+[1629490675979] Waiting Event for 20 milliseconds
+[1629490676001] Sleep for 0 ms
+[1629490676002] :Sending Touch (ACTION_MOVE): 0:(538.88245,1155.3887)
+[1629490676002] Waiting Event for 20 milliseconds
+[1629490676025] Sleep for 0 ms
+[1629490676025] :Sending Touch (ACTION_MOVE): 0:(547.6648,1156.2494)
+[1629490676027] Waiting Event for 20 milliseconds
+[1629490676050] Sleep for 0 ms
+[1629490676051] :Sending Touch (ACTION_UP): 0:(560.2801,1157.1146)
+[1629490676052] Sleep for 0 ms
+[1629490676052] Sleep for 299 ms
+[1629490676354] Sleep for 0 ms
+[1629490676355] Sleep for 0 ms
+[1629490676356] Sleep for 0 ms
+[1629490676356] :Sending rotation degree : 0, persist : false
+[1629490676373] Sleep for 0 ms
+[1629490676373] Sleep for 500 ms
+[1629490676876] Sleep for 0 ms
+[1629490676877] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490679150] fastbot exec shell: 
+[1629490679154] fastbot exec schema: 
+[1629490679154] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490679155]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490679185] Sleep for 0 ms
+[1629490679185] Sleep for 2000 ms
+[1629490679492]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490681188] Sleep for 0 ms
+[1629490681188] :schema :
+[1629490681190] Sleep for 0 ms
+[1629490681190] Sleep for 2000 ms
+[1629490683195] Sleep for 0 ms
+[1629490683195] Sleep for 500 ms
+[1629490683697] Sleep for 0 ms
+[1629490683698] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490683700] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490683700] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490683701] Sleep for 0 ms
+[1629490683701] Sleep for 500 ms
+[1629490684205] Sleep for 0 ms
+[1629490684205] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490684209] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490684210] Sleep for 0 ms
+[1629490684211] Sleep for 241 ms
+[1629490684211]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490684455] Sleep for 0 ms
+[1629490684455] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490684458] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490684459] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490684459] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490684459] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490684460] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490684461] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490684462] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490684463] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490684464] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490684466] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490684466] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490684467] Sleep for 0 ms
+[1629490684467] Sleep for 136 ms
+[1629490684605] Sleep for 0 ms
+[1629490684606] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490684608] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490684610] Sleep for 0 ms
+[1629490684610] Sleep for 500 ms
+[1629490685112] Sleep for 0 ms
+[1629490685113] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490685115] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490685117] Sleep for 0 ms
+[1629490685118] Sleep for 105 ms
+[1629490685227] Sleep for 0 ms
+[1629490685228] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629490685232] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629490685234] Sleep for 0 ms
+[1629490685235] Sleep for 121 ms
+[1629490685358] Sleep for 0 ms
+[1629490685358] :Send Key (ACTION_DOWN): 24    // KEYCODE_VOLUME_UP
+[1629490685362] :Send Key (ACTION_UP): 24    // KEYCODE_VOLUME_UP
+[1629490685364] Sleep for 0 ms
+[1629490685364] Sleep for 227 ms
+[1629490685594] Sleep for 0 ms
+[1629490685595] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490685596] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490685597] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490685599] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490685600] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490685601] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490685602] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490685602] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490685604] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490685604] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490685605] Sleep for 185 ms
+[1629490685793] Sleep for 0 ms
+[1629490685794] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490685795] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490685796] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490685797] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490685798] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490685799] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490685800] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490685800] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490685801] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490685802] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490685803] Sleep for 121 ms
+[1629490685927] Sleep for 0 ms
+[1629490685927] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490685929] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490685931] Sleep for 0 ms
+[1629490685931] Sleep for 166 ms
+[1629490686101] Sleep for 0 ms
+[1629490686102] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490686103] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490686105] Sleep for 0 ms
+[1629490686105] Sleep for 259 ms
+[1629490686369] Sleep for 0 ms
+[1629490686370] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490686371]     //[calendar_time:2021-08-20 16:18:06.370  system_uptime:431224]
+[1629490686371]     // Sending event #1000
+[1629490686371] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490686373] Sleep for 0 ms
+[1629490686373] Sleep for 227 ms
+[1629490686605] Sleep for 0 ms
+[1629490686606] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490686609] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490686611] Sleep for 0 ms
+[1629490686611] Sleep for 213 ms
+[1629490686826] Sleep for 0 ms
+[1629490686827] :Send Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+[1629490686829] :Send Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+[1629490686831] Sleep for 0 ms
+[1629490686831] Sleep for 297 ms
+[1629490687131] Sleep for 0 ms
+[1629490687132] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490687134] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490687135] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490687136] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490687138] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490687140] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490687141] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490687142] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490687143] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490687144] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490687144] Sleep for 170 ms
+[1629490687318] Sleep for 0 ms
+[1629490687318] :Send Key (ACTION_DOWN): 91    // KEYCODE_MUTE
+[1629490687321] :Send Key (ACTION_UP): 91    // KEYCODE_MUTE
+[1629490687322] Sleep for 0 ms
+[1629490687324] Sleep for 257 ms
+[1629490687584] Sleep for 0 ms
+[1629490687585] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490687587] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490687589] Sleep for 0 ms
+[1629490687589] Sleep for 209 ms
+[1629490687801] Sleep for 0 ms
+[1629490687802] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490687803] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490687805] Sleep for 0 ms
+[1629490687805] Sleep for 131 ms
+[1629490687939] Sleep for 0 ms
+[1629490687939] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490687941] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490687943] Sleep for 0 ms
+[1629490687944] Sleep for 101 ms
+[1629490688049] Sleep for 0 ms
+[1629490688049] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490688051] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490688053] Sleep for 0 ms
+[1629490688053] Sleep for 154 ms
+[1629490688209] Sleep for 0 ms
+[1629490688209] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490688211] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490688212] Sleep for 0 ms
+[1629490688213] Sleep for 168 ms
+[1629490688384] Sleep for 0 ms
+[1629490688385] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490688386] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490688387] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490688388] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490688389] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490688389] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490688390] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490688391] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490688393] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490688393] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490688394] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490688395] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490688396] Sleep for 0 ms
+[1629490688396] Sleep for 163 ms
+[1629490688562] Sleep for 0 ms
+[1629490688562] :Sending rotation degree : 0, persist : false
+[1629490688588] Sleep for 0 ms
+[1629490688588] Sleep for 174 ms
+[1629490688766] Sleep for 0 ms
+[1629490688767] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490688769] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490688770] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490688771] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490688772] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490688773] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490688775] :Sending Trackball (ACTION_MOVE): 0:(-2.0,79.0)
+[1629490688775] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490688776] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490688778] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490688778] Sleep for 212 ms
+[1629490688995] Sleep for 0 ms
+[1629490688995] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490688998] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490689000] Sleep for 0 ms
+[1629490689000] Sleep for 167 ms
+[1629490689169] Sleep for 0 ms
+[1629490689170] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490689172] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490689173] Sleep for 0 ms
+[1629490689174] Sleep for 143 ms
+[1629490689318] Sleep for 0 ms
+[1629490689319] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490689320] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490689322] Sleep for 0 ms
+[1629490689322] Sleep for 215 ms
+[1629490689539] Sleep for 0 ms
+[1629490689539] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490689542] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490689544] Sleep for 0 ms
+[1629490689545] Sleep for 189 ms
+[1629490689738] Sleep for 0 ms
+[1629490689738] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490689738] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490689744] Sleep for 0 ms
+[1629490689744] Sleep for 289 ms
+[1629490690036] Sleep for 0 ms
+[1629490690038] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490690041] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490690041] :Sending Trackball (ACTION_MOVE): 0:(-5.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490690043] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490690044] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490690052] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490690055] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490690056] Sleep for 0 ms
+[1629490690056] Sleep for 273 ms
+[1629490690331] Sleep for 0 ms
+[1629490690331] Sleep for 0 ms
+[1629490690332] Sleep for 0 ms
+[1629490690332] :Sending rotation degree : 0, persist : false
+[1629490690348] Sleep for 0 ms
+[1629490690348] Sleep for 500 ms
+[1629490690851] Sleep for 0 ms
+[1629490690851] // the top activity is com.android.systemui.recents.RecentsActivity, not testing app, need inject restart app
+[WARNING] lastStartTimestamp [0] is not updated. Try to clear package.
+[1629490693339] fastbot exec shell: 
+[1629490693341] fastbot exec schema: 
+[1629490693341] Switch : #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=ru.yanus171.feedexfork/.activity.HomeActivity;end
+[1629490693342]     // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ru.yanus171.feedexfork/.activity.HomeActivity } in package ru.yanus171.feedexfork
+[1629490693374] Sleep for 0 ms
+[1629490693375] Sleep for 2000 ms
+[1629490693700]     // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+[1629490695377] Sleep for 0 ms
+[1629490695377] :schema :
+[1629490695379] Sleep for 0 ms
+[1629490695379] Sleep for 2000 ms
+[1629490697385] Sleep for 0 ms
+[1629490697385] Sleep for 500 ms
+[1629490697889] Sleep for 0 ms
+[1629490697889] // the top activity is com.android.launcher2.Launcher, not testing app, need inject fuzz event
+[1629490697891] :Send Key (ACTION_DOWN): 187    // KEYCODE_APP_SWITCH
+[1629490697893] :Send Key (ACTION_UP): 187    // KEYCODE_APP_SWITCH
+[1629490697895] Sleep for 0 ms
+[1629490697901] Sleep for 500 ms
+[1629490698404] Sleep for 0 ms
+[1629490698404] :Send Key (ACTION_DOWN): 4    // KEYCODE_BACK
+[1629490698407] :Send Key (ACTION_UP): 4    // KEYCODE_BACK
+[1629490698409] Sleep for 0 ms
+[1629490698410] Sleep for 107 ms
+[1629490698411]     // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+[1629490698519] Sleep for 0 ms
+[1629490698519] :Sending rotation degree : 1, persist : true
+[1629490698568] Sleep for 0 ms
+[1629490698570] Sleep for 124 ms
+[1629490698695] Sleep for 0 ms
+[1629490698695] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490698880] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490698882] Sleep for 0 ms
+[1629490698882] Sleep for 185 ms
+[1629490699068] Sleep for 0 ms
+[1629490699070] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490699073] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490699074] Sleep for 0 ms
+[1629490699075] Sleep for 279 ms
+[1629490699356] Sleep for 0 ms
+[1629490699357] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490699359] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490699362] Sleep for 0 ms
+[1629490699362] Sleep for 227 ms
+[1629490699591] Sleep for 0 ms
+[1629490699591] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490699594] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490699596] Sleep for 0 ms
+[1629490699596] Sleep for 194 ms
+[1629490699794] Sleep for 0 ms
+[1629490699795] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490699797] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490699799] Sleep for 0 ms
+[1629490699799] Sleep for 242 ms
+[1629490700044] Sleep for 0 ms
+[1629490700044] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490700046] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490700047] :Sending Trackball (ACTION_MOVE): 0:(1.0,79.0)
+[1629490700048] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490700049] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490700050] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490700051] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490700052] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490700053] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490700054] :Sending Trackball (ACTION_MOVE): 0:(2.0,79.0)
+[1629490700054]     //[calendar_time:2021-08-20 16:18:20.054  system_uptime:444907]
+[1629490700054]     // Sending event #1100
+[1629490700054] :Sending Trackball (ACTION_DOWN): 0:(0.0,79.0)
+[1629490700056] :Sending Trackball (ACTION_UP): 0:(0.0,79.0)
+[1629490700062] Sleep for 0 ms
+[1629490700063] Sleep for 141 ms
+[1629490700206] Sleep for 0 ms
+[1629490700206] :Send Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+[1629490700208] :Send Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+[1629490700209] Sleep for 0 ms
+[1629490700210] Sleep for 197 ms
+[1629490700410] Sleep for 0 ms
+[1629490700410] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490700412] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490700414] Sleep for 0 ms
+[1629490700414] Sleep for 123 ms
+[1629490700540] Sleep for 0 ms
+[1629490700541] :Send Key (ACTION_DOWN): 82    // KEYCODE_MENU
+[1629490700544] :Send Key (ACTION_UP): 82    // KEYCODE_MENU
+[1629490700546] Sleep for 0 ms
+[1629490700546] Sleep for 144 ms
+[1629490700693] Sleep for 0 ms
+[1629490700693] :Send Key (ACTION_DOWN): 22    // KEYCODE_DPAD_RIGHT
+[1629490700696] :Send Key (ACTION_UP): 22    // KEYCODE_DPAD_RIGHT
+[1629490700697] Sleep for 0 ms
+[1629490700698] Sleep for 189 ms
+[1629490700888] Sleep for 0 ms
+[1629490700889] :Send Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+[1629490700891] :Send Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+[1629490700892] Sleep for 0 ms
+[1629490700892] Sleep for 172 ms
+[1629490701066] Sleep for 0 ms
+[1629490701066] :Sending Touch (ACTION_DOWN): 0:(716.0,909.0)
+[1629490701068] Waiting Event for 647 milliseconds
+[1629490701717] Sleep for 0 ms
+[1629490701718] :Sending Touch (ACTION_UP): 0:(716.0,909.0)
+[1629490701719] Sleep for 0 ms
+[1629490701719] Sleep for 152 ms
+[1629490701875] Sleep for 0 ms
+[1629490701876] :Sending Trackball (ACTION_MOVE): 0:(3.0,79.0)
+[1629490701878] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490701878] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490701879] :Sending Trackball (ACTION_MOVE): 0:(-1.0,79.0)
+[1629490701880] :Sending Trackball (ACTION_MOVE): 0:(0.0,79.0)
+[1629490701881] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490701882] :Sending Trackball (ACTION_MOVE): 0:(-3.0,79.0)
+[1629490701883] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490701883] :Sending Trackball (ACTION_MOVE): 0:(-4.0,79.0)
+[1629490701884] :Sending Trackball (ACTION_MOVE): 0:(4.0,79.0)
+[1629490701886] Sleep for 261 ms
+[1629490702148] Events injected : 1125
+[1629490702148] // Monkey is over!
+[1629490702149] :Sending rotation degree : 0, persist : false
+[1629490702211] Total app activities:
+[1629490702211]    1 ru.yanus171.feedexfork.activity.MessageBox
+[1629490702211]    2 ru.yanus171.feedexfork.activity.HomeActivity
+[1629490702211]    3 ru.yanus171.feedexfork.activity.LabelListActivity
+[1629490702211]    4 ru.yanus171.feedexfork.activity.LoadLinkActivity
+[1629490702211]    5 ru.yanus171.feedexfork.activity.AddGoogleNewsActivity
+[1629490702212]    6 ru.yanus171.feedexfork.activity.EntryActivity
+[1629490702212]    7 ru.yanus171.feedexfork.activity.EditFeedsListActivity
+[1629490702212]    8 ru.yanus171.feedexfork.activity.EditFeedActivity
+[1629490702212]    9 ru.yanus171.feedexfork.activity.AboutActivity
+[1629490702212]   10 ru.yanus171.feedexfork.widget.WidgetConfigActivity
+[1629490702212]   11 ru.yanus171.feedexfork.activity.SendErrorActivity
+[1629490702212]   12 ru.yanus171.feedexfork.activity.GeneralPrefsActivity
+[1629490702212]   13 ru.yanus171.feedexfork.activity.LoadLinkLaterActivity
+[1629490702212] Explored app activities:
+[1629490702212]    1 ru.yanus171.feedexfork.activity.HomeActivity
+[1629490702212] Acitity of Coverage: 7.692308%
+[1629490702212] Activity of Times:
+:Dropped : keys=0 pointers=8 trackballs=0 flips=0 rotations=0
+[1629490702252] // Monkey finished

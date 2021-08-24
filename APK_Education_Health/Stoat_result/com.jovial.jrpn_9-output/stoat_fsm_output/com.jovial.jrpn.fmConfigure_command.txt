@@ -1,0 +1,13 @@
+    4645@edit(resource-id='com.jovial.jrpn:id/prog_mem'):android.widget.EditText@"30"
+    4547@click(resource-id='com.jovial.jrpn:id/sync_conv'):android.widget.CheckBox@""
+    4634@edit(resource-id='com.jovial.jrpn:id/sleep_delay'):android.widget.EditText@"1200"
+    4562@edit(resource-id='com.jovial.jrpn:id/num_reg'):android.widget.EditText@"12"
+    4550@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Auto"
+    4551@clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Auto"
+    4599@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"European"
+    4600@clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"European"
+    4554@click(className='android.widget.Button',instance='0'):android.widget.Button@"Save"
+    4555@click(className='android.widget.Button',instance='1'):android.widget.Button@"Close"
+    4556@back
+    4557@scroll(direction='down')
+    4558@scroll(direction='up')

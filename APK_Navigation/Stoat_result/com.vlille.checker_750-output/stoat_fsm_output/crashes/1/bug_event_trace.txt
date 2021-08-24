@@ -1,0 +1,193 @@
+menu@
+click(className='android.widget.TextView',instance='2')@About
+clickLong(className='android.widget.TextView',instance='6')@- github/ojacquemart
+keyevent_back@
+click(content-desc='Navigate up')@
+click(className='android.widget.ImageView',instance='2')@
+click(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(className='android.widget.ImageView',instance='3')@
+click(className='android.widget.ImageView',instance='4')@
+clickLong(resource-id='com.vlille.checker:id/main_menu_refresh')@
+back@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Update stations list
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Update done!
+menu@
+click(className='android.widget.TextView',instance='0')@Settings
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='7')@Use GPS to locate your position
+click(className='android.widget.TextView',instance='11')@0 stations
+click(className='android.widget.TextView',instance='2')@Id
+click(className='android.widget.TextView',instance='9')@Within 500m
+back@
+click(className='android.widget.TextView',instance='8')@Stations around me
+click(className='android.widget.Button',instance='1')@Ok
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='3')@Address
+click(className='android.widget.TextView',instance='6')@GPS provider
+click(className='android.widget.TextView',instance='4')@Update time
+click(content-desc='Navigate up')@
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+click(className='android.widget.TextView',instance='2')@No location available
+click(className='android.widget.ImageView',instance='2')@
+click(resource-id='com.vlille.checker:id/list_search_field_clear')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@test
+edit(resource-id='com.vlille.checker:id/list_search_field')@12st
+click(resource-id='com.vlille.checker:id/main_menu_refresh')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@test
+click(className='android.widget.TextView',instance='2')@Initialization error. Retry with the refresh button
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@Initialization error. Retry with the refresh button
+click(className='android.widget.ImageView',instance='4')@
+clickLong(content-desc='More options')@
+clickLong(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@About
+click(className='android.widget.TextView',instance='5')@- twitter/ojacquemart
+keyevent_back@
+click(className='android.widget.TextView',instance='6')@- github/ojacquemart
+keyevent_back@
+back@
+menu@
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='9')@Within 500m
+click(className='android.widget.Button',instance='0')@Cancel
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='14')@4.5.0
+click(content-desc='Navigate up')@
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+click(className='android.widget.ImageView',instance='4')@
+click(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(className='android.widget.TextView',instance='2')@Initialization error. Retry with the refresh button
+clickLong(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(className='android.widget.ImageView',instance='2')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@12
+edit(resource-id='com.vlille.checker:id/list_search_field')@1test
+edit(resource-id='com.vlille.checker:id/list_search_field')@12est
+edit(resource-id='com.vlille.checker:id/list_search_field')@testt
+click(resource-id='com.vlille.checker:id/list_search_field_clear')@
+click(className='android.widget.TextView',instance='2')@No result
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@Initialization error. Retry with the refresh button
+menu@
+click(className='android.widget.TextView',instance='1')@Update stations list
+click(className='android.widget.TextView',instance='3')@Update done!
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@About
+clickLong(className='android.widget.TextView',instance='5')@- twitter/ojacquemart
+keyevent_back@
+click(className='android.widget.TextView',instance='5')@- twitter/ojacquemart
+keyevent_back@
+back@
+clickLong(content-desc='More options')@
+menu@
+click(className='android.widget.TextView',instance='1')@Update stations list
+click(className='android.widget.TextView',instance='3')@Update done!
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+clickLong(content-desc='More options')@
+clickLong(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Settings
+back@
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+click(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(className='android.widget.TextView',instance='2')@Initialization error. Retry with the refresh button
+click(className='android.widget.ImageView',instance='2')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@test
+edit(resource-id='com.vlille.checker:id/list_search_field')@12st
+click(resource-id='com.vlille.checker:id/list_search_field_clear')@
+click(className='android.widget.TextView',instance='2')@No result
+click(className='android.widget.ImageView',instance='4')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='3')@Initialization error. Retry with the refresh button
+menu@
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='8')@Stations around me
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='7')@Use GPS to locate your position
+click(className='android.widget.TextView',instance='2')@Id
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='4')@Update time
+click(className='android.widget.TextView',instance='3')@Address
+click(className='android.widget.TextView',instance='11')@0 stations
+click(className='android.widget.TextView',instance='6')@GPS provider
+scroll(direction='up')@
+back@
+click(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Update stations list
+click(className='android.widget.TextView',instance='3')@Initialization error. Retry with the refresh button
+click(className='android.widget.TextView',instance='3')@Update done!
+clickLong(resource-id='com.vlille.checker:id/main_menu_refresh')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.TextView',instance='2')@Initialization error. Retry with the refresh button
+click(resource-id='com.vlille.checker:id/list_search_field_clear')@
+menu@
+click(className='android.widget.TextView',instance='2')@About
+clickLong(className='android.widget.TextView',instance='6')@- github/ojacquemart
+keyevent_back@
+click(content-desc='Navigate up')@
+click(className='android.widget.ImageView',instance='4')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@test
+clickLong(content-desc='More options')@
+back@
+keyevent_back@
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+menu@
+click(className='android.widget.TextView',instance='1')@Update stations list
+click(className='android.widget.TextView',instance='2')@Update done!
+click(resource-id='com.vlille.checker:id/maps_location_enable')@
+click(className='android.widget.ImageView',instance='2')@
+click(resource-id='com.vlille.checker:id/list_search_field_clear')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@12
+edit(resource-id='com.vlille.checker:id/list_search_field')@12
+edit(resource-id='com.vlille.checker:id/list_search_field')@1test
+edit(resource-id='com.vlille.checker:id/list_search_field')@testt
+edit(resource-id='com.vlille.checker:id/list_search_field')@testt
+edit(resource-id='com.vlille.checker:id/list_search_field')@12stt
+edit(resource-id='com.vlille.checker:id/list_search_field')@12stt
+edit(resource-id='com.vlille.checker:id/list_search_field')@12stt
+edit(resource-id='com.vlille.checker:id/list_search_field')@testt
+edit(resource-id='com.vlille.checker:id/list_search_field')@12stt
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@About
+clickLong(className='android.widget.TextView',instance='5')@- twitter/ojacquemart
+keyevent_back@
+click(className='android.widget.TextView',instance='6')@- github/ojacquemart
+keyevent_back@
+click(className='android.widget.TextView',instance='6')@- github/ojacquemart
+keyevent_back@
+click(className='android.widget.TextView',instance='5')@- twitter/ojacquemart
+keyevent_back@
+click(content-desc='Navigate up')@
+edit(resource-id='com.vlille.checker:id/list_search_field')@12stt
+edit(resource-id='com.vlille.checker:id/list_search_field')@testt
+click(className='android.widget.ImageView',instance='3')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Settings
+click(className='android.widget.TextView',instance='8')@Stations around me
+click(className='android.widget.Button',instance='1')@Ok
+click(className='android.widget.TextView',instance='2')@Id
+click(className='android.widget.TextView',instance='4')@Update time
+click(className='android.widget.TextView',instance='7')@Use GPS to locate your position
+click(className='android.widget.TextView',instance='3')@Address
+click(className='android.widget.TextView',instance='9')@Within 500m
+click(className='android.widget.Button',instance='1')@Ok
+click(content-desc='Navigate up')@
+back@
+keyevent_back@

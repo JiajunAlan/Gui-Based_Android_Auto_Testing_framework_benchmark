@@ -1,0 +1,77 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/SQLiteDatabase( 8868): Failed to open database '//data//data//com.allansimon.verbisteandroid//databases//conjugation.db'.
+E/SQLiteDatabase( 8868): android.database.sqlite.SQLiteCantOpenDatabaseException: unknown error (code 14): Could not open database
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnection.nativeOpen(Native Method)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:209)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:804)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:789)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+E/SQLiteDatabase( 8868): 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:669)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.ExternalDbOpenHelper.checkDataBase(ExternalDbOpenHelper.java:59)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.ExternalDbOpenHelper.createDataBase(ExternalDbOpenHelper.java:40)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.ExternalDbOpenHelper.openDataBase(ExternalDbOpenHelper.java:101)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.ExternalDbOpenHelper.<init>(ExternalDbOpenHelper.java:35)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.DisplayConjugationActivity.getConjugationsOf(DisplayConjugationActivity.java:273)
+E/SQLiteDatabase( 8868): 	at com.allansimon.verbisteandroid.DisplayConjugationActivity.onCreate(DisplayConjugationActivity.java:71)
+E/SQLiteDatabase( 8868): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/SQLiteDatabase( 8868): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/SQLiteDatabase( 8868): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/SQLiteDatabase( 8868): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/SQLiteDatabase( 8868): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/SQLiteDatabase( 8868): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/SQLiteDatabase( 8868): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/SQLiteDatabase( 8868): 	at android.os.Looper.loop(Looper.java:136)
+E/SQLiteDatabase( 8868): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/SQLiteDatabase( 8868): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/SQLiteDatabase( 8868): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/SQLiteDatabase( 8868): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/SQLiteDatabase( 8868): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/SQLiteDatabase( 8868): 	at dalvik.system.NativeStart.main(Native Method)
+***********
+package name: com.allansimon.verbisteandroid
+app code version: 1.2
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 7102403 Realtime: 7102403
+
+** MEMINFO in pid 8868 [com.allansimon.verbisteandroid] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4045     3992        0        0     8864     8069      402
+  Dalvik Heap     3473     3256        0        0     5772     5695       77
+ Dalvik Other     1330     1136        0        0                           
+        Stack       96       96        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1350      532       32        0                           
+    .apk mmap      132        0       24        0                           
+    .ttf mmap        3        0        0        0                           
+    .dex mmap     1541       40     1104        0                           
+   Other mmap       15        4        0        0                           
+      Unknown       64       64        0        0                           
+        TOTAL    12053     9120     1164        0    14636    13764      479
+ 
+ Objects
+               Views:       35         ViewRootImpl:        2
+         AppContexts:        4           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       11        Proxy Binders:       20
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      387
+  PAGECACHE_OVERFLOW:      236          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4    28244             29         2/13/2  //data//data//com.allansimon.verbisteandroid//databases//conjugation.db
+         4    28244             21         0/25/3  /data/data/com.allansimon.verbisteandroid/databases/conjugation.db
+***********

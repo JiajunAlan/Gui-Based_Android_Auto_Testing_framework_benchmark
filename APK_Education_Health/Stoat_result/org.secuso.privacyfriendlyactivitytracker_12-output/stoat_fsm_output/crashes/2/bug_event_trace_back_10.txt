@@ -1,0 +1,10 @@
+click(className='android.widget.CheckedTextView',instance='5')@lower
+click(content-desc='Navigate up')@
+click(resource-id='android:id/icon')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='10')@10000
+edit(resource-id='android:id/edit')@10000
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

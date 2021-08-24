@@ -1,0 +1,225 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626389268797 count=1000
+:AllowPackage: com.limelight
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Touch (ACTION_DOWN): 0:(363.0,124.0)
+:Sending Touch (ACTION_UP): 0:(363.936,131.43045)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(230.0,79.0)
+:Sending Touch (ACTION_UP): 0:(230.39128,79.53423)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    // Allowing start of Intent { cmp=com.limelight/.preferences.StreamSettings } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(625.0,855.0)
+:Sending Touch (ACTION_UP): 0:(634.2624,856.7617)
+:Sending Touch (ACTION_DOWN): 0:(511.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(613.01056,1523.14)
+:Sending Touch (ACTION_DOWN): 0:(56.0,803.0)
+:Sending Touch (ACTION_UP): 0:(136.39763,684.1964)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2021-08-04 00:44:11.117  system_uptime:7663359]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(778.0,1576.0)
+:Sending Touch (ACTION_UP): 0:(758.1331,1574.0585)
+:Sending Touch (ACTION_DOWN): 0:(57.0,280.0)
+:Sending Touch (ACTION_UP): 0:(56.871037,258.58484)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(348.58057,1658.811)
+:Sending Touch (ACTION_DOWN): 0:(7.0,88.0)
+:Sending Touch (ACTION_UP): 0:(9.64307,86.023506)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(259.0,759.0)
+:Sending Touch (ACTION_UP): 0:(261.064,756.5927)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2021-08-04 00:44:22.854  system_uptime:7675077]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1752.0)
+:Sending Touch (ACTION_UP): 0:(1048.1437,1750.9298)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,123.0)
+:Sending Touch (ACTION_UP): 0:(1019.15967,104.35579)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1410.0)
+:Sending Touch (ACTION_UP): 0:(841.919,1452.9486)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2021-08-04 00:44:32.169  system_uptime:7684392]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(586.0,1339.0)
+:Sending Touch (ACTION_UP): 0:(587.22754,1329.7786)
+:Sending Touch (ACTION_DOWN): 0:(85.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(67.61414,1398.0037)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(279.34277,1136.9077)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(759.0,408.0)
+:Sending Touch (ACTION_UP): 0:(747.2681,412.47296)
+:Sending Touch (ACTION_DOWN): 0:(555.0,787.0)
+:Sending Touch (ACTION_UP): 0:(545.65106,794.37933)
+:Sending Touch (ACTION_DOWN): 0:(480.0,595.0)
+:Sending Touch (ACTION_UP): 0:(462.7663,617.0816)
+:Sending Touch (ACTION_DOWN): 0:(549.0,378.0)
+:Sending Touch (ACTION_UP): 0:(551.11664,388.56702)
+    //[calendar_time:2021-08-04 00:44:40.864  system_uptime:7693088]
+    // Sending event #400
+    //[calendar_time:2021-08-04 00:44:41.367  system_uptime:7693590]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(990.8664,1778.3484)
+:Sending Touch (ACTION_DOWN): 0:(915.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(916.3543,1533.0044)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(406.0,417.0)
+:Sending Touch (ACTION_UP): 0:(353.53284,381.8824)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(313.03354,1003.8593)
+:Sending Touch (ACTION_DOWN): 0:(989.0,597.0)
+:Sending Touch (ACTION_UP): 0:(1035.9209,505.77457)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    // activityResuming(com.limelight)
+:Sending Touch (ACTION_DOWN): 0:(523.0,163.0)
+:Sending Touch (ACTION_UP): 0:(522.8956,173.2782)
+    //[calendar_time:2021-08-04 00:44:53.550  system_uptime:7705774]
+    // Sending event #500
+    //[calendar_time:2021-08-04 00:44:54.054  system_uptime:7706278]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(526.0,917.0)
+:Sending Touch (ACTION_UP): 0:(470.7553,965.5851)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    // Allowing start of Intent { cmp=com.limelight/.preferences.StreamSettings } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(583.0,1490.0)
+:Sending Touch (ACTION_UP): 0:(580.6207,1483.7638)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(4.0,975.0)
+:Sending Touch (ACTION_UP): 0:(0.0,974.3821)
+:Sending Touch (ACTION_DOWN): 0:(350.0,193.0)
+:Sending Touch (ACTION_UP): 0:(343.71237,191.74985)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-08-04 00:45:05.258  system_uptime:7717481]
+    // Sending event #600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,115.0)
+:Sending Touch (ACTION_UP): 0:(540.5539,164.71387)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(667.0,46.0)
+:Sending Touch (ACTION_UP): 0:(695.5453,27.244007)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2021-08-04 00:45:16.616  system_uptime:7728840]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(225.0,545.0)
+:Sending Touch (ACTION_UP): 0:(238.91933,544.6253)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,846.0)
+:Sending Touch (ACTION_UP): 0:(179.268,861.2349)
+:Sending Touch (ACTION_DOWN): 0:(286.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(333.201,1727.5717)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(797.8425,1661.7279)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(662.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(677.41156,1775.178)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    //[calendar_time:2021-08-04 00:45:22.302  system_uptime:7734526]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(51.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(66.49975,1791.5299)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(714.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(714.2003,1149.5533)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(796.0978,1441.6873)
+:Sending Touch (ACTION_DOWN): 0:(668.0,698.0)
+:Sending Touch (ACTION_UP): 0:(662.37506,696.67535)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,97.0)
+:Sending Touch (ACTION_UP): 0:(1063.9263,95.48579)
+:Sending Touch (ACTION_DOWN): 0:(59.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(190.72668,1394.5597)
+    //[calendar_time:2021-08-04 00:45:29.657  system_uptime:7741881]
+    // Sending event #900
+    //[calendar_time:2021-08-04 00:45:30.158  system_uptime:7742382]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(67.0,526.0)
+:Sending Touch (ACTION_UP): 0:(68.650665,536.2286)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.limelight/.PcView;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limelight/.PcView } in package com.limelight
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(231.0,223.0)
+:Sending Touch (ACTION_UP): 0:(229.8,212.1443)
+:Sending Touch (ACTION_DOWN): 0:(666.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(666.1889,1567.0984)
+:Sending Touch (ACTION_DOWN): 0:(213.0,992.0)
+:Sending Touch (ACTION_UP): 0:(194.23186,992.9199)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=101802ms (0ms mobile, 0ms wifi, 101802ms not connected)
+// Monkey finished

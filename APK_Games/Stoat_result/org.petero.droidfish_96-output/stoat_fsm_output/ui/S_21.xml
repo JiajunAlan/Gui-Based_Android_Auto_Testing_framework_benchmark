@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,749][1053,1111]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,749][1053,1111]">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,749][1053,1111]">
+        <node index="0" text="" resource-id="android:id/parentPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,749][1032,1111]">
+          <node index="0" text="" resource-id="android:id/topPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,749][1032,943]">
+            <node index="0" text="" resource-id="android:id/title_template" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,770][969,938]">
+              <node index="0" text="Select Action" resource-id="android:id/alertTitle" class="android.widget.TextView" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[111,815][969,893]" />
+            </node>
+            <node index="1" text="" resource-id="android:id/titleDivider" class="android.view.View" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,938][1011,943]" />
+          </node>
+          <node index="1" text="" resource-id="android:id/contentPanel" class="android.widget.LinearLayout" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[48,943][1032,1111]">
+            <node index="0" text="" resource-id="android:id/select_dialog_listview" class="android.widget.ListView" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,943][1011,1069]">
+              <node index="0" text="Load game from PGN file" resource-id="android:id/text1" class="android.widget.TextView" package="org.petero.droidfish" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,943][1011,1069]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

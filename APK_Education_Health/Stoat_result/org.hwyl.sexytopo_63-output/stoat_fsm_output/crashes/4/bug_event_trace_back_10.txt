@@ -1,0 +1,10 @@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='2')@Open Survey…
+click(className='android.widget.TextView',instance='2')@NewSurvey-1
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+click(resource-id='org.hwyl.sexytopo:id/buttonErase')@
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Pair

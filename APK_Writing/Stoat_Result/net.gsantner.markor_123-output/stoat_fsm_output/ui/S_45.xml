@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,66][1070,360]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,339]">
+      <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+        <node index="0" text="" resource-id="net.gsantner.markor:id/content" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,87][1049,213]">
+          <node index="0" text="" resource-id="net.gsantner.markor:id/icon" class="android.widget.ImageView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,118][618,181]" />
+          <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[640,121][1007,178]">
+            <node index="0" text="Import from device" resource-id="net.gsantner.markor:id/title" class="android.widget.TextView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[640,121][1007,178]" />
+          </node>
+        </node>
+      </node>
+      <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+        <node index="0" text="" resource-id="net.gsantner.markor:id/content" class="android.widget.LinearLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[534,213][1049,339]">
+          <node index="0" text="" resource-id="net.gsantner.markor:id/icon" class="android.widget.ImageView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,244][618,307]" />
+          <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[640,247][1007,304]">
+            <node index="0" text="Settings" resource-id="net.gsantner.markor:id/title" class="android.widget.TextView" package="net.gsantner.markor" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[640,247][1007,304]" />
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

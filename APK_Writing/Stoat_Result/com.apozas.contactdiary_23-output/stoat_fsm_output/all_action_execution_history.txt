@@ -1,0 +1,330 @@
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    14@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Import database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    9@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Show close contacts only"
+    8@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"21:00"
+    17@back
+    5@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    7@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Choose time"
+    69@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    11@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Follow system"
+    128@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    13@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Save the database in CSV format"
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    19@scroll(direction='up')
+    16@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Buy me a coffee"
+    20@keyevent_back
+    21@reset
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    10@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Theme"
+    127@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Dark"
+    6@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Daily reminder"
+    18@scroll(direction='down')
+    255@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Save the database in CSV format"
+    20@keyevent_back
+    21@reset
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    229@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Dark"
+    126@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Light"
+    12@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Export database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    15@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Load a saved database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    308@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Light"
+    125@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Follow system"
+    18@scroll(direction='down')
+    261@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Thanks"
+    460@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Japanese translation - ysakamoto_ and mamarama9904"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    18@scroll(direction='down')
+    261@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Thanks"
+    452@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"German translation - GenosseFlosse, FloEdelmann, jensMF, leso-kn and mkamp"
+    576@click(resource-id='com.android.browser:id/more'):android.widget.ImageButton@""
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    8@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"21:00"
+    7@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Choose time"
+    18@scroll(direction='down')
+    257@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Load a saved database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    16@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Buy me a coffee"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    20@keyevent_back
+    21@reset
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    19@scroll(direction='up')
+    10@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Theme"
+    126@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Light"
+    14@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Import database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    6@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Daily reminder"
+    13@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Save the database in CSV format"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    9@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Show close contacts only"
+    17@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    308@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Light"
+    127@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Dark"
+    12@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Export database"
+    20@keyevent_back
+    21@reset
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    15@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Load a saved database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    229@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Dark"
+    128@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    5@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    18@scroll(direction='down')
+    259@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Contact the developer"
+    20@keyevent_back
+    264@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"1.4.6"
+    256@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Import database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    8@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"21:00"
+    68@edit(resource-id='android:id/edit'):android.widget.EditText@"21:00"
+    70@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    1155@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"12:00"
+    1148@edit(resource-id='android:id/edit'):android.widget.EditText@"12:00"
+    1171@edit(resource-id='android:id/edit'):android.widget.EditText@"0"
+    1175@edit(resource-id='android:id/edit'):android.widget.EditText@""
+    70@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    1155@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"12:00"
+    1148@edit(resource-id='android:id/edit'):android.widget.EditText@"12:00"
+    69@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    18@scroll(direction='down')
+    254@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Export database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    17@back
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    16@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Buy me a coffee"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    10@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Theme"
+    125@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Follow system"
+    11@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Follow system"
+    126@click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Light"
+    15@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Load a saved database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    7@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Choose time"
+    68@edit(resource-id='android:id/edit'):android.widget.EditText@"21:00"
+    1171@edit(resource-id='android:id/edit'):android.widget.EditText@"0"
+    1424@edit(resource-id='android:id/edit'):android.widget.EditText@"12"
+    1424@edit(resource-id='android:id/edit'):android.widget.EditText@"12"
+    69@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    308@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Light"
+    125@click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Follow system"
+    11@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Follow system"
+    128@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+    13@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"Save the database in CSV format"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    19@scroll(direction='up')
+    14@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Import database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    6@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Daily reminder"
+    9@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Show close contacts only"
+    5@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    12@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Export database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    18@scroll(direction='down')
+    260@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Tell me what you think about the app, or problems you have encountered"
+    20@keyevent_back
+    258@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Buy me a coffee"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    14@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Import database"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    15@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Load a saved database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    19@scroll(direction='up')
+    7@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Choose time"
+    16@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Buy me a coffee"
+    20@keyevent_back
+    21@reset
+    4@back
+    20@keyevent_back
+    21@reset
+    3@menu
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    12@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Export database"
+    20@keyevent_back
+    21@reset
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    4@back
+    3@menu
+    2@click(resource-id='com.apozas.contactdiary:id/fab'):android.widget.ImageButton@""
+    1@click(content-desc='Options'):android.widget.ImageButton@""
+    11@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Follow system"
+    127@click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Dark"

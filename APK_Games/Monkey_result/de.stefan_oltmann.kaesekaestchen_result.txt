@@ -1,0 +1,1432 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626390849839 count=1000
+:AllowPackage: de.stefan_oltmann.kaesekaestchen
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18650)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18664)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18679)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(729.0,345.0)
+:Sending Touch (ACTION_UP): 0:(743.2669,324.03076)
+:Sending Touch (ACTION_DOWN): 0:(764.0,192.0)
+:Sending Touch (ACTION_UP): 0:(764.98645,191.01125)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(871.0,823.0)
+:Sending Touch (ACTION_UP): 0:(868.92773,831.78937)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(384.0,991.0)
+:Sending Touch (ACTION_UP): 0:(374.68155,1019.31537)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18708)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18722)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18738)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(172.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(166.63455,1499.8308)
+:Sending Touch (ACTION_DOWN): 0:(731.0,269.0)
+:Sending Touch (ACTION_UP): 0:(731.15607,303.88928)
+:Sending Touch (ACTION_DOWN): 0:(433.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(478.62964,1650.8934)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18772)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18786)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18801)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(242.0,1669.0)
+    //[calendar_time:2021-08-04 01:19:05.820  system_uptime:9758064]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(260.20084,1611.0153)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(634.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(625.7703,1682.3915)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.ConversationList } in package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18839)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18853)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 18869)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(207.0,952.0)
+:Sending Touch (ACTION_UP): 0:(208.06802,961.75946)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(150.49155,1063.8843)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(327.0,464.0)
+:Sending Touch (ACTION_UP): 0:(275.38528,515.15955)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-04 01:19:14.638  system_uptime:9766861]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(274.0,1758.0)
+:Sending Touch (ACTION_UP): 0:(281.6143,1771.7881)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(651.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(654.4782,1753.3374)
+:Sending Touch (ACTION_DOWN): 0:(769.0,29.0)
+:Sending Touch (ACTION_UP): 0:(712.82263,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(559.0,292.0)
+:Sending Touch (ACTION_UP): 0:(553.7202,291.36905)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(72.0,233.0)
+:Sending Touch (ACTION_UP): 0:(25.918667,194.16724)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1781.0)
+:Sending Touch (ACTION_UP): 0:(81.19236,1784.5066)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(795.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(793.7006,1159.6631)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(341.0473,1036.7994)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(529.0,885.0)
+:Sending Touch (ACTION_UP): 0:(513.6732,884.2072)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2021-08-04 01:19:28.916  system_uptime:9781139]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(800.0,585.0)
+:Sending Touch (ACTION_UP): 0:(891.0465,599.5495)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(152.91273,1108.4098)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,991.0)
+:Sending Touch (ACTION_UP): 0:(1072.3733,995.89624)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2021-08-04 01:19:40.173  system_uptime:9792396]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(116.79271,1630.8597)
+:Sending Touch (ACTION_DOWN): 0:(465.0,210.0)
+:Sending Touch (ACTION_UP): 0:(428.30624,168.8989)
+:Sending Touch (ACTION_DOWN): 0:(370.0,8.0)
+:Sending Touch (ACTION_UP): 0:(371.40836,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(409.0,1297.0)
+:Sending Touch (ACTION_UP): 0:(393.25424,1298.5459)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1042.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(1040.3506,1152.3094)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity } in package com.google.android.play.games
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(410.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(515.4114,1755.3765)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2021-08-04 01:19:49.377  system_uptime:9801600]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,612.0)
+:Sending Touch (ACTION_UP): 0:(598.4829,605.38055)
+:Sending Touch (ACTION_DOWN): 0:(309.0,471.0)
+:Sending Touch (ACTION_UP): 0:(311.6692,471.84976)
+:Sending Touch (ACTION_DOWN): 0:(707.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(694.93225,1050.402)
+:Sending Touch (ACTION_DOWN): 0:(593.0,703.0)
+:Sending Touch (ACTION_UP): 0:(675.6773,708.8141)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(304.17044,1361.164)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,226.0)
+:Sending Touch (ACTION_UP): 0:(1002.4137,227.58664)
+:Sending Touch (ACTION_DOWN): 0:(8.0,980.0)
+:Sending Touch (ACTION_UP): 0:(3.4817572,983.5607)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(136.22714,1461.3046)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(957.0,601.0)
+:Sending Touch (ACTION_UP): 0:(923.184,608.06494)
+    //[calendar_time:2021-08-04 01:19:59.076  system_uptime:9811299]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(1057.9325,1568.7369)
+:Sending Touch (ACTION_DOWN): 0:(604.0,69.0)
+:Sending Touch (ACTION_UP): 0:(647.7159,34.49781)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(132.22095,1408.4207)
+:Sending Touch (ACTION_DOWN): 0:(882.0,1534.0)
+:Sending Touch (ACTION_UP): 0:(899.5983,1533.7316)
+:Sending Touch (ACTION_DOWN): 0:(273.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(260.53012,1043.4955)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(181.0,544.0)
+:Sending Touch (ACTION_UP): 0:(240.95164,647.29755)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19040)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19055)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19071)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(738.0,753.0)
+:Sending Touch (ACTION_UP): 0:(719.45215,743.4358)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gms/.app.settings.GoogleSettingsActivity } in package com.google.android.gms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19096)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19110)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19125)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+:Sending Touch (ACTION_DOWN): 0:(611.0,972.0)
+    //[calendar_time:2021-08-04 01:20:12.771  system_uptime:9824995]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(695.61584,893.0765)
+:Sending Touch (ACTION_DOWN): 0:(492.0,294.0)
+:Sending Touch (ACTION_UP): 0:(499.42703,260.51468)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(1055.0,777.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,778.2155)
+:Sending Touch (ACTION_DOWN): 0:(916.0,1.0)
+:Sending Touch (ACTION_UP): 0:(917.79535,0.0)
+:Sending Touch (ACTION_DOWN): 0:(146.0,840.0)
+:Sending Touch (ACTION_UP): 0:(191.68095,917.6464)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(678.0,888.0)
+:Sending Touch (ACTION_UP): 0:(682.38666,869.17847)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(501.0,555.0)
+:Sending Touch (ACTION_UP): 0:(517.9562,556.7019)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19160)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19174)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19192)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(404.0,780.0)
+:Sending Touch (ACTION_UP): 0:(418.29044,790.5172)
+:Sending Touch (ACTION_DOWN): 0:(558.0,85.0)
+    //[calendar_time:2021-08-04 01:20:24.529  system_uptime:9836753]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(639.169,62.844444)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(462.0,282.0)
+:Sending Touch (ACTION_UP): 0:(461.78848,294.20358)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(658.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(642.99786,1472.6606)
+:Sending Touch (ACTION_DOWN): 0:(161.0,873.0)
+:Sending Touch (ACTION_UP): 0:(157.53076,874.6378)
+:Sending Touch (ACTION_DOWN): 0:(284.0,745.0)
+:Sending Touch (ACTION_UP): 0:(163.2324,779.98755)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-04 01:20:30.666  system_uptime:9842889]
+    // Sending event #900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.stefan_oltmann.kaesekaestchen/.ui.activities.SplashScreenActivity } in package de.stefan_oltmann.kaesekaestchen
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19241)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19256)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+// CRASH: de.stefan_oltmann.kaesekaestchen (pid 19272)
+// Short Msg: org.xmlpull.v1.XmlPullParserException
+// Long Msg: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.stefan_oltmann.kaesekaestchen/de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity}: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+// 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/splash_screen_background.xml from drawable resource ID #0x7f070096
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at h.h.c.a.b()
+// 	at h.b.h.n0.g(:3)
+// 	at h.b.h.x0.h(:1)
+// 	at h.b.c.k.C()
+// 	at h.b.c.k.L()
+// 	at h.b.c.k.l()
+// 	at h.b.c.h.onCreate()
+// 	at de.stefan_oltmann.kaesekaestchen.ui.activities.SplashScreenActivity.onCreate()
+// 	at android.app.Activity.performCreate(Activity.java:5231)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+// 	... 11 more
+// Caused by: android.content.res.Resources$NotFoundException: File res/drawable/ic_icon.xml from drawable resource ID #0x7f07006e
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2101)
+// 	at android.content.res.Resources.getDrawable(Resources.java:700)
+// 	at android.graphics.drawable.LayerDrawable.inflate(LayerDrawable.java:159)
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:937)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 23 more
+// Caused by: org.xmlpull.v1.XmlPullParserException: Binary XML file line #1: invalid drawable tag vector
+// 	at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:933)
+// 	at android.graphics.drawable.Drawable.createFromXml(Drawable.java:877)
+// 	at android.content.res.Resources.loadDrawable(Resources.java:2097)
+// 	... 28 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(358.0,1639.0)
+:Sending Touch (ACTION_UP): 0:(353.1545,1641.9502)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(951.0,966.0)
+:Sending Touch (ACTION_UP): 0:(967.9926,980.03796)
+:Sending Touch (ACTION_DOWN): 0:(300.0,591.0)
+:Sending Touch (ACTION_UP): 0:(288.077,591.7208)
+:Sending Touch (ACTION_DOWN): 0:(389.0,542.0)
+:Sending Touch (ACTION_UP): 0:(403.6396,542.04694)
+:Sending Touch (ACTION_DOWN): 0:(51.0,81.0)
+:Sending Touch (ACTION_UP): 0:(68.38594,93.90069)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(404.0,1616.0)
+:Sending Touch (ACTION_UP): 0:(404.35983,1607.2479)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(634.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(654.09454,1711.1207)
+:Sending Touch (ACTION_DOWN): 0:(673.0,541.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=111321ms (0ms mobile, 0ms wifi, 111321ms not connected)
+// Monkey finished

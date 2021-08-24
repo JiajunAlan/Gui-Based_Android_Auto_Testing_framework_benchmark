@@ -1,0 +1,17 @@
+    2@clickLong(resource-id='org.traffxml.roadeagle:id/action_connect_sources'):android.widget.TextView@""
+    4@menu
+    11@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    3@click(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    1@click(resource-id='org.traffxml.roadeagle:id/action_connect_sources'):android.widget.TextView@""
+    202@click(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources'):android.widget.TextView@""
+    4@menu
+    11@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    1@click(resource-id='org.traffxml.roadeagle:id/action_connect_sources'):android.widget.TextView@""
+    203@clickLong(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources'):android.widget.TextView@""
+    202@click(resource-id='org.traffxml.roadeagle:id/action_disconnect_sources'):android.widget.TextView@""
+    5@back
+    2@clickLong(resource-id='org.traffxml.roadeagle:id/action_connect_sources'):android.widget.TextView@""
+    3@click(content-desc='More options'):android.widget.ImageView@""
+    11@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"
+    1530@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"

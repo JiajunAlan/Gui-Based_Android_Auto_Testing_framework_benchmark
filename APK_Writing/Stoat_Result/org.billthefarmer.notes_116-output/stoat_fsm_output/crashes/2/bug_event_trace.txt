@@ -1,0 +1,125 @@
+menu@
+click(className='android.widget.TextView',instance='0')@Search…
+edit(resource-id='android:id/search_src_text')@ 
+click(resource-id='android:id/up')@
+menu@
+click(className='android.widget.TextView',instance='9')@Settings
+click(resource-id='android:id/up')@
+click(className='android.widget.TextView',instance='0')@default.prop
+scroll(direction='up')@
+clickLong(resource-id='org.billthefarmer.notes:id/edit')@
+click(resource-id='org.billthefarmer.notes:id/newNote')@
+click(resource-id='android:id/home')@
+clickLong(resource-id='org.billthefarmer.notes:id/openNote')@
+clickLong(resource-id='org.billthefarmer.notes:id/newNote')@
+click(className='android.widget.TextView',instance='0')@Untitled.md
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='0')@Notes.md
+click(resource-id='org.billthefarmer.notes:id/edit')@
+click(resource-id='org.billthefarmer.notes:id/accept')@
+click(className='android.widget.TextView',instance='0')@Notes.md
+click(resource-id='org.billthefarmer.notes:id/edit')@
+edit(resource-id='org.billthefarmer.notes:id/text')@12st
+clickLong(resource-id='org.billthefarmer.notes:id/saveNote')@
+edit(resource-id='org.billthefarmer.notes:id/text')@test
+clickLong(resource-id='org.billthefarmer.notes:id/saveNote')@
+clickLong(resource-id='org.billthefarmer.notes:id/accept')@
+edit(resource-id='org.billthefarmer.notes:id/text')@12st
+click(resource-id='org.billthefarmer.notes:id/saveNote')@
+click(resource-id='org.billthefarmer.notes:id/openNote')@
+click(className='android.widget.Button',instance='0')@/
+click(className='android.widget.TextView',instance='4')@d
+click(className='android.widget.Button',instance='3')@Storage
+keyevent_back@
+click(resource-id='org.billthefarmer.notes:id/edit')@
+click(resource-id='org.billthefarmer.notes:id/accept')@
+scroll(direction='down')@
+menu@
+click(className='android.widget.TextView',instance='6')@Edit styles…
+click(resource-id='android:id/up')@
+menu@
+click(className='android.widget.TextView',instance='1')@Save as
+edit(resource-id='org.billthefarmer.notes:id/path_text')@Notes/Notes.md
+click(className='android.widget.Button',instance='2')@Save
+click(className='android.widget.TextView',instance='0')@Notes.md
+menu@
+click(className='android.widget.TextView',instance='0')@Search…
+clickLong(resource-id='org.billthefarmer.notes:id/edit')@
+scroll(direction='down')@
+scroll(direction='up')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='8')@Edit styles…
+click(className='android.widget.TextView',instance='0')@styles.css
+click(resource-id='org.billthefarmer.notes:id/openNote')@
+click(className='android.widget.Button',instance='3')@tests
+click(className='android.widget.TextView',instance='0')@sdcard
+click(className='android.widget.TextView',instance='5')@4.vcf
+clickLong(resource-id='org.billthefarmer.notes:id/edit')@
+click(className='android.widget.TextView',instance='0')@4.vcf
+click(className='android.widget.TextView',instance='0')@4.vcf
+menu@
+click(className='android.widget.TextView',instance='2')@Open recent
+click(className='android.widget.TextView',instance='8')@/init.goldfish.rc
+menu@
+click(className='android.widget.Button',instance='0')@OK
+click(className='android.widget.TextView',instance='0')@init.goldfish.rc
+click(resource-id='org.billthefarmer.notes:id/openNote')@
+click(className='android.widget.TextView',instance='9')@file_contexts
+click(className='android.widget.TextView',instance='0')@file_contexts
+click(className='android.widget.TextView',instance='0')@file_contexts
+menu@
+click(className='android.widget.TextView',instance='2')@Open recent
+click(className='android.widget.TextView',instance='2')@5.vcf
+click(className='android.widget.TextView',instance='0')@5.vcf
+menu@
+click(className='android.widget.TextView',instance='2')@Open recent
+click(className='android.widget.TextView',instance='10')@Clear list
+menu@
+click(className='android.widget.TextView',instance='2')@Open recent
+click(className='android.widget.TextView',instance='0')@Clear list
+click(className='android.widget.TextView',instance='0')@5.vcf
+click(resource-id='org.billthefarmer.notes:id/newNote')@
+clickLong(resource-id='org.billthefarmer.notes:id/openNote')@
+click(resource-id='android:id/home')@
+back@
+keyevent_back@
+clickLong(resource-id='org.billthefarmer.notes:id/edit')@
+click(className='android.widget.TextView',instance='0')@Notes.md
+clickLong(resource-id='org.billthefarmer.notes:id/newNote')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Open recent
+click(className='android.widget.TextView',instance='0')@Notes/Untitled.md
+scroll(direction='down')@
+scroll(direction='up')@
+click(resource-id='org.billthefarmer.notes:id/openNote')@
+click(className='android.widget.Button',instance='0')@/
+click(className='android.widget.TextView',instance='5')@data
+click(className='android.widget.TextView',instance='1')@sdcard
+click(className='android.widget.TextView',instance='8')@7.vcf
+click(className='android.widget.TextView',instance='0')@7.vcf
+click(className='android.widget.TextView',instance='0')@7.vcf
+menu@
+click(className='android.widget.TextView',instance='8')@Backup
+click(className='android.widget.TextView',instance='0')@7.vcf
+menu@
+click(className='android.widget.TextView',instance='3')@Share…
+keyevent_back@
+click(resource-id='org.billthefarmer.notes:id/edit')@
+click(className='android.widget.TextView',instance='0')@7.vcf
+clickLong(resource-id='org.billthefarmer.notes:id/saveNote')@
+clickLong(resource-id='org.billthefarmer.notes:id/accept')@
+click(resource-id='org.billthefarmer.notes:id/saveNote')@
+menu@
+click(className='android.widget.TextView',instance='8')@Edit script…
+click(resource-id='android:id/home')@
+click(resource-id='org.billthefarmer.notes:id/accept')@
+click(resource-id='org.billthefarmer.notes:id/edit')@
+menu@
+click(className='android.widget.TextView',instance='7')@Edit styles…
+edit(resource-id='org.billthefarmer.notes:id/text')@
+edit(resource-id='org.billthefarmer.notes:id/text')@12
+edit(resource-id='org.billthefarmer.notes:id/text')@1test
+edit(resource-id='org.billthefarmer.notes:id/text')@12est
+clickLong(resource-id='org.billthefarmer.notes:id/accept')@
+click(className='android.widget.TextView',instance='0')@styles.css

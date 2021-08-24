@@ -1,0 +1,10 @@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Input Mode
+click(className='android.widget.TextView',instance='0')@Input Mode
+click(className='android.widget.TextView',instance='1')@Forward
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomIn')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Pair

@@ -1,0 +1,5 @@
+    2679@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    2680@click(resource-id='com.wmstein.tourcount:id/menuSaveExit'):android.widget.TextView@""
+    2681@clickLong(resource-id='com.wmstein.tourcount:id/menuSaveExit'):android.widget.TextView@""
+    2682@edit(resource-id='com.wmstein.tourcount:id/sectionName'):android.widget.EditText@"Type notes here…"
+    2683@back

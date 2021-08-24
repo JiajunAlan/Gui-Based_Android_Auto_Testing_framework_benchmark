@@ -1,0 +1,270 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626406332269 count=1000
+:AllowPackage: org.billthefarmer.diary
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.billthefarmer.diary/.Diary;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.billthefarmer.diary/.Diary } in package org.billthefarmer.diary
+:Sending Touch (ACTION_DOWN): 0:(912.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(913.2957,1149.7544)
+:Sending Touch (ACTION_DOWN): 0:(953.0,43.0)
+:Sending Touch (ACTION_UP): 0:(969.01807,43.592762)
+:Sending Touch (ACTION_DOWN): 0:(804.0,1433.0)
+:Sending Touch (ACTION_UP): 0:(790.3855,1483.1324)
+:Sending Touch (ACTION_DOWN): 0:(593.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(597.0736,1483.4921)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(433.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(434.31967,1001.6151)
+:Sending Touch (ACTION_DOWN): 0:(677.0,591.0)
+:Sending Touch (ACTION_UP): 0:(680.36444,577.90564)
+:Sending Touch (ACTION_DOWN): 0:(982.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(976.4185,1755.6788)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(245.85732,1599.9736)
+:Sending Touch (ACTION_DOWN): 0:(473.0,262.0)
+:Sending Touch (ACTION_UP): 0:(468.0595,264.70706)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1448.0)
+:Sending Touch (ACTION_UP): 0:(45.315216,1440.6313)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(352.0,682.0)
+    //[calendar_time:2021-08-04 05:44:48.601  system_uptime:25700842]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(361.5656,731.82635)
+:Sending Touch (ACTION_DOWN): 0:(103.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(100.21102,1089.4124)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.billthefarmer.diary/.Diary;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.billthefarmer.diary/.Diary } in package org.billthefarmer.diary
+:Sending Touch (ACTION_DOWN): 0:(422.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(426.65048,1051.9702)
+:Sending Touch (ACTION_DOWN): 0:(370.0,167.0)
+:Sending Touch (ACTION_UP): 0:(410.72986,193.92645)
+:Sending Touch (ACTION_DOWN): 0:(238.0,341.0)
+:Sending Touch (ACTION_UP): 0:(249.61243,342.12308)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,304.0)
+:Sending Touch (ACTION_UP): 0:(1036.5963,365.42303)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(477.0,658.0)
+:Sending Touch (ACTION_UP): 0:(477.4772,646.0571)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(133.77667,1055.09)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(343.19196,1741.2932)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2021-08-04 05:44:59.237  system_uptime:25711461]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1394.0)
+:Sending Touch (ACTION_UP): 0:(471.57327,1395.538)
+:Sending Touch (ACTION_DOWN): 0:(349.0,717.0)
+:Sending Touch (ACTION_UP): 0:(395.5644,684.91565)
+:Sending Touch (ACTION_DOWN): 0:(158.0,247.0)
+:Sending Touch (ACTION_UP): 0:(131.64784,265.84497)
+:Sending Touch (ACTION_DOWN): 0:(232.0,395.0)
+:Sending Touch (ACTION_UP): 0:(293.7883,340.63318)
+:Sending Touch (ACTION_DOWN): 0:(942.0,637.0)
+:Sending Touch (ACTION_UP): 0:(917.08856,638.15405)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(808.0,272.0)
+:Sending Touch (ACTION_UP): 0:(756.78705,359.89255)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(865.92053,1598.5889)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2021-08-04 05:45:07.410  system_uptime:25719634]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(9.0,133.0)
+:Sending Touch (ACTION_UP): 0:(6.4722633,140.41788)
+:Sending Touch (ACTION_DOWN): 0:(647.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(644.8964,1431.1022)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(839.0,118.0)
+:Sending Touch (ACTION_UP): 0:(819.77826,100.58251)
+:Sending Touch (ACTION_DOWN): 0:(766.0,53.0)
+:Sending Touch (ACTION_UP): 0:(790.2304,98.940796)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(998.0,458.0)
+:Sending Touch (ACTION_UP): 0:(1011.4643,481.79507)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(835.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(865.9779,1131.6531)
+:Sending Touch (ACTION_DOWN): 0:(752.0,463.0)
+    //[calendar_time:2021-08-04 05:45:17.594  system_uptime:25729817]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(661.0133,448.22324)
+:Sending Touch (ACTION_DOWN): 0:(429.0,7.0)
+:Sending Touch (ACTION_UP): 0:(520.60535,38.17888)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(390.0,1760.0)
+:Sending Touch (ACTION_UP): 0:(390.3995,1769.195)
+:Sending Touch (ACTION_DOWN): 0:(45.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(55.914734,1240.626)
+:Sending Touch (ACTION_DOWN): 0:(289.0,328.0)
+:Sending Touch (ACTION_UP): 0:(285.99216,328.24188)
+:Sending Touch (ACTION_DOWN): 0:(135.0,218.0)
+:Sending Touch (ACTION_UP): 0:(134.22964,218.73096)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,772.0)
+:Sending Touch (ACTION_UP): 0:(1047.3406,766.0703)
+:Sending Touch (ACTION_DOWN): 0:(488.0,498.0)
+:Sending Touch (ACTION_UP): 0:(499.94128,498.64377)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,673.0)
+:Sending Touch (ACTION_UP): 0:(985.1228,722.16205)
+:Sending Touch (ACTION_DOWN): 0:(471.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(453.36847,1631.3641)
+    //[calendar_time:2021-08-04 05:45:26.231  system_uptime:25738455]
+    // Sending event #500
+    //[calendar_time:2021-08-04 05:45:26.735  system_uptime:25738958]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(137.0,527.0)
+:Sending Touch (ACTION_UP): 0:(150.5595,521.26996)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(1070.9282,1566.262)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(353.0,110.0)
+:Sending Touch (ACTION_UP): 0:(352.2217,92.06631)
+:Sending Touch (ACTION_DOWN): 0:(280.0,1503.0)
+:Sending Touch (ACTION_UP): 0:(271.37134,1504.7352)
+:Sending Touch (ACTION_DOWN): 0:(309.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(308.9918,1748.2858)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.billthefarmer.diary/.Diary;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.billthefarmer.diary/.Diary } in package org.billthefarmer.diary
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(583.0,435.0)
+:Sending Touch (ACTION_UP): 0:(583.0776,435.0031)
+:Sending Touch (ACTION_DOWN): 0:(298.0,1098.0)
+:Sending Touch (ACTION_UP): 0:(298.1365,1110.9753)
+:Sending Touch (ACTION_DOWN): 0:(735.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(738.7286,1534.8711)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1538.0)
+:Sending Touch (ACTION_UP): 0:(491.2414,1536.334)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(858.05255,1684.6602)
+    //[calendar_time:2021-08-04 05:45:43.647  system_uptime:25755870]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(51.0,326.0)
+:Sending Touch (ACTION_UP): 0:(0.0,397.9264)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(309.1787,1315.4801)
+:Sending Touch (ACTION_DOWN): 0:(505.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(497.04318,1708.2208)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(1021.60425,1293.0131)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(887.0,107.0)
+:Sending Touch (ACTION_UP): 0:(918.0104,21.012478)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(780.0,413.0)
+:Sending Touch (ACTION_UP): 0:(714.0772,465.2472)
+:Sending Touch (ACTION_DOWN): 0:(815.0,651.0)
+:Sending Touch (ACTION_UP): 0:(814.7793,647.3759)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1028.0,282.0)
+:Sending Touch (ACTION_UP): 0:(1023.03925,254.25537)
+:Sending Touch (ACTION_DOWN): 0:(299.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(206.94441,1053.2279)
+:Sending Touch (ACTION_DOWN): 0:(135.0,293.0)
+:Sending Touch (ACTION_UP): 0:(131.92636,281.53436)
+    //[calendar_time:2021-08-04 05:45:55.829  system_uptime:25768052]
+    // Sending event #700
+    //[calendar_time:2021-08-04 05:45:56.330  system_uptime:25768554]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(689.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(672.30426,1166.635)
+    // Allowing start of Intent { act=android.intent.action.EDIT dat=file:///storage/sdcard/Diary/css/styles.css cmp=org.billthefarmer.diary/.Editor } in package org.billthefarmer.diary
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(561.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(560.14703,1125.9636)
+    // activityResuming(org.billthefarmer.diary)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.billthefarmer.diary/.Diary;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.billthefarmer.diary/.Diary } in package org.billthefarmer.diary
+:Sending Touch (ACTION_DOWN): 0:(446.0,140.0)
+:Sending Touch (ACTION_UP): 0:(442.3743,125.80568)
+:Sending Touch (ACTION_DOWN): 0:(286.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(284.20172,1240.3468)
+:Sending Touch (ACTION_DOWN): 0:(874.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(870.61206,1631.4803)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(911.0,457.0)
+:Sending Touch (ACTION_UP): 0:(956.51965,398.29074)
+:Sending Touch (ACTION_DOWN): 0:(828.0,620.0)
+    //[calendar_time:2021-08-04 05:46:08.516  system_uptime:25780740]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(772.6651,718.77576)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(229.17226,1631.4651)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(127.0,711.0)
+:Sending Touch (ACTION_UP): 0:(125.58021,715.4816)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(740.1665,1267.1821)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,131.0)
+:Sending Touch (ACTION_UP): 0:(211.13803,119.855865)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(599.0,830.0)
+:Sending Touch (ACTION_UP): 0:(594.99915,828.482)
+:Sending Touch (ACTION_DOWN): 0:(755.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(745.5539,1219.0022)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.billthefarmer.diary/.Diary;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.billthefarmer.diary/.Diary } in package org.billthefarmer.diary
+:Sending Touch (ACTION_DOWN): 0:(44.0,736.0)
+:Sending Touch (ACTION_UP): 0:(36.293655,737.65405)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1058.0,1160.0)
+    //[calendar_time:2021-08-04 05:46:21.223  system_uptime:25793446]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(981.5939,1181.0219)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1639.0)
+:Sending Touch (ACTION_UP): 0:(83.93183,1638.1682)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(730.0,770.0)
+:Sending Touch (ACTION_UP): 0:(727.0829,771.0244)
+:Sending Touch (ACTION_DOWN): 0:(851.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(833.2227,1284.4763)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,599.0)
+:Sending Touch (ACTION_UP): 0:(438.15445,603.4177)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=119241ms (0ms mobile, 0ms wifi, 119241ms not connected)
+// Monkey finished

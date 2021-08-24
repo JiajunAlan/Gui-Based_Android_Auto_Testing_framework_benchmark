@@ -1,0 +1,268 @@
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+back
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Timetable"
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Dismiss"
+back
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Topics"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Documents"
+clickLong(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction'):android.widget.TextView@""
+clickLong(resource-id='com.stypox.mastercom_workbook:id/selectSubjectAction'):android.widget.TextView@""
+back
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Timetable"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Documents"
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Load marks directly"
+click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Read the changelog and check for updates"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+menu
+menu
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Topics"
+click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Statistics"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Documents"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Topics"
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+menu
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+back
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+back
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Version 6.0 (600)"
+click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+menu
+back
+**
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Have you found something to improve?"
+click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+**
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+menu
+menu
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+back
+**
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Load marks directly"
+click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Load marks directly"
+click(resource-id='android:id/icon'):android.widget.ImageView@""
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Cancel"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Choose the app color set"
+click(className='android.widget.CheckedTextView',instance='0'):android.widget.CheckedTextView@"Light"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"This app is free and open source!"
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"testt"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"012345"
+back
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Topics"
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='4'):android.widget.CheckedTextView@"Events"
+click(content-desc='Navigate up'):android.widget.ImageButton@""
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12stt"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12est"
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/passwordEdit'):android.widget.EditText@""
+back
+**
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"View source code"
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Used to determine which marks belong to the first term and which to the second - 12/10"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"7"
+scroll(direction='up')
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"16"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"8"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"15"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"2"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"11"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"5"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"16"
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+click(resource-id='com.stypox.mastercom_workbook:id/settingsButton'):android.widget.ImageView@""
+click(resource-id='android:id/icon'):android.widget.ImageView@""
+click(className='android.widget.CheckedTextView',instance='1'):android.widget.CheckedTextView@"Dark"
+click(className='android.widget.TextView',instance='10'):android.widget.TextView@"This app is free and open source!"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+menu
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+menu
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='2'):android.widget.CheckedTextView@"Topics"
+click(className='android.widget.CheckedTextView',instance='5'):android.widget.CheckedTextView@"Documents"
+back
+menu
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+menu
+back
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+back
+**
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"12"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"1test"
+edit(resource-id='com.stypox.mastercom_workbook:id/userEdit'):android.widget.EditText@"1"
+edit(resource-id='com.stypox.mastercom_workbook:id/APIUrlEdit'):android.widget.EditText@"davinci-tn"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"LOGIN"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+menu
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Retry"
+click(content-desc='Open navigation drawer'):android.widget.ImageButton@""
+click(className='android.widget.CheckedTextView',instance='3'):android.widget.CheckedTextView@"Timetable"
+click(className='android.widget.CheckedTextView',instance='7'):android.widget.CheckedTextView@"Settings"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Start date of second term"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"5"
+**

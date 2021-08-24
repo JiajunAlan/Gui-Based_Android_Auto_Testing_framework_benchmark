@@ -1,0 +1,11 @@
+    270@click(className='android.widget.ImageView',instance='1'):android.widget.ImageView@""
+    271@click(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    272@clickLong(className='android.widget.ImageView',instance='2'):android.widget.ImageView@""
+    273@click(className='android.widget.ImageView',instance='3'):android.widget.ImageView@""
+    285@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"https://"
+    286@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Nominatim"
+    287@click(className='android.widget.TextView',instance='5'):android.widget.TextView@".openstreetmap.org/search/"
+    288@edit(className='android.widget.EditText',instance='0'):android.widget.EditText@""
+    289@click(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    290@clickLong(className='android.widget.ImageView',instance='4'):android.widget.ImageView@""
+    280@back

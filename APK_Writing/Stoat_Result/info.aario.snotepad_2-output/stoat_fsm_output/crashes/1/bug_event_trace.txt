@@ -1,0 +1,259 @@
+menu@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+click(resource-id='info.aario.snotepad:id/fab')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+back@
+edit(resource-id='info.aario.snotepad:id/etEditor')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Sort by Name
+edit(resource-id='info.aario.snotepad:id/etTitle')@Note
+click(className='android.widget.Button',instance='1')@Redo
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+click(className='android.widget.Button',instance='0')@Undo
+click(resource-id='info.aario.snotepad:id/fab')@
+edit(resource-id='info.aario.snotepad:id/etEditor')@tes
+menu@
+click(className='android.widget.TextView',instance='0')@yes
+edit(resource-id='info.aario.snotepad:id/etEditor')@yes
+edit(resource-id='info.aario.snotepad:id/etEditor')@yetest
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+menu@
+click(className='android.widget.TextView',instance='4')@About
+click(resource-id='info.aario.snotepad:id/fab')@
+keyevent_back@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.Button',instance='0')@Select Folder
+click(resource-id='info.aario.snotepad:id/item_icon')@
+click(className='android.widget.TextView',instance='2')@..
+click(resource-id='info.aario.snotepad:id/item_icon')@
+clickLong(resource-id='info.aario.snotepad:id/nnf_action_createdir')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='0')@Select Folder
+back@
+click(className='android.widget.Button',instance='0')@Select Folder
+click(resource-id='info.aario.snotepad:id/nnf_action_createdir')@
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='info.aario.snotepad:id/fab')@
+back@
+click(className='android.widget.Button',instance='1')@Cancel
+menu@
+click(className='android.widget.TextView',instance='1')@Sort by Name
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+back@
+click(className='android.widget.Button',instance='2')@Yes
+keyevent_back@
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/test.txt
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+click(className='android.widget.TextView',instance='5')@Add to dictionary
+keyevent_back@
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+click(className='android.widget.Button',instance='1')@Redo
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@tesst
+click(className='android.widget.TextView',instance='1')@tests
+edit(resource-id='info.aario.snotepad:id/etEditor')@tesst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12sts
+edit(resource-id='info.aario.snotepad:id/etEditor')@tesst
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+edit(resource-id='info.aario.snotepad:id/etEditor')@tesst
+click(resource-id='info.aario.snotepad:id/fab')@
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/12st.txt
+edit(resource-id='info.aario.snotepad:id/etEditor')@tesst
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@tess
+click(className='android.widget.TextView',instance='6')@Delete
+edit(resource-id='info.aario.snotepad:id/etEditor')@
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+click(className='android.widget.Button',instance='1')@Redo
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+menu@
+click(className='android.widget.TextView',instance='4')@About
+click(resource-id='info.aario.snotepad:id/fab')@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+back@
+click(className='android.widget.Button',instance='0')@No
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+click(className='android.widget.Button',instance='1')@Redo
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/12st.txt
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@1
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Sort by Name
+menu@
+click(className='android.widget.TextView',instance='4')@About
+click(resource-id='info.aario.snotepad:id/fab')@
+keyevent_back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+back@
+click(className='android.widget.Button',instance='2')@Yes
+keyevent_back@
+click(resource-id='android:id/search_button')@
+click(className='android.widget.TextView',instance='1')@12st.txt
+click(className='android.widget.Button',instance='1')@Redo
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.Button',instance='0')@Select Folder
+click(className='android.widget.Button',instance='1')@OK
+menu@
+click(className='android.widget.TextView',instance='1')@Sort by Name
+click(resource-id='info.aario.snotepad:id/fab')@
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+click(resource-id='info.aario.snotepad:id/fab')@
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/12st.txt
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@1
+edit(resource-id='info.aario.snotepad:id/etEditor')@1test
+edit(resource-id='info.aario.snotepad:id/etEditor')@12est
+edit(resource-id='info.aario.snotepad:id/etEditor')@testt
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+edit(resource-id='info.aario.snotepad:id/etEditor')@testt
+edit(resource-id='info.aario.snotepad:id/etEditor')@testt
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+menu@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.Button',instance='0')@Select Folder
+click(className='android.widget.TextView',instance='2')@..
+clickLong(className='android.widget.TextView',instance='3')@files
+click(className='android.widget.TextView',instance='2')@..
+click(className='android.widget.Button',instance='1')@OK
+back@
+click(className='android.widget.Button',instance='0')@No
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+click(resource-id='info.aario.snotepad:id/fab')@
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/12st.txt
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@About
+click(resource-id='info.aario.snotepad:id/fab')@
+keyevent_back@
+click(className='android.widget.TextView',instance='1')@12st.txt
+click(className='android.widget.Button',instance='0')@Undo
+click(className='android.widget.Button',instance='1')@Redo
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+menu@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+click(className='android.widget.Button',instance='1')@Redo
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@1stt
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+edit(resource-id='info.aario.snotepad:id/etEditor')@12st
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Sort by Name
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+back@
+click(className='android.widget.Button',instance='1')@Cancel
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+menu@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+click(resource-id='info.aario.snotepad:id/fab')@
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/12st.txt
+edit(resource-id='info.aario.snotepad:id/etEditor')@test
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.Button',instance='0')@Select Folder
+click(className='android.widget.TextView',instance='2')@..
+click(className='android.widget.TextView',instance='3')@files
+click(resource-id='info.aario.snotepad:id/nnf_action_createdir')@
+edit(resource-id='info.aario.snotepad:id/edit_text')@Name
+edit(resource-id='info.aario.snotepad:id/edit_text')@12
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='info.aario.snotepad:id/item_icon')@
+clickLong(resource-id='info.aario.snotepad:id/item_icon')@
+click(resource-id='info.aario.snotepad:id/item_icon')@
+click(resource-id='info.aario.snotepad:id/item_icon')@
+clickLong(className='android.widget.TextView',instance='3')@data
+click(className='android.widget.TextView',instance='5')@info.aario.snotepad
+click(resource-id='info.aario.snotepad:id/item_icon')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='info.aario.snotepad:id/fab')@
+menu@
+click(className='android.widget.TextView',instance='4')@About
+click(resource-id='info.aario.snotepad:id/fab')@
+keyevent_back@
+click(resource-id='info.aario.snotepad:id/fab')@
+edit(resource-id='info.aario.snotepad:id/etTitle')@Note
+edit(resource-id='info.aario.snotepad:id/etTitle')@12te
+edit(resource-id='info.aario.snotepad:id/etTitle')@12te
+edit(resource-id='info.aario.snotepad:id/etEditor')@
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+click(className='android.widget.Button',instance='1')@Redo
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+edit(resource-id='info.aario.snotepad:id/etTitle')@12st
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+click(resource-id='info.aario.snotepad:id/fab')@
+click(className='android.widget.TextView',instance='2')@Changes saved to /storage/sdcard/Android/data/info.aario.snotepad/files/test.txt
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+back@
+edit(resource-id='info.aario.snotepad:id/etEditor')@12
+edit(resource-id='info.aario.snotepad:id/etEditor')@12test
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Refresh
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etTitle')@test
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@testst
+click(className='android.widget.Button',instance='0')@Undo
+edit(resource-id='info.aario.snotepad:id/etEditor')@1stst
+edit(resource-id='info.aario.snotepad:id/etEditor')@12stt
+menu@
+click(className='android.widget.TextView',instance='4')@About
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Sort by Date
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Settings
+click(className='android.widget.Button',instance='0')@Select Folder
+click(className='android.widget.TextView',instance='3')@12
+clickLong(resource-id='info.aario.snotepad:id/nnf_action_createdir')@
+back@
+click(className='android.widget.Button',instance='0')@Select Folder
+clickLong(className='android.widget.TextView',instance='3')@12
+click(className='android.widget.TextView',instance='2')@..
+click(resource-id='info.aario.snotepad:id/item_icon')@
+clickLong(resource-id='info.aario.snotepad:id/item_icon')@

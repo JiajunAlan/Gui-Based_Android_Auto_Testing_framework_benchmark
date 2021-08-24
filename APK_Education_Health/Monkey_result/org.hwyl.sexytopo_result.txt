@@ -1,0 +1,260 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626386214608 count=1000
+:AllowPackage: org.hwyl.sexytopo
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.DeviceActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(156.0,1597.0)
+:Sending Touch (ACTION_UP): 0:(153.6891,1581.0236)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(681.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(671.3166,1119.7982)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(393.0,1390.0)
+:Sending Touch (ACTION_UP): 0:(394.7963,1455.4495)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(190.0,370.0)
+:Sending Touch (ACTION_UP): 0:(171.76636,370.8049)
+:Sending Touch (ACTION_DOWN): 0:(645.0,54.0)
+:Sending Touch (ACTION_UP): 0:(645.0875,48.68183)
+:Sending Touch (ACTION_DOWN): 0:(900.0,85.0)
+:Sending Touch (ACTION_UP): 0:(920.161,5.786619)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2021-08-03 23:56:20.027  system_uptime:4792266]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(877.0,833.0)
+:Sending Touch (ACTION_UP): 0:(901.35284,812.92755)
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.SettingsActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(723.0,628.0)
+:Sending Touch (ACTION_UP): 0:(724.0911,645.05743)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1181.0)
+:Sending Touch (ACTION_UP): 0:(82.26064,1160.1049)
+:Sending Touch (ACTION_DOWN): 0:(878.0,182.0)
+:Sending Touch (ACTION_UP): 0:(877.3143,196.97949)
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.ExtendedElevationActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(33.0,292.0)
+:Sending Touch (ACTION_UP): 0:(22.394604,296.3674)
+:Sending Touch (ACTION_DOWN): 0:(266.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(308.21796,1124.2037)
+:Sending Touch (ACTION_DOWN): 0:(19.0,903.0)
+    //[calendar_time:2021-08-03 23:56:29.218  system_uptime:4801442]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(0.33629513,894.16223)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,1435.0)
+:Sending Touch (ACTION_UP): 0:(239.95647,1437.6002)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(972.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(983.15076,1045.1307)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(945.0,655.0)
+:Sending Touch (ACTION_UP): 0:(954.91156,635.8774)
+:Sending Touch (ACTION_DOWN): 0:(864.0,970.0)
+:Sending Touch (ACTION_UP): 0:(908.8205,928.43536)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(194.58762,1386.3588)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(250.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(265.94772,1464.9607)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2021-08-03 23:56:38.877  system_uptime:4811101]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(816.0,833.0)
+:Sending Touch (ACTION_UP): 0:(805.2696,832.84344)
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.SettingsActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(196.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(185.28584,1629.5597)
+:Sending Touch (ACTION_DOWN): 0:(511.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(481.65652,1034.7614)
+:Sending Touch (ACTION_DOWN): 0:(332.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(317.1523,1179.8514)
+:Sending Touch (ACTION_DOWN): 0:(311.0,531.0)
+:Sending Touch (ACTION_UP): 0:(312.34552,546.2466)
+:Sending Touch (ACTION_DOWN): 0:(523.0,109.0)
+:Sending Touch (ACTION_UP): 0:(520.2934,104.939384)
+:Sending Touch (ACTION_DOWN): 0:(498.0,102.0)
+:Sending Touch (ACTION_UP): 0:(512.00696,103.946)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(439.24435,1738.8411)
+:Sending Touch (ACTION_DOWN): 0:(802.0,474.0)
+:Sending Touch (ACTION_UP): 0:(803.7208,474.93518)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2021-08-03 23:56:49.534  system_uptime:4821758]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(828.0,300.0)
+:Sending Touch (ACTION_UP): 0:(844.48016,296.6505)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1692.0)
+:Sending Touch (ACTION_UP): 0:(228.08398,1707.5565)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1017.0)
+:Sending Touch (ACTION_UP): 0:(312.0881,1006.6517)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2021-08-03 23:56:56.690  system_uptime:4828914]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(23.0,668.0)
+:Sending Touch (ACTION_UP): 0:(22.257246,661.7399)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(936.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(842.7648,1431.4825)
+:Sending Touch (ACTION_DOWN): 0:(387.0,716.0)
+:Sending Touch (ACTION_UP): 0:(406.8982,721.4257)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1011.0,499.0)
+:Sending Touch (ACTION_UP): 0:(998.69525,507.99228)
+:Sending Touch (ACTION_DOWN): 0:(433.0,164.0)
+:Sending Touch (ACTION_UP): 0:(437.4968,157.85547)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(171.0,737.0)
+:Sending Touch (ACTION_UP): 0:(166.0867,737.90063)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(553.60596,1162.0062)
+    //[calendar_time:2021-08-03 23:57:14.469  system_uptime:4846692]
+    // Sending event #600
+    //[calendar_time:2021-08-03 23:57:14.970  system_uptime:4847193]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(514.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(513.67725,1361.6901)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(731.1605,1682.1082)
+:Sending Touch (ACTION_DOWN): 0:(450.0,8.0)
+:Sending Touch (ACTION_UP): 0:(450.68243,4.697191)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(208.0,990.0)
+:Sending Touch (ACTION_UP): 0:(194.35632,1020.34174)
+:Sending Touch (ACTION_DOWN): 0:(855.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(954.7424,1526.0797)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,320.0)
+:Sending Touch (ACTION_UP): 0:(1037.1335,327.8854)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(784.11584,1686.0721)
+:Sending Touch (ACTION_DOWN): 0:(165.0,540.0)
+:Sending Touch (ACTION_UP): 0:(158.2125,552.74005)
+:Sending Touch (ACTION_DOWN): 0:(832.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(790.6297,1282.6558)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(381.22995,1103.9243)
+:Sending Touch (ACTION_DOWN): 0:(917.0,993.0)
+:Sending Touch (ACTION_UP): 0:(937.6158,981.29254)
+:Sending Touch (ACTION_DOWN): 0:(997.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(1001.9734,1133.2638)
+    //[calendar_time:2021-08-03 23:57:28.158  system_uptime:4860382]
+    // Sending event #700
+    //[calendar_time:2021-08-03 23:57:28.659  system_uptime:4860883]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(26.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(15.676362,1086.8749)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,971.0)
+:Sending Touch (ACTION_UP): 0:(279.2018,981.6187)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(658.0,803.0)
+:Sending Touch (ACTION_UP): 0:(660.8573,819.5976)
+:Sending Touch (ACTION_DOWN): 0:(707.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(709.2423,1350.2445)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(365.0,231.0)
+:Sending Touch (ACTION_UP): 0:(375.6374,262.55182)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1026.9155,689.2174)
+:Sending Touch (ACTION_DOWN): 0:(766.0,164.0)
+:Sending Touch (ACTION_UP): 0:(739.5827,184.43556)
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.PlanActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-03 23:57:39.356  system_uptime:4871579]
+    // Sending event #800
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(515.0,274.0)
+:Sending Touch (ACTION_UP): 0:(382.9587,212.3566)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1781.0)
+:Sending Touch (ACTION_UP): 0:(679.7765,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(158.0,96.0)
+:Sending Touch (ACTION_UP): 0:(148.76932,89.570274)
+:Sending Touch (ACTION_DOWN): 0:(960.0,548.0)
+:Sending Touch (ACTION_UP): 0:(921.77435,624.237)
+:Sending Touch (ACTION_DOWN): 0:(672.0,164.0)
+:Sending Touch (ACTION_UP): 0:(673.9779,164.0557)
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.TableActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(634.0,156.0)
+:Sending Touch (ACTION_UP): 0:(617.1057,153.81624)
+:Sending Touch (ACTION_DOWN): 0:(131.0,637.0)
+:Sending Touch (ACTION_UP): 0:(105.318405,627.8298)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(48.0,614.0)
+:Sending Touch (ACTION_UP): 0:(19.625952,593.8257)
+:Sending Touch (ACTION_DOWN): 0:(794.0,247.0)
+:Sending Touch (ACTION_UP): 0:(816.07587,289.52316)
+    //[calendar_time:2021-08-03 23:57:50.518  system_uptime:4882741]
+    // Sending event #900
+    //[calendar_time:2021-08-03 23:57:51.019  system_uptime:4883242]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+    // Allowing start of Intent { cmp=org.hwyl.sexytopo/.control.activity.PlanActivity } in package org.hwyl.sexytopo
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(727.0,1200.0)
+:Sending Touch (ACTION_UP): 0:(797.3757,1264.39)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(53.0,41.0)
+:Sending Touch (ACTION_UP): 0:(53.166515,38.981583)
+:Sending Touch (ACTION_DOWN): 0:(189.0,886.0)
+:Sending Touch (ACTION_UP): 0:(195.0576,880.1939)
+:Sending Touch (ACTION_DOWN): 0:(207.0,164.0)
+:Sending Touch (ACTION_UP): 0:(261.16025,230.75954)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.hwyl.sexytopo/.control.activity.StartUpActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.hwyl.sexytopo/.control.activity.StartUpActivity } in package org.hwyl.sexytopo
+:Sending Touch (ACTION_DOWN): 0:(827.0,926.0)
+:Sending Touch (ACTION_UP): 0:(823.5732,938.39105)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,588.0)
+:Sending Touch (ACTION_UP): 0:(1019.0694,587.1249)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=115539ms (0ms mobile, 0ms wifi, 115539ms not connected)
+// Monkey finished

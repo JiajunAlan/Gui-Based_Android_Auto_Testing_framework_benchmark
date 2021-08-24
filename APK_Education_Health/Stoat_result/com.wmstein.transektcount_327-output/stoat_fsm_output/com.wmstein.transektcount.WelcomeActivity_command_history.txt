@@ -1,0 +1,9 @@
+    3@back
+    2@menu
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    15@clickLong(resource-id='com.wmstein.transektcount:id/viewSpecies'):android.widget.TextView@""
+    16@click(resource-id='com.wmstein.transektcount:id/menu_list_item'):android.widget.TextView@""
+    44@click(resource-id='com.wmstein.transektcount:id/icon'):android.widget.ImageView@""
+    23@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Show Results"
+    17@clickLong(resource-id='com.wmstein.transektcount:id/menu_list_item'):android.widget.TextView@""
+    43@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Settings"

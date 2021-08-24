@@ -1,0 +1,11 @@
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    919@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"12stt"
+    920@clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"12stt"
+    849@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"test"
+    850@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"test"
+    2082@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"12st"
+    2083@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"12st"
+    14@click(resource-id='com.alaskalinuxuser.justnotes:id/fabAdd'):android.widget.ImageButton@""
+    4@menu
+    5@back

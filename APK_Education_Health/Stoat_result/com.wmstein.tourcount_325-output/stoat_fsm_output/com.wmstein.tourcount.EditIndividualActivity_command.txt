@@ -1,0 +1,8 @@
+    1594@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    1595@click(resource-id='com.wmstein.tourcount:id/menuSaveExit'):android.widget.TextView@""
+    1596@clickLong(resource-id='com.wmstein.tourcount:id/menuSaveExit'):android.widget.TextView@""
+    3090@edit(resource-id='com.wmstein.tourcount:id/widgetLocality2'):android.widget.EditText@"12st"
+    1598@edit(resource-id='com.wmstein.tourcount:id/widgetState2'):android.widget.EditText@"0"
+    1599@edit(resource-id='com.wmstein.tourcount:id/widgetCount2'):android.widget.EditText@"1"
+    1600@edit(resource-id='com.wmstein.tourcount:id/widgetIndivNote2'):android.widget.EditText@""
+    1601@back

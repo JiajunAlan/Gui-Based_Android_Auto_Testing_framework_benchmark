@@ -1,0 +1,118 @@
+back@
+keyevent_back@
+menu@
+click(resource-id='dev.corruptedark.openchaoschess:id/knight_button')@
+click(className='android.widget.ImageView',instance='37')@
+click(className='android.widget.ImageView',instance='51')@
+click(className='android.widget.ImageView',instance='25')@
+click(className='android.widget.ImageView',instance='16')@
+click(className='android.widget.ImageView',instance='54')@
+click(className='android.widget.ImageView',instance='55')@
+click(className='android.widget.ImageView',instance='32')@
+click(className='android.widget.ImageView',instance='29')@
+click(className='android.widget.ImageView',instance='50')@
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.ImageView',instance='28')@
+click(className='android.widget.ImageView',instance='42')@
+click(className='android.widget.ImageView',instance='6')@
+click(className='android.widget.TextView',instance='1')@New Game
+click(className='android.widget.ImageView',instance='44')@
+click(className='android.widget.ImageView',instance='12')@
+click(className='android.widget.ImageView',instance='3')@
+click(className='android.widget.ImageView',instance='24')@
+click(className='android.widget.ImageView',instance='46')@
+click(className='android.widget.ImageView',instance='18')@
+click(className='android.widget.ImageView',instance='64')@
+click(className='android.widget.ImageView',instance='19')@
+click(className='android.widget.ImageView',instance='56')@
+click(className='android.widget.ImageView',instance='7')@
+click(className='android.widget.ImageView',instance='53')@
+click(className='android.widget.ImageView',instance='10')@
+click(className='android.widget.ImageView',instance='52')@
+click(className='android.widget.ImageView',instance='57')@
+click(className='android.widget.ImageView',instance='14')@
+click(className='android.widget.ImageView',instance='58')@
+click(className='android.widget.ImageView',instance='39')@
+click(className='android.widget.ImageView',instance='5')@
+click(className='android.widget.ImageView',instance='48')@
+click(className='android.widget.ImageView',instance='63')@
+click(className='android.widget.ImageView',instance='9')@
+click(className='android.widget.ImageView',instance='61')@
+click(className='android.widget.ImageView',instance='15')@
+click(className='android.widget.ImageView',instance='49')@
+click(className='android.widget.ImageView',instance='62')@
+click(className='android.widget.ImageView',instance='26')@
+click(className='android.widget.ImageView',instance='31')@
+click(className='android.widget.ImageView',instance='27')@
+back@
+click(className='android.widget.Button',instance='2')@Join Game
+back@
+click(className='android.widget.Button',instance='0')@Solo Play
+click(resource-id='dev.corruptedark.openchaoschess:id/bloodthirst_toggle')@Bloodthirst
+click(className='android.widget.ImageView',instance='43')@
+click(className='android.widget.ImageView',instance='21')@
+click(className='android.widget.ImageView',instance='47')@
+click(className='android.widget.ImageView',instance='8')@
+click(className='android.widget.ImageView',instance='38')@
+click(className='android.widget.ImageView',instance='35')@
+click(className='android.widget.ImageView',instance='59')@
+click(className='android.widget.ImageView',instance='36')@
+click(className='android.widget.ImageView',instance='22')@
+click(className='android.widget.ImageView',instance='41')@
+click(className='android.widget.ImageView',instance='20')@
+click(className='android.widget.ImageView',instance='34')@
+click(className='android.widget.ImageView',instance='4')@
+click(className='android.widget.ImageView',instance='1')@
+click(className='android.widget.ImageView',instance='17')@
+click(className='android.widget.ImageView',instance='33')@
+click(className='android.widget.ImageView',instance='40')@
+click(content-desc='Navigate up')@
+click(className='android.widget.Button',instance='3')@About
+click(resource-id='dev.corruptedark.openchaoschess:id/about_image_piece')@
+scroll(direction='up')@
+scroll(direction='down')@
+click(content-desc='Navigate up')@
+click(resource-id='dev.corruptedark.openchaoschess:id/settings_button')@
+click(resource-id='dev.corruptedark.openchaoschess:id/bar_color_button')@
+back@
+scroll(direction='up')@
+click(resource-id='dev.corruptedark.openchaoschess:id/chess960_toggle')@Chess960 mode
+click(resource-id='dev.corruptedark.openchaoschess:id/aggressive_computer_toggle')@Aggressive computer
+click(resource-id='dev.corruptedark.openchaoschess:id/background_color_button')@
+click(className='android.widget.Button',instance='0')@Select
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@Import From File
+keyevent_back@
+click(resource-id='dev.corruptedark.openchaoschess:id/achievements_button')@
+click(className='android.widget.TextView',instance='1')@Informed Player
+back@
+clickLong(content-desc='More options')@
+back@
+click(className='android.widget.TextView',instance='3')@Horsing Around
+clickLong(className='android.widget.TextView',instance='1')@Accessed the Knights Only mode. Good luck finishing a match.
+click(className='android.widget.TextView',instance='1')@Accessed the Knights Only mode. Good luck finishing a match.
+back@
+click(resource-id='dev.corruptedark.openchaoschess:id/achievement_item_image')@
+click(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+clickLong(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+click(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+clickLong(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+click(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+clickLong(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+back@
+click(resource-id='dev.corruptedark.openchaoschess:id/achievement_item_image')@
+click(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+clickLong(className='android.widget.TextView',instance='1')@Opened the About page. Thanks for caring. I hope it was worth the read.
+back@
+click(content-desc='Navigate up')@
+click(className='android.widget.Button',instance='4')@Issues
+keyevent_back@
+click(className='android.widget.Button',instance='5')@Quit
+keyevent_back@
+click(className='android.widget.Button',instance='1')@Host Game
+click(resource-id='dev.corruptedark.openchaoschess:id/bloodthirsty_checkbox')@Bloodthirst
+back@
+click(resource-id='dev.corruptedark.openchaoschess:id/settings_button')@
+click(content-desc='Navigate up')@
+click(className='android.widget.Button',instance='0')@Solo Play
+click(className='android.widget.ImageView',instance='60')@

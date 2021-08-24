@@ -1,0 +1,274 @@
+click(className='android.widget.Button',instance='0')@OK
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonPurple')@
+click(content-desc='More options')@
+back@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlue')@
+click(resource-id='org.hwyl.sexytopo:id/buttonSelect')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomOut')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGreen')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDraw')@
+click(resource-id='org.hwyl.sexytopo:id/buttonErase')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRed')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGreen')@
+click(resource-id='org.hwyl.sexytopo:id/buttonUndo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDraw')@
+click(resource-id='org.hwyl.sexytopo:id/buttonPurple')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonAddStation')@
+back@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMove')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='1')@Centre on Active
+click(resource-id='org.hwyl.sexytopo:id/buttonRed')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBrown')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/buttonUndo')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomIn')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@Instrument
+click(className='android.widget.TextView',instance='0')@Instrument
+click(className='android.widget.TextView',instance='1')@Connect…
+back@
+keyevent_back@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonSelect')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMove')@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomOut')@
+click(content-desc='More options')@
+back@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomIn')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlue')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGrey')@
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBrown')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRedo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonOrange')@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonText')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGrey')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRedo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='9')@Station Labels
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='5')@Settings
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonOrange')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonText')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/buttonErase')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(resource-id='android:id/checkbox')@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='4')@Save As…
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='9')@Station Labels
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='6')@Export…
+click(className='android.widget.TextView',instance='5')@SVG
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='5')@Show Splays
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDeleteLastLeg')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='5')@Settings
+clickLong(content-desc='More options')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(className='android.widget.TextView',instance='20')@Algorithm
+back@
+scroll(direction='up')@
+click(className='android.widget.TextView',instance='10')@Hot corners
+click(className='android.widget.TextView',instance='19')@Calibration
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(className='android.widget.TextView',instance='7')@Override device orientation on the Table and Graph views
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='android:id/checkbox')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/buttonAddSplay')@
+edit(resource-id='org.hwyl.sexytopo:id/editInclination')@
+click(className='android.widget.Button',instance='0')@Cancel
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='8')@Restore Autosave
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@File
+click(className='android.widget.TextView',instance='3')@Save
+click(resource-id='org.hwyl.sexytopo:id/buttonAddStation')@
+click(className='android.widget.Button',instance='1')@Save
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/buttonAddSplay')@
+edit(resource-id='org.hwyl.sexytopo:id/editDistance')@
+edit(resource-id='org.hwyl.sexytopo:id/editAzimuth')@
+back@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='6')@Help
+click(className='android.widget.TextView',instance='0')@Help
+click(className='android.widget.TextView',instance='1')@Guide
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDeleteLastLeg')@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='4')@Fade Non-Active
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='1')@New Survey
+edit(className='android.widget.EditText',instance='0')@NewSurvey-1
+keyevent_back@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='6')@Export…
+click(className='android.widget.TextView',instance='5')@SVG
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='0')@File
+click(className='android.widget.TextView',instance='2')@Open Survey…
+click(className='android.widget.TextView',instance='1')@NewSurvey
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(resource-id='android:id/checkbox')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Tools
+click(className='android.widget.TextView',instance='1')@Undo last reading
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='6')@Show Sketch
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='7')@Linked Surveys
+click(resource-id='org.hwyl.sexytopo:id/buttonText')@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomIn')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonOrange')@
+click(resource-id='org.hwyl.sexytopo:id/buttonUndo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonSelect')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonPurple')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRed')@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+back@
+keyevent_back@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+clickLong(content-desc='More options')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='4')@Save As…
+click(className='android.widget.Button',instance='0')@Cancel
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='5')@Settings
+click(className='android.widget.TextView',instance='9')@Vibrate when new station is created
+click(className='android.widget.TextView',instance='11')@Drag from the corners of the sketch to move the view in drawing modes
+click(resource-id='android:id/checkbox')@
+click(resource-id='android:id/checkbox')@
+click(className='android.widget.TextView',instance='22')@Sketching
+click(className='android.widget.TextView',instance='16')@How much error tolerated when deciding whether to create a new station
+click(className='android.widget.Button',instance='1')@OK
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBrown')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(className='android.widget.TextView',instance='8')@Graph Paper
+click(resource-id='org.hwyl.sexytopo:id/buttonMenu')@
+click(resource-id='android:id/checkbox')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGreen')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRedo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonPurple')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDraw')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGrey')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/action_plan')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGrey')@
+click(resource-id='org.hwyl.sexytopo:id/buttonRedo')@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='5')@Import…
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@Current Trip
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlue')@
+click(resource-id='org.hwyl.sexytopo:id/buttonText')@
+click(resource-id='org.hwyl.sexytopo:id/buttonUndo')@
+click(resource-id='org.hwyl.sexytopo:id/buttonErase')@
+click(resource-id='org.hwyl.sexytopo:id/buttonOrange')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='1')@New Survey
+click(className='android.widget.Button',instance='0')@Cancel
+clickLong(content-desc='More options')@
+click(className='android.widget.TextView',instance='3')@Tools
+click(className='android.widget.TextView',instance='2')@Link to an Existing Survey
+click(className='android.widget.TextView',instance='1')@NewSurvey
+click(className='android.widget.TextView',instance='1')@1
+clickLong(content-desc='More options')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='4')@Current Trip
+clickLong(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/action_table')@
+click(resource-id='org.hwyl.sexytopo:id/buttonAddSplay')@
+click(className='android.widget.Button',instance='1')@Save
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/submenuarrow')@
+click(className='android.widget.TextView',instance='6')@Export…
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+click(resource-id='org.hwyl.sexytopo:id/buttonGreen')@
+clickLong(content-desc='More options')@
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomOut')@
+click(resource-id='org.hwyl.sexytopo:id/action_save')@
+click(resource-id='org.hwyl.sexytopo:id/buttonDraw')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlue')@
+click(resource-id='org.hwyl.sexytopo:id/action_elevation')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='2')@Input Mode
+click(className='android.widget.TextView',instance='0')@Input Mode
+click(className='android.widget.TextView',instance='1')@Forward
+click(resource-id='org.hwyl.sexytopo:id/buttonZoomIn')@
+clickLong(resource-id='org.hwyl.sexytopo:id/action_plan')@
+click(resource-id='org.hwyl.sexytopo:id/buttonBlack')@
+back@
+keyevent_back@
+click(className='android.widget.Button',instance='0')@Pair

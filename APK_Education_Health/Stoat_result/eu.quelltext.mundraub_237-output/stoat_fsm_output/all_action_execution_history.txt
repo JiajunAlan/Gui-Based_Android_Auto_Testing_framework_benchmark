@@ -1,0 +1,116 @@
+    2@click(className='android.widget.Button',instance='1'):android.widget.Button@"yes"
+    7@back
+    8@keyevent_back
+    9@reset
+    13@back
+    8@keyevent_back
+    9@reset
+    11@clickLong(content-desc='More options'):android.widget.ImageView@""
+    23@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Community Codex"
+    34@click(className='android.widget.Button',instance='1'):android.widget.Button@"Sounds reasonable, I understand!"
+    10@click(content-desc='More options'):android.widget.ImageView@""
+    27@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"About"
+    54@click(className='android.widget.Button',instance='1'):android.widget.Button@"View the source code of version v1.236 at commit 9f2eb33."
+    8@keyevent_back
+    52@clickLong(content-desc='More options'):android.widget.ImageView@""
+    59@back
+    51@click(content-desc='More options'):android.widget.ImageView@""
+    75@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Changelog"
+    96@clickLong(content-desc='More options'):android.widget.ImageView@""
+    97@back
+    95@click(content-desc='More options'):android.widget.ImageView@""
+    105@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Changelog"
+    99@scroll(direction='up')
+    98@scroll(direction='down')
+    95@click(content-desc='More options'):android.widget.ImageView@""
+    100@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Map"
+    40@scroll(direction='down')
+    41@scroll(direction='up')
+    146@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    172@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"© OpenStreetMap contributors"
+    167@edit(resource-id='eu.quelltext.mundraub:id/text_description'):android.widget.EditText@""
+    175@back
+    146@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    169@click(className='android.widget.Button',instance='2'):android.widget.Button@"GPS"
+    168@click(resource-id='eu.quelltext.mundraub:id/image_plant'):android.widget.ImageView@""
+    8@keyevent_back
+    162@click(content-desc='More options'):android.widget.ImageView@""
+    243@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Map"
+    10@click(content-desc='More options'):android.widget.ImageView@""
+    21@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Map"
+    268@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    166@click(className='android.widget.Button',instance='1'):android.widget.Button@"+"
+    163@clickLong(content-desc='More options'):android.widget.ImageView@""
+    244@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"My Plants"
+    311@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Unknown Plant"
+    321@click(className='android.widget.Button',instance='1'):android.widget.Button@"Edit"
+    164@click(className='android.widget.Button',instance='0'):android.widget.Button@"Choose a type of plant!"
+    354@scroll(direction='down')
+    341@click(className='android.widget.Button',instance='1'):android.widget.Button@"OK"
+    165@edit(resource-id='eu.quelltext.mundraub:id/number_of_plants'):android.widget.EditText@"0"
+    170@click(className='android.widget.Button',instance='3'):android.widget.Button@"Map"
+    400@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    376@click(className='android.widget.Button',instance='0'):android.widget.Button@"Ramsons"
+    345@click(className='android.widget.Button',instance='5'):android.widget.Button@"OK"
+    173@click(className='android.widget.Button',instance='4'):android.widget.Button@"OK"
+    323@back
+    315@back
+    287@edit(resource-id='eu.quelltext.mundraub:id/number_of_plants'):android.widget.EditText@"1"
+    295@click(className='android.widget.Button',instance='6'):android.widget.Button@"Delete"
+    492@click(className='android.widget.Button',instance='0'):android.widget.Button@"no"
+    294@click(className='android.widget.Button',instance='5'):android.widget.Button@"OK"
+    11@clickLong(content-desc='More options'):android.widget.ImageView@""
+    20@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Find Places"
+    524@clickLong(content-desc='More options'):android.widget.ImageView@""
+    528@back
+    525@edit(resource-id='eu.quelltext.mundraub:id/search_address_text'):android.widget.EditText@""
+    527@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Data © OpenStreetMap contributors, ODbL 1.0."
+    8@keyevent_back
+    9@reset
+    12@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    174@click(className='android.widget.Button',instance='5'):android.widget.Button@"Delete"
+    493@click(className='android.widget.Button',instance='1'):android.widget.Button@"yes"
+    38@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    164@click(className='android.widget.Button',instance='0'):android.widget.Button@"Choose a type of plant!"
+    346@click(className='android.widget.Button',instance='6'):android.widget.Button@"OK"
+    173@click(className='android.widget.Button',instance='4'):android.widget.Button@"OK"
+    40@scroll(direction='down')
+    626@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    170@click(className='android.widget.Button',instance='3'):android.widget.Button@"Map"
+    404@scroll(direction='up')
+    398@click(content-desc='More options'):android.widget.ImageView@""
+    402@back
+    403@scroll(direction='down')
+    645@click(className='android.widget.Button',instance='1'):android.widget.Button@"Cancel"
+    164@click(className='android.widget.Button',instance='0'):android.widget.Button@"Choose a type of plant!"
+    342@click(className='android.widget.Button',instance='2'):android.widget.Button@"OK"
+    711@click(className='android.widget.Button',instance='0'):android.widget.Button@"Pear"
+    350@click(className='android.widget.Button',instance='10'):android.widget.Button@"OK"
+    741@click(className='android.widget.Button',instance='0'):android.widget.Button@"Bilberry"
+    349@click(className='android.widget.Button',instance='9'):android.widget.Button@"OK"
+    771@click(className='android.widget.Button',instance='0'):android.widget.Button@"Blackberry"
+    347@click(className='android.widget.Button',instance='7'):android.widget.Button@"OK"
+    801@click(className='android.widget.Button',instance='0'):android.widget.Button@"Quince"
+    351@click(className='android.widget.Button',instance='11'):android.widget.Button@"OK"
+    831@click(className='android.widget.Button',instance='0'):android.widget.Button@"Raspberry"
+    353@back
+    831@click(className='android.widget.Button',instance='0'):android.widget.Button@"Raspberry"
+    348@click(className='android.widget.Button',instance='8'):android.widget.Button@"OK"
+    891@click(className='android.widget.Button',instance='0'):android.widget.Button@"Other Fruit Tree"
+    343@click(className='android.widget.Button',instance='3'):android.widget.Button@"OK"
+    921@click(className='android.widget.Button',instance='0'):android.widget.Button@"Cherry"
+    340@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    951@click(className='android.widget.Button',instance='0'):android.widget.Button@"Apple"
+    352@click(className='android.widget.Button',instance='12'):android.widget.Button@"OK"
+    981@click(className='android.widget.Button',instance='0'):android.widget.Button@"Elder"
+    344@click(className='android.widget.Button',instance='4'):android.widget.Button@"OK"
+    1011@click(className='android.widget.Button',instance='0'):android.widget.Button@"Mirabelle"
+    355@scroll(direction='up')
+    338@click(content-desc='More options'):android.widget.ImageView@""
+    1060@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Settings"
+    1081@scroll(direction='up')
+    1080@scroll(direction='down')
+    1065@click(content-desc='More options'):android.widget.ImageView@""
+    1079@back
+    1113@click(className='android.widget.Button',instance='0'):android.widget.Button@"test radar notifications on the map"
+    1143@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"

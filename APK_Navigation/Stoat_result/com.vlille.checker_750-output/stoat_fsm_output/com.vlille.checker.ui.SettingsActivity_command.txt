@@ -1,0 +1,13 @@
+    16314@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    16315@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Id"
+    16316@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Address"
+    16317@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Update time"
+    16318@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"GPS provider"
+    16319@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Use GPS to locate your position"
+    16320@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Stations around me"
+    16321@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Within 500m"
+    16322@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"0 stations"
+    16323@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Last update: never"
+    16324@back
+    16325@scroll(direction='down')
+    16326@scroll(direction='up')

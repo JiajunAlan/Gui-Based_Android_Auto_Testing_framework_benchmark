@@ -1,0 +1,10 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+F/ActivityManager( 3548): Activity Manager Crash
+F/ActivityManager( 3548): java.lang.NullPointerException
+F/ActivityManager( 3548): 	at com.android.server.am.ActivityStackSupervisor.startActivityMayWait(ActivityStackSupervisor.java:666)
+F/ActivityManager( 3548): 	at com.android.server.am.ActivityManagerService.startActivityAsUser(ActivityManagerService.java:3118)
+F/ActivityManager( 3548): 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:161)
+F/ActivityManager( 3548): 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2071)
+F/ActivityManager( 3548): 	at android.os.Binder.execTransact(Binder.java:404)
+F/ActivityManager( 3548): 	at dalvik.system.NativeStart.run(Native Method)

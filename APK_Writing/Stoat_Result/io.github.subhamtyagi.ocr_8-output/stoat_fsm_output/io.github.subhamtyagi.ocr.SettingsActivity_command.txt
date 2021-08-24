@@ -1,0 +1,19 @@
+    143@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    144@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Select Tesseract Data type"
+    145@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Fast/Best/Standard"
+    146@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Select Multiple languages"
+    147@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Training data in multiple languages"
+    148@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    149@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Select language for Tesseract"
+    150@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Language"
+    151@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    152@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Page segmentation mode"
+    153@click(className='android.widget.TextView',instance='10'):android.widget.TextView@"It directs how Tesseract splits image in lines of text and words."
+    154@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    155@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"Pre-Process Image"
+    156@click(className='android.widget.TextView',instance='13'):android.widget.TextView@"Pre-process image for enhanced accuracy"
+    157@click(resource-id='android:id/icon'):android.widget.ImageView@""
+    158@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Image processing functions"
+    159@back
+    160@scroll(direction='down')
+    161@scroll(direction='up')

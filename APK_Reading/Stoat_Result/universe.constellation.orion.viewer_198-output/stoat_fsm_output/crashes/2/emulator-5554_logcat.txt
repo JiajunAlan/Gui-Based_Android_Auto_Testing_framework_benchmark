@@ -1,0 +1,60 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 9554): FATAL EXCEPTION: main
+E/AndroidRuntime( 9554): Process: universe.constellation.orion.viewer, PID: 9554
+E/AndroidRuntime( 9554): java.lang.UnsatisfiedLinkError: Couldn't load mupdf_java32 from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/universe.constellation.orion.viewer-2.apk"],nativeLibraryDirectories=[/data/app-lib/universe.constellation.orion.viewer-2, /vendor/lib, /system/lib]]]: findLibrary returned null
+E/AndroidRuntime( 9554): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+E/AndroidRuntime( 9554): 	at java.lang.System.loadLibrary(System.java:526)
+E/AndroidRuntime( 9554): 	at com.artifex.mupdf.fitz.Context.init(Context.java:30)
+E/AndroidRuntime( 9554): 	at com.artifex.mupdf.fitz.Context.<clinit>(Context.java:16)
+E/AndroidRuntime( 9554): 	at com.artifex.mupdf.fitz.Document.<clinit>(Document.java:6)
+E/AndroidRuntime( 9554): 	at com.artifex.mupdf.viewer.MuPDFCore.<init>(MuPDFCore.java:35)
+E/AndroidRuntime( 9554): 	at universe.constellation.orion.viewer.pdf.PdfDocument.<init>(PdfDocument.kt:34)
+E/AndroidRuntime( 9554): 	at universe.constellation.orion.viewer.FileUtil.openFile(FileUtil.kt:27)
+E/AndroidRuntime( 9554): 	at universe.constellation.orion.viewer.OrionViewerActivity$openFile$1$newDocument$1.invokeSuspend(OrionViewerActivity.kt:309)
+E/AndroidRuntime( 9554): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+E/AndroidRuntime( 9554): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+E/AndroidRuntime( 9554): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+E/AndroidRuntime( 9554): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+E/AndroidRuntime( 9554): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+E/AndroidRuntime( 9554): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+***********
+package name: universe.constellation.orion.viewer
+app code version: 0.81.2
+android sdk version: 19
+product model: Android SDK built for x86
+current time: Android SDK built for x86
+Applications Memory Usage (kB):
+Uptime: 1706044 Realtime: 1706044
+
+** MEMINFO in pid 9554 [universe.constellation.orion.viewer] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     4119     4084        0        0     8500     8072      427
+  Dalvik Heap    10691    10516        0        0    13028    12806      222
+ Dalvik Other     2553     2392        0        0                           
+        Stack      104      104        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1192      528       16        0                           
+    .jar mmap        5        0        0        0                           
+    .apk mmap      260        0       84        0                           
+    .ttf mmap        6        0        4        0                           
+    .dex mmap     4143      176     3540        0                           
+   Other mmap        8        4        0        0                           
+      Unknown       72       72        0        0                           
+        TOTAL    23157    17876     3648        0    21528    20878      649
+ 
+ Objects
+               Views:      214         ViewRootImpl:        2
+         AppContexts:        4           Activities:        2
+              Assets:        2        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       18
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+***********

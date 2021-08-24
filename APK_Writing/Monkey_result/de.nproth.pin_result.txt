@@ -1,0 +1,366 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626405043104 count=1000
+:AllowPackage: de.nproth.pin
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,102.0)
+:Sending Touch (ACTION_UP): 0:(169.91188,66.245834)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(521.4834,1071.2872)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(52.0,507.0)
+:Sending Touch (ACTION_UP): 0:(84.06195,524.6328)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(492.0,729.0)
+:Sending Touch (ACTION_UP): 0:(481.1237,719.75336)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(708.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(734.0003,1393.015)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(62.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(65.085434,1117.6384)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2021-08-04 05:20:30.451  system_uptime:24242694]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2021-08-04 05:20:35.141  system_uptime:24247364]
+    // Sending event #200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(393.0,176.0)
+:Sending Touch (ACTION_UP): 0:(392.91312,192.11888)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(767.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(764.03687,1273.1384)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(574.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(604.06964,1010.28326)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(531.0,1557.0)
+:Sending Touch (ACTION_UP): 0:(545.3474,1505.5936)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(429.0,1750.0)
+:Sending Touch (ACTION_UP): 0:(421.67242,1738.394)
+:Sending Touch (ACTION_DOWN): 0:(120.0,397.0)
+:Sending Touch (ACTION_UP): 0:(122.028656,385.55872)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(195.0,498.0)
+:Sending Touch (ACTION_UP): 0:(190.65102,499.72308)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(44.0,872.0)
+:Sending Touch (ACTION_UP): 0:(33.21552,804.9943)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1063.0,146.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,214.60484)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(1018.0311,1643.3672)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(488.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(487.71628,1738.2402)
+:Sending Touch (ACTION_DOWN): 0:(595.0,906.0)
+    //[calendar_time:2021-08-04 05:20:50.517  system_uptime:24262741]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(633.51855,812.7748)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(123.0,138.0)
+:Sending Touch (ACTION_UP): 0:(169.19905,76.79968)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(381.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(366.58112,1566.885)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(276.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(266.64105,1014.3325)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(636.0,309.0)
+:Sending Touch (ACTION_UP): 0:(633.31067,314.41302)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(421.0,267.0)
+:Sending Touch (ACTION_UP): 0:(419.0009,263.2064)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,569.0)
+:Sending Touch (ACTION_UP): 0:(98.143326,572.47485)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(191.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(190.20976,1014.1974)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Touch (ACTION_DOWN): 0:(518.0,1724.0)
+    //[calendar_time:2021-08-04 05:21:06.225  system_uptime:24278449]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(561.5178,1737.0061)
+:Sending Touch (ACTION_DOWN): 0:(520.0,6.0)
+:Sending Touch (ACTION_UP): 0:(518.14685,1.1821089)
+:Sending Touch (ACTION_DOWN): 0:(178.0,871.0)
+:Sending Touch (ACTION_UP): 0:(192.01549,920.8127)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(860.9053,1743.0172)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,716.0)
+:Sending Touch (ACTION_UP): 0:(616.6558,699.19434)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(705.0,868.0)
+:Sending Touch (ACTION_UP): 0:(701.0227,867.8396)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1098.0)
+:Sending Touch (ACTION_UP): 0:(887.53094,1106.1078)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2021-08-04 05:21:20.421  system_uptime:24292645]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(930.0,545.0)
+:Sending Touch (ACTION_UP): 0:(893.4206,635.5209)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(84.0,175.0)
+:Sending Touch (ACTION_UP): 0:(87.79872,179.89261)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(70.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(80.16154,1608.577)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(221.0,89.0)
+:Sending Touch (ACTION_UP): 0:(228.83733,96.06644)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(754.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(760.5315,1741.7457)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(12.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1499.9053)
+:Sending Touch (ACTION_DOWN): 0:(802.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(801.3395,1491.9801)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Touch (ACTION_DOWN): 0:(110.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(119.269516,1350.5244)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(958.0,260.0)
+:Sending Touch (ACTION_UP): 0:(950.00275,253.34445)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2021-08-04 05:21:35.293  system_uptime:24307516]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(976.0,371.0)
+:Sending Touch (ACTION_UP): 0:(983.88324,359.99536)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1709.0)
+:Sending Touch (ACTION_UP): 0:(1046.6555,1707.4496)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(176.56665,1043.7681)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(812.0,498.0)
+:Sending Touch (ACTION_UP): 0:(805.4935,481.4493)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(937.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(1018.0664,1124.6775)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(363.0,995.0)
+:Sending Touch (ACTION_UP): 0:(362.99826,991.4494)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(192.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(192.19588,1050.6234)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1003.0,258.0)
+:Sending Touch (ACTION_UP): 0:(1001.59686,266.069)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,812.0)
+:Sending Touch (ACTION_UP): 0:(625.7503,811.261)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2021-08-04 05:21:44.990  system_uptime:24317214]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(147.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(108.798935,1404.0599)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(511.0,895.0)
+:Sending Touch (ACTION_UP): 0:(530.40955,908.35876)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(227.0,211.0)
+:Sending Touch (ACTION_UP): 0:(218.064,212.2353)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(1032.0,681.0)
+:Sending Touch (ACTION_UP): 0:(1017.1095,670.4263)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Touch (ACTION_DOWN): 0:(688.0,1228.0)
+    //[calendar_time:2021-08-04 05:22:02.261  system_uptime:24334485]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(686.3346,1229.1475)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(330.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(336.1066,1680.9965)
+:Sending Touch (ACTION_DOWN): 0:(920.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(931.81885,1326.8068)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(227.0,318.0)
+:Sending Touch (ACTION_UP): 0:(245.91426,438.82343)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(141.0,762.0)
+:Sending Touch (ACTION_UP): 0:(123.957596,751.8207)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(35.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(64.59328,1293.4381)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(546.0,331.0)
+:Sending Touch (ACTION_UP): 0:(537.3345,306.34744)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(723.0,496.0)
+:Sending Touch (ACTION_UP): 0:(734.58453,488.97308)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(804.0,634.0)
+:Sending Touch (ACTION_UP): 0:(727.374,505.5487)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2021-08-04 05:22:14.943  system_uptime:24347167]
+    // Sending event #900
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(498.0,2.0)
+:Sending Touch (ACTION_UP): 0:(489.63995,3.2300427)
+:Sending Touch (ACTION_DOWN): 0:(890.0,1621.0)
+:Sending Touch (ACTION_UP): 0:(798.0395,1565.1196)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(726.0,978.0)
+:Sending Touch (ACTION_UP): 0:(677.23126,988.4561)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(551.0,224.0)
+:Sending Touch (ACTION_UP): 0:(536.76,218.31038)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(761.0,608.0)
+:Sending Touch (ACTION_UP): 0:(789.16754,653.1156)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(37.0,939.0)
+:Sending Touch (ACTION_UP): 0:(44.19675,955.8562)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(375.0,273.0)
+:Sending Touch (ACTION_UP): 0:(350.67627,247.38243)
+    // activityResuming(com.android.mms)
+    // Rejecting resume of package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.nproth.pin/.NoteActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.nproth.pin/.NoteActivity } in package de.nproth.pin
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=131400ms (0ms mobile, 0ms wifi, 131400ms not connected)
+// Monkey finished

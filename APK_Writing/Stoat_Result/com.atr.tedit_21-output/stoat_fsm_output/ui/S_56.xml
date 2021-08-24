@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[27,626][1053,1234]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+        <node index="0" text="" resource-id="com.atr.tedit:id/action_bar_root" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+            <node index="0" text="" resource-id="com.atr.tedit:id/parentPanel" class="android.support.v7.widget.LinearLayoutCompat" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+              <node index="0" text="" resource-id="com.atr.tedit:id/customPanel" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+                <node index="0" text="" resource-id="com.atr.tedit:id/custom" class="android.widget.FrameLayout" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+                  <node index="0" text="" resource-id="com.atr.tedit:id/dialog_layout" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[69,668][1011,1192]">
+                    <node index="0" text="" resource-id="com.atr.tedit:id/dialog_layout_title" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,686][438,749]">
+                      <node index="0" text="New Directory" resource-id="com.atr.tedit:id/dialog_title" class="android.widget.TextView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,686][438,749]" />
+                    </node>
+                    <node index="1" text="Directory name:" resource-id="com.atr.tedit:id/dialog_message" class="android.widget.TextView" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[87,791][391,840]" />
+                    <node NAF="true" index="2" text="" resource-id="com.atr.tedit:id/dialog_view" class="android.widget.EditText" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" bounds="[87,908][993,1006]" />
+                    <node index="3" text="" resource-id="com.atr.tedit:id/dialog_layout_button" class="android.view.View" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,1048][993,1174]">
+                      <node index="0" text="Cancel" resource-id="com.atr.tedit:id/dialog_negative_button" class="android.widget.Button" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[513,1048][744,1174]" />
+                      <node index="1" text="Okay" resource-id="com.atr.tedit:id/dialog_positive_button" class="android.widget.Button" package="com.atr.tedit" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[762,1048][993,1174]" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

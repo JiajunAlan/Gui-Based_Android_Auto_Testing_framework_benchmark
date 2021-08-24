@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[313,883][471,1177]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[334,904][450,1156]">
+      <node index="0" text="ft" resource-id="android:id/text1" class="android.widget.TextView" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[334,904][450,1030]" />
+      <node index="1" text="m" resource-id="android:id/text1" class="android.widget.TextView" package="com.github.siggel.coordinatejoker" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[334,1030][450,1156]" />
+    </node>
+  </node>
+</hierarchy>

@@ -1,0 +1,260 @@
+menu
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"9"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"12"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"13"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"6"
+scroll(direction='down')
+**
+menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"7"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"9"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"12"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"17"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"8"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"7"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"11"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+**
+menu
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"9"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"15"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"15"
+**
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+back
+back
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='4'):android.widget.Button@"play"
+**
+back
+**
+back
+**
+menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"8"
+back
+menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"8"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"8"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+**
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+click(className='android.widget.TextView',instance='9'):android.widget.TextView@"Show Blue Hints"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+**
+menu
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Single Line Fill Mode"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+**
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+clickLong(className='android.widget.Button',instance='5'):android.widget.Button@"9"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"6"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"12"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"15"
+back
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='7'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='1'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+**
+back
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='3'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='5'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+**
+back
+**
+back
+**
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='4'):android.widget.Button@"8"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"16"
+click(className='android.widget.Button',instance='7'):android.widget.Button@"OK"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+**
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"13"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"11"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"10"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"13"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"Cancel"
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Enable if it is difficult to touch individual squares"
+click(className='android.widget.TextView',instance='8'):android.widget.TextView@"Enable Dark Mode"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Vibrate when performing certain actions"
+**
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"10"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"11"
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"8"
+clickLong(className='android.widget.Button',instance='2'):android.widget.Button@"12"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+clickLong(className='android.widget.Button',instance='0'):android.widget.Button@"11"
+clickLong(className='android.widget.Button',instance='1'):android.widget.Button@"11"
+scroll(direction='down')
+edit(resource-id='android:id/numberpicker_input'):android.widget.EditText@"12"
+click(className='android.widget.Button',instance='1'):android.widget.Button@"14"
+**
+menu
+menu
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+click(className='android.widget.TextView',instance='1'):android.widget.TextView@"Vibrate"
+click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+click(resource-id='android:id/checkbox'):android.widget.CheckBox@""
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Requires Restart"
+click(className='android.widget.TextView',instance='6'):android.widget.TextView@"Override System Theme"
+back
+click(className='android.widget.Button',instance='2'):android.widget.Button@"Preferences"
+**
+menu
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+back
+click(className='android.widget.Button',instance='8'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+back
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='6'):android.widget.Button@"play"
+**
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/clear'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+click(resource-id='com.picross.nonocross:id/undo'):android.widget.TextView@""
+back
+**
+back
+**
+back
+**
+back
+**
+menu
+menu
+menu
+click(className='android.widget.Button',instance='1'):android.widget.Button@"Random Grid"
+clickLong(className='android.widget.Button',instance='3'):android.widget.Button@"12"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"10"
+click(className='android.widget.Button',instance='5'):android.widget.Button@"Cancel"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"Practice Grids"
+click(className='android.widget.Button',instance='0'):android.widget.Button@"play"
+back
+back
+**

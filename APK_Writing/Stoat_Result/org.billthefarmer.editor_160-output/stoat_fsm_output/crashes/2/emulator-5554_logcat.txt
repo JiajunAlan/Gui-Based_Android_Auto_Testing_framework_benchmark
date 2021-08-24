@@ -1,0 +1,23 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+E/AndroidRuntime( 3331): FATAL EXCEPTION: main
+E/AndroidRuntime( 3331): Process: org.billthefarmer.editor, PID: 3331
+E/AndroidRuntime( 3331): java.lang.RuntimeException: Unable to start activity ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}: java.lang.NullPointerException
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2195)
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread.access$800(ActivityThread.java:135)
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+E/AndroidRuntime( 3331): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime( 3331): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+E/AndroidRuntime( 3331): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3331): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3331): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+E/AndroidRuntime( 3331): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+E/AndroidRuntime( 3331): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3331): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 3331): 	at org.billthefarmer.editor.Editor.onCreate(Editor.java:495)
+E/AndroidRuntime( 3331): 	at android.app.Activity.performCreate(Activity.java:5231)
+E/AndroidRuntime( 3331): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+E/AndroidRuntime( 3331): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+E/AndroidRuntime( 3331): 	... 11 more

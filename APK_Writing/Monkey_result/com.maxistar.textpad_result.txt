@@ -1,0 +1,242 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626404872450 count=1000
+:AllowPackage: com.maxistar.textpad
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(957.0,774.0)
+:Sending Touch (ACTION_UP): 0:(956.46124,773.8867)
+:Sending Touch (ACTION_DOWN): 0:(605.0,1618.0)
+:Sending Touch (ACTION_UP): 0:(508.55704,1681.71)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1335.7476)
+:Sending Touch (ACTION_DOWN): 0:(54.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(52.31046,1716.0253)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1785.0)
+:Sending Touch (ACTION_UP): 0:(717.1224,1784.4227)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(448.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(448.71658,1397.6404)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2021-08-04 05:08:01.230  system_uptime:23493469]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2021-08-04 05:08:09.663  system_uptime:23501886]
+    // Sending event #200
+    //[calendar_time:2021-08-04 05:08:10.165  system_uptime:23502389]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(10.0,115.0)
+:Sending Touch (ACTION_UP): 0:(26.880064,134.2765)
+:Sending Touch (ACTION_DOWN): 0:(848.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(849.1185,1417.3562)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(225.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(228.89217,1059.2235)
+:Sending Touch (ACTION_DOWN): 0:(611.0,864.0)
+:Sending Touch (ACTION_UP): 0:(616.3713,881.7237)
+:Sending Touch (ACTION_DOWN): 0:(170.0,573.0)
+:Sending Touch (ACTION_UP): 0:(169.48523,580.9969)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(616.5174,1135.7029)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(367.0,483.0)
+:Sending Touch (ACTION_UP): 0:(411.01166,489.898)
+:Sending Touch (ACTION_DOWN): 0:(537.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(538.5719,1356.5775)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2021-08-04 05:08:22.871  system_uptime:23515095]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(220.0,83.0)
+:Sending Touch (ACTION_UP): 0:(140.41823,33.178833)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(217.0,630.0)
+:Sending Touch (ACTION_UP): 0:(225.90787,636.41534)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,994.0)
+:Sending Touch (ACTION_UP): 0:(445.77228,1008.3737)
+:Sending Touch (ACTION_DOWN): 0:(179.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(172.45752,1376.6636)
+:Sending Touch (ACTION_DOWN): 0:(963.0,228.0)
+:Sending Touch (ACTION_UP): 0:(968.4357,224.64072)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,925.0)
+:Sending Touch (ACTION_UP): 0:(1030.3221,925.48926)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(667.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(668.46826,1461.1201)
+:Sending Touch (ACTION_DOWN): 0:(762.0,773.0)
+:Sending Touch (ACTION_UP): 0:(765.08167,776.8703)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2021-08-04 05:08:33.215  system_uptime:23525439]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(798.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(793.3092,1052.1794)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(930.0,574.0)
+:Sending Touch (ACTION_UP): 0:(947.1422,494.76755)
+:Sending Touch (ACTION_DOWN): 0:(593.0,711.0)
+:Sending Touch (ACTION_UP): 0:(553.672,662.02985)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1719.0)
+:Sending Touch (ACTION_UP): 0:(29.906433,1728.4645)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(777.46857,1392.2211)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(687.7534,1334.6205)
+:Sending Touch (ACTION_DOWN): 0:(416.0,451.0)
+:Sending Touch (ACTION_UP): 0:(409.55,454.79428)
+:Sending Touch (ACTION_DOWN): 0:(556.0,508.0)
+:Sending Touch (ACTION_UP): 0:(560.56323,507.79144)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1592.0)
+:Sending Touch (ACTION_UP): 0:(1055.9254,1581.6057)
+:Sending Touch (ACTION_DOWN): 0:(402.0,911.0)
+    //[calendar_time:2021-08-04 05:08:44.989  system_uptime:23537213]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(331.93237,1013.02356)
+:Sending Touch (ACTION_DOWN): 0:(26.0,439.0)
+:Sending Touch (ACTION_UP): 0:(21.856972,437.8587)
+:Sending Touch (ACTION_DOWN): 0:(628.0,1749.0)
+:Sending Touch (ACTION_UP): 0:(642.86646,1741.8795)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Touch (ACTION_DOWN): 0:(216.0,553.0)
+:Sending Touch (ACTION_UP): 0:(277.27313,633.9295)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(22.0,482.0)
+:Sending Touch (ACTION_UP): 0:(19.83126,513.22644)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(817.8068,1153.9432)
+:Sending Touch (ACTION_DOWN): 0:(292.0,527.0)
+:Sending Touch (ACTION_UP): 0:(245.06813,606.07587)
+:Sending Touch (ACTION_DOWN): 0:(28.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(46.964333,1015.48364)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(662.226,1416.5308)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(255.0,1490.0)
+    //[calendar_time:2021-08-04 05:08:56.145  system_uptime:23548368]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(292.82263,1479.2332)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(582.0,763.0)
+:Sending Touch (ACTION_UP): 0:(585.9279,760.3089)
+:Sending Touch (ACTION_DOWN): 0:(695.0,675.0)
+:Sending Touch (ACTION_UP): 0:(701.2437,641.4221)
+    // Allowing start of Intent { cmp=com.maxistar.textpad/.activities.SettingsActivity } in package com.maxistar.textpad
+:Sending Touch (ACTION_DOWN): 0:(808.0,123.0)
+:Sending Touch (ACTION_UP): 0:(870.8042,147.41492)
+:Sending Touch (ACTION_DOWN): 0:(329.0,187.0)
+:Sending Touch (ACTION_UP): 0:(424.91333,270.5244)
+:Sending Touch (ACTION_DOWN): 0:(445.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(442.07803,1453.0702)
+:Sending Touch (ACTION_DOWN): 0:(84.0,62.0)
+:Sending Touch (ACTION_UP): 0:(79.88694,59.299385)
+:Sending Touch (ACTION_DOWN): 0:(60.0,784.0)
+:Sending Touch (ACTION_UP): 0:(69.8559,792.2501)
+:Sending Touch (ACTION_DOWN): 0:(516.0,193.0)
+:Sending Touch (ACTION_UP): 0:(511.33365,190.40033)
+:Sending Touch (ACTION_DOWN): 0:(688.0,358.0)
+:Sending Touch (ACTION_UP): 0:(642.4775,386.77386)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(95.0,88.0)
+:Sending Touch (ACTION_UP): 0:(85.50558,80.88508)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Touch (ACTION_DOWN): 0:(879.0,273.0)
+    //[calendar_time:2021-08-04 05:09:08.814  system_uptime:23561038]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(883.74695,273.2477)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,1616.0)
+:Sending Touch (ACTION_UP): 0:(844.4414,1610.6598)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Touch (ACTION_DOWN): 0:(738.0,807.0)
+:Sending Touch (ACTION_UP): 0:(735.2219,807.28687)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2021-08-04 05:09:18.996  system_uptime:23571219]
+    // Sending event #800
+    //[calendar_time:2021-08-04 05:09:19.500  system_uptime:23571724]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(679.0,66.0)
+:Sending Touch (ACTION_UP): 0:(658.0535,219.25371)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(388.15558,1155.3088)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(54.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(51.975857,1315.5845)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.maxistar.textpad/.activities.EditorActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.maxistar.textpad/.activities.EditorActivity } in package com.maxistar.textpad
+:Sending Touch (ACTION_DOWN): 0:(630.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(620.1069,1431.3463)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(821.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(825.96436,1696.313)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2021-08-04 05:09:27.185  system_uptime:23579409]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(329.0,879.0)
+:Sending Touch (ACTION_UP): 0:(340.49677,891.24)
+:Sending Touch (ACTION_DOWN): 0:(730.0,692.0)
+:Sending Touch (ACTION_UP): 0:(761.2694,691.7011)
+:Sending Touch (ACTION_DOWN): 0:(606.0,782.0)
+:Sending Touch (ACTION_UP): 0:(595.2123,780.13763)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,502.0)
+:Sending Touch (ACTION_UP): 0:(1014.26215,577.03735)
+:Sending Touch (ACTION_DOWN): 0:(737.0,416.0)
+:Sending Touch (ACTION_UP): 0:(741.8044,423.95514)
+:Sending Touch (ACTION_DOWN): 0:(952.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(953.4933,1045.0684)
+:Sending Touch (ACTION_DOWN): 0:(144.0,955.0)
+:Sending Touch (ACTION_UP): 0:(32.09139,1024.0155)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,75.0)
+:Sending Touch (ACTION_UP): 0:(991.9412,74.991196)
+:Sending Touch (ACTION_DOWN): 0:(715.0,726.0)
+:Sending Touch (ACTION_UP): 0:(731.3057,739.6399)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=111482ms (0ms mobile, 0ms wifi, 111482ms not connected)
+// Monkey finished

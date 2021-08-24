@@ -1,0 +1,238 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626403750431 count=1000
+:AllowPackage: com.atr.tedit
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Sending Touch (ACTION_DOWN): 0:(862.0,1593.0)
+:Sending Touch (ACTION_UP): 0:(865.79956,1575.8857)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(134.16487,1250.4977)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(662.9137,1188.0513)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(350.0,879.0)
+:Sending Touch (ACTION_UP): 0:(326.63776,877.24146)
+:Sending Touch (ACTION_DOWN): 0:(215.0,262.0)
+:Sending Touch (ACTION_UP): 0:(95.520035,184.34923)
+:Sending Touch (ACTION_DOWN): 0:(490.0,888.0)
+:Sending Touch (ACTION_UP): 0:(496.55264,904.7006)
+:Sending Touch (ACTION_DOWN): 0:(51.0,84.0)
+:Sending Touch (ACTION_UP): 0:(16.693237,74.83027)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(644.0,1719.0)
+:Sending Touch (ACTION_UP): 0:(654.2385,1674.8516)
+:Sending Touch (ACTION_DOWN): 0:(447.0,228.0)
+    //[calendar_time:2021-08-04 04:55:58.228  system_uptime:22770468]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(452.0856,197.98865)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,1364.0)
+:Sending Touch (ACTION_UP): 0:(583.64575,1323.6462)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,110.0)
+:Sending Touch (ACTION_UP): 0:(966.869,56.312088)
+:Sending Touch (ACTION_DOWN): 0:(534.0,251.0)
+:Sending Touch (ACTION_UP): 0:(533.21387,253.32048)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2021-08-04 04:56:06.437  system_uptime:22778661]
+    // Sending event #200
+    //[calendar_time:2021-08-04 04:56:06.938  system_uptime:22779162]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(767.0,485.0)
+:Sending Touch (ACTION_UP): 0:(770.8872,517.4437)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Sending Touch (ACTION_DOWN): 0:(372.0,1375.0)
+:Sending Touch (ACTION_UP): 0:(364.33286,1361.8905)
+:Sending Touch (ACTION_DOWN): 0:(396.0,436.0)
+:Sending Touch (ACTION_UP): 0:(401.57193,436.04022)
+:Sending Touch (ACTION_DOWN): 0:(157.0,70.0)
+:Sending Touch (ACTION_UP): 0:(155.29256,69.99751)
+:Sending Touch (ACTION_DOWN): 0:(603.0,89.0)
+:Sending Touch (ACTION_UP): 0:(571.9168,43.085842)
+:Sending Touch (ACTION_DOWN): 0:(78.0,351.0)
+:Sending Touch (ACTION_UP): 0:(78.854416,351.93936)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,892.0)
+:Sending Touch (ACTION_UP): 0:(1059.3062,886.697)
+:Sending Touch (ACTION_DOWN): 0:(583.0,1187.0)
+:Sending Touch (ACTION_UP): 0:(579.8586,1184.018)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(119.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(56.89485,1322.0137)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-04 04:56:20.639  system_uptime:22792862]
+    // Sending event #300
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(791.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(784.5609,1520.0134)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(417.0,382.0)
+:Sending Touch (ACTION_UP): 0:(417.0624,393.60812)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Sending Touch (ACTION_DOWN): 0:(659.0,300.0)
+:Sending Touch (ACTION_UP): 0:(653.47363,300.66766)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(841.18097,1025.0007)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.inventati.org/1337gallery cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(261.0,1727.0)
+:Sending Touch (ACTION_UP): 0:(427.9683,1638.9729)
+:Sending Touch (ACTION_DOWN): 0:(773.0,874.0)
+:Sending Touch (ACTION_UP): 0:(846.53937,857.76587)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2021-08-04 04:56:33.394  system_uptime:22805618]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(215.0,281.0)
+:Sending Touch (ACTION_UP): 0:(212.89946,285.3128)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(448.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(454.24518,1789.3007)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.inventati.org/1337gallery cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.inventati.org/1337gallery cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(907.0,414.0)
+:Sending Touch (ACTION_UP): 0:(965.08673,436.19617)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(634.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(637.51794,1383.4319)
+    //[calendar_time:2021-08-04 04:56:45.563  system_uptime:22817786]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(386.56274,1381.7285)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(424.11264,1618.162)
+:Sending Touch (ACTION_DOWN): 0:(90.0,549.0)
+:Sending Touch (ACTION_UP): 0:(129.64973,616.7712)
+:Sending Touch (ACTION_DOWN): 0:(12.0,230.0)
+:Sending Touch (ACTION_UP): 0:(0.0,286.92554)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2021-08-04 04:56:53.681  system_uptime:22825905]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.inventati.org/1337gallery cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(697.0,449.0)
+:Sending Touch (ACTION_UP): 0:(690.7246,448.61392)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://www.inventati.org/1337gallery cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(890.0,656.0)
+:Sending Touch (ACTION_UP): 0:(894.41144,651.94147)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(991.0,569.0)
+:Sending Touch (ACTION_UP): 0:(977.5329,576.0742)
+:Sending Touch (ACTION_DOWN): 0:(990.0,628.0)
+:Sending Touch (ACTION_UP): 0:(987.7237,628.2701)
+:Sending Touch (ACTION_DOWN): 0:(894.0,723.0)
+:Sending Touch (ACTION_UP): 0:(889.9873,723.06616)
+:Sending Touch (ACTION_DOWN): 0:(288.0,277.0)
+:Sending Touch (ACTION_UP): 0:(282.03995,285.63193)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(689.52264,1333.2704)
+:Sending Touch (ACTION_DOWN): 0:(257.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(261.40683,1171.8962)
+:Sending Touch (ACTION_DOWN): 0:(18.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1095.7765)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1611.0)
+    //[calendar_time:2021-08-04 04:57:07.936  system_uptime:22840159]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(968.0131,1554.4442)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(231.89226,1391.2657)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(481.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(475.30725,1764.7308)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(1011.6727,1272.5701)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(517.4299,1328.0746)
+:Sending Touch (ACTION_DOWN): 0:(197.0,1487.0)
+:Sending Touch (ACTION_UP): 0:(201.26152,1472.3281)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(217.0,228.0)
+:Sending Touch (ACTION_UP): 0:(279.71136,245.07835)
+:Sending Touch (ACTION_DOWN): 0:(138.0,1652.0)
+:Sending Touch (ACTION_UP): 0:(85.24413,1563.1353)
+    //[calendar_time:2021-08-04 04:57:20.646  system_uptime:22852870]
+    // Sending event #800
+    //[calendar_time:2021-08-04 04:57:21.149  system_uptime:22853372]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(285.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(285.48187,1708.7003)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(318.0,640.0)
+:Sending Touch (ACTION_UP): 0:(203.76205,630.9217)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(664.0,191.0)
+:Sending Touch (ACTION_UP): 0:(664.93713,198.00056)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+    //[calendar_time:2021-08-04 04:57:28.894  system_uptime:22861118]
+    // Sending event #900
+    //[calendar_time:2021-08-04 04:57:29.396  system_uptime:22861620]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(706.0,239.0)
+:Sending Touch (ACTION_UP): 0:(708.3486,230.81111)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,738.0)
+:Sending Touch (ACTION_UP): 0:(1063.492,708.5383)
+:Sending Touch (ACTION_DOWN): 0:(886.0,32.0)
+:Sending Touch (ACTION_UP): 0:(888.0919,37.238277)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(763.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(706.42267,1265.1277)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(322.0,312.0)
+:Sending Touch (ACTION_UP): 0:(325.0924,314.57782)
+:Sending Touch (ACTION_DOWN): 0:(846.0,209.0)
+:Sending Touch (ACTION_UP): 0:(855.3029,233.2979)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(960.9036,1071.5206)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.atr.tedit/.TEditActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.atr.tedit/.TEditActivity } in package com.atr.tedit
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(904.0,241.0)
+:Sending Touch (ACTION_UP): 0:(902.7482,248.13365)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114672ms (0ms mobile, 0ms wifi, 114672ms not connected)
+// Monkey finished

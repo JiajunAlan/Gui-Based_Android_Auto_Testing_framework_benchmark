@@ -1,0 +1,98 @@
+keyevent_back@
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='2')@Distance Measurement
+back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='1')@Running
+click(className='android.widget.TextView',instance='1')@Week
+click(className='android.widget.TextView',instance='3')@15. - 21. August
+click(className='android.widget.Button',instance='4')@Done
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='1')@Training
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/start_training')@
+click(content-desc='More options')@
+back@
+click(content-desc='Navigate up')@
+clickLong(content-desc='More options')@
+click(className='android.widget.Button',instance='0')@End training now
+back@
+click(className='android.widget.TextView',instance='15')@0.00
+clickLong(content-desc='More options')@
+click(content-desc='Navigate up')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='1')@Running
+scroll(direction='down')@
+scroll(direction='up')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+clickLong(className='android.widget.TextView',instance='2')@Month
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Help
+click(className='android.widget.TextView',instance='8')@Privacy Info
+click(className='android.widget.TextView',instance='7')@Correct steps manually
+click(className='android.widget.TextView',instance='5')@Training Sessions
+click(className='android.widget.TextView',instance='8')@Correct steps manually
+click(className='android.widget.TextView',instance='9')@Privacy Info
+click(className='android.widget.TextView',instance='2')@Motivation alert
+click(className='android.widget.TextView',instance='6')@The training sessions can be used to track your training performance. Each session tracks e.g. the training duration, the walked steps and distance.
+click(className='android.widget.TextView',instance='3')@The app can show you motivation alerts if the achievement of your daily step goal is in danger. You can define the criterion, the time of day and the notification texts.
+click(className='android.widget.TextView',instance='1')@Notification
+click(className='android.widget.TextView',instance='9')@Distance Measurement
+click(className='android.widget.TextView',instance='3')@You can disable all notifications in system preferences.
+back@
+clickLong(className='android.widget.TextView',instance='0')@Day
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_continue_step_detection')@
+clickLong(resource-id='org.secuso.privacyfriendlyactivitytracker:id/menu_pause_step_detection')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='2')@Month
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='4')@Help
+click(className='android.widget.TextView',instance='6')@Distance Measurement
+click(className='android.widget.TextView',instance='1')@Motivation alert
+click(className='android.widget.TextView',instance='6')@The distance measurement feature allows you to measure the distance between the button press Start and Stop. The data will not be stored after app restarts. To persist the data you can use the training sessions.
+click(className='android.widget.TextView',instance='6')@Correct steps manually
+click(className='android.widget.TextView',instance='11')@is used to keep the CPU awake to count the steps in background.
+click(className='android.widget.TextView',instance='7')@You can modify the detected daily steps in daily report view. This allows you to add steps you walked without the app or to correct the detected number of steps.
+click(className='android.widget.TextView',instance='1')@The app can show you motivation alerts if the achievement of your daily step goal is in danger. You can define the criterion, the time of day and the notification texts.
+click(className='android.widget.TextView',instance='4')@Distance Measurement
+click(className='android.widget.TextView',instance='7')@Privacy Info
+click(className='android.widget.TextView',instance='2')@Walking Modes
+click(className='android.widget.TextView',instance='12')@is used to keep the CPU awake to count the steps in background.
+click(className='android.widget.TextView',instance='3')@You can define your own walking modes like Running or Walking in the preferences. Each walking mode has its own step length.
+click(className='android.widget.TextView',instance='4')@Training Sessions
+click(className='android.widget.TextView',instance='8')@You can modify the detected daily steps in daily report view. This allows you to add steps you walked without the app or to correct the detected number of steps.
+click(className='android.widget.TextView',instance='5')@The training sessions can be used to track your training performance. Each session tracks e.g. the training duration, the walked steps and distance.
+click(className='android.widget.TextView',instance='10')@The storage and gps permissions used by Privacy Friendly Pedometer can be managed by the user in Android versions of 6+.
+click(className='android.widget.TextView',instance='5')@Correct steps manually
+click(className='android.widget.TextView',instance='1')@You can define your own walking modes like Running or Walking in the preferences. Each walking mode has its own step length.
+click(className='android.widget.TextView',instance='2')@Training Sessions
+click(className='android.widget.TextView',instance='10')@is used to keep the CPU awake to count the steps in background.
+click(className='android.widget.TextView',instance='6')@The storage and gps permissions used by Privacy Friendly Pedometer can be managed by the user in Android versions of 6+.
+click(className='android.widget.TextView',instance='5')@Privacy Info
+click(className='android.widget.TextView',instance='7')@is used to start the step counter and set the notifications at boot time. If the permission is not granted you have to start the app manually once after boot to activate the app.
+click(className='android.widget.TextView',instance='9')@is used to keep the CPU awake to count the steps in background.
+click(className='android.widget.TextView',instance='8')@is used to start the step counter and set the notifications at boot time. If the permission is not granted you have to start the app manually once after boot to activate the app.
+click(className='android.widget.TextView',instance='12')@is needed for the continuous service on Android 9 or higher.
+click(className='android.widget.TextView',instance='2')@You can define your own walking modes like Running or Walking in the preferences. Each walking mode has its own step length.
+click(className='android.widget.TextView',instance='6')@Privacy Info
+click(className='android.widget.TextView',instance='3')@Training Sessions
+click(className='android.widget.TextView',instance='1')@Walking Modes
+click(className='android.widget.TextView',instance='7')@The storage and gps permissions used by Privacy Friendly Pedometer can be managed by the user in Android versions of 6+.
+click(className='android.widget.TextView',instance='11')@is needed for the continuous service on Android 9 or higher.
+click(className='android.widget.TextView',instance='3')@The training sessions can be used to track your training performance. Each session tracks e.g. the training duration, the walked steps and distance.
+click(content-desc='Open navigation drawer')@
+click(className='android.widget.CheckedTextView',instance='0')@Pedometer
+clickLong(className='android.widget.TextView',instance='1')@Week
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/radio')@
+click(className='android.widget.TextView',instance='3')@17. August
+clickLong(className='android.widget.Button',instance='1')@Sep
+edit(resource-id='android:id/numberpicker_input')@Aug
+keyevent_back@
+click(resource-id='org.secuso.privacyfriendlyactivitytracker:id/periodMoreButton')@
+click(className='android.widget.TextView',instance='2')@Correct steps

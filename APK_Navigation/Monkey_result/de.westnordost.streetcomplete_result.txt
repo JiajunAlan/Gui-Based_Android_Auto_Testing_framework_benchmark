@@ -1,0 +1,1027 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626396500446 count=1000
+:AllowPackage: de.westnordost.streetcomplete
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 334)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 348)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 367)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(31.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(36.862614,1037.6147)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(11.0,279.0)
+:Sending Touch (ACTION_UP): 0:(14.859639,277.68665)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 392)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 406)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 421)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // Rejecting start of Intent { act=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS cmp=com.android.settings/.Settings$ManageApplicationsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1052.0,30.0)
+:Sending Touch (ACTION_UP): 0:(1051.1317,24.256445)
+:Sending Touch (ACTION_DOWN): 0:(72.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(82.05746,1794.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 483)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 498)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 513)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(328.0,758.0)
+:Sending Touch (ACTION_UP): 0:(327.7581,757.58514)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(845.0,541.0)
+:Sending Touch (ACTION_UP): 0:(845.09406,606.3364)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(321.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(291.15884,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(957.0,1253.0)
+    //[calendar_time:2021-08-04 02:50:40.691  system_uptime:15252933]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(964.10895,1256.4406)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,652.0)
+:Sending Touch (ACTION_UP): 0:(1009.2221,663.0861)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(129.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(162.83492,1507.5271)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 579)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 593)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 610)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 626)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 640)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 655)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Touch (ACTION_DOWN): 0:(817.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(791.4605,1203.447)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity } in package com.google.android.play.games
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(394.0,627.0)
+:Sending Touch (ACTION_UP): 0:(397.81183,622.62915)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(648.0,333.0)
+:Sending Touch (ACTION_UP): 0:(652.5272,326.61218)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,17.0)
+    //[calendar_time:2021-08-04 02:50:54.967  system_uptime:15267190]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(1046.3899,126.20228)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(273.0,5.0)
+:Sending Touch (ACTION_UP): 0:(274.45258,0.0)
+    // Rejecting start of Intent { act=android.intent.action.QUICK_CLOCK cmp=com.android.settings/.Settings$DateTimeSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(211.0,697.0)
+:Sending Touch (ACTION_UP): 0:(211.65366,680.7862)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(804.0,748.0)
+:Sending Touch (ACTION_UP): 0:(805.54956,755.4757)
+:Sending Touch (ACTION_DOWN): 0:(702.0,913.0)
+:Sending Touch (ACTION_UP): 0:(710.92084,892.94385)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(787.0,475.0)
+:Sending Touch (ACTION_UP): 0:(783.1686,484.04666)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(112.0,98.0)
+:Sending Touch (ACTION_UP): 0:(113.32262,71.44141)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(1017.2409,1372.659)
+:Sending Touch (ACTION_DOWN): 0:(171.0,626.0)
+:Sending Touch (ACTION_UP): 0:(171.68257,607.0865)
+:Sending Touch (ACTION_DOWN): 0:(763.0,13.0)
+    //[calendar_time:2021-08-04 02:51:04.611  system_uptime:15276835]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(745.7646,16.539066)
+:Sending Touch (ACTION_DOWN): 0:(540.0,33.0)
+:Sending Touch (ACTION_UP): 0:(554.52124,46.169373)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(676.0,75.0)
+:Sending Touch (ACTION_UP): 0:(610.12115,21.956509)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(464.53143,1572.5436)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.customlocale2/.CustomLocaleActivity } in package com.android.customlocale2
+:Sending Touch (ACTION_DOWN): 0:(423.0,361.0)
+:Sending Touch (ACTION_UP): 0:(347.32446,347.87506)
+:Sending Touch (ACTION_DOWN): 0:(848.0,724.0)
+:Sending Touch (ACTION_UP): 0:(786.1499,735.3147)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 737)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 751)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 769)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(917.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(921.7168,1763.6642)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2021-08-04 02:51:16.867  system_uptime:15289091]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(993.0,639.0)
+:Sending Touch (ACTION_UP): 0:(994.2108,638.98285)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(62.0,72.0)
+:Sending Touch (ACTION_UP): 0:(29.927834,180.83006)
+:Sending Touch (ACTION_DOWN): 0:(732.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(730.7793,1320.7742)
+:Sending Touch (ACTION_DOWN): 0:(899.0,172.0)
+:Sending Touch (ACTION_UP): 0:(902.5794,171.2492)
+:Sending Touch (ACTION_DOWN): 0:(900.0,370.0)
+:Sending Touch (ACTION_UP): 0:(965.8939,383.0946)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,36.0)
+:Sending Touch (ACTION_UP): 0:(998.71844,26.976137)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(827.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(827.7301,1278.6157)
+:Sending Touch (ACTION_DOWN): 0:(167.0,913.0)
+:Sending Touch (ACTION_UP): 0:(178.73383,874.13873)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(808.0,1758.0)
+:Sending Touch (ACTION_UP): 0:(810.95416,1754.0222)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2021-08-04 02:51:30.601  system_uptime:15302824]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(139.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(131.68091,1738.4064)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(366.0,768.0)
+:Sending Touch (ACTION_UP): 0:(366.3969,769.5845)
+:Sending Touch (ACTION_DOWN): 0:(410.0,644.0)
+:Sending Touch (ACTION_UP): 0:(411.88675,628.02704)
+:Sending Touch (ACTION_DOWN): 0:(727.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(727.8677,1200.1399)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(196.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(196.65233,1210.1696)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(764.4025,1449.7435)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(406.0,146.0)
+:Sending Touch (ACTION_UP): 0:(370.5053,28.315687)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    //[calendar_time:2021-08-04 02:51:44.846  system_uptime:15317069]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(451.0,1301.0)
+:Sending Touch (ACTION_UP): 0:(461.49854,1297.873)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(1049.0276,1471.6082)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.westnordost.streetcomplete/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.westnordost.streetcomplete/.MainActivity } in package de.westnordost.streetcomplete
+// CRASH: de.westnordost.streetcomplete (pid 892)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 906)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+// CRASH: de.westnordost.streetcomplete (pid 923)
+// Short Msg: java.lang.NoClassDefFoundError
+// Long Msg: java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// Build Label: generic_x86/google_sdk_x86/generic_x86:4.4.2/KK/6761301:eng/test-keys
+// Build Changelist: 6761301
+// Build Time: 1597353389000
+// java.lang.NoClassDefFoundError: j$.util.concurrent.ConcurrentHashMap
+// 	at androidx.room.RoomDatabase.<init>(RoomDatabase.java:131)
+// 	at androidx.work.impl.WorkDatabase.<init>(WorkDatabase.java:80)
+// 	at androidx.work.impl.WorkDatabase_Impl.<init>(WorkDatabase_Impl.java:42)
+// 	at java.lang.Class.newInstanceImpl(Native Method)
+// 	at java.lang.Class.newInstance(Class.java:1208)
+// 	at androidx.room.Room.getGeneratedImplementation(Room.java:91)
+// 	at androidx.room.RoomDatabase$Builder.build(RoomDatabase.java:952)
+// 	at androidx.work.impl.WorkDatabase.create(WorkDatabase.java:154)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:242)
+// 	at androidx.work.impl.WorkManagerImpl.<init>(WorkManagerImpl.java:217)
+// 	at androidx.work.impl.WorkManagerImpl.initialize(WorkManagerImpl.java:196)
+// 	at androidx.work.WorkManager.initialize(WorkManager.java:210)
+// 	at androidx.work.impl.WorkManagerInitializer.onCreate(WorkManagerInitializer.java:40)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+// 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+// 	at android.app.ActivityThread.installProvider(ActivityThread.java:4790)
+// 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4385)
+// 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4325)
+// 	at android.app.ActivityThread.access$1500(ActivityThread.java:135)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5017)
+// 	at java.lang.reflect.Method.invokeNative(Native Method)
+// 	at java.lang.reflect.Method.invoke(Method.java:515)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+// 	at dalvik.system.NativeStart.main(Native Method)
+// 
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(37.89052,1020.67444)
+:Sending Touch (ACTION_DOWN): 0:(426.0,72.0)
+:Sending Touch (ACTION_UP): 0:(425.41196,78.02097)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2021-08-04 02:51:54.570  system_uptime:15326793]
+    // Sending event #700
+    //[calendar_time:2021-08-04 02:51:55.074  system_uptime:15327298]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(315.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(338.168,1235.839)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1566.0)
+:Sending Touch (ACTION_UP): 0:(114.71512,1594.7458)
+:Sending Touch (ACTION_DOWN): 0:(950.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(944.4379,1753.9412)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(403.69138,1527.2437)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(780.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(778.70917,1112.7523)
+:Sending Touch (ACTION_DOWN): 0:(418.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(446.43845,1725.6476)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1232.0972)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2021-08-04 02:52:03.842  system_uptime:15336065]
+    // Sending event #800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(820.0214,1428.4817)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(872.0,579.0)
+:Sending Touch (ACTION_UP): 0:(683.34357,634.521)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,1420.0)
+:Sending Touch (ACTION_UP): 0:(1077.9578,1519.8708)
+:Sending Touch (ACTION_DOWN): 0:(706.0,736.0)
+:Sending Touch (ACTION_UP): 0:(707.2392,730.42993)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    //[calendar_time:2021-08-04 02:52:10.493  system_uptime:15342716]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(145.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(132.66422,1111.7279)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(106.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(158.07365,1406.337)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(80.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(71.406815,1676.27)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(840.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(839.0551,1465.5907)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1560.0)
+:Sending Touch (ACTION_UP): 0:(25.115114,1541.3868)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(111.0568,1395.5089)
+:Sending Touch (ACTION_DOWN): 0:(450.0,838.0)
+:Sending Touch (ACTION_UP): 0:(444.16486,858.861)
+:Sending Touch (ACTION_DOWN): 0:(988.0,1096.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=118222ms (0ms mobile, 0ms wifi, 118222ms not connected)
+// Monkey finished

@@ -1,0 +1,261 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626375230652 count=1000
+:AllowPackage: com.stypox.mastercom_workbook
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.stypox.mastercom_workbook/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stypox.mastercom_workbook/.MainActivity } in package com.stypox.mastercom_workbook
+    // Allowing start of Intent { cmp=com.stypox.mastercom_workbook/.login.LoginActivity } in package com.stypox.mastercom_workbook
+:Sending Touch (ACTION_DOWN): 0:(956.0,687.0)
+:Sending Touch (ACTION_UP): 0:(948.0108,683.88544)
+:Sending Touch (ACTION_DOWN): 0:(201.0,916.0)
+:Sending Touch (ACTION_UP): 0:(190.959,924.8117)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(193.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(194.20256,1533.1915)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(858.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(911.08264,1280.4841)
+:Sending Touch (ACTION_DOWN): 0:(928.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(884.71765,1604.395)
+:Sending Touch (ACTION_DOWN): 0:(379.0,666.0)
+:Sending Touch (ACTION_UP): 0:(374.38303,671.98566)
+:Sending Touch (ACTION_DOWN): 0:(461.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(464.56366,1794.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+    //[calendar_time:2021-08-03 21:01:06.914  system_uptime:9681732]
+    // Sending event #100
+    //[calendar_time:2021-08-03 21:01:07.434  system_uptime:9682235]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(672.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(671.78864,1452.1166)
+:Sending Touch (ACTION_DOWN): 0:(65.0,901.0)
+:Sending Touch (ACTION_UP): 0:(76.87784,906.825)
+:Sending Touch (ACTION_DOWN): 0:(284.0,274.0)
+:Sending Touch (ACTION_UP): 0:(291.33057,286.14844)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(801.94336,1615.2716)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(997.59766,1511.1833)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.stypox.mastercom_workbook/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stypox.mastercom_workbook/.MainActivity } in package com.stypox.mastercom_workbook
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(792.0,644.0)
+:Sending Touch (ACTION_UP): 0:(843.58044,564.2685)
+    // activityResuming(com.stypox.mastercom_workbook)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,584.0)
+:Sending Touch (ACTION_UP): 0:(974.69696,586.6494)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(913.0,300.0)
+    //[calendar_time:2021-08-03 21:01:19.640  system_uptime:9694441]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(911.4393,297.55063)
+:Sending Touch (ACTION_DOWN): 0:(417.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(417.40442,1358.9658)
+:Sending Touch (ACTION_DOWN): 0:(545.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(534.6955,1745.2828)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(190.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(160.17868,1338.741)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(181.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(109.536705,1472.9325)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(787.9964,1092.891)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(896.1572,1241.0802)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.stypox.mastercom_workbook/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stypox.mastercom_workbook/.MainActivity } in package com.stypox.mastercom_workbook
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2021-08-03 21:01:28.316  system_uptime:9703116]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(466.0,624.0)
+:Sending Touch (ACTION_UP): 0:(475.46222,635.8135)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(348.0,742.0)
+:Sending Touch (ACTION_UP): 0:(354.96402,724.93134)
+:Sending Touch (ACTION_DOWN): 0:(53.0,447.0)
+:Sending Touch (ACTION_UP): 0:(57.231487,430.88028)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(428.8635,1292.4596)
+    // Allowing start of Intent { cmp=com.stypox.mastercom_workbook/.view.DocumentsActivity } in package com.stypox.mastercom_workbook
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(114.0,754.0)
+:Sending Touch (ACTION_UP): 0:(207.44218,683.13715)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(321.46985,1406.5745)
+:Sending Touch (ACTION_DOWN): 0:(899.0,690.0)
+:Sending Touch (ACTION_UP): 0:(898.21136,686.7676)
+:Sending Touch (ACTION_DOWN): 0:(132.0,631.0)
+:Sending Touch (ACTION_UP): 0:(55.393772,571.2375)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.stypox.mastercom_workbook)
+:Sending Touch (ACTION_DOWN): 0:(250.0,1500.0)
+    //[calendar_time:2021-08-03 21:01:37.020  system_uptime:9711820]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(292.96838,1462.4513)
+:Sending Touch (ACTION_DOWN): 0:(8.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(5.9333916,1073.8785)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,272.0)
+:Sending Touch (ACTION_UP): 0:(842.50244,275.84506)
+:Sending Touch (ACTION_DOWN): 0:(631.0,67.0)
+:Sending Touch (ACTION_UP): 0:(623.4056,62.67054)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,686.0)
+:Sending Touch (ACTION_UP): 0:(1059.0737,728.14594)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(370.51855,1451.9792)
+:Sending Touch (ACTION_DOWN): 0:(870.0,705.0)
+:Sending Touch (ACTION_UP): 0:(855.91064,656.83185)
+    //[calendar_time:2021-08-03 21:01:48.263  system_uptime:9723064]
+    // Sending event #500
+    //[calendar_time:2021-08-03 21:01:48.765  system_uptime:9723565]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(575.0,303.0)
+:Sending Touch (ACTION_UP): 0:(547.72754,254.62408)
+:Sending Touch (ACTION_DOWN): 0:(967.0,957.0)
+:Sending Touch (ACTION_UP): 0:(997.9825,950.4273)
+:Sending Touch (ACTION_DOWN): 0:(934.0,273.0)
+:Sending Touch (ACTION_UP): 0:(940.5918,267.53015)
+:Sending Touch (ACTION_DOWN): 0:(883.0,805.0)
+:Sending Touch (ACTION_UP): 0:(894.128,809.70703)
+:Sending Touch (ACTION_DOWN): 0:(672.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(664.5772,1057.9146)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(800.0,759.0)
+:Sending Touch (ACTION_UP): 0:(800.5961,763.20856)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(690.0,765.0)
+:Sending Touch (ACTION_UP): 0:(697.8423,764.84406)
+:Sending Touch (ACTION_DOWN): 0:(583.0,228.0)
+:Sending Touch (ACTION_UP): 0:(577.63416,223.04626)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2021-08-03 21:01:59.471  system_uptime:9734271]
+    // Sending event #600
+    //[calendar_time:2021-08-03 21:01:59.975  system_uptime:9734775]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(203.00696,1595.4257)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(119.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(170.97868,1212.3496)
+:Sending Touch (ACTION_DOWN): 0:(421.0,596.0)
+:Sending Touch (ACTION_UP): 0:(446.99637,616.6232)
+:Sending Touch (ACTION_DOWN): 0:(544.0,745.0)
+:Sending Touch (ACTION_UP): 0:(601.8328,701.0815)
+:Sending Touch (ACTION_DOWN): 0:(890.0,741.0)
+:Sending Touch (ACTION_UP): 0:(901.3105,735.236)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,739.0)
+:Sending Touch (ACTION_UP): 0:(1049.0529,743.9408)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(890.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(902.3845,1417.2399)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(874.2484,1102.4469)
+:Sending Touch (ACTION_DOWN): 0:(45.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(54.938557,1150.5087)
+:Sending Touch (ACTION_DOWN): 0:(353.0,750.0)
+:Sending Touch (ACTION_UP): 0:(346.38757,745.93256)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1748.0)
+:Sending Touch (ACTION_UP): 0:(1023.2226,1742.8766)
+    //[calendar_time:2021-08-03 21:02:12.172  system_uptime:9746972]
+    // Sending event #700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.stypox.mastercom_workbook/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stypox.mastercom_workbook/.MainActivity } in package com.stypox.mastercom_workbook
+:Sending Touch (ACTION_DOWN): 0:(129.0,1477.0)
+:Sending Touch (ACTION_UP): 0:(141.3777,1476.9985)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(149.34225,1488.0616)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,1461.0)
+:Sending Touch (ACTION_UP): 0:(453.61966,1478.301)
+:Sending Touch (ACTION_DOWN): 0:(891.0,669.0)
+:Sending Touch (ACTION_UP): 0:(877.85333,754.6846)
+:Sending Touch (ACTION_DOWN): 0:(548.0,285.0)
+:Sending Touch (ACTION_UP): 0:(567.9875,285.6577)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(723.43524,1344.0925)
+    //[calendar_time:2021-08-03 21:02:23.886  system_uptime:9758686]
+    // Sending event #800
+    //[calendar_time:2021-08-03 21:02:24.388  system_uptime:9759189]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(756.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(755.9312,1291.2855)
+:Sending Touch (ACTION_DOWN): 0:(981.0,486.0)
+:Sending Touch (ACTION_UP): 0:(977.72064,493.0193)
+:Sending Touch (ACTION_DOWN): 0:(203.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(166.92609,1522.4692)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(121.326836,1107.046)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(752.86316,1682.3975)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(71.0,355.0)
+:Sending Touch (ACTION_UP): 0:(7.74609,381.95193)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2021-08-03 21:02:36.616  system_uptime:9771417]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(817.0,746.0)
+:Sending Touch (ACTION_UP): 0:(832.7697,746.356)
+:Sending Touch (ACTION_DOWN): 0:(456.0,592.0)
+:Sending Touch (ACTION_UP): 0:(464.64944,581.4702)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(830.4908,1284.1202)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.stypox.mastercom_workbook/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stypox.mastercom_workbook/.MainActivity } in package com.stypox.mastercom_workbook
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(787.0,411.0)
+:Sending Touch (ACTION_UP): 0:(782.8347,417.08484)
+:Sending Touch (ACTION_DOWN): 0:(379.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(377.1503,1166.8539)
+:Sending Touch (ACTION_DOWN): 0:(627.0,1413.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114754ms (0ms mobile, 0ms wifi, 114754ms not connected)
+// Monkey finished

@@ -1,0 +1,10 @@
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+click(resource-id='org.windvolt:id/type_other')@other
+edit(resource-id='org.windvolt:id/position_input')@testoid SDK built for x86
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/content_edit')@11
+edit(resource-id='org.windvolt:id/position_input')@12stoid SDK built for x86
+edit(resource-id='org.windvolt:id/content_edit')@12
+click(className='android.widget.Button',instance='1')@okay
+click(resource-id='org.windvolt:id/device_remove')@
+click(className='android.widget.Button',instance='1')@entfernen

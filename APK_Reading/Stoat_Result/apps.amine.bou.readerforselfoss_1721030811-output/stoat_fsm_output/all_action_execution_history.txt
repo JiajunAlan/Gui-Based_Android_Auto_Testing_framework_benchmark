@@ -1,0 +1,305 @@
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    5@back
+    11@keyevent_back
+    12@reset
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    39@click(className='android.widget.TextView',instance='8'):android.widget.TextView@"ongakuer"
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    5@back
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    26@clickLong(className='android.widget.TextView',instance='1'):android.widget.TextView@"AboutLibraries"
+    21@click(resource-id='apps.amine.bou.readerforselfoss:id/aboutIcon'):android.widget.ImageView@""
+    33@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Mike Penz"
+    11@keyevent_back
+    12@reset
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    20@click(content-desc='Navigate up'):android.widget.ImageButton@""
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    5@back
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    208@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"ongakuer"
+    331@click(resource-id='com.android.browser:id/more'):android.widget.ImageButton@""
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    5@back
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    30@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"AboutLibraries is a library to offer you all the information you need of your libraries! Most modern apps feature a Used Library-section, which requires information about those respective libs. As it gets annoying to always copy those strings to your app, I have developed this small helper library to provide the required information."
+    330@click(resource-id='com.android.browser:id/tab_switcher'):android.widget.ImageButton@""
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    22@clickLong(resource-id='apps.amine.bou.readerforselfoss:id/aboutIcon'):android.widget.ImageView@""
+    45@scroll(direction='up')
+    23@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"Version 1721030811-github (1721030811)"
+    27@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Mike Penz"
+    406@click(resource-id='com.android.browser:id/favicon'):android.widget.ImageView@""
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    42@clickLong(className='android.widget.TextView',instance='9'):android.widget.TextView@"A lightweight viewpager indicator like in nexus 5 launcher"
+    28@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"Mike Penz"
+    43@back
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    41@click(className='android.widget.TextView',instance='9'):android.widget.TextView@"A lightweight viewpager indicator like in nexus 5 launcher"
+    11@keyevent_back
+    12@reset
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    5@back
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    31@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Android-Iconics"
+    24@clickLong(className='android.widget.TextView',instance='0'):android.widget.TextView@"Version 1721030811-github (1721030811)"
+    38@clickLong(className='android.widget.TextView',instance='7'):android.widget.TextView@"CircleIndicator"
+    36@clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any Color at any time, provide a contour, and many additional customizations"
+    32@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Android-Iconics"
+    40@clickLong(className='android.widget.TextView',instance='8'):android.widget.TextView@"ongakuer"
+    37@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"CircleIndicator"
+    25@click(className='android.widget.TextView',instance='1'):android.widget.TextView@"AboutLibraries"
+    35@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any Color at any time, provide a contour, and many additional customizations"
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    29@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"AboutLibraries is a library to offer you all the information you need of your libraries! Most modern apps feature a Used Library-section, which requires information about those respective libs. As it gets annoying to always copy those strings to your app, I have developed this small helper library to provide the required information."
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    34@clickLong(className='android.widget.TextView',instance='5'):android.widget.TextView@"Mike Penz"
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    1314@click(className='android.widget.Button',instance='0'):android.widget.Button@"OK"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    227@clickLong(className='android.widget.TextView',instance='10'):android.widget.TextView@"Mike Penz"
+    213@clickLong(className='android.widget.TextView',instance='3'):android.widget.TextView@"FastAdapter"
+    218@click(className='android.widget.TextView',instance='6'):android.widget.TextView@"MaterialDrawer"
+    215@clickLong(className='android.widget.TextView',instance='4'):android.widget.TextView@"Mike Penz"
+    228@click(className='android.widget.TextView',instance='11'):android.widget.TextView@"Materialize comes with useful helper classes, the complete material color palette, and many additional utils. Use its theme as base. Let it manage your StatusBar, NavigationBar, Fullscreen behavior…"
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    1658@click(className='android.widget.TextView',instance='12'):android.widget.TextView@"PhotoView"
+    1647@clickLong(className='android.widget.TextView',instance='6'):android.widget.TextView@"MaterialDrawer"
+    1663@clickLong(className='android.widget.TextView',instance='14'):android.widget.TextView@"Implementation of ImageView for Android that supports zooming, by various touch gestures."
+    1648@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Mike Penz"
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    5@back
+    11@keyevent_back
+    12@reset
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    210@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"A lightweight viewpager indicator like in nexus 5 launcher"
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    225@clickLong(className='android.widget.TextView',instance='9'):android.widget.TextView@"Materialize"
+    211@clickLong(className='android.widget.TextView',instance='2'):android.widget.TextView@"A lightweight viewpager indicator like in nexus 5 launcher"
+    11@keyevent_back
+    12@reset
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    5@back
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    231@clickLong(className='android.widget.TextView',instance='12'):android.widget.TextView@"PhotoView"
+    233@clickLong(className='android.widget.TextView',instance='13'):android.widget.TextView@"Chris Banes"
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    5@back
+    11@keyevent_back
+    12@reset
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"
+    44@scroll(direction='down')
+    235@clickLong(className='android.widget.TextView',instance='14'):android.widget.TextView@"Implementation of ImageView for Android that supports zooming, by various touch gestures."
+    214@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Mike Penz"
+    11@keyevent_back
+    234@click(className='android.widget.TextView',instance='14'):android.widget.TextView@"Implementation of ImageView for Android that supports zooming, by various touch gestures."
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    347@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12"
+    352@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"1test"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    357@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12est"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    4@click(className='android.widget.Button',instance='0'):android.widget.Button@"Go"
+    661@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12stt"
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    2@clickLong(content-desc='More options'):android.widget.ImageView@""
+    656@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"testt"
+    5@back
+    11@keyevent_back
+    12@reset
+    3@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@""
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    251@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"12st"
+    8@edit(resource-id='apps.amine.bou.readerforselfoss:id/urlView'):android.widget.EditText@"test"
+    1@click(content-desc='More options'):android.widget.ImageView@""
+    18@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"About"

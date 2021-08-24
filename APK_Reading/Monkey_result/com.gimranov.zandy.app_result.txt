@@ -1,0 +1,261 @@
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+:Monkey: seed=1626400044565 count=1000
+:AllowPackage: com.gimranov.zandy.app
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Touch (ACTION_DOWN): 0:(966.0,87.0)
+:Sending Touch (ACTION_UP): 0:(960.08026,89.10858)
+:Sending Touch (ACTION_DOWN): 0:(623.0,479.0)
+:Sending Touch (ACTION_UP): 0:(555.8364,449.265)
+:Sending Touch (ACTION_DOWN): 0:(892.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(888.44434,1097.0262)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(436.0,550.0)
+:Sending Touch (ACTION_UP): 0:(436.57285,530.87946)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(253.89755,1243.1549)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(398.0,821.0)
+:Sending Touch (ACTION_UP): 0:(382.53168,819.73083)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(316.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(310.87936,1183.1675)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(1039.937,1252.7885)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(282.06543,1116.3522)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2021-08-04 03:50:14.129  system_uptime:18826367]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(104.22116,1007.3643)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(286.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(306.8016,1732.081)
+    // Allowing start of Intent { cmp=com.gimranov.zandy.app/.CollectionActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(46.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(34.409004,1448.3455)
+:Sending Touch (ACTION_DOWN): 0:(777.0,579.0)
+:Sending Touch (ACTION_UP): 0:(769.62317,585.13116)
+:Sending Touch (ACTION_DOWN): 0:(73.0,346.0)
+:Sending Touch (ACTION_UP): 0:(81.856735,327.6615)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(724.8426,1480.0972)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2021-08-04 03:50:24.877  system_uptime:18837101]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(775.54736,1059.4391)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(1045.162,1161.6195)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(447.1044,1384.6588)
+:Sending Touch (ACTION_DOWN): 0:(870.0,287.0)
+:Sending Touch (ACTION_UP): 0:(869.74677,302.97855)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(340.0,1579.0)
+:Sending Touch (ACTION_UP): 0:(421.4933,1450.5442)
+:Sending Touch (ACTION_DOWN): 0:(226.0,121.0)
+:Sending Touch (ACTION_UP): 0:(253.42216,158.51366)
+    //[calendar_time:2021-08-04 03:50:34.015  system_uptime:18846239]
+    // Sending event #300
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(379.0,229.0)
+:Sending Touch (ACTION_UP): 0:(386.88876,223.95975)
+:Sending Touch (ACTION_DOWN): 0:(1032.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(1021.52826,1017.20355)
+:Sending Touch (ACTION_DOWN): 0:(565.0,1435.0)
+:Sending Touch (ACTION_UP): 0:(565.7482,1434.7544)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(6.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(10.869003,1059.8392)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(292.94235,1429.4193)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,486.0)
+:Sending Touch (ACTION_UP): 0:(1056.8225,479.64655)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(465.94247,1423.2412)
+:Sending Touch (ACTION_DOWN): 0:(410.0,490.0)
+:Sending Touch (ACTION_UP): 0:(409.418,479.78793)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(212.0,44.0)
+    //[calendar_time:2021-08-04 03:50:45.716  system_uptime:18857940]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(214.48787,9.435863)
+:Sending Touch (ACTION_DOWN): 0:(674.0,964.0)
+:Sending Touch (ACTION_UP): 0:(611.26697,988.93384)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,517.0)
+:Sending Touch (ACTION_UP): 0:(330.34314,526.3747)
+:Sending Touch (ACTION_DOWN): 0:(181.0,69.0)
+:Sending Touch (ACTION_UP): 0:(188.18488,109.51683)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(276.85892,1086.8248)
+:Sending Touch (ACTION_DOWN): 0:(832.0,715.0)
+:Sending Touch (ACTION_UP): 0:(873.4148,677.0946)
+:Sending Touch (ACTION_DOWN): 0:(278.0,256.0)
+:Sending Touch (ACTION_UP): 0:(281.7381,256.31995)
+:Sending Touch (ACTION_DOWN): 0:(161.0,671.0)
+:Sending Touch (ACTION_UP): 0:(158.28148,668.2931)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2021-08-04 03:50:54.363  system_uptime:18866587]
+    // Sending event #500
+    //[calendar_time:2021-08-04 03:50:54.865  system_uptime:18867089]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(222.0,737.0)
+:Sending Touch (ACTION_UP): 0:(220.38037,727.82227)
+:Sending Touch (ACTION_DOWN): 0:(967.0,683.0)
+:Sending Touch (ACTION_UP): 0:(878.18353,650.2474)
+:Sending Touch (ACTION_DOWN): 0:(916.0,82.0)
+:Sending Touch (ACTION_UP): 0:(929.7806,120.20911)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(373.0,1078.0)
+:Sending Touch (ACTION_UP): 0:(388.8587,1033.6779)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(459.0,1632.0)
+:Sending Touch (ACTION_UP): 0:(457.2073,1635.7583)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,462.0)
+:Sending Touch (ACTION_UP): 0:(899.6399,484.09644)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2021-08-04 03:51:04.529  system_uptime:18876753]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(88.0,954.0)
+:Sending Touch (ACTION_UP): 0:(88.28795,1009.5664)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(747.0,447.0)
+:Sending Touch (ACTION_UP): 0:(749.46545,453.84317)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(392.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(391.29446,1339.0001)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,53.0)
+:Sending Touch (ACTION_UP): 0:(937.45764,49.965694)
+:Sending Touch (ACTION_DOWN): 0:(757.0,353.0)
+:Sending Touch (ACTION_UP): 0:(760.9472,350.43555)
+    // Allowing start of Intent { cmp=com.gimranov.zandy.app/.ItemActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(841.0,214.0)
+    //[calendar_time:2021-08-04 03:51:15.826  system_uptime:18888050]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(809.71796,207.70901)
+:Sending Touch (ACTION_DOWN): 0:(950.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(856.3146,1615.3486)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(775.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(766.7129,1301.5387)
+:Sending Touch (ACTION_DOWN): 0:(164.0,211.0)
+:Sending Touch (ACTION_UP): 0:(172.0784,210.43822)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(546.4615,1342.4207)
+:Sending Touch (ACTION_DOWN): 0:(882.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(876.0498,1289.036)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(30.0,628.0)
+:Sending Touch (ACTION_UP): 0:(34.586243,636.32294)
+:Sending Touch (ACTION_DOWN): 0:(459.0,218.0)
+:Sending Touch (ACTION_UP): 0:(454.85995,218.77943)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(566.0,826.0)
+:Sending Touch (ACTION_UP): 0:(569.04144,828.77094)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(1007.8583,1250.205)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2021-08-04 03:51:27.532  system_uptime:18899755]
+    // Sending event #800
+    //[calendar_time:2021-08-04 03:51:28.035  system_uptime:18900258]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(386.0,1194.0)
+:Sending Touch (ACTION_UP): 0:(386.0267,1208.6573)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(634.1321,1056.3068)
+:Sending Touch (ACTION_DOWN): 0:(15.0,301.0)
+:Sending Touch (ACTION_UP): 0:(14.185799,308.87436)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Touch (ACTION_DOWN): 0:(764.0,771.0)
+:Sending Touch (ACTION_UP): 0:(764.6677,756.0219)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(679.0,643.0)
+:Sending Touch (ACTION_UP): 0:(661.0604,647.14954)
+:Sending Touch (ACTION_DOWN): 0:(463.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(460.57626,1485.7905)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(987.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(951.9362,1306.8264)
+    // Allowing start of Intent { cmp=com.gimranov.zandy.app/.CollectionActivity } in package com.gimranov.zandy.app
+:Sending Touch (ACTION_DOWN): 0:(856.0,106.0)
+:Sending Touch (ACTION_UP): 0:(846.1747,62.908348)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2021-08-04 03:51:43.263  system_uptime:18915487]
+    // Sending event #900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(339.0,218.0)
+:Sending Touch (ACTION_UP): 0:(346.06174,233.7031)
+    // Allowing start of Intent { cmp=com.gimranov.zandy.app/.CollectionActivity } in package com.gimranov.zandy.app
+:Sending Touch (ACTION_DOWN): 0:(470.0,782.0)
+:Sending Touch (ACTION_UP): 0:(480.03598,784.01013)
+:Sending Touch (ACTION_DOWN): 0:(736.0,110.0)
+:Sending Touch (ACTION_UP): 0:(730.1554,105.0328)
+:Sending Touch (ACTION_DOWN): 0:(625.0,63.0)
+:Sending Touch (ACTION_UP): 0:(604.22986,172.93015)
+:Sending Touch (ACTION_DOWN): 0:(34.0,835.0)
+:Sending Touch (ACTION_UP): 0:(56.576416,848.2507)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Touch (ACTION_DOWN): 0:(579.0,350.0)
+:Sending Touch (ACTION_UP): 0:(575.6269,337.53717)
+    // Allowing start of Intent { cmp=com.gimranov.zandy.app/.ItemActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.gimranov.zandy.app/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.gimranov.zandy.app/.MainActivity } in package com.gimranov.zandy.app
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=114641ms (0ms mobile, 0ms wifi, 114641ms not connected)
+// Monkey finished

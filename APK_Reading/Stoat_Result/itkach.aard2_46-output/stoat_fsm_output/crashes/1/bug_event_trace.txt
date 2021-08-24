@@ -1,0 +1,242 @@
+click(className='android.widget.ImageView',instance='6')@
+menu@
+click(resource-id='itkach.aard2:id/action_find_dictionaries')@
+clickLong(className='android.widget.TextView',instance='4')@No dictionaries
+back@
+keyevent_back@
+click(className='android.widget.ImageView',instance='4')@
+click(className='android.widget.Button',instance='0')@Find Dictionaries
+scroll(direction='up')@
+clickLong(resource-id='itkach.aard2:id/action_find_dictionaries')@
+clickLong(resource-id='itkach.aard2:id/action_add_dictionaries')@
+keyevent_back@
+click(className='android.widget.TextView',instance='4')@No dictionaries
+click(className='android.widget.TextView',instance='1')@Dictionaries
+click(resource-id='android:id/home')@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+clickLong(resource-id='itkach.aard2:id/action_reload_directory')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(className='android.widget.TextView',instance='0')@Select Dictionary File
+click(resource-id='com.android.browser:id/more')@
+keyevent_back@
+click(className='android.widget.ImageView',instance='3')@
+click(className='android.widget.ImageView',instance='2')@
+clickLong(resource-id='itkach.aard2:id/action_sort_order')@
+click(className='android.widget.TextView',instance='0')@Aard 2
+clickLong(className='android.widget.TextView',instance='5')@No bookmarks
+click(resource-id='itkach.aard2:id/action_filter')@
+click(content-desc='More options')@
+click(className='android.widget.TextView',instance='1')@By Time
+click(className='android.widget.ImageView',instance='3')@
+edit(resource-id='android:id/search_src_text')@ Filter
+scroll(direction='down')@
+click(resource-id='android:id/up')@
+scroll(direction='down')@
+clickLong(resource-id='itkach.aard2:id/action_sort_asc')@
+click(className='android.widget.TextView',instance='1')@Bookmarks
+clickLong(resource-id='itkach.aard2:id/action_filter')@
+click(className='android.widget.TextView',instance='5')@No bookmarks
+click(resource-id='itkach.aard2:id/action_sort_asc')@
+click(resource-id='itkach.aard2:id/action_sort_order')@
+click(className='android.widget.ImageView',instance='5')@
+click(className='android.widget.TextView',instance='1')@Settings
+click(className='android.widget.CheckedTextView',instance='1')@Use volume buttons for navigation
+scroll(direction='down')@
+click(className='android.widget.ImageView',instance='4')@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(className='android.widget.TextView',instance='1')@/storage/sdcard/Alarms
+click(className='android.widget.ImageView',instance='5')@
+keyevent_back@
+click(className='android.widget.ImageView',instance='3')@
+clickLong(className='android.widget.TextView',instance='5')@No history
+click(className='android.widget.TextView',instance='1')@History
+click(className='android.widget.TextView',instance='5')@No history
+click(className='android.widget.ImageView',instance='5')@
+click(className='android.widget.TextView',instance='6')@Delete cached content including remote images
+click(className='android.widget.Button',instance='0')@Cancel
+click(resource-id='itkach.aard2:id/setting_about_copyright_icon')@
+click(resource-id='itkach.aard2:id/setting_remote_content_always')@Always
+scroll(direction='up')@
+click(resource-id='itkach.aard2:id/setting_ui_theme_dark')@Dark
+click(className='android.widget.TextView',instance='2')@User Interface Style
+click(className='android.widget.TextView',instance='3')@Load Remote Content
+click(className='android.widget.ImageView',instance='6')@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='android:id/home')@
+click(className='android.widget.ImageView',instance='5')@
+click(resource-id='itkach.aard2:id/setting_remote_content_always')@Always
+click(className='android.widget.ImageView',instance='5')@
+click(resource-id='itkach.aard2:id/setting_ui_theme_light')@Light
+click(className='android.widget.CheckedTextView',instance='0')@Use only favorite dictionaries for random lookup
+click(resource-id='itkach.aard2:id/setting_btn_add_user_style')@
+keyevent_back@
+back@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='android:id/up')@
+click(className='android.widget.ImageView',instance='5')@
+click(className='android.widget.TextView',instance='8')@About Aard 2
+click(resource-id='itkach.aard2:id/setting_remote_content_never')@Never
+click(className='android.widget.TextView',instance='7')@Delete cached content including remote images
+click(className='android.widget.Button',instance='1')@OK
+click(className='android.widget.TextView',instance='6')@Clear Cache
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='4')@User Styles
+click(resource-id='itkach.aard2:id/setting_remote_content_wifi')@When on Wi-Fi
+click(className='android.widget.ImageView',instance='2')@
+click(resource-id='itkach.aard2:id/action_filter')@
+click(className='android.widget.ImageView',instance='7')@
+click(className='android.widget.TextView',instance='0')@No bookmarks
+click(className='android.widget.ImageView',instance='6')@
+click(className='android.widget.TextView',instance='5')@No styles
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='7')@About Aard 2
+click(resource-id='itkach.aard2:id/setting_remote_content_never')@Never
+click(className='android.widget.CheckedTextView',instance='1')@Use volume buttons for navigation
+click(className='android.widget.TextView',instance='8')@Version 0.46
+click(resource-id='itkach.aard2:id/setting_remote_content_wifi')@When on Wi-Fi
+click(className='android.widget.TextView',instance='3')@User Styles
+click(resource-id='itkach.aard2:id/setting_about_license_icon')@
+click(className='android.widget.TextView',instance='2')@Load Remote Content
+click(className='android.widget.TextView',instance='4')@No styles
+click(className='android.widget.TextView',instance='10')@GNU General Public License v3
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/action_reload_directory')@
+clickLong(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+back@
+menu@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(className='android.widget.TextView',instance='6')@DCIM
+click(className='android.widget.TextView',instance='1')@/storage/sdcard/DCIM
+scroll(direction='up')@
+keyevent_back@
+scroll(direction='up')@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(className='android.widget.TextView',instance='4')@Alarms
+clickLong(resource-id='itkach.aard2:id/action_reload_directory')@
+click(resource-id='android:id/up')@
+keyevent_back@
+click(resource-id='android:id/home')@
+click(className='android.widget.ImageView',instance='2')@
+click(resource-id='itkach.aard2:id/action_filter')@
+click(className='android.widget.ImageView',instance='4')@
+click(className='android.widget.ImageView',instance='5')@
+click(className='android.widget.ImageView',instance='4')@
+clickLong(className='android.widget.TextView',instance='4')@No dictionaries
+click(className='android.widget.ImageView',instance='3')@
+back@
+keyevent_back@
+click(className='android.widget.TextView',instance='1')@Dictionaries
+scroll(direction='up')@
+keyevent_back@
+click(className='android.widget.ImageView',instance='6')@
+clickLong(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(className='android.widget.TextView',instance='4')@No dictionaries
+click(resource-id='itkach.aard2:id/action_find_dictionaries')@
+click(className='android.widget.TextView',instance='0')@Aard 2
+clickLong(resource-id='itkach.aard2:id/action_find_dictionaries')@
+scroll(direction='down')@
+click(className='android.widget.Button',instance='0')@Find Dictionaries
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='android:id/home')@
+keyevent_back@
+menu@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+back@
+click(resource-id='com.android.browser:id/favicon')@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(className='android.widget.TextView',instance='1')@/storage/sdcard/Alarms
+click(className='android.widget.ImageView',instance='5')@
+scroll(direction='down')@
+click(className='android.widget.TextView',instance='5')@Clear Cache
+click(className='android.widget.Button',instance='0')@Cancel
+click(className='android.widget.TextView',instance='9')@2017 Igor Tkach
+click(resource-id='itkach.aard2:id/setting_about_source_icon')@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(className='android.widget.TextView',instance='0')@Select Dictionary File
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/action_reload_directory')@
+clickLong(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(className='android.widget.TextView',instance='10')@Music
+click(className='android.widget.TextView',instance='1')@/storage/sdcard/Music
+scroll(direction='up')@
+click(resource-id='android:id/home')@
+click(className='android.widget.ImageView',instance='4')@
+scroll(direction='down')@
+clickLong(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(className='android.widget.TextView',instance='1')@/storage/sdcard/Music
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='itkach.aard2:id/action_sort_asc')@
+clickLong(resource-id='itkach.aard2:id/action_filter')@
+click(className='android.widget.TextView',instance='5')@No history
+clickLong(resource-id='itkach.aard2:id/action_sort_asc')@
+clickLong(className='android.widget.TextView',instance='5')@No history
+click(resource-id='itkach.aard2:id/action_sort_order')@
+click(className='android.widget.TextView',instance='1')@History
+clickLong(resource-id='itkach.aard2:id/action_sort_order')@
+click(resource-id='itkach.aard2:id/action_filter')@
+clickLong(className='android.widget.TextView',instance='0')@No history
+click(resource-id='android:id/home')@
+click(className='android.widget.TextView',instance='0')@Aard 2
+clickLong(resource-id='itkach.aard2:id/action_sort_order')@
+click(resource-id='itkach.aard2:id/action_sort_asc')@
+click(className='android.widget.TextView',instance='5')@No history
+clickLong(resource-id='itkach.aard2:id/action_sort_asc')@
+click(className='android.widget.TextView',instance='1')@History
+click(className='android.widget.ImageView',instance='2')@
+click(className='android.widget.TextView',instance='1')@Bookmarks
+clickLong(className='android.widget.TextView',instance='5')@No bookmarks
+click(className='android.widget.TextView',instance='5')@No bookmarks
+click(className='android.widget.TextView',instance='1')@Bookmarks
+back@
+keyevent_back@
+clickLong(resource-id='itkach.aard2:id/action_find_dictionaries')@
+click(resource-id='itkach.aard2:id/action_find_dictionaries')@
+click(className='android.widget.TextView',instance='4')@No dictionaries
+menu@
+click(className='android.widget.TextView',instance='1')@Dictionaries
+clickLong(className='android.widget.TextView',instance='4')@No dictionaries
+click(className='android.widget.Button',instance='0')@Find Dictionaries
+click(className='android.widget.ImageView',instance='6')@
+scroll(direction='down')@
+keyevent_back@
+keyevent_back@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+click(resource-id='itkach.aard2:id/action_goto_parent_dir')@
+click(className='android.widget.TextView',instance='1')@/storage/sdcard
+click(resource-id='com.android.browser:id/tab_switcher')@
+keyevent_back@
+menu@
+click(resource-id='itkach.aard2:id/action_add_dictionaries')@
+click(resource-id='itkach.aard2:id/file_select_directory_icon')@
+clickLong(resource-id='itkach.aard2:id/action_reload_directory')@
+click(className='android.widget.TextView',instance='0')@Select Dictionary File
+scroll(direction='up')@
+clickLong(className='android.widget.TextView',instance='4')@No dictionaries
+edit(resource-id='com.android.browser:id/url')@aarddict.org
+keyevent_back@
+click(className='android.widget.ImageView',instance='6')@
+clickLong(resource-id='itkach.aard2:id/action_find_dictionaries')@
+click(className='android.widget.ImageView',instance='4')@
+click(className='android.widget.ImageView',instance='3')@
+click(resource-id='itkach.aard2:id/action_filter')@
+click(className='android.widget.TextView',instance='0')@No history

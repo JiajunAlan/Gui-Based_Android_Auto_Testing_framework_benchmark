@@ -1,0 +1,6 @@
+    10@click(content-desc='More options'):android.widget.ImageView@""
+    11@clickLong(content-desc='More options'):android.widget.ImageView@""
+    626@click(resource-id='eu.quelltext.mundraub:id/fab'):android.widget.ImageButton@""
+    13@back
+    40@scroll(direction='down')
+    41@scroll(direction='up')

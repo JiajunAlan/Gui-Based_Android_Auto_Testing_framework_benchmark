@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="jp.ddo.hotmist.unicodepad" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[76,458][1059,752]">
+    <node index="0" text="" resource-id="" class="android.widget.ListView" package="jp.ddo.hotmist.unicodepad" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[97,479][1038,731]">
+      <node index="0" text="Default" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="jp.ddo.hotmist.unicodepad" content-desc="" checkable="true" checked="true" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[97,479][1038,605]" />
+      <node index="1" text="Select…" resource-id="android:id/text1" class="android.widget.CheckedTextView" package="jp.ddo.hotmist.unicodepad" content-desc="" checkable="true" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[97,605][1038,731]" />
+    </node>
+  </node>
+</hierarchy>

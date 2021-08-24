@@ -1,0 +1,34 @@
+    7@edit(resource-id='com.maxistar.textpad:id/editText1'):android.widget.EditText@"Type Something Here"
+    8@menu
+    19@click(resource-id='com.maxistar.textpad:id/icon'):android.widget.ImageView@""
+    8@menu
+    33@click(className='android.widget.Button',instance='0'):android.widget.Button@"No"
+    9@back
+    5@click(content-desc='More options'):android.widget.ImageView@""
+    25@click(resource-id='com.maxistar.textpad:id/icon'):android.widget.ImageView@""
+    2@clickLong(resource-id='com.maxistar.textpad:id/menu_document_search'):android.widget.TextView@""
+    3@click(resource-id='com.maxistar.textpad:id/action_edit'):android.widget.TextView@""
+    21@click(resource-id='com.maxistar.textpad:id/icon'):android.widget.ImageView@""
+    1@click(resource-id='com.maxistar.textpad:id/menu_document_search'):android.widget.TextView@""
+    8@menu
+    23@click(resource-id='com.maxistar.textpad:id/icon'):android.widget.ImageView@""
+    108@click(content-desc='Collapse'):android.widget.ImageButton@""
+    8@menu
+    30@click(className='android.widget.TextView',instance='5'):android.widget.TextView@"Exit"
+    4@clickLong(resource-id='com.maxistar.textpad:id/action_edit'):android.widget.TextView@""
+    6@clickLong(content-desc='More options'):android.widget.ImageView@""
+    8@menu
+    24@click(className='android.widget.TextView',instance='2'):android.widget.TextView@"Save"
+    8@menu
+    29@click(resource-id='com.maxistar.textpad:id/icon'):android.widget.ImageView@""
+    1@click(resource-id='com.maxistar.textpad:id/menu_document_search'):android.widget.TextView@""
+    116@edit(resource-id='com.maxistar.textpad:id/editText1'):android.widget.EditText@"Type Something Here"
+    114@click(content-desc='More options'):android.widget.ImageView@""
+    135@click(className='android.widget.TextView',instance='7'):android.widget.TextView@"Exit"
+    34@click(className='android.widget.Button',instance='1'):android.widget.Button@"Yes"
+    8@menu
+    20@click(className='android.widget.TextView',instance='0'):android.widget.TextView@"New"
+    5@click(content-desc='More options'):android.widget.ImageView@""
+    26@click(className='android.widget.TextView',instance='3'):android.widget.TextView@"Save As"
+    8@menu
+    28@click(className='android.widget.TextView',instance='4'):android.widget.TextView@"Settings"
